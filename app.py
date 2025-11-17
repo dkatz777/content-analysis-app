@@ -60,27 +60,37 @@ def show_dashboard(df: pd.DataFrame, label: str):
 
     df_display["title_link"] = df_display.apply(make_title_link, axis=1)
 
-    st.subheader(f"Video table for {label}")
+st.subheader(f"Video table for {label}")
 
-    table_cols = [
-        "title_link",
-        "channel_title",
-        "view_count_formatted",
-        "publish_time",
-    ]
-    table_df = df_display[table_cols].rename(
-        columns={
-            "title_link": "Title",
-            "channel_title": "Channel",
-            "view_count_formatted": "Views",
-            "publish_time": "Published",
-        }
-    )
+# Build a display DataFrame for the interactive table
+table_df = df.copy()
 
-    st.write(
-        table_df.to_html(escape=False, index=False),
-        unsafe_allow_html=True,
-    )
+# Format view counts with commas
+table_df["Views"] = table_df["view_count"].apply(lambda x: f"{x:,}")
+
+# Build a clickable URL column
+table_df["Video URL"] = table_df["video_id"].apply(
+    lambda vid: f"https://www.youtube.com/watch?v={vid}"
+)
+
+# Rename columns for display
+table_df = table_df.rename(
+    columns={
+        "title": "Title",
+        "channel_title": "Channel",
+        "publish_time": "Published",
+    }
+)
+
+# Choose and order columns for the table
+display_cols = ["Title", "Channel", "Views", "Published", "Video URL"]
+
+st.dataframe(
+    table_df[display_cols],
+    use_container_width=True,
+    height=400,  # adjust if you want more or less vertical space
+)
+
 
     # Channel aggregates for chart and links
     st.subheader("Top channels")
