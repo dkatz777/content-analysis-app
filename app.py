@@ -19,7 +19,7 @@ st.markdown(
 )
 
 query = st.text_input("Search term", value='"naked and afraid"')
-max_results = st.number_input("Max results", min_value=50, max_value=600, value=200, step=50)
+max_results = st.number_input("Max results", min_value=50, max_value=600, value=600, step=50)
 
 run_button = st.button("Run search")
 
