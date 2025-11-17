@@ -7,7 +7,12 @@ import streamlit as st
 import pandas as pd
 
 from youtube_client import youtube_search
-from analysis import clean_dataframe, summarize_engagement, channel_counts
+from analysis import (
+    clean_dataframe,
+    summarize_engagement,
+    channel_counts,
+    channel_views,
+)
 from library import load_library, load_show_df, slugify_show_name
 
 
