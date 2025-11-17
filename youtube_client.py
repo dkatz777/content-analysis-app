@@ -15,7 +15,7 @@ def get_youtube_client(api_key: Optional[str] = None):
     """
     Create a YouTube API client using the provided key or the YOUTUBE_API_KEY env var.
     """
-    key = api_key or os.getenv("API_KEY")
+    key = api_key or os.getenv("YOUTUBE_API_KEY")
     if not key:
         raise ValueError(
             "YouTube API key not found. Set the YOUTUBE_API_KEY environment variable "
