@@ -85,24 +85,32 @@ def show_dashboard(df: pd.DataFrame, label: str):
 
     # Channel bar chart with toggle
     st.subheader("Top channels")
-
+    
     chart_mode = st.radio(
         "Show channels by",
         ["Number of videos", "Total views"],
         horizontal=True,
     )
-
+    
     if chart_mode == "Number of videos":
-        series = channel_counts(df)
+        series = channel_counts(df)  # already sorted by count descending
         y_label = "Videos"
     else:
-        series = channel_views(df)
+        series = channel_views(df)   # sorted by total views descending
         y_label = "Views"
-
-    # Build a DataFrame for the chart
+    
+    # Convert to DataFrame for Streamlit
     chart_df = series.to_frame(name=y_label)
-
+    
+    # Force ordered category index so Streamlit does NOT alphabetize it
+    chart_df.index = pd.CategoricalIndex(
+        chart_df.index,
+        categories=chart_df.index,   # preserve order
+        ordered=True
+    )
+    
     st.bar_chart(chart_df)
+
 
     # Allow CSV download of the raw (cleaned) data
     csv_buffer = io.StringIO()
