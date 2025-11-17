@@ -82,6 +82,7 @@ def youtube_search(
                         "title": snippet.get("title", ""),
                         "video_id": video.get("id"),
                         "channel_title": snippet.get("channelTitle", ""),
+                        "channel_id": snippet.get("channelId", ""),
                         "publish_time": snippet.get("publishedAt"),
                         "description": snippet.get("description", ""),
                         "tags": ",".join(snippet.get("tags", [])),
