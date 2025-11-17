@@ -65,9 +65,6 @@ def show_dashboard(df: pd.DataFrame, label: str):
     # Build a display DataFrame for the interactive table
     table_df = df.copy()
     
-    # Format view counts with commas
-    table_df["Views"] = table_df["view_count"].apply(lambda x: f"{x:,}")
-    
     # Build a clickable URL column
     table_df["Video URL"] = table_df["video_id"].apply(
         lambda vid: f"https://www.youtube.com/watch?v={vid}"
@@ -79,17 +76,23 @@ def show_dashboard(df: pd.DataFrame, label: str):
             "title": "Title",
             "channel_title": "Channel",
             "publish_time": "Published",
+            "view_count": "Views",
         }
     )
     
     # Choose and order columns for the table
     display_cols = ["Title", "Channel", "Views", "Published", "Video URL"]
+    table_df = table_df[display_cols]
+    
+    # Use Styler to format Views with commas, but keep it numeric for sorting
+    styled = table_df.style.format({"Views": "{:,}"})
     
     st.dataframe(
-        table_df[display_cols],
+        styled,
         use_container_width=True,
-        height=400,  # adjust if you want more or less vertical space
+        height=400,
     )
+
 
 
     # Channel aggregates for chart and links
