@@ -154,9 +154,9 @@ def show_dashboard(df: pd.DataFrame, label: str):
     )
 
     # Allow CSV download of the raw (cleaned) data
-        csv_buffer = io.StringIO()
-        df.to_csv(csv_buffer, index=False)
-        st.download_button(
+    csv_buffer = io.StringIO()
+    df.to_csv(csv_buffer, index=False)
+    st.download_button(
         label="Download CSV",
         data=csv_buffer.getvalue(),
         file_name=f"{label}_youtube_results.csv",
