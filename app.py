@@ -5,13 +5,13 @@ import os
 
 import streamlit as st
 import pandas as pd
+import altair as alt  
 
 from youtube_client import youtube_search
 from analysis import (
     clean_dataframe,
     summarize_engagement,
-    channel_counts,
-    channel_views,
+    channel_aggregates,  
 )
 from library import load_library, load_show_df, slugify_show_name
 
@@ -52,7 +52,7 @@ def show_dashboard(df: pd.DataFrame, label: str):
         lambda x: f"{x:,}"
     )
 
-    # Make title clickable, using video_id to build the URL
+    # Make title clickable using video_id
     def make_title_link(row):
         url = f"https://www.youtube.com/watch?v={row['video_id']}"
         title = row["title"]
@@ -62,7 +62,6 @@ def show_dashboard(df: pd.DataFrame, label: str):
 
     st.subheader(f"Video table for {label}")
 
-    # Show a clean HTML table so links are clickable and counts are formatted
     table_cols = [
         "title_link",
         "channel_title",
@@ -83,33 +82,77 @@ def show_dashboard(df: pd.DataFrame, label: str):
         unsafe_allow_html=True,
     )
 
-    # Channel bar chart with toggle
+    # Channel aggregates for chart and links
     st.subheader("Top channels")
-    
+
     chart_mode = st.radio(
         "Show channels by",
         ["Number of videos", "Total views"],
         horizontal=True,
     )
-    
+
+    chan_df = channel_aggregates(df, top_n=20)
+
     if chart_mode == "Number of videos":
-        series = channel_counts(df)  # already sorted by count descending
-        y_label = "Videos"
+        value_col = "video_count"
+        value_label = "Videos"
     else:
-        series = channel_views(df)   # sorted by total views descending
-        y_label = "Views"
-    
-    # Convert to DataFrame for Streamlit
-    chart_df = series.to_frame(name=y_label)
-    
-    # Force ordered category index so Streamlit does NOT alphabetize it
-    chart_df.index = pd.CategoricalIndex(
-        chart_df.index,
-        categories=chart_df.index,   # preserve order
-        ordered=True
+        value_col = "total_views"
+        value_label = "Views"
+
+    # Horizontal Altair bar chart, sorted high to low, clickable bars
+    chart = (
+        alt.Chart(chan_df)
+        .mark_bar()
+        .encode(
+            y=alt.Y(
+                "channel_title:N",
+                sort=alt.SortField(field=value_col, order="descending"),
+                title="Channel",
+            ),
+            x=alt.X(
+                f"{value_col}:Q",
+                title=value_label,
+            ),
+            tooltip=[
+                "channel_title",
+                "video_count",
+                alt.Tooltip("total_views:Q", format=",.0f", title="Total views"),
+            ],
+            href="channel_url:N",
+        )
+        .properties(height=400)
     )
-    
-    st.bar_chart(chart_df)
+
+    st.altair_chart(chart, use_container_width=True)
+
+    # Optional: table of channels with clickable names
+    st.markdown("**Channel links**")
+    chan_table = chan_df.copy()
+    chan_table["Channel"] = chan_table.apply(
+        lambda row: f'<a href="{row["channel_url"]}" target="_blank">{row["channel_title"]}</a>',
+        axis=1,
+    )
+    chan_table["Total views"] = chan_table["total_views"].apply(lambda x: f"{x:,}")
+    chan_table["Videos"] = chan_table["video_count"]
+
+    st.write(
+        chan_table[["Channel", "Videos", "Total views"]].to_html(
+            escape=False, index=False
+        ),
+        unsafe_allow_html=True,
+    )
+
+    # Allow CSV download of the raw (cleaned) data
+    csv_buffer = io.StringIO()
+    df.to_csv(csv_buffer, index=False)
+    st.download_button(
+        label="Download CSV",
+        data=csv_buffer.getvalue(),
+        file_name=f"{label}_youtube_results.csv",
+        mime="text/csv",
+    )
+
 
 
     # Allow CSV download of the raw (cleaned) data
