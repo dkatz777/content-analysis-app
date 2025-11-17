@@ -48,15 +48,22 @@ def channel_aggregates(df: pd.DataFrame, top_n: int = 20) -> pd.DataFrame:
     Return a DataFrame with one row per channel:
 
     - channel_title
-    - channel_id (first seen)
+    - channel_id (if available)
     - video_count
     - total_views
     - channel_url
     """
 
-    # Aggregate by channel_title and channel_id
+    df = df.copy()
+
+    # Decide what to group by, depending on whether channel_id exists
+    if "channel_id" in df.columns:
+        group_cols = ["channel_title", "channel_id"]
+    else:
+        group_cols = ["channel_title"]
+
     grouped = (
-        df.groupby(["channel_title", "channel_id"])
+        df.groupby(group_cols)
         .agg(
             video_count=("video_id", "count"),
             total_views=("view_count", "sum"),
@@ -64,10 +71,14 @@ def channel_aggregates(df: pd.DataFrame, top_n: int = 20) -> pd.DataFrame:
         .reset_index()
     )
 
+    # If channel_id was not present, add it as empty strings
+    if "channel_id" not in grouped.columns:
+        grouped["channel_id"] = ""
+
     # Sort by total_views descending and keep top N
     grouped = grouped.sort_values("total_views", ascending=False).head(top_n)
 
-    # Build channel URL
+    # Build channel URL (blank if no channel_id)
     grouped["channel_url"] = grouped["channel_id"].apply(
         lambda cid: f"https://www.youtube.com/channel/{cid}" if cid else ""
     )
