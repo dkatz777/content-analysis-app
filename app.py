@@ -7,6 +7,51 @@ import streamlit as st
 import pandas as pd
 import altair as alt  
 
+#For locally run version, load .env for API keys and such
+from dotenv import load_dotenv
+load_dotenv() # loads .env into environment variables (local dev)
+
+def get_youtube_api_key() -> str | None:
+    """
+    Load the YouTube API key from:
+      1. Environment / .env (local dev)
+      2. Streamlit Cloud secrets (if available)
+
+    Must not crash locally if Streamlit secrets are not configured.
+    """
+
+    # 1. Start with env / .env
+    api_key = os.getenv("YOUTUBE_API_KEY")
+
+    # 2. Try Streamlit secrets, but guard with try/except so local does not crash
+    try:
+        # Accessing st.secrets at all can raise StreamlitSecretNotFoundError locally,
+        # so keep it inside try.
+        secrets_obj = st.secrets
+        if "YOUTUBE_API_KEY" in secrets_obj:
+            api_key = secrets_obj["YOUTUBE_API_KEY"]
+    except Exception:
+        # No secrets configured (local dev). Ignore and just use env/.env.
+        pass
+
+    return api_key
+
+
+API_KEY = get_youtube_api_key()
+
+if not API_KEY:
+    st.error(
+        "YouTube API key not found.\n\n"
+        "Locally: create a .env file with `YOUTUBE_API_KEY=...`.\n"
+        "On Streamlit Cloud: add YOUTUBE_API_KEY to the app secrets."
+    )
+    st.stop()
+
+# Make sure downstream code that reads from the environment sees the key
+os.environ["YOUTUBE_API_KEY"] = API_KEY
+
+
+
 from youtube_client import youtube_search
 from analysis import (
     clean_dataframe,
@@ -18,15 +63,36 @@ from library import load_library, load_show_df, slugify_show_name
 
 st.set_page_config(page_title="YouTube TV Analysis", layout="wide")
 
-# Make sure the API key from Streamlit secrets is available
-if "YOUTUBE_API_KEY" in st.secrets:
-    os.environ["YOUTUBE_API_KEY"] = st.secrets["YOUTUBE_API_KEY"]
+
+
+# Set view state to allow home and show navigation
+if "view" not in st.session_state:
+    st.session_state["view"] = "home"
+
+if "current_show_label" not in st.session_state:
+    st.session_state["current_show_label"] = None
+
+if "current_show_df" not in st.session_state:
+    st.session_state["current_show_df"] = None
+
+# Add helper functions to navigate
+def go_home():
+    st.session_state["view"] = "home"
+    st.rerun()
+
+
+def open_show(label, df):
+    st.session_state["current_show_label"] = label
+    st.session_state["current_show_df"] = df
+    st.session_state["view"] = "show"
+    st.rerun()
 
 # Load library of precomputed shows
 library = load_library()
 library_slugs = {item["slug"] for item in library}
 
 
+#Show Title view with Dashboard and home button
 def show_dashboard(df: pd.DataFrame, label: str):
     """
     Shared dashboard view, whether the data came from a saved CSV or a fresh search.
@@ -89,7 +155,7 @@ def show_dashboard(df: pd.DataFrame, label: str):
     
     st.dataframe(
         styled,
-        use_container_width=True,
+        width='stretch',
         height=400,
     )
 
@@ -137,7 +203,7 @@ def show_dashboard(df: pd.DataFrame, label: str):
         .properties(height=400)
     )
 
-    st.altair_chart(chart, use_container_width=True)
+    st.altair_chart(chart, width='stretch')
 
     # Optional: table of channels with clickable names
     st.markdown("**Channel links**")
@@ -179,83 +245,98 @@ def show_dashboard(df: pd.DataFrame, label: str):
         mime="text/csv",
     )
 
+def render_home(library):
+    st.title("YouTube TV Show Analysis")
 
+    st.markdown("Select an existing show or run a new search.")
 
-st.title("YouTube TV Show Analysis")
+    # 1. Library view
+    st.subheader("Existing shows")
 
-st.markdown("Select an existing show or run a new search.")
-
-
-# 1. Library view
-st.subheader("Existing shows")
-
-if not library:
-    st.info("No shows in the library yet. Use the form below to run a new search.")
-else:
-    cols = st.columns(3)
-    for idx, show in enumerate(library):
-        col = cols[idx % 3]
-        with col:
-            st.markdown(f"**{show['display_name']}**")
-            # In the future, you can add st.image(show['poster_url']) here
-            if st.button("Open", key=f"open_{show['slug']}"):
-                df_saved = load_show_df(show["path"])
-                st.session_state["current_show_label"] = show["display_name"]
-                st.session_state["current_show_df"] = df_saved
-
-
-st.markdown("---")
-
-# 2. New search form
-st.subheader("Run a new search")
-
-default_query = '"naked and afraid"'
-query = st.text_input("Search term", value=default_query)
-
-max_results = st.number_input(
-    "Max results",
-    min_value=50,
-    max_value=600,
-    value=600,
-    step=50,
-)
-
-run_button = st.button("Fetch data")
-
-if run_button and query:
-    slug = slugify_show_name(query)
-
-    if slug in library_slugs:
-        # Prevent duplicate search and load the existing data instead
-        st.warning(
-            "This show already exists in the library. Loading the saved version instead."
-        )
-        existing = next(item for item in library if item["slug"] == slug)
-        df_saved = load_show_df(existing["path"])
-        st.session_state["current_show_label"] = existing["display_name"]
-        st.session_state["current_show_df"] = df_saved
+    if not library:
+        st.info("No shows in the library yet. Use the form below to run a new search.")
     else:
-        with st.spinner("Querying YouTube API..."):
-            try:
-                df_raw = youtube_search(query=query, max_results=max_results)
-            except Exception as e:
-                st.error(f"Error while calling YouTube API: {e}")
-                df_raw = None
+        cols = st.columns(3)
+        for idx, show in enumerate(library):
+            col = cols[idx % 3]
+            with col:
+                st.markdown(f"**{show['display_name']}**")
+                # Later we can add st.image(show['poster_url']) here
+                if st.button("Open", key=f"open_{show['slug']}"):
+                    df_saved = load_show_df(show["path"])
+                    open_show(show["display_name"], df_saved)
 
-        if df_raw is not None and not df_raw.empty:
-            # Store in session for immediate use
-            st.session_state["current_show_label"] = query
-            st.session_state["current_show_df"] = df_raw
-
-            st.success("Search complete. Data is available in this session.")
-            st.info(
-                "Note: To make this show part of the permanent library, "
-                "you still need to save and commit its CSV into the data/ folder."
-            )
-
-
-# 3. Dashboard for the selected or freshly fetched show
-if "current_show_df" in st.session_state:
     st.markdown("---")
-    label = st.session_state.get("current_show_label", "Selected show")
-    show_dashboard(st.session_state["current_show_df"], label)
+
+    # 2. New search form
+    st.subheader("Run a new search")
+
+    default_query = '"naked and afraid"'
+    query = st.text_input("Search term", value=default_query)
+
+    max_results = st.number_input(
+        "Max results",
+        min_value=50,
+        max_value=600,
+        value=600,
+        step=50,
+    )
+
+    run_button = st.button("Fetch data")
+
+    if run_button and query:
+        slug = slugify_show_name(query)
+        library_slugs = {item["slug"] for item in library}
+
+        if slug in library_slugs:
+            st.warning(
+                "This show already exists in the library. Loading the saved version instead."
+            )
+            existing = next(item for item in library if item["slug"] == slug)
+            df_saved = load_show_df(existing["path"])
+            open_show(existing["display_name"], df_saved)
+        else:
+            with st.spinner("Querying YouTube API..."):
+                try:
+                    df_raw = youtube_search(query=query, max_results=max_results)
+                except Exception as e:
+                    st.error(f"Error while calling YouTube API: {e}")
+                    return
+
+            if df_raw is not None and not df_raw.empty:
+                st.success("Search complete.")
+                # Go straight to the show view with this data
+                open_show(query, df_raw)
+            else:
+                st.warning("No results found for that search.")
+
+
+def render_show_page():
+    label = st.session_state.get("current_show_label")
+    df = st.session_state.get("current_show_df")
+
+    if df is None or label is None:
+        st.warning("No show selected. Returning to home.")
+        go_home()
+        return
+
+    # Page header
+    st.title(label)
+
+    # Back button at the top
+    if st.button("← Back to home"):
+        go_home()
+        return
+
+    # Show the dashboard for this show
+    show_dashboard(df, label)
+
+# Load library once at top level
+library = load_library()
+
+# Simple router
+if st.session_state["view"] == "home":
+    render_home(library)
+elif st.session_state["view"] == "show":
+    render_show_page()
+

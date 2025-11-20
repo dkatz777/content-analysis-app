@@ -11,16 +11,10 @@ YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
 
-def get_youtube_client(api_key: Optional[str] = None):
-    """
-    Create a YouTube API client using the provided key or the YOUTUBE_API_KEY env var.
-    """
+def get_youtube_client(api_key: str | None = None):
     key = api_key or os.getenv("YOUTUBE_API_KEY")
     if not key:
-        raise ValueError(
-            "YouTube API key not found. Set the YOUTUBE_API_KEY environment variable "
-            "or pass api_key explicitly."
-        )
+        raise ValueError("YouTube API key not found in environment.")
 
     youtube = build(
         YOUTUBE_API_SERVICE_NAME,
