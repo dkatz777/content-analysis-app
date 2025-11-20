@@ -17,22 +17,38 @@ def slugify_show_name(raw_name: str) -> str:
     return "".join(ch for ch in s if ch.isalnum() or ch == "_")
 
 
+def find_image_for_slug(slug: str) -> str | None:
+    """
+    Look for an image in img/ matching the slug, with common extensions.
+    Returns the path if found, else None.
+    """
+    for ext in ("jpg", "jpeg", "png", "webp"):
+        candidate = os.path.join("img", f"{slug}.{ext}")
+        if os.path.exists(candidate):
+            return candidate
+    return None
+
 def load_library() -> List[Dict]:
     """
     Scan the data/ folder for CSVs and build a list of shows.
 
     Each entry: {"slug": ..., "display_name": ..., "path": ...}
     """
-    shows = []
+    shows: List[Dict] = []
+    
     for path in glob.glob("data/*.csv"):
         filename = os.path.basename(path)
         slug, _ = os.path.splitext(filename)
         display_name = slug.replace("_", " ").title()
+        image_path = find_image_for_slug(slug)
+
         shows.append(
             {
                 "slug": slug,
                 "display_name": display_name,
                 "path": path,
+                "image_path": image_path,
+
             }
         )
     # Sort by name for nicer UI

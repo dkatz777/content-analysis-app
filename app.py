@@ -290,9 +290,18 @@ def render_home(library):
         for idx, show in enumerate(library):
             col = cols[idx % 3]
             with col:
-                st.markdown(f"**{show['display_name']}**")
-                # Later we can add st.image(show['poster_url']) here
-                if st.button("Open", key=f"open_{show['slug']}"):
+                # Show key art if we have it
+                if show.get("image_path"):
+                    st.image(
+                        show["image_path"],
+                        width=250,  # tweak if you want larger/smaller
+                    )
+                
+                # Title as the clickable element that opens the show page
+                if st.button(
+                    show["display_name"],
+                    key=f"open_{show['slug']}",
+                ):
                     df_saved = load_show_df(show["path"])
                     open_show(show["display_name"], df_saved)
 
