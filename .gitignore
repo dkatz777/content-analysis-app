@@ -1,1 +1,8 @@
+# Python environment
+venv/
 .env
+__pycache__/
+*.pyc
+
+# Streamlit local config
+.streamlit/secrets.toml
