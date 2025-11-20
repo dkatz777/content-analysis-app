@@ -230,19 +230,6 @@ def show_dashboard(df: pd.DataFrame, label: str):
         data=csv_buffer.getvalue(),
         file_name=f"{label}_youtube_results.csv",
         mime="text/csv",
-        key=f"download_csv_{label}",
-    )
-
-
-
-    # Allow CSV download of the raw (cleaned) data
-    csv_buffer = io.StringIO()
-    df.to_csv(csv_buffer, index=False)
-    st.download_button(
-        label="Download CSV",
-        data=csv_buffer.getvalue(),
-        file_name=f"{label}_youtube_results.csv",
-        mime="text/csv",
     )
 
 def render_home(library):
@@ -250,28 +237,10 @@ def render_home(library):
 
     st.markdown("Select an existing show or run a new search.")
 
-    # 1. Library view
-    st.subheader("Existing shows")
-
-    if not library:
-        st.info("No shows in the library yet. Use the form below to run a new search.")
-    else:
-        cols = st.columns(3)
-        for idx, show in enumerate(library):
-            col = cols[idx % 3]
-            with col:
-                st.markdown(f"**{show['display_name']}**")
-                # Later we can add st.image(show['poster_url']) here
-                if st.button("Open", key=f"open_{show['slug']}"):
-                    df_saved = load_show_df(show["path"])
-                    open_show(show["display_name"], df_saved)
-
-    st.markdown("---")
-
-    # 2. New search form
+    # 1. New search form
     st.subheader("Run a new search")
 
-    default_query = '"naked and afraid"'
+    default_query = '"Beverly Hills 90210"'
     query = st.text_input("Search term", value=default_query)
 
     max_results = st.number_input(
@@ -310,6 +279,26 @@ def render_home(library):
             else:
                 st.warning("No results found for that search.")
 
+    # 2. Library view
+    st.subheader("Existing shows")
+
+    if not library:
+        st.info("No shows in the library yet. Use the form below to run a new search.")
+    else:
+        cols = st.columns(3)
+        for idx, show in enumerate(library):
+            col = cols[idx % 3]
+            with col:
+                st.markdown(f"**{show['display_name']}**")
+                # Later we can add st.image(show['poster_url']) here
+                if st.button("Open", key=f"open_{show['slug']}"):
+                    df_saved = load_show_df(show["path"])
+                    open_show(show["display_name"], df_saved)
+
+    st.markdown("---")
+
+    
+
 
 def render_show_page():
     label = st.session_state.get("current_show_label")
@@ -320,13 +309,13 @@ def render_show_page():
         go_home()
         return
 
-    # Page header
-    st.title(label)
-
     # Back button at the top
     if st.button("← Back to home"):
         go_home()
         return
+
+    # Page header
+    st.title(label)
 
     # Show the dashboard for this show
     show_dashboard(df, label)
