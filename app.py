@@ -166,18 +166,19 @@ def show_dashboard(df: pd.DataFrame, label: str):
 
     chart_mode = st.radio(
         "Show channels by",
-        ["Number of videos", "Total views"],
+        ["Total views", "Number of videos"],
         horizontal=True,
     )
 
     chan_df = channel_aggregates(df, top_n=20)
 
-    if chart_mode == "Number of videos":
-        value_col = "video_count"
-        value_label = "Videos"
-    else:
+    if chart_mode == "Total views":
         value_col = "total_views"
         value_label = "Views"
+        
+    else:
+        value_col = "video_count"
+        value_label = "Videos"
 
     # Horizontal Altair bar chart, sorted high to low, clickable bars
     chart = (
@@ -228,7 +229,7 @@ def show_dashboard(df: pd.DataFrame, label: str):
     st.download_button(
         label="Download CSV",
         data=csv_buffer.getvalue(),
-        file_name=f"{label}_youtube_results.csv",
+        file_name=f"{label}",
         mime="text/csv",
     )
 
