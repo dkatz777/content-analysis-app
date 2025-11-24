@@ -201,7 +201,7 @@ def show_dashboard(df: pd.DataFrame, label: str):
             ],
             href="channel_url:N",
         )
-        .properties(height=400)
+        .properties(height=30 * len(chan_df))  # robust, dynamic scaling
     )
 
     st.altair_chart(chart, width='stretch')
