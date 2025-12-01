@@ -17,6 +17,7 @@ from analysis import (
     channel_aggregates,
 )
 from library import load_library, load_show_df, slugify_show_name
+from scripts.merge_shows_csvs import merge_for_show, DATA_DIR
 
 
 def get_youtube_api_key() -> str | None:
@@ -68,6 +69,10 @@ if "current_show_label" not in st.session_state:
 
 if "current_show_df" not in st.session_state:
     st.session_state["current_show_df"] = None
+    
+if "current_show_slug" not in st.session_state:
+    st.session_state["current_show_slug"] = None
+
 
 
 # Add helper functions to navigate
@@ -76,8 +81,9 @@ def go_home():
     st.rerun()
 
 
-def open_show(label, df):
+def open_show(label: str, slug: str, df: pd.DataFrame) -> None:
     st.session_state["current_show_label"] = label
+    st.session_state["current_show_slug"] = slug
     st.session_state["current_show_df"] = df
     st.session_state["view"] = "show"
     st.rerun()
@@ -180,7 +186,7 @@ def show_dashboard(df: pd.DataFrame, label: str):
         .properties(height=30 * len(chan_df))
     )
 
-    st.altair_chart(chart, use_container_width=True)
+    st.altair_chart(chart, width="stretch")
 
     # Optional: table of channels with clickable names
     st.markdown("**Channel links**")
@@ -240,7 +246,7 @@ def render_home(library):
             )
             existing = next(item for item in library if item["slug"] == slug)
             df_saved = load_show_df(existing["path"])
-            open_show(existing["display_name"], df_saved)
+            open_show(existing["display_name"], show["slug"], df_saved)
         else:
             with st.spinner("Querying YouTube API and writing snapshot..."):
                 try:
@@ -263,7 +269,7 @@ def render_home(library):
                 st.success("Search complete. Snapshot saved.")
                 st.info(f"Snapshot file: `{snapshot_path.name}`")
                 # Go straight to the show view with this data
-                open_show(query, df_raw)
+                open_show(query, slug, df_raw)
             else:
                 st.warning("No results found for that search.")
 
@@ -290,16 +296,17 @@ def render_home(library):
                     key=f"open_{show['slug']}",
                 ):
                     df_saved = load_show_df(show["path"])
-                    open_show(show["display_name"], df_saved)
+                    open_show(show["display_name"], show["slug"], df_saved)
 
     st.markdown("---")
 
 
 def render_show_page():
     label = st.session_state.get("current_show_label")
+    slug = st.session_state.get("current_show_slug")
     df = st.session_state.get("current_show_df")
 
-    if df is None or label is None:
+    if df is None or label is None or slug is None:
         st.warning("No show selected. Returning to home.")
         go_home()
         return
@@ -311,6 +318,65 @@ def render_show_page():
 
     # Page header
     st.title(label)
+
+  # Update panel
+    with st.expander("Update data for this show"):
+        st.markdown(
+            "1. Generate a new raw snapshot from YouTube.\n\n"
+            "2. Clean the CSV offline to remove non-show videos.\n\n"
+            "3. Upload the cleaned snapshot to merge into the master dataset."
+        )
+
+        # Step 1: generate raw snapshot
+        col1, col2 = st.columns([1, 2])
+        with col1:
+            if st.button("Generate raw snapshot", key="generate_snapshot"):
+                try:
+                    snapshot_path = run_search_snapshot(
+                        slug=slug,
+                        query=label,  # or a stored search_query from show_meta later
+                        max_results=600,
+                        api_key=API_KEY,
+                        kind="raw",
+                        output_dir=Path("data"),
+                    )
+                    st.success(f"Raw snapshot saved: {snapshot_path.name}")
+                except Exception as e:
+                    st.error(f"Error generating snapshot: {e}")
+
+        with col2:
+            uploaded = st.file_uploader(
+                "Upload cleaned snapshot CSV", type="csv", key="upload_clean_snapshot"
+            )
+
+            if uploaded is not None:
+                if st.button("Merge uploaded snapshot into master", key="merge_snapshot"):
+                    try:
+                        # Write uploaded file into data/ using the same naming convention
+                        snapshot_filename = build_snapshot_filename(slug=slug, kind="clean")
+                        snapshot_path = DATA_DIR / snapshot_filename
+
+                        snapshot_df = pd.read_csv(uploaded)
+                        snapshot_df.to_csv(snapshot_path, index=False)
+
+                        # Merge into master
+                        merge_for_show(
+                            slug=slug,
+                            snapshot_filename=snapshot_filename,
+                        )
+
+                        # Reload updated master and refresh the dashboard
+                        master_path = DATA_DIR / f"{slug}_master.csv"
+                        updated_df = pd.read_csv(master_path)
+                        st.success("Master updated from cleaned snapshot.")
+
+                        # Update session and rerun into fresh view
+                        st.session_state["current_show_df"] = updated_df
+                        st.rerun()
+
+                    except Exception as e:
+                        st.error(f"Error merging snapshot into master: {e}")
+
 
     # Show the dashboard for this show
     show_dashboard(df, label)
