@@ -7,8 +7,7 @@ from datetime import date
 import argparse
 import pandas as pd
 
-
-# Resolve project root as one level up from this script, then point to data/
+# Project root is one level up from this script
 ROOT_DIR = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT_DIR / "data"
 
@@ -22,7 +21,7 @@ def load_csv(path: Path) -> pd.DataFrame:
 
 def align_columns(
     master_df: pd.DataFrame,
-    snapshot_df: pd.DataFrame
+    snapshot_df: pd.DataFrame,
 ) -> tuple[pd.DataFrame, pd.DataFrame]:
     """
     Ensure both DataFrames share the same set of columns.
@@ -45,6 +44,28 @@ def align_columns(
     return master_aligned, snapshot_aligned
 
 
+def dedupe_on_key(df: pd.DataFrame, key: str, label: str) -> pd.DataFrame:
+    """
+    Drop duplicate key values, keeping the last row for each key.
+
+    Prints a small log so you know how many duplicates were removed.
+    """
+    if key not in df.columns:
+        raise ValueError(f"Expected key column '{key}' in {label} DataFrame")
+
+    before = len(df)
+    dup_count = df[key].duplicated(keep="last").sum()
+    if dup_count > 0:
+        print(f"{label}: found {dup_count} duplicate '{key}' values, dropping duplicates")
+        df = df.drop_duplicates(subset=[key], keep="last").reset_index(drop=True)
+    else:
+        print(f"{label}: no duplicate '{key}' values")
+
+    after = len(df)
+    print(f"{label}: {before} rows before dedupe, {after} rows after dedupe")
+    return df
+
+
 def merge_master_with_snapshot(
     master_path: Path,
     snapshot_path: Path,
@@ -52,7 +73,7 @@ def merge_master_with_snapshot(
     key: str = "video_id",
 ) -> None:
     """
-    Merge a per-show master CSV with a cleaned snapshot CSV.
+    Merge a per show master CSV with a cleaned snapshot CSV.
 
     Rules:
       - Use `key` (video_id) as the unique identifier.
@@ -79,8 +100,12 @@ def merge_master_with_snapshot(
     # Drop rows from snapshot that do not have a key
     snapshot_df = snapshot_df.dropna(subset=[key])
 
-    # Align schemas so update/concat behaves predictably
+    # Align schemas so update / concat behaves predictably
     master_df, snapshot_df = align_columns(master_df, snapshot_df)
+
+    # Deduplicate on key before setting index
+    master_df = dedupe_on_key(master_df, key=key, label="master")
+    snapshot_df = dedupe_on_key(snapshot_df, key=key, label="snapshot")
 
     # Use key as index for overwrite semantics
     master_df = master_df.set_index(key)
@@ -113,11 +138,16 @@ def merge_master_with_snapshot(
     # Reset index back to a regular column
     merged = merged.reset_index().rename(columns={"index": key})
 
-    # Optional: put key first, keep rest of the columns in existing order
+    # Optional: put key first
     cols = merged.columns.tolist()
     if key in cols:
         cols.insert(0, cols.pop(cols.index(key)))
         merged = merged[cols]
+
+    # Small log so you can tell the merge worked
+    print(f"Merged: {len(master_df)} rows in master, "
+          f"{len(snapshot_df)} rows in snapshot, "
+          f"{len(merged)} rows in final merged")
 
     merged.to_csv(output_path, index=False)
     print(f"Merged file written to {output_path}")
@@ -132,7 +162,7 @@ def merge_for_show(
 
     Assumes:
       master:   data/{slug}_master.csv
-      snapshot: data/{snapshot_filename}  (already cleaned of non-show videos)
+      snapshot: data/{snapshot_filename}  (already cleaned of non show videos)
     """
     master_path = DATA_DIR / f"{slug}_master.csv"
     snapshot_path = DATA_DIR / snapshot_filename
@@ -159,19 +189,19 @@ def merge_for_show(
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Merge a per-show master CSV with a cleaned snapshot CSV."
+        description="Merge a per show master CSV with a cleaned snapshot CSV."
     )
     parser.add_argument(
         "--slug",
         required=True,
-        help="Show slug, for example 'the_sopranos'. "
+        help="Show slug, for example 'the_amazing_race'. "
              "Expects data/{slug}_master.csv to exist.",
     )
     parser.add_argument(
         "--snapshot",
         required=True,
         help="Snapshot filename in the data/ folder, for example "
-             "'the_sopranos_20251128_clean.csv'.",
+             "'the_amazing_race_20251201_clean.csv'.",
     )
     return parser.parse_args()
 

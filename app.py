@@ -10,7 +10,7 @@ import altair as alt
 from dotenv import load_dotenv
 load_dotenv()  # loads .env into environment variables (local dev)
 
-from youtube_client import run_search_snapshot
+from youtube_client import run_search_snapshot, build_snapshot_filename
 from analysis import (
     clean_dataframe,
     summarize_engagement,
