@@ -19,6 +19,8 @@ from analysis import (
 from library import load_library, load_show_df, slugify_show_name
 from scripts.merge_shows_csvs import merge_for_show, DATA_DIR
 from scripts.videos_ignore import load_ignore_list, append_ignores_for_show, filter_master_for_show
+from scripts.channel_annotations import load_channel_annotations, upsert_channel_annotations
+
 
 
 def get_youtube_api_key() -> str | None:
@@ -95,7 +97,154 @@ library = load_library()
 library_slugs = {item["slug"] for item in library}
 
 
-def show_dashboard(df: pd.DataFrame, label: str):
+
+def render_channel_ugc_panel(
+    chan_df: pd.DataFrame,
+    channel_annotations: pd.DataFrame | None,
+) -> None:
+    """
+    UI panel to mark channels as UGC or not UGC using checkboxes.
+    Works on the top N channels passed in chan_df.
+    """
+    if chan_df.empty:
+        return
+
+    with st.expander("Mark channels as UGC"):
+        st.markdown(
+            "Use the checkboxes to mark which channels are UGC. "
+            "These flags are saved globally and used to compute UGC view share."
+        )
+
+        # Build annotation map from channel_annotations
+        if channel_annotations is None or channel_annotations.empty:
+            ann_map = {}
+        else:
+            ann = (
+                channel_annotations[["channel_id", "ugc"]]
+                .drop_duplicates(subset=["channel_id"], keep="last")
+            )
+            ann_map = {
+                str(row["channel_id"]): bool(row["ugc"])
+                for _, row in ann.iterrows()
+            }
+
+        editor_df = chan_df.copy()
+        editor_df["channel_id"] = editor_df["channel_id"].astype(str)
+
+        # Add UGC? column pre filled from annotations
+        editor_df["UGC?"] = editor_df["channel_id"].map(ann_map).fillna(False)
+
+        # Select and rename columns for editing
+        editor_df = editor_df.rename(
+            columns={
+                "channel_title": "Channel",
+                "total_views": "Total views",
+                "video_count": "Videos",
+                "channel_id": "Channel ID",
+            }
+        )
+
+        editor_df = editor_df[["UGC?", "Channel", "Videos", "Total views", "Channel ID"]]
+
+        edited_df = st.data_editor(
+            editor_df,
+            num_rows="fixed",
+            hide_index=True,
+            key="channel_ugc_editor",
+        )
+
+        if st.button("Save UGC flags for these channels", key="save_channel_ugc"):
+            try:
+                # Map back to canonical names
+                result_df = edited_df.rename(
+                    columns={
+                        "UGC?": "ugc",
+                        "Channel": "channel_title",
+                        "Channel ID": "channel_id",
+                    }
+                )
+
+                result_df["channel_id"] = result_df["channel_id"].astype(str)
+                result_df["ugc"] = result_df["ugc"].astype(bool)
+
+                rows_for_upsert = result_df[["channel_id", "channel_title", "ugc"]].copy()
+
+                upsert_channel_annotations(rows_for_upsert)
+                st.success("Channel UGC flags saved. Reloading view.")
+                st.rerun()
+
+            except Exception as e:
+                st.error(f"Error saving channel UGC flags: {e}")
+
+
+# UGC compute helper
+def compute_ugc_from_channels(
+    chan_df: pd.DataFrame,
+    channel_annotations: pd.DataFrame | None,
+) -> tuple[float | None, pd.DataFrame | None]:
+    """
+    Compute UGC view share based on channel aggregates.
+
+    Returns:
+      (ugc_pct, debug_df)
+
+    ugc_pct: percentage of total views from channels marked as UGC.
+    debug_df: channel level table with total_views and ugc flag.
+    """
+    if chan_df is None or chan_df.empty:
+        return None, None
+
+    if (
+        channel_annotations is None
+        or channel_annotations.empty
+        or "channel_id" not in chan_df.columns
+        or "channel_id" not in channel_annotations.columns
+        or "ugc" not in channel_annotations.columns
+    ):
+        return None, None
+
+    # Normalize ids
+    merged = chan_df.copy()
+    merged["channel_id"] = merged["channel_id"].astype(str)
+
+    ann = (
+        channel_annotations[["channel_id", "ugc"]]
+        .drop_duplicates(subset=["channel_id"], keep="last")
+        .copy()
+    )
+    ann["channel_id"] = ann["channel_id"].astype(str)
+
+    merged = merged.merge(ann, on="channel_id", how="left")
+
+    if "ugc" not in merged.columns:
+        merged["ugc"] = False
+
+    merged["ugc"] = merged["ugc"].fillna(False).astype(bool)
+
+    total_views = merged["total_views"].sum()
+    ugc_views = merged.loc[merged["ugc"], "total_views"].sum()
+
+    if total_views <= 0:
+        ugc_pct = 0.0
+    else:
+        ugc_pct = ugc_views / total_views * 100.0
+
+    debug_df = (
+        merged[["channel_title", "channel_id", "total_views", "video_count", "ugc"]]
+        .sort_values("total_views", ascending=False)
+        .reset_index(drop=True)
+    )
+
+    return ugc_pct, debug_df
+
+
+
+def show_dashboard(
+    df: pd.DataFrame,
+    label: str,
+    slug: str | None = None,
+    channel_annotations: pd.DataFrame | None = None,
+):
     """
     Shared dashboard view, whether the data came from a saved master CSV
     or from a fresh snapshot.
@@ -105,12 +254,21 @@ def show_dashboard(df: pd.DataFrame, label: str):
         st.warning(f"No usable data for {label}.")
         return
 
+    # Channel aggregates for all channels (used for UGC and for top list)
+    chan_df_all = channel_aggregates(df, top_n=None)
+
     # Summary metrics
+    col1, col2, col3, col4 = st.columns(4)
+
     summary = summarize_engagement(df)
-    col1, col2, col3 = st.columns(3)
     col1.metric("Videos", summary["video_count"])
     col2.metric("Total views", f'{summary["total_views"]:,}')
     col3.metric("Average views", f'{summary["avg_views"]:,.0f}')
+
+    # UGC view share metric based on channel aggregates
+    ugc_pct, ugc_debug = compute_ugc_from_channels(chan_df_all, channel_annotations)
+    if ugc_pct is not None:
+        col4.metric("UGC view share", f"{ugc_pct:,.1f}%")
 
     # Build a display DataFrame for the interactive table
     st.subheader(f"Video table for {label}")
@@ -145,7 +303,7 @@ def show_dashboard(df: pd.DataFrame, label: str):
         height=400,
     )
 
-    # Channel aggregates for chart and links
+    # Channel aggregates for chart and links (top N only)
     st.subheader("Top channels")
 
     chart_mode = st.radio(
@@ -154,7 +312,11 @@ def show_dashboard(df: pd.DataFrame, label: str):
         horizontal=True,
     )
 
-    chan_df = channel_aggregates(df, top_n=20)
+    # Top 20 channels from the full list
+    chan_df = chan_df_all.head(20)
+
+    # UGC panel for channels, uses top 20
+    render_channel_ugc_panel(chan_df, channel_annotations)
 
     if chart_mode == "Total views":
         value_col = "total_views"
@@ -205,6 +367,17 @@ def show_dashboard(df: pd.DataFrame, label: str):
         ),
         unsafe_allow_html=True,
     )
+
+    # Channel level UGC debug, aligned with channel aggregates
+    if ugc_debug is not None and not ugc_debug.empty:
+        with st.expander("UGC debug (views by channel and UGC flag)"):
+            dbg = ugc_debug.copy()
+            dbg["total_views"] = dbg["total_views"].apply(lambda x: f"{x:,}")
+            st.dataframe(
+                dbg.rename(columns={"total_views": "Total views"}),
+                width="stretch",
+                height=300,
+            )
 
     # Allow CSV download of the raw (cleaned) data
     csv_buffer = io.StringIO()
@@ -504,8 +677,11 @@ def render_show_page():
     # Ignore panel for marking videos as non show content
     render_ignore_panel(df, slug)
 
-    # Show the dashboard for this show
-    show_dashboard(df, label)
+    # Load channel annotations once
+    channel_annotations = load_channel_annotations()
+
+    # Show the dashboard with UGC logic
+    show_dashboard(df, label, slug=slug, channel_annotations=channel_annotations)
 
 
 # Simple router

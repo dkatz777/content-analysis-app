@@ -43,7 +43,7 @@ def channel_views(df: pd.DataFrame, top_n: int = 20) -> pd.Series:
     )
 
 
-def channel_aggregates(df: pd.DataFrame, top_n: int = 20) -> pd.DataFrame:
+def channel_aggregates(df: pd.DataFrame, top_n: int | None = 20) -> pd.DataFrame:
     """
     Return a DataFrame with one row per channel:
 
@@ -52,6 +52,8 @@ def channel_aggregates(df: pd.DataFrame, top_n: int = 20) -> pd.DataFrame:
     - video_count
     - total_views
     - channel_url
+
+    If top_n is None, return all channels. Otherwise limit to top_n by total_views.
     """
 
     df = df.copy()
@@ -75,8 +77,12 @@ def channel_aggregates(df: pd.DataFrame, top_n: int = 20) -> pd.DataFrame:
     if "channel_id" not in grouped.columns:
         grouped["channel_id"] = ""
 
-    # Sort by total_views descending and keep top N
-    grouped = grouped.sort_values("total_views", ascending=False).head(top_n)
+    # Sort by total_views descending
+    grouped = grouped.sort_values("total_views", ascending=False)
+
+    # Optionally keep only top N
+    if top_n is not None:
+        grouped = grouped.head(top_n)
 
     # Build channel URL (blank if no channel_id)
     grouped["channel_url"] = grouped["channel_id"].apply(
