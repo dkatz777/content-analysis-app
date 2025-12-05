@@ -1,45 +1,68 @@
+# scripts/video_ignore.py
+
+from __future__ import annotations
+
 from pathlib import Path
 from datetime import date
 import pandas as pd
 
-DATA_DIR = Path("data")
-IGNORE_PATH = DATA_DIR / "video_ignore_list.csv"
+# Project root is one level up from this script
+ROOT_DIR = Path(__file__).resolve().parents[1]
+DATA_DIR = ROOT_DIR / "data"
+VIDEOS_IGNORE_PATH = DATA_DIR / "videos_ignore.csv"
 
 
 def load_ignore_list() -> pd.DataFrame:
-    if IGNORE_PATH.exists():
-        return pd.read_csv(IGNORE_PATH)
+    """
+    Load the global ignore list.
+
+    Columns:
+      slug         show slug, for example "the_amazing_race"
+      video_id
+      channel_id   optional
+      title        optional
+      reason       optional text
+      first_marked_at  ISO date string
+    """
+    if VIDEOS_IGNORE_PATH.exists():
+        df = pd.read_csv(VIDEOS_IGNORE_PATH)
+        # Ensure required columns exist
+        for col in ["slug", "video_id", "channel_id", "title", "reason", "first_marked_at"]:
+            if col not in df.columns:
+                df[col] = ""
+        return df
+
     return pd.DataFrame(
         columns=["slug", "video_id", "channel_id", "title", "reason", "first_marked_at"]
     )
 
 
-def append_rejected_for_show(
+def append_ignores_for_show(
     slug: str,
-    rejected_path: Path,
-    reason: str = "not_show_related",
+    rows_df: pd.DataFrame,
+    reason: str = "user_marked_in_ui",
 ) -> None:
     """
-    Append rejected videos for a show into the global ignore list.
+    Append a set of videos to the global ignore list for a given show.
 
-    rejected_path: CSV with at least video_id, and ideally title, channel_id
+    rows_df should have at least:
+      - video_id
+      and ideally:
+      - channel_id
+      - title
     """
-    rejected_df = pd.read_csv(rejected_path)
-
-    if "video_id" not in rejected_df.columns:
-        raise ValueError("Rejected CSV must have a 'video_id' column")
+    if rows_df.empty:
+        return
 
     ignore_df = load_ignore_list()
-
     today = date.today().isoformat()
 
-    # Build new entries
     new_rows = pd.DataFrame(
         {
             "slug": slug,
-            "video_id": rejected_df["video_id"],
-            "channel_id": rejected_df.get("channel_id", ""),
-            "title": rejected_df.get("title", ""),
+            "video_id": rows_df["video_id"],
+            "channel_id": rows_df.get("channel_id", ""),
+            "title": rows_df.get("title", ""),
             "reason": reason,
             "first_marked_at": today,
         }
@@ -47,22 +70,36 @@ def append_rejected_for_show(
 
     combined = pd.concat([ignore_df, new_rows], ignore_index=True)
 
-    # Drop duplicates on (slug, video_id), keep the first time you saw it
-    combined = (
-        combined.drop_duplicates(subset=["slug", "video_id"], keep="first")
-        .reset_index(drop=True)
+    # De duplicate on (slug, video_id), keep the first entry
+    combined = combined.drop_duplicates(subset=["slug", "video_id"], keep="first").reset_index(
+        drop=True
     )
 
-    combined.to_csv(IGNORE_PATH, index=False)
-    print(f"Updated ignore list written to {IGNORE_PATH}")
+    combined.to_csv(VIDEOS_IGNORE_PATH, index=False)
+    print(f"Video ignore list updated at {VIDEOS_IGNORE_PATH}")
 
 
-def filter_snapshot_with_ignore_list(slug: str, snapshot_df: pd.DataFrame) -> pd.DataFrame:
-    """Return a snapshot with ignored videos removed for this slug."""
+def filter_master_for_show(slug: str, master_df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Remove any videos from a master DataFrame that are on the ignore list for that slug.
+    """
     ignore_df = load_ignore_list()
     if ignore_df.empty:
-        return snapshot_df
+        return master_df
 
-    ignore_ids = ignore_df.loc[ignore_df["slug"] == slug, "video_id"].dropna().unique()
-    filtered = snapshot_df[~snapshot_df["video_id"].isin(ignore_ids)].copy()
+    bad_ids = (
+        ignore_df.loc[ignore_df["slug"] == slug, "video_id"]
+        .dropna()
+        .astype(str)
+        .unique()
+    )
+
+    if not len(bad_ids):
+        return master_df
+
+    filtered = master_df[~master_df["video_id"].astype(str).isin(bad_ids)].copy()
+    print(
+        f"Filtered master for slug '{slug}': "
+        f"{len(master_df)} rows before, {len(filtered)} rows after ignore filtering"
+    )
     return filtered

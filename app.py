@@ -18,6 +18,7 @@ from analysis import (
 )
 from library import load_library, load_show_df, slugify_show_name
 from scripts.merge_shows_csvs import merge_for_show, DATA_DIR
+from scripts.videos_ignore import load_ignore_list, append_ignores_for_show, filter_master_for_show
 
 
 def get_youtube_api_key() -> str | None:
@@ -216,6 +217,123 @@ def show_dashboard(df: pd.DataFrame, label: str):
     )
 
 
+def render_ignore_panel(df: pd.DataFrame, slug: str) -> None:
+    """
+    Allow the user to mark multiple videos as ignored for this show using checkboxes.
+
+    On apply:
+      - Append selected videos to videos_ignore.csv
+      - Remove ignored videos from the master CSV for this slug
+      - Reload the updated master into session_state
+    """
+    with st.expander("Ignore videos for this show"):
+        st.markdown(
+            "Select videos to ignore for this show. "
+            "Ignored videos will be removed from the master dataset and will be "
+            "filtered out of future updates for this show."
+        )
+
+        # Load existing ignore list so we can pre-check already ignored videos
+        ignore_df = load_ignore_list()
+        if ignore_df.empty:
+            already_ignored_ids: set[str] = set()
+        else:
+            already_ignored_ids = set(
+                ignore_df.loc[ignore_df["slug"] == slug, "video_id"]
+                .dropna()
+                .astype(str)
+                .unique()
+            )
+
+        editor_df = df.copy()
+        editor_df["video_id"] = editor_df["video_id"].astype(str)
+
+        # Pre mark rows that are already ignored
+        editor_df["Ignore?"] = editor_df["video_id"].isin(already_ignored_ids)
+
+        # Choose columns to show in the editor
+        editor_cols = ["Ignore?", "title", "channel_title", "view_count", "video_id"]
+        editor_df = editor_df[editor_cols].rename(
+            columns={
+                "title": "Title",
+                "channel_title": "Channel",
+                "view_count": "Views",
+                "video_id": "Video ID",
+            }
+        )
+
+        edited_df = st.data_editor(
+            editor_df,
+            num_rows="fixed",
+            hide_index=True,
+            key=f"ignore_editor_{slug}",
+        )
+
+        if st.button("Apply ignore to selected videos", key=f"apply_ignore_{slug}"):
+            try:
+                # Map back to canonical column names
+                result_df = edited_df.rename(
+                    columns={
+                        "Ignore?": "ignored",
+                        "Title": "title",
+                        "Channel": "channel_title",
+                        "Views": "view_count",
+                        "Video ID": "video_id",
+                    }
+                )
+
+                # Ensure string for matching
+                result_df["video_id"] = result_df["video_id"].astype(str)
+
+                # Take all rows the user checked
+                selected = result_df[result_df["ignored"] == True].copy()
+
+                if selected.empty:
+                    st.info("No videos selected to ignore.")
+                    return
+
+                # Build rows_for_ignore: minimal needed fields
+                rows_for_ignore = selected[["video_id", "title"]].copy()
+
+                # Add channel_id if available in original df
+                if "channel_id" in df.columns:
+                    id_to_channel = (
+                        df.assign(video_id=df["video_id"].astype(str))
+                        .set_index("video_id")["channel_id"]
+                        .to_dict()
+                    )
+                    rows_for_ignore["channel_id"] = rows_for_ignore["video_id"].map(
+                        id_to_channel
+                    )
+                else:
+                    rows_for_ignore["channel_id"] = ""
+
+                # Append to ignore list (dedupe happens inside)
+                append_ignores_for_show(slug=slug, rows_df=rows_for_ignore)
+
+                # Now scrub the master CSV for this slug
+                master_path = DATA_DIR / f"{slug}_master.csv"
+                if master_path.exists():
+                    master_df = pd.read_csv(master_path)
+                    filtered_master = filter_master_for_show(slug, master_df)
+                    filtered_master.to_csv(master_path, index=False)
+
+                    # Update session so the current view is clean
+                    st.session_state["current_show_df"] = filtered_master
+                    st.success(
+                        f"Ignored {len(selected)} videos and updated master for '{slug}'."
+                    )
+                    st.rerun()
+                else:
+                    st.warning(
+                        f"Master file not found at {master_path}. "
+                        "Ignore list was updated but the master CSV was not changed."
+                    )
+
+            except Exception as e:
+                st.error(f"Error while applying ignore selections: {e}")
+
+
 def render_home(library):
     st.title("YouTube TV Show Analysis")
 
@@ -311,6 +429,11 @@ def render_show_page():
         go_home()
         return
 
+    # Always apply ignore filtering to the in memory df for this show
+    df = filter_master_for_show(slug, df)
+    st.session_state["current_show_df"] = df
+
+
     # Back button at the top
     if st.button("← Back to home"):
         go_home()
@@ -377,6 +500,9 @@ def render_show_page():
                     except Exception as e:
                         st.error(f"Error merging snapshot into master: {e}")
 
+
+    # Ignore panel for marking videos as non show content
+    render_ignore_panel(df, slug)
 
     # Show the dashboard for this show
     show_dashboard(df, label)
