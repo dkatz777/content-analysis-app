@@ -254,8 +254,17 @@ def show_dashboard(
         st.warning(f"No usable data for {label}.")
         return
 
-    # Channel aggregates for all channels (used for UGC and for top list)
+    # Channel aggregates for all channels (used for UGC and top list)
     chan_df_all = channel_aggregates(df, top_n=None)
+
+    # How many channels to show in the main chart / table
+    channel_limit = st.slider(
+        "Number of channels to show",
+        min_value=10,
+        max_value=200,
+        value=20,
+        step=10,
+    )
 
     # Summary metrics
     col1, col2, col3, col4 = st.columns(4)
@@ -279,6 +288,29 @@ def show_dashboard(
     table_df["Video URL"] = table_df["video_id"].apply(
         lambda vid: f"https://www.youtube.com/watch?v={vid}"
     )
+
+
+    # Full channel list (all channels) for sanity checks
+    with st.expander("All channels for this show"):
+        all_channels_display = chan_df_all.copy()
+        all_channels_display["Total views"] = all_channels_display["total_views"].apply(
+            lambda x: f"{x:,}"
+        )
+        all_channels_display["Videos"] = all_channels_display["video_count"]
+        all_channels_display = all_channels_display[
+            ["channel_title", "Videos", "Total views", "channel_url"]
+        ].rename(
+            columns={
+                "channel_title": "Channel",
+            }
+        )
+        st.dataframe(
+            all_channels_display,
+            width="stretch",
+            height=400,
+        )
+
+
 
     # Rename columns for display
     table_df = table_df.rename(
@@ -313,7 +345,7 @@ def show_dashboard(
     )
 
     # Top 20 channels from the full list
-    chan_df = chan_df_all.head(20)
+    chan_df = chan_df_all.head(channel_limit)
 
     # UGC panel for channels, uses top 20
     render_channel_ugc_panel(chan_df, channel_annotations)
