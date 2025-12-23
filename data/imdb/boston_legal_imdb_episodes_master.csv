@@ -1,0 +1,102 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0402711,tt0530520,1,1,S1,Head Cases,Head Cases,2004,,44,"Comedy,Crime,Drama",8.0,837
+tt0402711,tt0530533,1,2,S1,Still Crazy After All These Years,Still Crazy After All These Years,2004,,44,"Comedy,Crime,Drama",8.0,656
+tt0402711,tt0530514,1,3,S1,Catch and Release,Catch and Release,2004,,44,"Comedy,Crime,Drama",8.1,579
+tt0402711,tt0530515,1,4,S1,Change of Course,Change of Course,2004,,44,"Comedy,Crime,Drama",8.1,541
+tt0402711,tt0530512,1,5,S1,An Eye for an Eye,An Eye for an Eye,2004,,44,"Comedy,Crime,Drama",8.1,517
+tt0402711,tt0530539,1,6,S1,Truth Be Told,Truth Be Told,2004,,43,"Comedy,Crime,Drama",8.1,524
+tt0402711,tt0530529,1,7,S1,Questionable Characters,Questionable Characters,2004,,43,"Comedy,Crime,Drama",8.1,497
+tt0402711,tt0530527,1,8,S1,Loose Lips,Loose Lips,2004,,42,"Comedy,Crime,Drama",8.3,526
+tt0402711,tt0530510,1,9,S1,A Greater Good,A Greater Good,2004,,44,"Comedy,Crime,Drama",8.2,501
+tt0402711,tt0530522,1,10,S1,Hired Guns,Hired Guns,2004,,42,"Comedy,Crime,Drama",8.7,552
+tt0402711,tt0530531,1,11,S1,Schmidt Happens,Schmidt Happens,2005,,42,"Comedy,Crime,Drama",8.3,533
+tt0402711,tt0530518,1,12,S1,From Whence We Came,From Whence We Came,2005,,44,"Comedy,Crime,Drama",7.6,506
+tt0402711,tt0530523,1,13,S1,It Girls and Beyond,It Girls and Beyond,2005,,43,"Comedy,Crime,Drama",8.2,488
+tt0402711,tt0530509,1,14,S1,'Til We Meat Again,'Til We Meat Again,2005,,43,"Comedy,Crime,Drama",8.2,483
+tt0402711,tt0530537,1,15,S1,Tortured Souls,Tortured Souls,2005,,43,"Comedy,Crime,Drama",8.2,539
+tt0402711,tt0530525,1,16,S1,Let Sales Ring,Let Sales Ring,2005,,43,"Comedy,Crime,Drama",7.9,462
+tt0402711,tt0530516,1,17,S1,Death Be Not Proud,Death Be Not Proud,2005,,44,"Comedy,Crime,Drama",8.9,635
+tt0402711,tt0530534,2,1,S2,The Black Widow,The Black Widow,2005,,44,"Comedy,Crime,Drama",7.8,508
+tt0402711,tt0530530,2,2,S2,Schadenfreude,Schadenfreude,2005,,44,"Comedy,Crime,Drama",8.4,492
+tt0402711,tt0530517,2,3,S2,Finding Nimmo,Finding Nimmo,2005,,44,"Comedy,Crime,Drama",8.6,524
+tt0402711,tt0530511,2,4,S2,A Whiff and a Prayer,A Whiff and a Prayer,2005,,44,"Comedy,Crime,Drama",7.7,428
+tt0402711,tt0530528,2,5,S2,Men to Boys,Men to Boys,2005,,44,"Comedy,Crime,Drama",7.9,428
+tt0402711,tt0530540,2,6,S2,Witches of Mass Destruction,Witches of Mass Destruction,2005,,44,"Comedy,Crime,Drama",8.1,451
+tt0402711,tt0530538,2,7,S2,"Truly, Madly, Deeply","Truly, Madly, Deeply",2005,,43,"Comedy,Crime,Drama",8.1,436
+tt0402711,tt0530513,2,8,S2,The Ass Fat Jungle,The Ass Fat Jungle,2005,,44,"Comedy,Crime,Drama",8.1,423
+tt0402711,tt0530519,2,9,S2,Gone,Gone,2005,,43,"Comedy,Crime,Drama",8.4,444
+tt0402711,tt0530524,2,10,S2,Legal Deficits,Legal Deficits,2005,,43,"Comedy,Crime,Drama",8.7,449
+tt0402711,tt0530535,2,11,S2,The Cancer Man Can,The Cancer Man Can,2006,,43,"Comedy,Crime,Drama",8.0,409
+tt0402711,tt0530521,2,12,S2,Helping Hands,Helping Hands,2006,,44,"Comedy,Crime,Drama",8.2,412
+tt0402711,tt0530536,2,13,S2,Too Much Information,Too Much Information,2006,,44,"Comedy,Crime,Drama",8.2,400
+tt0402711,tt0759058,2,14,S2,Breast in Show,Breast in Show,2006,,44,"Comedy,Crime,Drama",8.0,392
+tt0402711,tt0530532,2,15,S2,Smile,Smile,2006,,43,"Comedy,Crime,Drama",8.0,405
+tt0402711,tt0530526,2,16,S2,Live Big,Live Big,2006,,44,"Comedy,Crime,Drama",7.9,398
+tt0402711,tt0757390,2,17,S2,...There's Fire!,...There's Fire!,2006,,44,"Comedy,Crime,Drama",8.1,382
+tt0402711,tt0766166,2,18,S2,Shock and Owww!,Shock and Owww!,2006,,44,"Comedy,Crime,Drama",8.1,383
+tt0402711,tt0771018,2,19,S2,Stick It,Stick It,2006,,44,"Comedy,Crime,Drama",8.1,391
+tt0402711,tt0766522,2,20,S2,Chitty Chitty Bang Bang,Chitty Chitty Bang Bang,2006,,43,"Comedy,Crime,Drama",7.7,366
+tt0402711,tt0770843,2,21,S2,Word Salad Days,Word Salad Days,2006,,43,"Comedy,Crime,Drama",8.1,401
+tt0402711,tt0777318,2,22,S2,Ivan the Incorrigible,Ivan the Incorrigible,2006,,44,"Comedy,Crime,Drama",7.6,374
+tt0402711,tt0789880,2,23,S2,Race Ipsa,Race Ipsa,2006,,44,"Comedy,Crime,Drama",8.3,408
+tt0402711,tt0789879,2,24,S2,Deep End of the Poole,Deep End of the Poole,2006,,43,"Comedy,Crime,Drama",8.3,394
+tt0402711,tt0786440,2,25,S2,Squid Pro Quo,Squid Pro Quo,2006,,43,"Comedy,Crime,Drama",7.8,393
+tt0402711,tt0794698,2,26,S2,Spring Fever,Spring Fever,2006,,43,"Comedy,Crime,Drama",7.8,379
+tt0402711,tt0794697,2,27,S2,BL: Los Angeles,BL: Los Angeles,2006,,44,"Comedy,Crime,Drama",8.4,451
+tt0402711,tt0830082,3,1,S3,Can't We All Get a Lung?,Can't We All Get a Lung?,2006,,44,"Comedy,Crime,Drama",8.2,433
+tt0402711,tt0847775,3,2,S3,New Kids on the Block,New Kids on the Block,2006,,43,"Comedy,Crime,Drama",8.4,435
+tt0402711,tt0872618,3,3,S3,Desperately Seeking Shirley,Desperately Seeking Shirley,2006,,43,"Comedy,Crime,Drama",8.0,388
+tt0402711,tt0847774,3,4,S3,Fine Young Cannibal,Fine Young Cannibal,2006,,43,"Comedy,Crime,Drama",8.4,414
+tt0402711,tt0870271,3,5,S3,Whose God Is It Anyway?,Whose God Is It Anyway?,2006,,43,"Comedy,Crime,Drama",8.4,406
+tt0402711,tt0870270,3,6,S3,The Verdict,The Verdict,2006,,43,"Comedy,Crime,Drama",8.5,411
+tt0402711,tt0885604,3,7,S3,Trick or Treat,Trick or Treat,2006,,43,"Comedy,Crime,Drama",8.2,398
+tt0402711,tt0893705,3,8,S3,Lincoln,Lincoln,2006,,44,"Comedy,Crime,Drama",8.3,399
+tt0402711,tt0892483,3,9,S3,On the Ledge,On the Ledge,2006,,44,"Comedy,Crime,Drama",8.5,410
+tt0402711,tt0836877,3,10,S3,The Nutcrackers,The Nutcrackers,2006,,44,"Comedy,Crime,Drama",8.2,427
+tt0402711,tt0931520,3,11,S3,Angel of Death,Angel of Death,2007,,44,"Comedy,Crime,Drama",8.2,375
+tt0402711,tt0931521,3,12,S3,Nuts,Nuts,2007,,44,"Comedy,Crime,Drama",8.2,370
+tt0402711,tt0932736,3,13,S3,Dumping Bella,Dumping Bella,2007,,44,"Comedy,Crime,Drama",8.0,397
+tt0402711,tt0943579,3,14,S3,Selling Sickness,Selling Sickness,2007,,43,"Comedy,Crime,Drama",8.0,383
+tt0402711,tt0954055,3,15,S3,Fat Burner,Fat Burner,2007,,44,"Comedy,Crime,Drama",8.0,360
+tt0402711,tt0959620,3,16,S3,The Good Lawyer,The Good Lawyer,2007,,43,"Comedy,Crime,Drama",8.1,352
+tt0402711,tt0974055,3,17,S3,The Bride Wore Blood,The Bride Wore Blood,2007,,43,"Comedy,Crime,Drama",8.2,391
+tt0402711,tt0977321,3,18,S3,Son of the Defender,Son of the Defender,2007,,44,"Comedy,Crime,Drama",9.1,856
+tt0402711,tt0977922,3,19,S3,Brotherly Love,Brotherly Love,2007,,44,"Comedy,Crime,Drama",7.6,356
+tt0402711,tt0986485,3,20,S3,Guise 'n Dolls,Guise 'n Dolls,2007,,42,"Comedy,Crime,Drama",8.2,366
+tt0402711,tt1010768,3,21,S3,Tea and Sympathy,Tea and Sympathy,2007,,43,"Comedy,Crime,Drama",7.7,346
+tt0402711,tt1025298,3,22,S3,Guantanamo by the Bay,Guantanamo by the Bay,2007,,42,"Comedy,Crime,Drama",8.2,384
+tt0402711,tt1029613,3,23,S3,Duck and Cover,Duck and Cover,2007,,42,"Comedy,Crime,Drama",8.1,359
+tt0402711,tt1020603,3,24,S3,Trial of the Century,Trial of the Century,2007,,43,"Comedy,Crime,Drama",8.4,400
+tt0402711,tt0993797,4,1,S4,Beauty and the Beast,Beauty and the Beast,2007,,65,"Comedy,Crime,Drama",8.3,443
+tt0402711,tt0993808,4,2,S4,The Innocent Man,The Innocent Man,2007,,44,"Comedy,Crime,Drama",8.1,360
+tt0402711,tt0993810,4,3,S4,The Chicken and the Leg,The Chicken and the Leg,2007,,44,"Comedy,Crime,Drama",7.7,357
+tt0402711,tt0993811,4,4,S4,Do Tell,Do Tell,2007,,44,"Comedy,Crime,Drama",7.5,365
+tt0402711,tt0993812,4,5,S4,Hope and Gory,Hope and Gory,2007,,44,"Comedy,Crime,Drama",8.0,367
+tt0402711,tt0993813,4,6,S4,The Object of My Affection,The Object of My Affection,2007,,44,"Comedy,Crime,Drama",7.6,361
+tt0402711,tt0993814,4,7,S4,Attack of the Xenophobes,Attack of the Xenophobes,2007,,44,"Comedy,Crime,Drama",7.3,496
+tt0402711,tt0993815,4,8,S4,Oral Contracts,Oral Contracts,2007,,44,"Comedy,Crime,Drama",7.5,337
+tt0402711,tt0993816,4,9,S4,No Brains Left Behind,No Brains Left Behind,2007,,44,"Comedy,Crime,Drama",7.6,341
+tt0402711,tt0993798,4,10,S4,Green Christmas,Green Christmas,2007,,44,"Comedy,Crime,Drama",7.7,322
+tt0402711,tt0993799,4,11,S4,Mad About You,Mad About You,2008,,44,"Comedy,Crime,Drama",8.1,347
+tt0402711,tt0993800,4,12,S4,Roe vs Wade: The Musical,Roe vs Wade: The Musical,2008,,44,"Comedy,Crime,Drama",7.3,344
+tt0402711,tt0993801,4,13,S4,Glow in the Dark,Glow in the Dark,2008,,44,"Comedy,Crime,Drama",7.6,346
+tt0402711,tt0993802,4,14,S4,Rescue Me,Rescue Me,2008,,44,"Comedy,Crime,Drama",7.2,340
+tt0402711,tt1193670,4,15,S4,Tabloid Nation,Tabloid Nation,2008,,44,"Comedy,Crime,Drama",7.7,322
+tt0402711,tt0993804,4,16,S4,The Mighty Rogues,The Mighty Rogues,2008,,44,"Comedy,Crime,Drama",8.7,433
+tt0402711,tt0993805,4,17,S4,The Court Supreme,The Court Supreme,2008,,43,"Comedy,Crime,Drama",8.8,525
+tt0402711,tt0993807,4,18,S4,Indecent Proposals,Indecent Proposals,2008,,44,"Comedy,Crime,Drama",7.5,324
+tt0402711,tt0993806,4,19,S4,The Gods Must Be Crazy,The Gods Must Be Crazy,2008,,44,"Comedy,Crime,Drama",7.9,349
+tt0402711,tt0993809,4,20,S4,Patriot Acts,Patriot Acts,2008,,43,"Comedy,Crime,Drama",8.1,339
+tt0402711,tt1263111,5,1,S5,Smoke Signals,Smoke Signals,2008,,44,"Comedy,Crime,Drama",7.8,359
+tt0402711,tt1263116,5,2,S5,Guardians and Gatekeepers,Guardians and Gatekeepers,2008,,44,"Comedy,Crime,Drama",8.0,332
+tt0402711,tt1263117,5,3,S5,Dances with Wolves,Dances with Wolves,2008,,43,"Comedy,Crime,Drama",7.9,351
+tt0402711,tt1263118,5,4,S5,True Love,True Love,2008,,44,"Comedy,Crime,Drama",8.4,381
+tt0402711,tt1263119,5,5,S5,The Bad Seed,The Bad Seed,2008,,43,"Comedy,Crime,Drama",8.1,324
+tt0402711,tt1263120,5,6,S5,Happy Trails,Happy Trails,2008,,43,"Comedy,Crime,Drama",7.7,325
+tt0402711,tt1263121,5,7,S5,Mad Cows,Mad Cows,2008,,43,"Comedy,Crime,Drama",8.2,363
+tt0402711,tt1263122,5,8,S5,Roe,Roe,2008,,44,"Comedy,Crime,Drama",7.8,319
+tt0402711,tt1263123,5,9,S5,"Kill, Baby, Kill!","Kill, Baby, Kill!",2008,,44,"Comedy,Crime,Drama",7.5,297
+tt0402711,tt1263112,5,10,S5,Thanksgiving,Thanksgiving,2008,,44,"Comedy,Crime,Drama",8.4,371
+tt0402711,tt1263113,5,11,S5,Juiced,Juiced,2008,,44,"Comedy,Crime,Drama",8.0,327
+tt0402711,tt1263114,5,12,S5,Made in China,Made in China,2008,,44,"Comedy,Crime,Drama",8.5,343
+tt0402711,tt1263115,5,13,S5,Last Call,Last Call,2008,,43,"Comedy,Crime,Drama",9.2,612

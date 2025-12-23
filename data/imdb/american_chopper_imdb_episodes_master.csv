@@ -1,0 +1,243 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0364779,tt1018146,1,1,S1,American Chopper I: Jet Bike,American Chopper I: Jet Bike,2002,,,"Reality-TV,Sport",6.8,21
+tt0364779,tt1018147,1,2,S1,American Chopper II: Biketober (Cody Bike),American Chopper II: Biketober (Cody Bike),2003,,,"Reality-TV,Sport",6.7,14
+tt0364779,tt0929500,1,3,S1,Black Widow: Part 1,Black Widow: Part 1,2003,,44,"Reality-TV,Sport",7.3,28
+tt0364779,tt0929501,1,4,S1,Black Widow: Part 2,Black Widow: Part 2,2003,,44,"Reality-TV,Sport",7.3,23
+tt0364779,tt0929511,1,5,S1,Race Car: Part 1,Race Car: Part 1,2003,,44,"Reality-TV,Sport",7.0,19
+tt0364779,tt0929512,1,6,S1,Race Car: Part 2,Race Car: Part 2,2003,,44,"Reality-TV,Sport",6.8,18
+tt0364779,tt0929505,1,7,S1,Fire Bike: Part 1,Fire Bike: Part 1,2003,,44,"Reality-TV,Sport",6.4,23
+tt0364779,tt0929504,1,8,S1,Daytona Bike Week,Daytona Bike Week,2003,,44,"Reality-TV,Sport",6.6,19
+tt0364779,tt0929506,1,9,S1,Fire Bike: Part 2,Fire Bike: Part 2,2003,,,"Reality-TV,Sport",6.6,22
+tt0364779,tt1018194,1,10,S1,Old School Chopper 1,Old School Chopper 1,2003,,44,"Reality-TV,Sport",6.2,21
+tt0364779,tt0929510,1,11,S1,Old School Chopper: Part 2/Commanche Bike: Part 1,Old School Chopper: Part 2/Commanche Bike: Part 1,2003,,44,"Reality-TV,Sport",6.6,17
+tt0364779,tt0929502,1,12,S1,Commanche Bike: Part 2,Commanche Bike: Part 2,2003,,44,"Reality-TV,Sport",6.1,20
+tt0364779,tt0929503,1,13,S1,Commanche Bike: Part 3,Commanche Bike: Part 3,2003,,44,"Reality-TV,Sport",6.1,18
+tt0364779,tt0929507,1,14,S1,Mikey's Bike: Part 1,Mikey's Bike: Part 1,2003,,44,"Reality-TV,Sport",6.7,18
+tt0364779,tt1018182,1,15,S1,Mikey's Bike: Part 2,Mikey's Bike: Part 2,2003,,44,"Reality-TV,Sport",6.3,17
+tt0364779,tt1018181,1,16,S1,Mikey Special,Mikey Special,2003,,44,"Reality-TV,Sport",5.0,17
+tt0364779,tt0793663,1,17,S1,Tool Bike: Part 1,Tool Bike: Part 1,2003,,44,"Reality-TV,Sport",6.0,17
+tt0364779,tt0793664,1,18,S1,Tool Bike: Part 2,Tool Bike: Part 2,2003,,44,"Reality-TV,Sport",6.1,19
+tt0364779,tt1018193,1,19,S1,OCC Holiday Special (Santa Bike),OCC Holiday Special (Santa Bike),2003,,44,"Reality-TV,Sport",6.0,12
+tt0364779,tt1018191,1,20,S1,NY Jets Bike,NY Jets Bike,2004,,44,"Reality-TV,Sport",6.4,17
+tt0364779,tt1018197,1,21,S1,POW/MIA 1,POW/MIA 1,2004,,44,"Reality-TV,Sport",5.6,18
+tt0364779,tt1018198,1,22,S1,POW/MIA 2,POW/MIA 2,2004,,44,"Reality-TV,Sport",5.6,20
+tt0364779,tt1018199,1,23,S1,POW/MIA 3,POW/MIA 3,2004,,44,"Reality-TV,Sport",5.8,19
+tt0364779,tt1018187,1,24,S1,Miller Electric 1,Miller Electric 1,2004,,44,"Reality-TV,Sport",5.7,17
+tt0364779,tt1018188,1,25,S1,Miller Electric 2,Miller Electric 2,2004,,44,"Reality-TV,Sport",5.6,16
+tt0364779,tt0511627,1,26,S1,Leno Bike 1,Leno Bike 1,2004,,45,"Reality-TV,Sport",6.0,20
+tt0364779,tt0511628,1,27,S1,Leno Bike 2,Leno Bike 2,2004,,45,"Reality-TV,Sport",5.7,19
+tt0364779,tt1018176,1,28,S1,Liberty Bike 1,Liberty Bike 1,2004,,44,"Reality-TV,Sport",5.3,18
+tt0364779,tt1018177,1,29,S1,Liberty Bike 2,Liberty Bike 2,2004,,44,"Reality-TV,Sport",5.2,19
+tt0364779,tt1018159,1,30,S1,Dixie Chopper 1,Dixie Chopper 1,2004,,44,"Reality-TV,Sport",5.6,19
+tt0364779,tt1018160,1,31,S1,Dixie Chopper 2,Dixie Chopper 2,2004,,44,"Reality-TV,Sport",6.2,19
+tt0364779,tt1018183,2,1,S2,Mikey/Vinnie Bike 1,Mikey/Vinnie Bike 1,2004,,45,"Reality-TV,Sport",6.4,17
+tt0364779,tt1018184,2,2,S2,Mikey/Vinnie Bike 2,Mikey/Vinnie Bike 2,2004,,45,"Reality-TV,Sport",7.0,18
+tt0364779,tt1018168,2,3,S2,"I, Robot Bike 1","I, Robot Bike 1",2004,,45,"Reality-TV,Sport",6.1,17
+tt0364779,tt1018169,2,4,S2,"I, Robot Bike 2","I, Robot Bike 2",2004,,45,"Reality-TV,Sport",5.7,18
+tt0364779,tt1018158,2,5,S2,Davis Love III Bike,Davis Love III Bike,2004,,,"Reality-TV,Sport",6.3,11
+tt0364779,tt1018174,2,6,S2,Lance Armstrong Bike 1,Lance Armstrong Bike 1,2004,,44,"Reality-TV,Sport",5.0,16
+tt0364779,tt1018175,2,7,S2,Lance Armstrong: Bike 2,Lance Armstrong: Bike 2,2004,,44,"Reality-TV,Sport",4.4,15
+tt0364779,tt1018201,2,8,S2,Police: Bike 1,Police: Bike 1,2004,,44,"Reality-TV,Sport",6.0,13
+tt0364779,tt1018200,2,9,S2,Police Bike 2,Police Bike 2,2004,,44,"Reality-TV,Sport",5.1,15
+tt0364779,tt1018156,2,10,S2,David Mann Bike 1,David Mann Bike 1,2004,,44,"Reality-TV,Sport",6.0,12
+tt0364779,tt1018157,2,11,S2,David Mann Bike 2,David Mann Bike 2,2004,,44,"Reality-TV,Sport",6.3,12
+tt0364779,tt1018207,2,12,S2,Sleigh Bike,Sleigh Bike,2004,,44,"Reality-TV,Sport",5.6,9
+tt0364779,tt1018152,2,13,S2,Carroll Shelby Bike 1,Carroll Shelby Bike 1,2005,,43,"Reality-TV,Sport",6.3,15
+tt0364779,tt1018153,2,14,S2,Carroll Shelby Bike 2,Carroll Shelby Bike 2,2005,,43,"Reality-TV,Sport",6.1,16
+tt0364779,tt1018178,2,15,S2,Lincoln Mark LT Bike 1,Lincoln Mark LT Bike 1,2005,,44,"Reality-TV,Sport",5.9,15
+tt0364779,tt1018179,2,16,S2,Lincoln Mark LT Bike 2,Lincoln Mark LT Bike 2,2005,,44,"Reality-TV,Sport",5.8,15
+tt0364779,tt0977898,2,17,S2,Junior's Dream Bike 1,Junior's Dream Bike 1,2005,,44,"Reality-TV,Sport",6.2,12
+tt0364779,tt0977899,2,18,S2,Junior's Dream Bike 2,Junior's Dream Bike 2,2005,,41,"Reality-TV,Sport",6.2,12
+tt0364779,tt1018154,2,19,S2,Caterpillar Bike 1,Caterpillar Bike 1,2005,,,"Reality-TV,Sport",6.4,14
+tt0364779,tt1018155,2,20,S2,Caterpillar Bike 2,Caterpillar Bike 2,2005,,,"Reality-TV,Sport",6.4,14
+tt0364779,tt1018165,2,21,S2,Gillette Bike 1,Gillette Bike 1,2005,,46,"Reality-TV,Sport",4.8,13
+tt0364779,tt1018166,2,22,S2,Gillette Bike 2,Gillette Bike 2,2005,,44,"Reality-TV,Sport",4.9,12
+tt0364779,tt0915823,2,23,S2,NAPA Drag Bike,NAPA Drag Bike,2005,,44,"Reality-TV,Sport",5.6,15
+tt0364779,tt0915824,2,24,S2,NAPA Drag Bike 2,NAPA Drag Bike 2,2005,,44,"Reality-TV,Sport",5.5,16
+tt0364779,tt0915821,2,25,S2,Military Bike 1,Military Bike 1,2005,,44,"Reality-TV,Sport",5.0,14
+tt0364779,tt0915822,2,26,S2,Military Bike 2,Military Bike 2,2005,,44,"Reality-TV,Sport",5.0,14
+tt0364779,tt32016250,2,27,S2,NY Yankees Bike 1,NY Yankees Bike 1,2005,,,"Reality-TV,Sport",,
+tt0364779,tt32019203,2,28,S2,Jr/Sr Military Tribute Bikes 2,Jr/Sr Military Tribute Bikes 2,2005,,,"Reality-TV,Sport",,
+tt0364779,tt1018213,2,29,S2,The Best of American Chopper: Sr. vs. Jr.,The Best of American Chopper: Sr. vs. Jr.,2005,,,"Reality-TV,Sport",5.1,11
+tt0364779,tt0915833,3,1,S3,Space Shuttle Tribute Bike 1,Space Shuttle Tribute Bike 1,2005,,44,"Reality-TV,Sport",4.7,11
+tt0364779,tt0915834,3,2,S3,Space Shuttle Tribute Bike 2,Space Shuttle Tribute Bike 2,2005,,44,"Reality-TV,Sport",5.0,12
+tt0364779,tt1018202,3,3,S3,Rick's Dream Bike 1,Rick's Dream Bike 1,2005,,44,"Reality-TV,Sport",,
+tt0364779,tt1018204,3,4,S3,Rick's Dream Bike 2,Rick's Dream Bike 2,2005,,44,"Reality-TV,Sport",,
+tt0364779,tt32019242,3,5,S3,FANtasy Bike: Jeff Clegg,FANtasy Bike: Jeff Clegg,2006,,,"Reality-TV,Sport",,
+tt0364779,tt32019480,3,6,S3,FANtasy Bike: Susan Morisset,FANtasy Bike: Susan Morisset,2006,,,"Reality-TV,Sport",,
+tt0364779,tt32019510,3,7,S3,FANtasy Bike: Joseph McClendon,FANtasy Bike: Joseph McClendon,2006,,,"Reality-TV,Sport",,
+tt0364779,tt32019524,3,8,S3,FANtasy Bike: Bryan King,FANtasy Bike: Bryan King,2006,,,"Reality-TV,Sport",,
+tt0364779,tt1018195,3,19,S3,On the Road: Europe Part 1,On the Road: Europe Part 1,2005,,44,"Reality-TV,Sport",4.3,11
+tt0364779,tt1018196,3,20,S3,On the Road: Europe Part 2,On the Road: Europe Part 2,2005,,44,"Reality-TV,Sport",4.3,11
+tt0364779,tt0829492,3,21,S3,Make-a-Wish Bike,Make-a-Wish Bike,2005,,44,"Reality-TV,Sport",,
+tt0364779,tt0918582,3,22,S3,Behind the Scenes Special,Behind the Scenes Special,2005,,43,"Reality-TV,Sport",,
+tt0364779,tt0915835,3,23,S3,History of the OCC,History of the OCC,2005,,44,"Reality-TV,Sport",3.8,11
+tt0364779,tt1018192,3,24,S3,Never Before Seen Special,Never Before Seen Special,2006,,44,"Reality-TV,Sport",3.6,9
+tt0364779,tt0915812,4,1,S4,FANtasy Bike 1,FANtasy Bike 1,2006,,44,"Reality-TV,Sport",,
+tt0364779,tt0915813,4,2,S4,FANtasy Bike 2,FANtasy Bike 2,2006,,44,"Reality-TV,Sport",,
+tt0364779,tt0915814,4,3,S4,FANtasy Bike 3,FANtasy Bike 3,2006,,43,"Reality-TV,Sport",,
+tt0364779,tt0915815,4,4,S4,FANtasy Bike 4,FANtasy Bike 4,2006,,44,"Reality-TV,Sport",,
+tt0364779,tt0915831,4,5,S4,Senior's Vintage Project 1,Senior's Vintage Project 1,2006,,44,"Reality-TV,Sport",,
+tt0364779,tt0915832,4,6,S4,Senior's Vintage Project 2,Senior's Vintage Project 2,2006,,44,"Reality-TV,Sport",,
+tt0364779,tt0918585,4,7,S4,Billy Joel Bike,Billy Joel Bike,2006,,87,"Reality-TV,Sport",,
+tt0364779,tt1018214,4,8,S4,Wendy's Bike 1,Wendy's Bike 1,2006,,44,"Reality-TV,Sport",,
+tt0364779,tt1018215,4,9,S4,Wendy's Bike 2,Wendy's Bike 2,2006,,44,"Reality-TV,Sport",,
+tt0364779,tt1018210,4,10,S4,Sunoco Bike 1,Sunoco Bike 1,2006,,44,"Reality-TV,Sport",5.7,12
+tt0364779,tt1018211,4,11,S4,Sunoco Bike 2,Sunoco Bike 2,2006,,44,"Reality-TV,Sport",5.0,13
+tt0364779,tt0918584,4,12,S4,Bill Murray Bike 1,Bill Murray Bike 1,2006,,44,"Reality-TV,Sport",6.6,18
+tt0364779,tt0918583,4,13,S4,Bill Murray Bike 2,Bill Murray Bike 2,2006,,44,"Reality-TV,Sport",6.6,18
+tt0364779,tt0935168,4,14,S4,OCC Road Show,OCC Road Show,2006,,44,"Reality-TV,Sport",,
+tt0364779,tt0935167,4,15,S4,OCC Production Bike,OCC Production Bike,2006,,44,"Reality-TV,Sport",,
+tt0364779,tt0915818,4,16,S4,LUGZ Bike 1,LUGZ Bike 1,2006,,44,"Reality-TV,Sport",5.9,12
+tt0364779,tt0915819,4,17,S4,LUGZ Bike 2,LUGZ Bike 2,2006,,44,"Reality-TV,Sport",5.5,10
+tt0364779,tt0933988,4,18,S4,Eragon Bike 1,Eragon Bike 1,2006,,44,"Reality-TV,Sport",5.0,9
+tt0364779,tt0933989,4,19,S4,Eragon Bike 2,Eragon Bike 2,2006,,44,"Reality-TV,Sport",5.9,15
+tt0364779,tt0944983,4,20,S4,Junior vs. Senior: Part 1,Junior vs. Senior: Part 1,2007,,44,"Reality-TV,Sport",,
+tt0364779,tt0944984,4,21,S4,Junior vs. Senior: Part 2,Junior vs. Senior: Part 2,2007,,44,"Reality-TV,Sport",,
+tt0364779,tt0944981,4,22,S4,Go Daddy Bike 1,Go Daddy Bike 1,2007,,44,"Reality-TV,Sport",7.2,10
+tt0364779,tt0944982,4,23,S4,Go Daddy Bike 2,Go Daddy Bike 2,2007,,44,"Reality-TV,Sport",,
+tt0364779,tt0964200,4,24,S4,Flowjet Bike: Part 1,Flowjet Bike: Part 1,2007,,44,"Reality-TV,Sport",5.4,9
+tt0364779,tt0964201,4,25,S4,Flowjet Bike: Part 2,Flowjet Bike: Part 2,2007,,44,"Reality-TV,Sport",5.4,9
+tt0364779,tt0993045,4,26,S4,HP Bike: Part 1,HP Bike: Part 1,2007,,43,"Reality-TV,Sport",6.8,8
+tt0364779,tt0993046,4,27,S4,HP Bike: Part 2,HP Bike: Part 2,2007,,44,"Reality-TV,Sport",8.0,8
+tt0364779,tt0993047,4,28,S4,Peavey Bike: Part 1,Peavey Bike: Part 1,2007,,44,"Reality-TV,Sport",4.0,8
+tt0364779,tt0993048,4,29,S4,Peavey Bike: Part 2,Peavey Bike: Part 2,2007,,44,"Reality-TV,Sport",5.8,8
+tt0364779,tt1089809,4,30,S4,Intel: Part 1,Intel: Part 1,2007,,44,"Reality-TV,Sport",,
+tt0364779,tt1089810,4,31,S4,Intel: Part 2,Intel: Part 2,2007,,44,"Reality-TV,Sport",,
+tt0364779,tt1137003,4,32,S4,Byron Nelson 1,Byron Nelson 1,2007,,44,"Reality-TV,Sport",,
+tt0364779,tt1137004,4,33,S4,Byron Nelson 2,Byron Nelson 2,2007,,44,"Reality-TV,Sport",,
+tt0364779,tt1144129,4,34,S4,Silver State Choppers' Chopper 1,Silver State Choppers' Chopper 1,2007,,43,"Reality-TV,Sport",,
+tt0364779,tt1144130,4,35,S4,Silver State Choppers' 2,Silver State Choppers' 2,2007,,43,"Reality-TV,Sport",,
+tt0364779,tt1144128,4,36,S4,Iowa Farm Bureau Bike 1,Iowa Farm Bureau Bike 1,2007,,43,"Reality-TV,Sport",,
+tt0364779,tt2502212,4,37,S4,Iowa Farm Bureau Bike 2,Iowa Farm Bureau Bike 2,2007,,43,"Reality-TV,Sport",,
+tt0364779,tt1241788,5,1,S5,Army National Guard 1,Army National Guard 1,2008,,44,"Reality-TV,Sport",5.8,10
+tt0364779,tt1241789,5,2,S5,Army National Guard 2,Army National Guard 2,2008,,44,"Reality-TV,Sport",5.8,10
+tt0364779,tt1241798,5,3,S5,Michigan Bike/My Name Is Earl 1,Michigan Bike/My Name Is Earl 1,2008,,44,"Reality-TV,Sport",5.8,10
+tt0364779,tt1241797,5,4,S5,Michigan Bike/My Name Is Earl 2,Michigan Bike/My Name Is Earl 2,2008,,44,"Reality-TV,Sport",6.0,9
+tt0364779,tt1241793,5,5,S5,Gander Mountain 1,Gander Mountain 1,2008,,44,"Reality-TV,Sport",6.8,9
+tt0364779,tt1190205,5,6,S5,Gander Mountain 2,Gander Mountain 2,2008,,44,"Reality-TV,Sport",,
+tt0364779,tt1190203,5,7,S5,Craftsman/Die Hard 1,Craftsman/Die Hard 1,2008,,44,"Reality-TV,Sport",6.5,10
+tt0364779,tt1190204,5,8,S5,Craftsman/Die Hard 2,Craftsman/Die Hard 2,2008,,44,"Reality-TV,Sport",6.5,10
+tt0364779,tt1241795,5,9,S5,Klipsch Bike,Klipsch Bike,2008,,44,"Reality-TV,Sport",,
+tt0364779,tt1241800,5,10,S5,Viega Corporation,Viega Corporation,2008,,44,"Reality-TV,Sport",7.4,9
+tt0364779,tt1241790,5,11,S5,BSN Bike,BSN Bike,2008,,44,"Reality-TV,Sport",,
+tt0364779,tt1241796,5,12,S5,Manitowoc Crane Company Bike,Manitowoc Crane Company Bike,2008,,44,"Reality-TV,Sport",5.8,9
+tt0364779,tt1241799,5,13,S5,Production Bike Showcase,Production Bike Showcase,2008,,44,"Reality-TV,Sport",7.4,9
+tt0364779,tt1259847,5,14,S5,Dryvit Bike,Dryvit Bike,2008,,44,"Reality-TV,Sport",,
+tt0364779,tt1259849,5,15,S5,NY Giants Bike,NY Giants Bike,2008,,44,"Reality-TV,Sport",6.2,9
+tt0364779,tt1260001,5,16,S5,Darien Lake Bike,Darien Lake Bike,2008,,44,"Reality-TV,Sport",7.8,10
+tt0364779,tt1259850,5,17,S5,Sikorsky Bike,Sikorsky Bike,2008,,44,"Reality-TV,Sport",5.6,12
+tt0364779,tt1316107,5,18,S5,Mercedes-Amg Bike,Mercedes-Amg Bike,2008,,44,"Reality-TV,Sport",,
+tt0364779,tt1316110,5,19,S5,Strike Ten Entertainment,Strike Ten Entertainment,2008,,44,"Reality-TV,Sport",7.4,9
+tt0364779,tt1455296,6,1,S6,NHL Bike/B-2 Bomber Bike,NHL Bike/B-2 Bomber Bike,2009,,43,"Reality-TV,Sport",6.4,12
+tt0364779,tt1455299,6,2,S6,Woodstock/Ringling and Barnum and Bailey Circus Bikes,Woodstock/Ringling and Barnum and Bailey Circus Bikes,2009,,44,"Reality-TV,Sport",6.9,14
+tt0364779,tt1455295,6,3,S6,DECA Bike/Colmet Bike,DECA Bike/Colmet Bike,2009,,44,"Reality-TV,Sport",6.4,11
+tt0364779,tt1455298,6,4,S6,Unique Machine Bike,Unique Machine Bike,2009,,44,"Reality-TV,Sport",5.0,11
+tt0364779,tt1455294,6,5,S6,10th Anniversary OCC Bike,10th Anniversary OCC Bike,2009,,44,"Reality-TV,Sport",6.2,10
+tt0364779,tt1455297,6,6,S6,Teutul Triumph Bike,Teutul Triumph Bike,2009,,44,"Reality-TV,Sport",6.3,10
+tt0364779,tt1498582,6,7,S6,Mountain Creek Bike,Mountain Creek Bike,2009,,44,"Reality-TV,Sport",6.3,10
+tt0364779,tt1498580,6,8,S6,Howe Caverns,Howe Caverns,2009,,43,"Reality-TV,Sport",6.2,10
+tt0364779,tt1498583,6,9,S6,Pilot Pen Bike and Ducati Bike,Pilot Pen Bike and Ducati Bike,2009,,44,"Reality-TV,Sport",7.0,10
+tt0364779,tt1498581,6,10,S6,Jon & Kate Plus 8 Bike,Jon & Kate Plus 8 Bike,2009,,65,"Reality-TV,Sport",4.7,11
+tt0364779,tt1498578,6,11,S6,Abu Dhabi Police Bike,Abu Dhabi Police Bike,2009,,44,"Reality-TV,Sport",7.4,9
+tt0364779,tt1498579,6,12,S6,Chesapeake Energy Bike,Chesapeake Energy Bike,2009,,44,"Reality-TV,Sport",6.3,10
+tt0364779,tt1551652,6,13,S6,Saginaw Chippewa Indian Tribal Theme Bike,Saginaw Chippewa Indian Tribal Theme Bike,2009,,44,"Reality-TV,Sport",6.3,10
+tt0364779,tt1551650,6,14,S6,OCC Band Bike,OCC Band Bike,2009,,43,"Reality-TV,Sport",6.3,10
+tt0364779,tt1551653,6,15,S6,Sieman's Electric Bike,Sieman's Electric Bike,2009,,44,"Reality-TV,Sport",7.0,11
+tt0364779,tt1551651,6,16,S6,Orange Rescue Bike,Orange Rescue Bike,2009,,44,"Reality-TV,Sport",7.1,11
+tt0364779,tt1551649,6,17,S6,Mark Buehrle Bike,Mark Buehrle Bike,2009,,43,"Reality-TV,Sport",7.0,11
+tt0364779,tt1577155,6,18,S6,Iraq Star Foundation Bike,Iraq Star Foundation Bike,2009,,43,"Reality-TV,Sport",8.4,16
+tt0364779,tt1577156,6,19,S6,OCC Trike Bike,OCC Trike Bike,2009,,43,"Reality-TV,Sport",7.3,10
+tt0364779,tt1568356,6,20,S6,Jeanette Lee Black Widow Bike,Jeanette Lee Black Widow Bike,2009,,43,"Reality-TV,Sport",6.5,13
+tt0364779,tt1593393,6,21,S6,Christopher and Dana Reeve Foundation Bike,Christopher and Dana Reeve Foundation Bike,2010,,43,"Reality-TV,Sport",5.4,11
+tt0364779,tt1593395,6,22,S6,Schneider Electric Bike,Schneider Electric Bike,2010,,44,"Reality-TV,Sport",6.9,11
+tt0364779,tt1662593,6,23,S6,Gladiator Garageworks Bike,Gladiator Garageworks Bike,2010,,44,"Reality-TV,Sport",5.8,9
+tt0364779,tt1593394,6,24,S6,Monster Diesel Bike,Monster Diesel Bike,2010,,43,"Reality-TV,Sport",6.6,9
+tt0364779,tt1593396,6,25,S6,Stewart-Haas Racing Bike,Stewart-Haas Racing Bike,2010,,43,"Reality-TV,Sport",6.3,11
+tt0364779,tt1662300,6,26,S6,The Kobalt Bike,The Kobalt Bike,2010,,43,"Reality-TV,Sport",7.1,12
+tt0364779,tt1818490,7,1,S7,Domani Studios Bike,Domani Studios Bike,2010,,42,"Reality-TV,Sport",,
+tt0364779,tt1818499,7,2,S7,Window World Bike,Window World Bike,2010,,43,"Reality-TV,Sport",,
+tt0364779,tt1818491,7,3,S7,ESAB Bike,ESAB Bike,2010,,43,"Reality-TV,Sport",,
+tt0364779,tt1818496,7,4,S7,Meteorite Men Bike,Meteorite Men Bike,2010,,43,"Reality-TV,Sport",,
+tt0364779,tt1818497,7,5,S7,PJD Bike: Part 1,PJD Bike: Part 1,2010,,,"Reality-TV,Sport",,
+tt0364779,tt1818498,7,6,S7,PJD Bike: Part 2/Geico Bike: Part 1/FBI Bike,PJD Bike: Part 2/Geico Bike: Part 1/FBI Bike,2010,,43,"Reality-TV,Sport",,
+tt0364779,tt1818495,7,8,S7,Lawless Drag Bike: Part 2/PJD Bike: Part 4/Geico Bike: Part 3,Lawless Drag Bike: Part 2/PJD Bike: Part 4/Geico Bike: Part 3,2010,,43,"Reality-TV,Sport",,
+tt0364779,tt1818492,7,9,S7,Fallen Heroes Bike/Bling Star Bike: Part 1,Fallen Heroes Bike/Bling Star Bike: Part 1,2010,,,"Reality-TV,Sport",,
+tt0364779,tt1818489,7,10,S7,Chicago Blackhawks Bike: Part 1/Bling Star Bike: Part 2,Chicago Blackhawks Bike: Part 1/Bling Star Bike: Part 2,2010,,,"Reality-TV,Sport",,
+tt0364779,tt1788497,7,11,S7,Chicago Blackhawks Bike: Part 2/Carolina Carports Bike: Part 1,Chicago Blackhawks Bike: Part 2/Carolina Carports Bike: Part 1,2010,,,"Reality-TV,Sport",,
+tt0364779,tt1818488,7,12,S7,California Carports Bike: Part 2/Hair Club for Men: Part 1,California Carports Bike: Part 2/Hair Club for Men: Part 1,2010,,,"Reality-TV,Sport",,
+tt0364779,tt1818487,7,13,S7,A Crew Divided,A Crew Divided,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt1818493,7,14,S7,Invitation Accepted,Invitation Accepted,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt1937551,8,1,S8,Mikey's Art Opening,Mikey's Art Opening,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt1905134,8,2,S8,Big Guns,Big Guns,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt1911701,8,3,S8,Judgement Day,Judgement Day,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt1921250,8,4,S8,Offer Denied,Offer Denied,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt1929496,8,5,S8,Deadliest Catch Bike,Deadliest Catch Bike,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt1936023,8,6,S8,Cadillac Build-Off Part 1,Cadillac Build-Off Part 1,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt2361635,8,7,S8,Cadillac Build-Off Part 2,Cadillac Build-Off Part 2,2011,,42,"Reality-TV,Sport",,
+tt0364779,tt2027338,8,8,S8,The Settlement,The Settlement,2011,,42,"Reality-TV,Sport",,
+tt0364779,tt2361661,8,9,S8,Return of the Black Widow,Return of the Black Widow,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt2041642,8,10,S8,Downsizing,Downsizing,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt2052103,8,11,S8,Gears of War,Gears of War,2011,,,"Reality-TV,Sport",,
+tt0364779,tt2361665,8,12,S8,Senior Reaches Out,Senior Reaches Out,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt2361649,8,13,S8,Mikey's Decision,Mikey's Decision,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt2361681,8,14,S8,Top Ten Fights,Top Ten Fights,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt2361651,8,15,S8,Mikey's Favorite Moments,Mikey's Favorite Moments,2011,,,"Reality-TV,Sport",,
+tt0364779,tt2077085,8,16,S8,Silent Treatment,Silent Treatment,2011,,42,"Reality-TV,Sport",,
+tt0364779,tt2083422,8,17,S8,Communication Breakdown,Communication Breakdown,2011,,42,"Reality-TV,Sport",,
+tt0364779,tt2361679,8,18,S8,Top Ten Bikes,Top Ten Bikes,2011,,42,"Reality-TV,Sport",,
+tt0364779,tt2100729,8,19,S8,Free Rick,Free Rick,2011,,42,"Reality-TV,Sport",,
+tt0364779,tt2106793,8,20,S8,Old Rivals,Old Rivals,2011,,42,"Reality-TV,Sport",,
+tt0364779,tt2361629,8,21,S8,Best Pranks,Best Pranks,2011,,42,"Reality-TV,Sport",,
+tt0364779,tt2361671,8,22,S8,The Build-Off,The Build-Off,2011,,83,"Reality-TV,Sport",,
+tt0364779,tt2361673,8,23,S8,The Build-Off: Chopper Live,The Build-Off: Chopper Live,2011,,,"Reality-TV,Sport",,
+tt0364779,tt2211289,8,24,S8,Winners and Losers,Winners and Losers,2012,,43,"Reality-TV,Sport",,
+tt0364779,tt2229689,8,25,S8,The Apprentice Bike,The Apprentice Bike,2012,,,"Reality-TV,Sport",,
+tt0364779,tt2245351,8,26,S8,Operation Reconciliation,Operation Reconciliation,2012,,42,"Reality-TV,Sport",,
+tt0364779,tt2361663,8,27,S8,Rick's News,Rick's News,2012,,43,"Reality-TV,Sport",,
+tt0364779,tt2361659,8,30,S8,PJD Muscle Car,PJD Muscle Car,2012,,43,"Reality-TV,Sport",,
+tt0364779,tt2489590,9,2,S9,Episode #9.2,Episode #9.2,2012,,,"Reality-TV,Sport",,
+tt0364779,tt2538356,9,4,S9,Episode #9.4,Episode #9.4,2012,,,"Reality-TV,Sport",,
+tt0364779,tt8080446,11,1,S11,Welcome Back,Welcome Back,2018,,52,"Reality-TV,Sport",8.5,24
+tt0364779,tt8457882,11,2,S11,Getting the Bike Back Together,Getting the Bike Back Together,2018,,,"Reality-TV,Sport",7.5,15
+tt0364779,tt8513412,11,3,S11,A New Chopter,A New Chopter,2018,,41,"Reality-TV,Sport",7.4,11
+tt0364779,tt8546590,11,4,S11,Metal Health,Metal Health,2018,,41,"Reality-TV,Sport",8.2,15
+tt0364779,tt8597826,11,5,S11,"GTO, Bro!","GTO, Bro!",2018,,41,"Reality-TV,Sport",8.1,9
+tt0364779,tt8617230,11,6,S11,Drop the Mikey,Drop the Mikey,2018,,41,"Reality-TV,Sport",8.0,8
+tt0364779,tt8685534,11,7,S11,Road Warrior,Road Warrior,2018,,41,"Reality-TV,Sport",8.5,10
+tt0364779,tt8704040,11,8,S11,Yanks for the Memories,Yanks for the Memories,2018,,41,"Reality-TV,Sport",8.5,10
+tt0364779,tt9739048,12,1,S12,Chopper Up the Middle,Chopper Up the Middle,2019,,41,"Reality-TV,Sport",,
+tt0364779,tt9769126,12,2,S12,Teutel Recall,Teutel Recall,2019,,41,"Reality-TV,Sport",,
+tt0364779,tt9804152,12,3,S12,Senior's Moment,Senior's Moment,2019,,41,"Reality-TV,Sport",,
+tt0364779,tt9843772,12,4,S12,Splat!,Splat!,2019,,41,"Reality-TV,Sport",,
+tt0364779,tt9860266,12,5,S12,Guitar Hero,Guitar Hero,2019,,41,"Reality-TV,Sport",,
+tt0364779,tt9881078,12,6,S12,Strikes and Reverse Trikes,Strikes and Reverse Trikes,2019,,41,"Reality-TV,Sport",,
+tt0364779,tt12622712,12,7,S12,You're My Dog...,You're My Dog...,,,41,"Reality-TV,Sport",,
+tt0364779,tt12631622,12,8,S12,Bonkers in Yonkers,Bonkers in Yonkers,,,,"Reality-TV,Sport",,
+tt0364779,tt13941050,12,9,S12,The Last Ride,The Last Ride,2020,,83,"Reality-TV,Sport",,
+tt0364779,tt0915836,,,,Yankee's Bike: Part 1,Yankee's Bike: Part 1,2005,,,"Reality-TV,Sport",,
+tt0364779,tt0915837,,,,Yankee's Bike: Part 2,Yankee's Bike: Part 2,2005,,,"Reality-TV,Sport",,
+tt0364779,tt10045754,,,,On the Chopping Block,On the Chopping Block,2019,,,"Reality-TV,Sport",,
+tt0364779,tt1018212,,,,The Best of American Chopper: Micheal Teutul as Himself,The Best of American Chopper: Micheal Teutul as Himself,2005,,,"Reality-TV,Sport",,
+tt0364779,tt1316497,,,,RJR Memorial Car Show,RJR Memorial Car Show,2008,,43,"Reality-TV,Sport",,
+tt0364779,tt1899430,,,,A Family Affair,A Family Affair,2011,,,"Reality-TV,Sport",,
+tt0364779,tt1901268,,,,Australia 2,Australia 2,2007,,44,"Reality-TV,Sport",,
+tt0364779,tt1901269,,,,Fired,Fired,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt1901270,,,,Foreclosure,Foreclosure,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt1925574,,,,Firebike 2,Firebike 2,2003,,43,"Reality-TV,Sport",,
+tt0364779,tt2352098,,,,The Build Is On,The Build Is On,2012,,,"Reality-TV,Sport",,
+tt0364779,tt2365242,,,,Back in Time,Back in Time,2012,,43,"Reality-TV,Sport",,
+tt0364779,tt2377788,,,,Common Ground,Common Ground,2012,,43,"Reality-TV,Sport",,
+tt0364779,tt2387725,,,,Malaysian Adventure,Malaysian Adventure,2012,,43,"Reality-TV,Sport",,
+tt0364779,tt2389752,,,,Episode dated 24 September 2012,Episode dated 24 September 2012,2012,,,"Reality-TV,Sport",,
+tt0364779,tt2416638,,,,Uncharted Territory,Uncharted Territory,2012,,43,"Reality-TV,Sport",,
+tt0364779,tt2465904,,,,A New Company,A New Company,2012,,43,"Reality-TV,Sport",,
+tt0364779,tt2465906,,,,Full Circle,Full Circle,2012,,43,"Reality-TV,Sport",,
+tt0364779,tt2476304,,,,Junior Frustration,Junior Frustration,2012,,,"Reality-TV,Sport",,
+tt0364779,tt2516030,,,,Episode dated 26 November 2012,Episode dated 26 November 2012,2012,,,"Reality-TV,Sport",,
+tt0364779,tt2525084,,,,Junior's Surprise,Junior's Surprise,2012,,43,"Reality-TV,Sport",,
+tt0364779,tt2525088,,,,Lee Returns,Lee Returns,2011,,43,"Reality-TV,Sport",,
+tt0364779,tt2532340,,,,Episode dated 3 December 2012,Episode dated 3 December 2012,2012,,,"Reality-TV,Sport",,
+tt0364779,tt2569856,,,,Countdown to the End,Countdown to the End,2012,,,"Reality-TV,Sport",,
+tt0364779,tt2938568,,,,Kilpsch Bike,Kilpsch Bike,2008,,,"Reality-TV,Sport",,
+tt0364779,tt5488906,,,,American Chopper: Shaq Bike,American Chopper: Shaq Bike,2014,,,"Reality-TV,Sport",,

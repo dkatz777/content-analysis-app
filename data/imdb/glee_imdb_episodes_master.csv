@@ -1,0 +1,122 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt1327801,tt1392842,1,1,S1,Pilot,Pilot,2009,,48,"Comedy,Drama,Music",8.4,3178
+tt1327801,tt1393335,1,2,S1,Showmance,Showmance,2009,,60,"Comedy,Drama,Music",7.9,2168
+tt1327801,tt1393336,1,3,S1,Acafellas,Acafellas,2009,,60,"Comedy,Drama,Music",7.5,2060
+tt1327801,tt1442937,1,4,S1,Preggers,Preggers,2009,,60,"Comedy,Drama,Music",8.3,2045
+tt1327801,tt1400073,1,5,S1,The Rhodes Not Taken,The Rhodes Not Taken,2009,,60,"Comedy,Drama,Music",7.9,1935
+tt1327801,tt1442938,1,6,S1,Vitamin D,Vitamin D,2009,,60,"Comedy,Drama,Music",8.1,1833
+tt1327801,tt1514920,1,7,S1,Throwdown,Throwdown,2009,,60,"Comedy,Drama,Music",8.1,1734
+tt1327801,tt1442939,1,8,S1,Mash-Up,Mash-Up,2009,,60,"Comedy,Drama,Music",8.0,1783
+tt1327801,tt1442940,1,9,S1,Wheels,Wheels,2009,,60,"Comedy,Drama,Music",8.6,1904
+tt1327801,tt1442936,1,10,S1,Ballad,Ballad,2009,,60,"Comedy,Drama,Music",8.2,1811
+tt1327801,tt1442933,1,11,S1,Hairography,Hairography,2009,,60,"Comedy,Drama,Music",7.9,1766
+tt1327801,tt1442934,1,12,S1,Mattress,Mattress,2009,,41,"Comedy,Drama,Music",8.2,1759
+tt1327801,tt1442935,1,13,S1,Sectionals,Sectionals,2009,,43,"Comedy,Drama,Music",9.0,2140
+tt1327801,tt1514911,1,14,S1,Hell-O,Hell-O,2010,,44,"Comedy,Drama,Music",8.0,1847
+tt1327801,tt1514912,1,15,S1,The Power of Madonna,The Power of Madonna,2010,,60,"Comedy,Drama,Music",8.6,2177
+tt1327801,tt1514913,1,16,S1,Home,Home,2010,,44,"Comedy,Drama,Music",7.9,1797
+tt1327801,tt1514914,1,17,S1,Bad Reputation,Bad Reputation,2010,,60,"Comedy,Drama,Music",8.1,1741
+tt1327801,tt1514915,1,18,S1,Laryngitis,Laryngitis,2010,,60,"Comedy,Drama,Music",7.9,1681
+tt1327801,tt1514916,1,19,S1,Dream On,Dream On,2010,,60,"Comedy,Drama,Music",8.5,2080
+tt1327801,tt1514918,1,20,S1,Theatricality,Theatricality,2010,,60,"Comedy,Drama,Music",8.4,1834
+tt1327801,tt1514917,1,21,S1,Funk,Funk,2010,,60,"Comedy,Drama,Music",7.8,1645
+tt1327801,tt1514919,1,22,S1,Journey to Regionals,Journey to Regionals,2010,,60,"Comedy,Drama,Music",9.1,2263
+tt1327801,tt1628278,2,1,S2,Audition,Audition,2010,,60,"Comedy,Drama,Music",8.1,1686
+tt1327801,tt1628289,2,2,S2,Britney/Brittany,Britney/Brittany,2010,,60,"Comedy,Drama,Music",8.2,1950
+tt1327801,tt1628293,2,3,S2,Grilled Cheesus,Grilled Cheesus,2010,,60,"Comedy,Drama,Music",7.9,1890
+tt1327801,tt1628294,2,4,S2,Duets,Duets,2010,,60,"Comedy,Drama,Music",8.3,1644
+tt1327801,tt1628295,2,5,S2,The Rocky Horror Glee Show,The Rocky Horror Glee Show,2010,,60,"Comedy,Drama,Music",8.0,1760
+tt1327801,tt1628296,2,6,S2,Never Been Kissed,Never Been Kissed,2010,,60,"Comedy,Drama,Music",8.6,1944
+tt1327801,tt1628297,2,7,S2,The Substitute,The Substitute,2010,,60,"Comedy,Drama,Music",8.5,1704
+tt1327801,tt1628298,2,8,S2,Furt,Furt,2010,,60,"Comedy,Drama,Music",8.7,1750
+tt1327801,tt1628279,2,9,S2,Special Education,Special Education,2010,,60,"Comedy,Drama,Music",8.1,1569
+tt1327801,tt1628280,2,10,S2,A Very Glee Christmas,A Very Glee Christmas,2010,,60,"Comedy,Drama,Music",8.2,1616
+tt1327801,tt1785915,2,11,S2,The Sue Sylvester Shuffle,The Sue Sylvester Shuffle,2011,,49,"Comedy,Drama,Music",8.5,1705
+tt1327801,tt1628281,2,12,S2,Silly Love Songs,Silly Love Songs,2011,,60,"Comedy,Drama,Music",8.2,1579
+tt1327801,tt1628282,2,13,S2,Comeback,Comeback,2011,,60,"Comedy,Drama,Music",7.5,1501
+tt1327801,tt1628283,2,14,S2,Blame It on the Alcohol,Blame It on the Alcohol,2011,,60,"Comedy,Drama,Music",8.5,1729
+tt1327801,tt1628284,2,15,S2,Sexy,Sexy,2011,,60,"Comedy,Drama,Music",8.1,1578
+tt1327801,tt1628285,2,16,S2,Original Song,Original Song,2011,,60,"Comedy,Drama,Music",8.8,1898
+tt1327801,tt1628286,2,17,S2,A Night of Neglect,A Night of Neglect,2011,,60,"Comedy,Drama,Music",7.2,1463
+tt1327801,tt1628287,2,18,S2,Born This Way,Born This Way,2011,,57,"Comedy,Drama,Music",8.5,1702
+tt1327801,tt1628288,2,19,S2,Rumours,Rumours,2011,,60,"Comedy,Drama,Music",8.0,1498
+tt1327801,tt1628290,2,20,S2,Prom Queen,Prom Queen,2011,,60,"Comedy,Drama,Music",8.4,1582
+tt1327801,tt1628291,2,21,S2,Funeral,Funeral,2011,,60,"Comedy,Drama,Music",8.5,1559
+tt1327801,tt1628292,2,22,S2,New York,New York,2011,,60,"Comedy,Drama,Music",8.2,1603
+tt1327801,tt1670435,3,1,S3,The Purple Piano Project,The Purple Piano Project,2011,,44,"Comedy,Drama,Music",7.5,1657
+tt1327801,tt2001503,3,2,S3,I Am Unicorn,I Am Unicorn,2011,,43,"Comedy,Drama,Music",7.5,1448
+tt1327801,tt2001507,3,3,S3,Asian F,Asian F,2011,,45,"Comedy,Drama,Music",8.1,1511
+tt1327801,tt2001508,3,4,S3,Pot O' Gold,Pot O' Gold,2011,,44,"Comedy,Drama,Music",7.5,1404
+tt1327801,tt2001509,3,5,S3,The First Time,The First Time,2011,,43,"Comedy,Drama,Music",8.3,1578
+tt1327801,tt2001510,3,6,S3,Mash Off,Mash Off,2011,,41,"Comedy,Drama,Music",8.4,1489
+tt1327801,tt2001511,3,7,S3,I Kissed a Girl,I Kissed a Girl,2011,,43,"Comedy,Drama,Music",8.1,1409
+tt1327801,tt2001512,3,8,S3,Hold on to Sixteen,Hold on to Sixteen,2011,,45,"Comedy,Drama,Music",8.4,1478
+tt1327801,tt2001513,3,9,S3,Extraordinary Merry Christmas,Extraordinary Merry Christmas,2011,,44,"Comedy,Drama,Music",7.3,1472
+tt1327801,tt2001493,3,10,S3,Yes/No,Yes/No,2012,,44,"Comedy,Drama,Music",8.4,1514
+tt1327801,tt2001494,3,11,S3,Michael,Michael,2012,,44,"Comedy,Drama,Music",8.5,1636
+tt1327801,tt2001495,3,12,S3,The Spanish Teacher,The Spanish Teacher,2012,,45,"Comedy,Drama,Music",7.5,1350
+tt1327801,tt2001496,3,13,S3,Heart,Heart,2012,,44,"Comedy,Drama,Music",8.1,1393
+tt1327801,tt2001497,3,14,S3,On My Way,On My Way,2012,,44,"Comedy,Drama,Music",8.8,1832
+tt1327801,tt2001498,3,15,S3,Big Brother,Big Brother,2012,,44,"Comedy,Drama,Music",7.5,1412
+tt1327801,tt2001499,3,16,S3,Saturday Night Glee-ver,Saturday Night Glee-ver,2012,,44,"Comedy,Drama,Music",7.6,1318
+tt1327801,tt2001500,3,17,S3,Dance with Somebody,Dance with Somebody,2012,,44,"Comedy,Drama,Music",8.1,1335
+tt1327801,tt2001501,3,18,S3,Choke,Choke,2012,,44,"Comedy,Drama,Music",8.1,1289
+tt1327801,tt2001502,3,19,S3,Prom-asaurus,Prom-asaurus,2012,,44,"Comedy,Drama,Music",8.2,1297
+tt1327801,tt2001504,3,20,S3,Props,Props,2012,,44,"Comedy,Drama,Music",8.4,1372
+tt1327801,tt2001505,3,21,S3,Nationals,Nationals,2012,,44,"Comedy,Drama,Music",9.1,1823
+tt1327801,tt2001506,3,22,S3,Goodbye,Goodbye,2012,,45,"Comedy,Drama,Music",8.7,1524
+tt1327801,tt2272167,4,1,S4,The New Rachel,The New Rachel,2012,,43,"Comedy,Drama,Music",8.2,1662
+tt1327801,tt2403603,4,2,S4,Britney 2.0,Britney 2.0,2012,,43,"Comedy,Drama,Music",7.4,1238
+tt1327801,tt2403611,4,3,S4,Makeover,Makeover,2012,,43,"Comedy,Drama,Music",7.4,1100
+tt1327801,tt2403613,4,4,S4,The Break-Up,The Break-Up,2012,,45,"Comedy,Drama,Music",8.7,1652
+tt1327801,tt2403615,4,5,S4,The Role You Were Born to Play,The Role You Were Born to Play,2012,,44,"Comedy,Drama,Music",7.5,1047
+tt1327801,tt2403617,4,6,S4,Glease,Glease,2012,,44,"Comedy,Drama,Music",7.9,1201
+tt1327801,tt2403619,4,7,S4,Dynamic Duets,Dynamic Duets,2012,,43,"Comedy,Drama,Music",7.2,1214
+tt1327801,tt2403621,4,8,S4,Thanksgiving,Thanksgiving,2012,,44,"Comedy,Drama,Music",7.6,1229
+tt1327801,tt2403623,4,9,S4,Swan Song,Swan Song,2012,,43,"Comedy,Drama,Music",8.1,1263
+tt1327801,tt2403583,4,10,S4,"Glee, Actually","Glee, Actually",2012,,43,"Comedy,Drama,Music",7.5,1125
+tt1327801,tt2403585,4,11,S4,Sadie Hawkins,Sadie Hawkins,2013,,43,"Comedy,Drama,Music",7.1,1116
+tt1327801,tt2403587,4,12,S4,Naked,Naked,2013,,43,"Comedy,Drama,Music",7.4,1154
+tt1327801,tt2403589,4,13,S4,Diva,Diva,2013,,43,"Comedy,Drama,Music",7.3,1140
+tt1327801,tt2403591,4,14,S4,I Do,I Do,2013,,44,"Comedy,Drama,Music",8.0,1277
+tt1327801,tt2403593,4,15,S4,Girls (and Boys) on Film,Girls (and Boys) on Film,2013,,43,"Comedy,Drama,Music",7.7,1108
+tt1327801,tt2403595,4,16,S4,Feud,Feud,2013,,43,"Comedy,Drama,Music",7.8,1097
+tt1327801,tt2403597,4,17,S4,Guilty Pleasures,Guilty Pleasures,2013,,43,"Comedy,Drama,Music",7.8,1114
+tt1327801,tt2403599,4,18,S4,Shooting Star,Shooting Star,2013,,44,"Comedy,Drama,Music",8.5,1530
+tt1327801,tt2403601,4,19,S4,Sweet Dreams,Sweet Dreams,2013,,43,"Comedy,Drama,Music",7.5,1070
+tt1327801,tt2403605,4,20,S4,Lights Out,Lights Out,2013,,43,"Comedy,Drama,Music",7.0,1053
+tt1327801,tt2403607,4,21,S4,Wonder-ful,Wonder-ful,2013,,44,"Comedy,Drama,Music",7.4,1054
+tt1327801,tt2403609,4,22,S4,All or Nothing,All or Nothing,2013,,43,"Comedy,Drama,Music",7.5,1081
+tt1327801,tt3014616,5,1,S5,"Love, Love, Love","Love, Love, Love",2013,,44,"Comedy,Drama,Music",7.8,1279
+tt1327801,tt3068770,5,2,S5,Tina in the Sky with Diamonds,Tina in the Sky with Diamonds,2013,,44,"Comedy,Drama,Music",7.5,999
+tt1327801,tt3068760,5,3,S5,The Quarterback,The Quarterback,2013,,45,"Comedy,Drama,Music",9.5,3784
+tt1327801,tt3183202,5,4,S5,A Katy or a Gaga,A Katy or a Gaga,2013,,45,"Comedy,Drama,Music",7.1,1113
+tt1327801,tt3232670,5,5,S5,The End of Twerk,The End of Twerk,2013,,44,"Comedy,Drama,Music",6.6,1057
+tt1327801,tt3250466,5,6,S5,Movin' Out,Movin' Out,2013,,44,"Comedy,Drama,Music",7.2,999
+tt1327801,tt3286840,5,7,S5,Puppet Master,Puppet Master,2013,,44,"Comedy,Drama,Music",6.6,1043
+tt1327801,tt3314390,5,8,S5,Previously Unaired Christmas,Previously Unaired Christmas,2013,,42,"Comedy,Drama,Music",6.0,1181
+tt1327801,tt3329402,5,9,S5,Frenemies,Frenemies,2014,,45,"Comedy,Drama,Music",7.7,1005
+tt1327801,tt3364556,5,10,S5,Trio,Trio,2014,,44,"Comedy,Drama,Music",7.3,867
+tt1327801,tt3391206,5,11,S5,City of Angels,City of Angels,2014,,43,"Comedy,Drama,Music",8.1,1093
+tt1327801,tt3384974,5,12,S5,100,100,2014,,43,"Comedy,Drama,Music",8.8,1342
+tt1327801,tt3503338,5,13,S5,New Directions,New Directions,2014,,43,"Comedy,Drama,Music",8.7,1217
+tt1327801,tt3501296,5,14,S5,New New York,New New York,2014,,44,"Comedy,Drama,Music",7.6,1012
+tt1327801,tt3596032,5,15,S5,Bash,Bash,2014,,43,"Comedy,Drama,Music",7.5,959
+tt1327801,tt3593618,5,16,S5,Tested,Tested,2014,,44,"Comedy,Drama,Music",7.0,933
+tt1327801,tt3628508,5,17,S5,Opening Night,Opening Night,2014,,43,"Comedy,Drama,Music",8.0,1023
+tt1327801,tt3628512,5,18,S5,The Back-Up Plan,The Back-Up Plan,2014,,44,"Comedy,Drama,Music",6.8,919
+tt1327801,tt3609518,5,19,S5,"Old Dog, New Tricks","Old Dog, New Tricks",2014,,44,"Comedy,Drama,Music",7.2,966
+tt1327801,tt3628526,5,20,S5,The Untitled Rachel Berry Project,The Untitled Rachel Berry Project,2014,,45,"Comedy,Drama,Music",7.0,982
+tt1327801,tt3237764,6,1,S6,Loser Like Me,Loser Like Me,2015,,46,"Comedy,Drama,Music",7.6,1128
+tt1327801,tt3902882,6,2,S6,Homecoming,Homecoming,2015,,46,"Comedy,Drama,Music",8.0,1132
+tt1327801,tt3300326,6,3,S6,Jagged Little Tapestry,Jagged Little Tapestry,2015,,46,"Comedy,Drama,Music",7.6,1012
+tt1327801,tt3976288,6,4,S6,The Hurt Locker: Part 1,The Hurt Locker: Part 1,2015,,45,"Comedy,Drama,Music",7.1,1022
+tt1327801,tt3300334,6,5,S6,The Hurt Locker: Part 2,The Hurt Locker: Part 2,2015,,46,"Comedy,Drama,Music",7.6,1037
+tt1327801,tt3986488,6,6,S6,What the World Needs Now,What the World Needs Now,2015,,47,"Comedy,Drama,Music",7.3,960
+tt1327801,tt3992234,6,7,S6,Transitioning,Transitioning,2015,,47,"Comedy,Drama,Music",7.8,985
+tt1327801,tt4000512,6,8,S6,A Wedding,A Wedding,2015,,47,"Comedy,Drama,Music",8.5,1238
+tt1327801,tt3999282,6,9,S6,Child Star,Child Star,2015,,47,"Comedy,Drama,Music",7.1,931
+tt1327801,tt3999284,6,10,S6,The Rise and Fall of Sue Sylvester,The Rise and Fall of Sue Sylvester,2015,,47,"Comedy,Drama,Music",7.2,942
+tt1327801,tt3999286,6,11,S6,We Built This Glee Club,We Built This Glee Club,2015,,47,"Comedy,Drama,Music",8.1,992
+tt1327801,tt3999280,6,12,S6,2009,2009,2015,,46,"Comedy,Drama,Music",8.7,1312
+tt1327801,tt3888738,6,13,S6,Dreams Come True,Dreams Come True,2015,,46,"Comedy,Drama,Music",9.0,1459

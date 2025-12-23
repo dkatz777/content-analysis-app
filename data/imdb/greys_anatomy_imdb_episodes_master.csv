@@ -1,0 +1,467 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0413573,tt0592902,1,1,S1,A Hard Day's Night,A Hard Day's Night,2005,,44,"Drama,Romance",8.3,3452
+tt0413573,tt0592923,1,2,S1,The First Cut Is the Deepest,The First Cut Is the Deepest,2005,,44,"Drama,Romance",8.1,2404
+tt0413573,tt0592926,1,3,S1,"Winning a Battle, Losing the War","Winning a Battle, Losing the War",2005,,43,"Drama,Romance",8.0,2227
+tt0413573,tt0592915,1,4,S1,No Man's Land,No Man's Land,2005,,43,"Drama,Romance",8.0,2101
+tt0413573,tt0592919,1,5,S1,Shake Your Groove Thing,Shake Your Groove Thing,2005,,43,"Drama,Romance",8.0,2027
+tt0413573,tt0592909,1,6,S1,If Tomorrow Never Comes,If Tomorrow Never Comes,2005,,60,"Drama,Romance",8.1,1955
+tt0413573,tt0592924,1,7,S1,The Self-Destruct Button,The Self-Destruct Button,2005,,41,"Drama,Romance",8.1,1925
+tt0413573,tt0592918,1,8,S1,Save Me,Save Me,2005,,43,"Drama,Romance",7.9,1902
+tt0413573,tt0592925,1,9,S1,Who's Zoomin' Who?,Who's Zoomin' Who?,2005,,43,"Drama,Romance",8.6,2151
+tt0413573,tt0592917,2,1,S2,Raindrops Keep Falling on My Head,Raindrops Keep Falling on My Head,2005,,43,"Drama,Romance",8.3,1934
+tt0413573,tt0592907,2,2,S2,Enough Is Enough,Enough Is Enough,2005,,43,"Drama,Romance",8.1,1784
+tt0413573,tt0592913,2,3,S2,Make Me Lose Control,Make Me Lose Control,2005,,43,"Drama,Romance",8.6,1960
+tt0413573,tt0592906,2,4,S2,"Deny, Deny, Deny","Deny, Deny, Deny",2005,,43,"Drama,Romance",8.3,1832
+tt0413573,tt0592905,2,5,S2,Bring the Pain,Bring the Pain,2005,,60,"Drama,Romance",8.5,1861
+tt0413573,tt0592910,2,6,S2,Into You Like a Train,Into You Like a Train,2005,,43,"Drama,Romance",9.0,2474
+tt0413573,tt0592920,2,7,S2,Something to Talk About,Something to Talk About,2005,,60,"Drama,Romance",8.1,1667
+tt0413573,tt0592912,2,8,S2,Let It Be,Let It Be,2005,,60,"Drama,Romance",7.8,1645
+tt0413573,tt0592922,2,9,S2,Thanks for the Memories,Thanks for the Memories,2005,,60,"Drama,Romance",8.3,1727
+tt0413573,tt0592914,2,10,S2,Much Too Much,Much Too Much,2005,,60,"Drama,Romance",8.0,1648
+tt0413573,tt0592916,2,11,S2,Owner of a Lonely Heart,Owner of a Lonely Heart,2005,,60,"Drama,Romance",8.1,1616
+tt0413573,tt0592908,2,12,S2,Grandma Got Run Over by a Reindeer,Grandma Got Run Over by a Reindeer,2005,,60,"Drama,Romance",8.1,1636
+tt0413573,tt0592903,2,13,S2,Begin the Begin,Begin the Begin,2006,,60,"Drama,Romance",8.2,1691
+tt0413573,tt0592921,2,14,S2,Tell Me Sweet Little Lies,Tell Me Sweet Little Lies,2006,,60,"Drama,Romance",7.9,1612
+tt0413573,tt0592904,2,15,S2,Break on Through,Break on Through,2006,,60,"Drama,Romance",8.3,1701
+tt0413573,tt0592911,2,16,S2,It's the End of the World,It's the End of the World,2006,,60,"Drama,Romance",9.4,3566
+tt0413573,tt0759138,2,17,S2,As We Know It,As We Know It,2006,,60,"Drama,Romance",9.4,3459
+tt0413573,tt0760706,2,18,S2,Yesterday,Yesterday,2006,,60,"Drama,Romance",8.3,1709
+tt0413573,tt0759839,2,19,S2,What Have I Done to Deserve This?,What Have I Done to Deserve This?,2006,,60,"Drama,Romance",8.0,1633
+tt0413573,tt0763962,2,20,S2,Band-Aid Covers the Bullet Hole,Band-Aid Covers the Bullet Hole,2006,,60,"Drama,Romance",7.9,1578
+tt0413573,tt0763963,2,21,S2,Superstition,Superstition,2006,,43,"Drama,Romance",8.1,1567
+tt0413573,tt0772483,2,22,S2,The Name of the Game,The Name of the Game,2006,,60,"Drama,Romance",8.1,1581
+tt0413573,tt0776002,2,23,S2,Blues for Sister Someone,Blues for Sister Someone,2006,,60,"Drama,Romance",7.9,1597
+tt0413573,tt0782343,2,24,S2,Damage Case,Damage Case,2006,,60,"Drama,Romance",8.4,1689
+tt0413573,tt0789452,2,25,S2,17 Seconds,17 Seconds,2006,,60,"Drama,Romance",9.0,2154
+tt0413573,tt0789453,2,26,S2,Deterioration of the Fight or Flight Response,Deterioration of the Fight or Flight Response,2006,,60,"Drama,Romance",9.0,2146
+tt0413573,tt0805280,2,27,S2,Losing My Religion,Losing My Religion,2006,,41,"Drama,Romance",9.3,2840
+tt0413573,tt0854774,3,1,S3,Time Has Come Today,Time Has Come Today,2006,,60,"Drama,Romance",8.3,1928
+tt0413573,tt0865668,3,2,S3,I Am a Tree,I Am a Tree,2006,,60,"Drama,Romance",8.1,1516
+tt0413573,tt0874558,3,3,S3,Sometimes a Fantasy,Sometimes a Fantasy,2006,,60,"Drama,Romance",8.0,1529
+tt0413573,tt0877110,3,4,S3,What I Am,What I Am,2006,,60,"Drama,Romance",8.2,1599
+tt0413573,tt0852787,3,5,S3,"Oh, the Guilt","Oh, the Guilt",2006,,60,"Drama,Romance",8.0,1439
+tt0413573,tt0877109,3,6,S3,Let the Angels Commit,Let the Angels Commit,2006,,60,"Drama,Romance",7.9,1844
+tt0413573,tt0877112,3,7,S3,Where the Boys Are,Where the Boys Are,2006,,60,"Drama,Romance",7.9,1603
+tt0413573,tt0900569,3,8,S3,Staring at the Sun,Staring at the Sun,2006,,60,"Drama,Romance",7.9,1545
+tt0413573,tt0906402,3,9,S3,From a Whisper to a Scream,From a Whisper to a Scream,2006,,60,"Drama,Romance",8.6,1768
+tt0413573,tt0903412,3,10,S3,Don't Stand So Close to Me,Don't Stand So Close to Me,2006,,60,"Drama,Romance",8.1,1475
+tt0413573,tt0917048,3,11,S3,Six Days: Part 1,Six Days: Part 1,2007,,60,"Drama,Romance",8.3,1662
+tt0413573,tt0931862,3,12,S3,Six Days: Part 2,Six Days: Part 2,2007,,60,"Drama,Romance",8.6,1749
+tt0413573,tt0935486,3,13,S3,Great Expectations,Great Expectations,2007,,60,"Drama,Romance",8.2,1490
+tt0413573,tt0948266,3,14,S3,Wishin' and Hopin',Wishin' and Hopin',2007,,60,"Drama,Romance",8.5,1525
+tt0413573,tt0940133,3,15,S3,Walk on Water,Walk on Water,2007,,60,"Drama,Romance",8.8,1877
+tt0413573,tt0962364,3,16,S3,Drowning on Dry Land,Drowning on Dry Land,2007,,60,"Drama,Romance",9.0,2043
+tt0413573,tt0962365,3,17,S3,Some Kind of Miracle,Some Kind of Miracle,2007,,60,"Drama,Romance",8.4,2001
+tt0413573,tt0971628,3,18,S3,Scars and Souvenirs,Scars and Souvenirs,2007,,60,"Drama,Romance",8.1,1593
+tt0413573,tt0964281,3,19,S3,My Favorite Mistake,My Favorite Mistake,2007,,60,"Drama,Romance",8.0,1460
+tt0413573,tt1001867,3,20,S3,Time After Time,Time After Time,2007,,60,"Drama,Romance",8.0,1443
+tt0413573,tt0998426,3,21,S3,Desire,Desire,2007,,60,"Drama,Romance",7.9,1449
+tt0413573,tt1011450,3,22,S3,"The Other Side of This Life, Part 1","The Other Side of This Life, Part 1",2007,,60,"Drama,Romance",6.9,1728
+tt0413573,tt1011451,3,23,S3,"The Other Side of This Life, Part 2","The Other Side of This Life, Part 2",2007,,60,"Drama,Romance",7.1,1600
+tt0413573,tt1017765,3,24,S3,Testing 1-2-3,Testing 1-2-3,2007,,60,"Drama,Romance",8.3,1472
+tt0413573,tt1020626,3,25,S3,Didn't We Almost Have It All?,Didn't We Almost Have It All?,2007,,60,"Drama,Romance",8.7,1996
+tt0413573,tt1002868,4,1,S4,A Change Is Gonna Come,A Change Is Gonna Come,2007,,60,"Drama,Romance",8.0,1585
+tt0413573,tt1002879,4,2,S4,Love/Addiction,Love/Addiction,2007,,60,"Drama,Romance",7.7,1381
+tt0413573,tt1002883,4,3,S4,Let the Truth Sting,Let the Truth Sting,2007,,60,"Drama,Romance",7.9,1403
+tt0413573,tt1002884,4,4,S4,The Heart of the Matter,The Heart of the Matter,2007,,60,"Drama,Romance",7.9,1429
+tt0413573,tt1002885,4,5,S4,Haunt You Every Day,Haunt You Every Day,2007,,60,"Drama,Romance",7.9,1399
+tt0413573,tt1002886,4,6,S4,Kung Fu Fighting,Kung Fu Fighting,2007,,60,"Drama,Romance",7.9,1337
+tt0413573,tt1002887,4,7,S4,Physical Attraction... Chemical Reaction,Physical Attraction... Chemical Reaction,2007,,60,"Drama,Romance",7.7,1377
+tt0413573,tt1002888,4,8,S4,Forever Young,Forever Young,2007,,60,"Drama,Romance",7.9,1414
+tt0413573,tt1002889,4,9,S4,Crash Into Me: Part 1,Crash Into Me: Part 1,2007,,60,"Drama,Romance",8.5,1572
+tt0413573,tt1002869,4,10,S4,Crash Into Me: Part 2,Crash Into Me: Part 2,2007,,60,"Drama,Romance",8.4,1491
+tt0413573,tt1002870,4,11,S4,Lay Your Hands on Me,Lay Your Hands on Me,2008,,60,"Drama,Romance",7.9,1393
+tt0413573,tt1002871,4,12,S4,Where the Wild Things Are,Where the Wild Things Are,2008,,60,"Drama,Romance",8.0,1342
+tt0413573,tt1002872,4,13,S4,Piece of My Heart,Piece of My Heart,2008,,60,"Drama,Romance",8.1,1357
+tt0413573,tt1002873,4,14,S4,The Becoming,The Becoming,2008,,60,"Drama,Romance",8.0,1547
+tt0413573,tt1002874,4,15,S4,Losing My Mind,Losing My Mind,2008,,60,"Drama,Romance",8.0,1399
+tt0413573,tt1002875,4,16,S4,Freedom: Part 1,Freedom: Part 1,2008,,60,"Drama,Romance",8.6,1760
+tt0413573,tt2373009,4,17,S4,Freedom: Part 2,Freedom: Part 2,2008,,60,"Drama,Romance",8.8,1470
+tt0413573,tt1263280,5,1,S5,Dream a Little Dream of Me: Part 1,Dream a Little Dream of Me: Part 1,2008,,60,"Drama,Romance",8.2,1565
+tt0413573,tt2373007,5,2,S5,Dream a Little Dream of Me: Part 2,Dream a Little Dream of Me: Part 2,2008,,60,"Drama,Romance",8.2,1199
+tt0413573,tt1263295,5,3,S5,Here Comes the Flood,Here Comes the Flood,2008,,60,"Drama,Romance",8.1,1438
+tt0413573,tt1263296,5,4,S5,Brave New World,Brave New World,2008,,60,"Drama,Romance",8.2,1541
+tt0413573,tt1263297,5,5,S5,There's No 'I' in Team,There's No 'I' in Team,2008,,55,"Drama,Romance",8.3,1499
+tt0413573,tt1263298,5,6,S5,Life During Wartime,Life During Wartime,2008,,60,"Drama,Romance",8.2,1368
+tt0413573,tt1263299,5,7,S5,Rise Up,Rise Up,2008,,41,"Drama,Romance",8.3,1505
+tt0413573,tt1263300,5,8,S5,These Ties That Bind,These Ties That Bind,2008,,43,"Drama,Romance",7.8,1550
+tt0413573,tt1263301,5,9,S5,In the Midnight Hour,In the Midnight Hour,2008,,60,"Drama,Romance",8.2,1552
+tt0413573,tt1263281,5,10,S5,All by Myself,All by Myself,2008,,60,"Drama,Romance",8.2,1523
+tt0413573,tt1338329,5,11,S5,Wish You Were Here,Wish You Were Here,2009,,60,"Drama,Romance",8.1,1305
+tt0413573,tt1263282,5,12,S5,Sympathy for the Devil,Sympathy for the Devil,2009,,60,"Drama,Romance",8.6,1653
+tt0413573,tt1263283,5,13,S5,Stairway to Heaven,Stairway to Heaven,2009,,60,"Drama,Romance",9.0,1974
+tt0413573,tt1263284,5,14,S5,Beat Your Heart Out,Beat Your Heart Out,2009,,60,"Drama,Romance",8.2,1432
+tt0413573,tt1263285,5,15,S5,Before and After,Before and After,2009,,55,"Drama,Romance",8.1,1296
+tt0413573,tt1379395,5,16,S5,An Honest Mistake,An Honest Mistake,2009,,60,"Drama,Romance",8.5,1593
+tt0413573,tt1263287,5,17,S5,I Will Follow You Into the Dark,I Will Follow You Into the Dark,2009,,60,"Drama,Romance",8.5,1574
+tt0413573,tt1263288,5,18,S5,Stand by Me,Stand by Me,2009,,60,"Drama,Romance",8.8,1694
+tt0413573,tt1263290,5,19,S5,Elevator Love Letter,Elevator Love Letter,2009,,60,"Drama,Romance",8.9,1764
+tt0413573,tt1404226,5,20,S5,Sweet Surrender,Sweet Surrender,2009,,60,"Drama,Romance",8.5,1577
+tt0413573,tt1263292,5,21,S5,No Good at Saying Sorry (One More Chance),No Good at Saying Sorry (One More Chance),2009,,60,"Drama,Romance",8.3,1321
+tt0413573,tt1263293,5,22,S5,What a Difference a Day Makes,What a Difference a Day Makes,2009,,60,"Drama,Romance",9.1,2095
+tt0413573,tt1435078,5,23,S5,Here's to Future Days,Here's to Future Days,2009,,55,"Drama,Romance",8.8,1735
+tt0413573,tt1435079,5,24,S5,Now or Never,Now or Never,2009,,60,"Drama,Romance",9.5,3325
+tt0413573,tt1457924,6,1,S6,Good Mourning,Good Mourning,2009,,60,"Drama,Romance",8.4,1643
+tt0413573,tt1497728,6,2,S6,Goodbye,Goodbye,2009,,60,"Drama,Romance",8.2,1510
+tt0413573,tt1497729,6,3,S6,I Always Feel Like Somebody's Watchin' Me,I Always Feel Like Somebody's Watchin' Me,2009,,60,"Drama,Romance",7.8,1248
+tt0413573,tt1497730,6,4,S6,Tainted Obligation,Tainted Obligation,2009,,60,"Drama,Romance",7.9,1256
+tt0413573,tt1497731,6,5,S6,Invasion,Invasion,2009,,60,"Drama,Romance",8.0,1307
+tt0413573,tt1497732,6,6,S6,I Saw What I Saw,I Saw What I Saw,2009,,60,"Drama,Romance",9.0,2144
+tt0413573,tt1497733,6,7,S6,Give Peace a Chance,Give Peace a Chance,2009,,60,"Drama,Romance",8.7,1545
+tt0413573,tt1497734,6,8,S6,Invest in Love,Invest in Love,2009,,60,"Drama,Romance",8.4,1378
+tt0413573,tt1497735,6,9,S6,New History,New History,2009,,60,"Drama,Romance",8.1,1203
+tt0413573,tt1497727,6,10,S6,Holidaze,Holidaze,2009,,60,"Drama,Romance",7.9,1248
+tt0413573,tt1557983,6,11,S6,Blink,Blink,2010,,60,"Drama,Romance",8.0,1199
+tt0413573,tt1578973,6,12,S6,I Like You So Much Better When You're Naked,I Like You So Much Better When You're Naked,2010,,60,"Drama,Romance",7.8,1210
+tt0413573,tt1586069,6,13,S6,State of Love and Trust,State of Love and Trust,2010,,60,"Drama,Romance",8.0,1176
+tt0413573,tt1595404,6,14,S6,Valentine's Day Massacre,Valentine's Day Massacre,2010,,55,"Drama,Romance",8.0,1161
+tt0413573,tt1595703,6,15,S6,The Time Warp,The Time Warp,2010,,60,"Drama,Romance",8.8,1788
+tt0413573,tt1605238,6,16,S6,Perfect Little Accident,Perfect Little Accident,2010,,60,"Drama,Romance",8.0,1182
+tt0413573,tt1611350,6,17,S6,Push,Push,2010,,55,"Drama,Romance",7.9,1181
+tt0413573,tt1610766,6,18,S6,Suicide Is Painless,Suicide Is Painless,2010,,60,"Drama,Romance",7.8,1238
+tt0413573,tt1623864,6,19,S6,Sympathy for the Parents,Sympathy for the Parents,2010,,60,"Drama,Romance",7.9,1165
+tt0413573,tt1631566,6,20,S6,"Hook, Line and Sinner","Hook, Line and Sinner",2010,,60,"Drama,Romance",7.7,1132
+tt0413573,tt1631567,6,21,S6,How Insensitive,How Insensitive,2010,,60,"Drama,Romance",8.1,1184
+tt0413573,tt1631568,6,22,S6,Shiny Happy People,Shiny Happy People,2010,,60,"Drama,Romance",8.2,1399
+tt0413573,tt1643648,6,23,S6,Sanctuary,Sanctuary,2010,,60,"Drama,Romance",9.7,3989
+tt0413573,tt1643647,6,24,S6,Death and All His Friends,Death and All His Friends,2010,,60,"Drama,Romance",9.7,4632
+tt0413573,tt1688807,7,1,S7,With You I'm Born Again,With You I'm Born Again,2010,,60,"Drama,Romance",7.9,1382
+tt0413573,tt1704843,7,2,S7,Shock to the System,Shock to the System,2010,,60,"Drama,Romance",7.9,1203
+tt0413573,tt1733841,7,3,S7,Superfreak,Superfreak,2010,,55,"Drama,Romance",7.7,1180
+tt0413573,tt1733366,7,4,S7,Can't Fight Biology,Can't Fight Biology,2010,,60,"Drama,Romance",7.6,1150
+tt0413573,tt1724309,7,5,S7,Almost Grown,Almost Grown,2010,,60,"Drama,Romance",7.9,1173
+tt0413573,tt1739480,7,6,S7,These Arms of Mine,These Arms of Mine,2010,,60,"Drama,Romance",7.7,1657
+tt0413573,tt1743845,7,7,S7,That's Me Trying,That's Me Trying,2010,,60,"Drama,Romance",7.8,1189
+tt0413573,tt1743846,7,8,S7,Something's Gotta Give,Something's Gotta Give,2010,,60,"Drama,Romance",7.8,1168
+tt0413573,tt1743847,7,9,S7,"Slow Night, So Long","Slow Night, So Long",2010,,60,"Drama,Romance",8.1,1201
+tt0413573,tt1782086,7,10,S7,Adrift and at Peace,Adrift and at Peace,2010,,55,"Drama,Romance",8.2,1327
+tt0413573,tt1782085,7,11,S7,Disarm,Disarm,2011,,60,"Drama,Romance",8.6,1526
+tt0413573,tt1802924,7,12,S7,Start Me Up,Start Me Up,2011,,60,"Drama,Romance",7.9,1163
+tt0413573,tt1816195,7,13,S7,Don't Deceive Me (Please Don't Go),Don't Deceive Me (Please Don't Go),2011,,43,"Drama,Romance",7.8,1135
+tt0413573,tt1816196,7,14,S7,P.Y.T. (Pretty Young Thing),P.Y.T. (Pretty Young Thing),2011,,60,"Drama,Romance",7.7,1122
+tt0413573,tt1818770,7,15,S7,Golden Hour,Golden Hour,2011,,60,"Drama,Romance",8.6,1450
+tt0413573,tt1818771,7,16,S7,Not Responsible,Not Responsible,2011,,55,"Drama,Romance",7.7,1109
+tt0413573,tt1831103,7,17,S7,This Is How We Do It,This Is How We Do It,2011,,60,"Drama,Romance",8.0,1175
+tt0413573,tt1831104,7,18,S7,Song Beneath the Song,Song Beneath the Song,2011,,60,"Drama,Romance",6.1,4741
+tt0413573,tt1831105,7,19,S7,It's a Long Way Back,It's a Long Way Back,2011,,55,"Drama,Romance",7.8,1158
+tt0413573,tt1831106,7,20,S7,White Wedding,White Wedding,2011,,55,"Drama,Romance",7.9,1190
+tt0413573,tt1831107,7,21,S7,I Will Survive,I Will Survive,2011,,60,"Drama,Romance",7.9,1081
+tt0413573,tt1831108,7,22,S7,Unaccompanied Minor,Unaccompanied Minor,2011,,60,"Drama,Romance",8.1,1315
+tt0413573,tt1926568,8,1,S8,Free Falling,Free Falling,2011,,43,"Drama,Romance",8.1,1403
+tt0413573,tt2016477,8,2,S8,She's Gone,She's Gone,2011,,43,"Drama,Romance",8.3,1358
+tt0413573,tt2016478,8,3,S8,Take the Lead,Take the Lead,2011,,41,"Drama,Romance",8.1,1174
+tt0413573,tt2056971,8,4,S8,What Is It About Men,What Is It About Men,2011,,43,"Drama,Romance",8.1,1233
+tt0413573,tt2070144,8,5,S8,"Love, Loss and Legacy","Love, Loss and Legacy",2011,,43,"Drama,Romance",8.1,1212
+tt0413573,tt2069323,8,6,S8,Poker Face,Poker Face,2011,,43,"Drama,Romance",7.9,1120
+tt0413573,tt2071049,8,7,S8,"Put Me in, Coach","Put Me in, Coach",2011,,43,"Drama,Romance",8.2,1227
+tt0413573,tt2084356,8,8,S8,Heart-Shaped Box,Heart-Shaped Box,2011,,43,"Drama,Romance",8.4,1398
+tt0413573,tt2095253,8,9,S8,Dark Was the Night,Dark Was the Night,2011,,43,"Drama,Romance",9.1,1898
+tt0413573,tt2104399,8,10,S8,Suddenly,Suddenly,2012,,44,"Drama,Romance",9.0,1722
+tt0413573,tt2110742,8,11,S8,This Magic Moment,This Magic Moment,2012,,43,"Drama,Romance",8.2,1242
+tt0413573,tt2171023,8,12,S8,Hope for the Hopeless,Hope for the Hopeless,2012,,43,"Drama,Romance",8.2,1288
+tt0413573,tt2187691,8,13,S8,If/Then,If/Then,2012,,43,"Drama,Romance",7.7,1826
+tt0413573,tt2187687,8,14,S8,All You Need Is Love,All You Need Is Love,2012,,43,"Drama,Romance",8.0,1111
+tt0413573,tt2187689,8,15,S8,Have You Seen Me Lately?,Have You Seen Me Lately?,2012,,43,"Drama,Romance",7.9,1131
+tt0413573,tt2208571,8,16,S8,If Only You Were Lonely,If Only You Were Lonely,2012,,43,"Drama,Romance",8.0,1237
+tt0413573,tt2232323,8,17,S8,One Step Too Far,One Step Too Far,2012,,43,"Drama,Romance",7.9,1094
+tt0413573,tt2232325,8,18,S8,The Lion Sleeps Tonight,The Lion Sleeps Tonight,2012,,42,"Drama,Romance",7.9,1109
+tt0413573,tt2245673,8,19,S8,Support System,Support System,2012,,42,"Drama,Romance",8.1,1318
+tt0413573,tt2245675,8,20,S8,The Girl with No Name,The Girl with No Name,2012,,43,"Drama,Romance",8.5,1193
+tt0413573,tt2245677,8,21,S8,Moment of Truth,Moment of Truth,2012,,43,"Drama,Romance",8.4,1204
+tt0413573,tt2245679,8,22,S8,Let the Bad Times Roll,Let the Bad Times Roll,2012,,43,"Drama,Romance",8.5,1292
+tt0413573,tt2245681,8,23,S8,Migration,Migration,2012,,41,"Drama,Romance",8.5,1357
+tt0413573,tt2245683,8,24,S8,Flight,Flight,2012,,43,"Drama,Romance",8.8,2354
+tt0413573,tt2397001,9,1,S9,"Going, Going, Gone","Going, Going, Gone",2012,,42,"Drama,Romance",8.5,2199
+tt0413573,tt2380524,9,2,S9,Remember the Time,Remember the Time,2012,,43,"Drama,Romance",8.8,1735
+tt0413573,tt2424794,9,3,S9,Love the One You're With,Love the One You're With,2012,,43,"Drama,Romance",8.2,1254
+tt0413573,tt2407126,9,4,S9,I Saw Her Standing There,I Saw Her Standing There,2012,,43,"Drama,Romance",8.0,1121
+tt0413573,tt2436060,9,5,S9,Beautiful Doom,Beautiful Doom,2012,,42,"Drama,Romance",8.5,1391
+tt0413573,tt2468414,9,6,S9,Second Opinion,Second Opinion,2012,,42,"Drama,Romance",8.1,1293
+tt0413573,tt2468416,9,7,S9,I Was Made for Lovin' You,I Was Made for Lovin' You,2012,,42,"Drama,Romance",8.1,1289
+tt0413573,tt2513560,9,8,S9,Love Turns You Upside Down,Love Turns You Upside Down,2012,,42,"Drama,Romance",8.0,1145
+tt0413573,tt2513562,9,9,S9,"Run, Baby, Run","Run, Baby, Run",2012,,43,"Drama,Romance",8.4,1268
+tt0413573,tt2523518,9,10,S9,Things We Said Today,Things We Said Today,2013,,43,"Drama,Romance",8.3,1290
+tt0413573,tt2564404,9,11,S9,The End Is the Beginning Is the End,The End Is the Beginning Is the End,2013,,43,"Drama,Romance",8.0,1104
+tt0413573,tt2532024,9,12,S9,Walking on a Dream,Walking on a Dream,2013,,43,"Drama,Romance",7.8,1081
+tt0413573,tt2567774,9,13,S9,Bad Blood,Bad Blood,2013,,43,"Drama,Romance",7.8,1102
+tt0413573,tt2630060,9,14,S9,The Face of Change,The Face of Change,2013,,41,"Drama,Romance",8.1,1223
+tt0413573,tt2622548,9,15,S9,Hard Bargain,Hard Bargain,2013,,43,"Drama,Romance",8.2,1135
+tt0413573,tt2634948,9,16,S9,This Is Why We Fight,This Is Why We Fight,2013,,43,"Drama,Romance",8.5,1206
+tt0413573,tt2723210,9,17,S9,Transplant Wasteland,Transplant Wasteland,2013,,43,"Drama,Romance",8.1,1146
+tt0413573,tt2727620,9,18,S9,Idle Hands,Idle Hands,2013,,43,"Drama,Romance",7.8,1104
+tt0413573,tt2727626,9,19,S9,Can't Fight This Feeling,Can't Fight This Feeling,2013,,42,"Drama,Romance",7.8,1148
+tt0413573,tt2767588,9,20,S9,She's Killing Me,She's Killing Me,2013,,43,"Drama,Romance",7.9,1074
+tt0413573,tt2787000,9,21,S9,Sleeping Monster,Sleeping Monster,2013,,43,"Drama,Romance",7.8,1039
+tt0413573,tt2812610,9,22,S9,Do You Believe in Magic,Do You Believe in Magic,2013,,43,"Drama,Romance",7.7,1161
+tt0413573,tt2862738,9,23,S9,Readiness Is All,Readiness Is All,2013,,43,"Drama,Romance",8.4,1195
+tt0413573,tt2862736,9,24,S9,Perfect Storm,Perfect Storm,2013,,43,"Drama,Romance",8.9,1643
+tt0413573,tt2911802,10,1,S10,Seal Our Fate,Seal Our Fate,2013,,44,"Drama,Romance",8.0,1515
+tt0413573,tt3093166,10,2,S10,I Want You with Me,I Want You with Me,2013,,43,"Drama,Romance",7.8,1254
+tt0413573,tt3170648,10,3,S10,Everybody's Crying Mercy,Everybody's Crying Mercy,2013,,43,"Drama,Romance",7.5,1195
+tt0413573,tt3163418,10,4,S10,Puttin' on the Ritz,Puttin' on the Ritz,2013,,43,"Drama,Romance",7.7,1177
+tt0413573,tt3172724,10,5,S10,I Bet It Stung,I Bet It Stung,2013,,43,"Drama,Romance",7.5,1176
+tt0413573,tt3172730,10,6,S10,Map of You,Map of You,2013,,43,"Drama,Romance",7.6,1199
+tt0413573,tt3240812,10,7,S10,Thriller,Thriller,2013,,43,"Drama,Romance",7.3,1308
+tt0413573,tt3231704,10,8,S10,Two Against One,Two Against One,2013,,43,"Drama,Romance",7.4,1156
+tt0413573,tt3273224,10,9,S10,Sorry Seems to Be the Hardest Word,Sorry Seems to Be the Hardest Word,2013,,43,"Drama,Romance",7.9,1296
+tt0413573,tt3297842,10,10,S10,Somebody That I Used to Know,Somebody That I Used to Know,2013,,43,"Drama,Romance",7.5,1069
+tt0413573,tt3331478,10,11,S10,Man on the Moon,Man on the Moon,2013,,43,"Drama,Romance",7.6,1067
+tt0413573,tt3331928,10,12,S10,"Get Up, Stand Up","Get Up, Stand Up",2013,,43,"Drama,Romance",8.5,1462
+tt0413573,tt3469260,10,13,S10,Take It Back,Take It Back,2014,,43,"Drama,Romance",8.1,1168
+tt0413573,tt3551628,10,14,S10,You've Got to Hide Your Love Away,You've Got to Hide Your Love Away,2014,,42,"Drama,Romance",7.8,1024
+tt0413573,tt3565142,10,15,S10,Throwing It All Away,Throwing It All Away,2014,,43,"Drama,Romance",7.8,1001
+tt0413573,tt3576878,10,16,S10,We Gotta Get Out of This Place,We Gotta Get Out of This Place,2014,,43,"Drama,Romance",7.6,1077
+tt0413573,tt3576876,10,17,S10,Do You Know?,Do You Know?,2014,,43,"Drama,Romance",7.3,1711
+tt0413573,tt3544216,10,18,S10,You Be Illin',You Be Illin',2014,,43,"Drama,Romance",7.6,1107
+tt0413573,tt3561164,10,19,S10,I'm Winning,I'm Winning,2014,,43,"Drama,Romance",8.0,986
+tt0413573,tt3580770,10,20,S10,Go It Alone,Go It Alone,2014,,43,"Drama,Romance",7.7,992
+tt0413573,tt3594958,10,21,S10,Change of Heart,Change of Heart,2014,,43,"Drama,Romance",8.2,1054
+tt0413573,tt3639496,10,22,S10,We Are Never Ever Getting Back Together,We Are Never Ever Getting Back Together,2014,,43,"Drama,Romance",8.7,1247
+tt0413573,tt3668420,10,23,S10,"Everything I Try to Do, Nothing Seems to Turn Out Right","Everything I Try to Do, Nothing Seems to Turn Out Right",2014,,43,"Drama,Romance",8.1,996
+tt0413573,tt3675214,10,24,S10,Fear (of the Unknown),Fear (of the Unknown),2014,,43,"Drama,Romance",9.2,2103
+tt0413573,tt3721002,11,1,S11,I Must Have Lost It on the Wind,I Must Have Lost It on the Wind,2014,,44,"Drama,Romance",7.6,1270
+tt0413573,tt4024124,11,2,S11,Puzzle with a Piece Missing,Puzzle with a Piece Missing,2014,,43,"Drama,Romance",7.6,1200
+tt0413573,tt4006504,11,3,S11,Got to Be Real,Got to Be Real,2014,,43,"Drama,Romance",7.5,1059
+tt0413573,tt4070008,11,4,S11,Only Mama Knows,Only Mama Knows,2014,,43,"Drama,Romance",8.2,1224
+tt0413573,tt4070010,11,5,S11,Bend & Break,Bend & Break,2014,,43,"Drama,Romance",7.7,1135
+tt0413573,tt4147376,11,6,S11,Don't Let's Start,Don't Let's Start,2014,,43,"Drama,Romance",7.5,989
+tt0413573,tt4147378,11,7,S11,"Could We Start Again, Please?","Could We Start Again, Please?",2014,,43,"Drama,Romance",8.0,994
+tt0413573,tt4203848,11,8,S11,Risk,Risk,2014,,43,"Drama,Romance",8.0,1045
+tt0413573,tt4224918,11,9,S11,Where Do We Go From Here?,Where Do We Go From Here?,2015,,43,"Drama,Romance",7.9,1004
+tt0413573,tt4303550,11,10,S11,The Bed's Too Big Without You,The Bed's Too Big Without You,2015,,43,"Drama,Romance",7.9,1011
+tt0413573,tt4327490,11,11,S11,All I Could Do Was Cry,All I Could Do Was Cry,2015,,42,"Drama,Romance",8.5,1259
+tt0413573,tt4303552,11,12,S11,The Great Pretender,The Great Pretender,2015,,43,"Drama,Romance",7.7,990
+tt0413573,tt4289564,11,13,S11,Staring at the End,Staring at the End,2015,,43,"Drama,Romance",8.3,1233
+tt0413573,tt4472386,11,14,S11,The Distance,The Distance,2015,,43,"Drama,Romance",8.9,1638
+tt0413573,tt4465020,11,15,S11,I Feel the Earth Move,I Feel the Earth Move,2015,,43,"Drama,Romance",7.8,1064
+tt0413573,tt4432504,11,16,S11,Don't Dream It's Over,Don't Dream It's Over,2015,,43,"Drama,Romance",8.0,997
+tt0413573,tt4491624,11,17,S11,With or Without You,With or Without You,2015,,43,"Drama,Romance",7.8,1052
+tt0413573,tt4491626,11,18,S11,When I Grow Up,When I Grow Up,2015,,43,"Drama,Romance",8.0,1018
+tt0413573,tt4516146,11,19,S11,Crazy Love,Crazy Love,2015,,43,"Drama,Romance",7.5,1112
+tt0413573,tt4521154,11,20,S11,One Flight Down,One Flight Down,2015,,43,"Drama,Romance",7.8,1025
+tt0413573,tt4599534,11,21,S11,How to Save a Life,How to Save a Life,2015,,43,"Drama,Romance",5.6,3720
+tt0413573,tt4599536,11,22,S11,She's Leaving Home: Part 1,She's Leaving Home: Part 1,2015,,43,"Drama,Romance",7.2,1615
+tt0413573,tt7043038,11,23,S11,She's Leaving Home: Part 2,She's Leaving Home: Part 2,2015,,43,"Drama,Romance",7.9,984
+tt0413573,tt4620044,11,24,S11,Time Stops,Time Stops,2015,,43,"Drama,Romance",8.1,1228
+tt0413573,tt4638176,11,25,S11,You're My Home,You're My Home,2015,,42,"Drama,Romance",8.2,1215
+tt0413573,tt4668450,12,1,S12,Sledgehammer,Sledgehammer,2015,,44,"Drama,Romance",8.2,1518
+tt0413573,tt5058602,12,2,S12,Walking Tall,Walking Tall,2015,,43,"Drama,Romance",7.8,1036
+tt0413573,tt5085600,12,3,S12,I Choose You,I Choose You,2015,,43,"Drama,Romance",8.1,1147
+tt0413573,tt5093170,12,4,S12,Old Time Rock and Roll,Old Time Rock and Roll,2015,,44,"Drama,Romance",8.3,1273
+tt0413573,tt5134958,12,5,S12,Guess Who's Coming to Dinner,Guess Who's Coming to Dinner,2015,,44,"Drama,Romance",8.9,1767
+tt0413573,tt5060714,12,6,S12,The Me Nobody Knows,The Me Nobody Knows,2015,,44,"Drama,Romance",7.8,961
+tt0413573,tt5134980,12,7,S12,Something Against You,Something Against You,2015,,43,"Drama,Romance",7.7,939
+tt0413573,tt5109306,12,8,S12,Things We Lost in the Fire,Things We Lost in the Fire,2015,,43,"Drama,Romance",8.3,1196
+tt0413573,tt5134994,12,9,S12,The Sound of Silence,The Sound of Silence,2016,,43,"Drama,Romance",9.3,2540
+tt0413573,tt5174364,12,10,S12,All I Want Is You,All I Want Is You,2016,,43,"Drama,Romance",8.1,1105
+tt0413573,tt5470704,12,11,S12,Unbreak My Heart,Unbreak My Heart,2016,,43,"Drama,Romance",7.1,1507
+tt0413573,tt5479956,12,12,S12,My Next Life,My Next Life,2016,,43,"Drama,Romance",8.1,1101
+tt0413573,tt5505500,12,13,S12,All Eyez on Me,All Eyez on Me,2016,,42,"Drama,Romance",7.6,1138
+tt0413573,tt5505518,12,14,S12,Odd Man Out,Odd Man Out,2016,,41,"Drama,Romance",7.9,992
+tt0413573,tt5520906,12,15,S12,I Am Not Waiting Anymore,I Am Not Waiting Anymore,2016,,86,"Drama,Romance",7.9,1060
+tt0413573,tt5520910,12,16,S12,When It Hurts So Bad,When It Hurts So Bad,2016,,43,"Drama,Romance",7.6,938
+tt0413573,tt5467378,12,17,S12,I Wear the Face,I Wear the Face,2016,,42,"Drama,Romance",7.6,925
+tt0413573,tt5505676,12,18,S12,"There's a Fine, Fine Line","There's a Fine, Fine Line",2016,,41,"Drama,Romance",8.6,1125
+tt0413573,tt5505514,12,19,S12,"It's Alright, Ma (I'm Only Bleeding)","It's Alright, Ma (I'm Only Bleeding)",2016,,43,"Drama,Romance",8.1,1012
+tt0413573,tt5614176,12,20,S12,Trigger Happy,Trigger Happy,2016,,42,"Drama,Romance",7.9,1063
+tt0413573,tt5614186,12,21,S12,You're Gonna Need Someone on Your Side,You're Gonna Need Someone on Your Side,2016,,43,"Drama,Romance",7.9,1101
+tt0413573,tt5614198,12,22,S12,Mama Tried,Mama Tried,2016,,43,"Drama,Romance",8.5,1191
+tt0413573,tt5614204,12,23,S12,At Last,At Last,2016,,42,"Drama,Romance",8.0,1165
+tt0413573,tt5614206,12,24,S12,Family Affair,Family Affair,2016,,43,"Drama,Romance",8.7,1329
+tt0413573,tt5521890,13,1,S13,Undo,Undo,2016,,43,"Drama,Romance",8.0,1227
+tt0413573,tt5743946,13,2,S13,Catastrophe and the Cure,Catastrophe and the Cure,2016,,42,"Drama,Romance",7.6,967
+tt0413573,tt5743998,13,3,S13,I Ain't No Miracle Worker,I Ain't No Miracle Worker,2016,,42,"Drama,Romance",8.0,947
+tt0413573,tt5749130,13,4,S13,Falling Slowly,Falling Slowly,2016,,42,"Drama,Romance",7.6,917
+tt0413573,tt6088596,13,5,S13,Both Sides Now,Both Sides Now,2016,,42,"Drama,Romance",7.8,914
+tt0413573,tt6088602,13,6,S13,Roar,Roar,2016,,43,"Drama,Romance",8.1,966
+tt0413573,tt6095206,13,7,S13,Why Try to Change Me Now,Why Try to Change Me Now,2016,,42,"Drama,Romance",7.5,970
+tt0413573,tt6095210,13,8,S13,The Room Where It Happens,The Room Where It Happens,2016,,40,"Drama,Romance",6.9,1896
+tt0413573,tt6155690,13,9,S13,You Haven't Done Nothin',You Haven't Done Nothin',2016,,43,"Drama,Romance",8.4,1113
+tt0413573,tt6155694,13,10,S13,You Can Look (But You'd Better Not Touch),You Can Look (But You'd Better Not Touch),2017,,42,"Drama,Romance",7.7,1461
+tt0413573,tt6190622,13,11,S13,Jukebox Hero,Jukebox Hero,2017,,42,"Drama,Romance",7.4,1072
+tt0413573,tt6190628,13,12,S13,None of Your Business,None of Your Business,2017,,43,"Drama,Romance",7.5,1044
+tt0413573,tt6190636,13,13,S13,It Only Gets Much Worse,It Only Gets Much Worse,2017,,43,"Drama,Romance",7.9,953
+tt0413573,tt6190642,13,14,S13,Back Where You Belong,Back Where You Belong,2017,,42,"Drama,Romance",7.5,1013
+tt0413573,tt6190644,13,15,S13,Civil War,Civil War,2017,,42,"Drama,Romance",7.0,1039
+tt0413573,tt6185764,13,16,S13,Who Is He (And What Is He to You)?,Who Is He (And What Is He to You)?,2017,,43,"Drama,Romance",7.3,1350
+tt0413573,tt6190648,13,17,S13,'Till I Hear It from You,'Till I Hear It from You,2017,,42,"Drama,Romance",7.9,1091
+tt0413573,tt6190652,13,18,S13,"Be Still, My Soul","Be Still, My Soul",2017,,42,"Drama,Romance",8.3,1257
+tt0413573,tt6215176,13,19,S13,What's Inside,What's Inside,2017,,41,"Drama,Romance",7.7,942
+tt0413573,tt6215178,13,20,S13,In the Air Tonight,In the Air Tonight,2017,,41,"Drama,Romance",7.9,1537
+tt0413573,tt6215180,13,21,S13,Don't Stop Me Now,Don't Stop Me Now,2017,,42,"Drama,Romance",7.6,950
+tt0413573,tt6215182,13,22,S13,Leave It Inside,Leave It Inside,2017,,42,"Drama,Romance",7.7,925
+tt0413573,tt6215184,13,23,S13,True Colors,True Colors,2017,,41,"Drama,Romance",8.7,1322
+tt0413573,tt6215188,13,24,S13,Ring of Fire,Ring of Fire,2017,,43,"Drama,Romance",8.6,1474
+tt0413573,tt6523880,14,1,S14,Break Down the House,Break Down the House,2017,,42,"Drama,Romance",8.1,1379
+tt0413573,tt7043198,14,2,S14,Get Off on the Pain,Get Off on the Pain,2017,,43,"Drama,Romance",8.2,1217
+tt0413573,tt7043206,14,3,S14,Go Big or Go Home,Go Big or Go Home,2017,,43,"Drama,Romance",8.2,1174
+tt0413573,tt7043690,14,4,S14,Ain't That a Kick in the Head,Ain't That a Kick in the Head,2017,,42,"Drama,Romance",8.2,1216
+tt0413573,tt7043702,14,5,S14,Danger Zone,Danger Zone,2017,,42,"Drama,Romance",7.3,1421
+tt0413573,tt7043698,14,6,S14,"Come on Down to My Boat, Baby","Come on Down to My Boat, Baby",2017,,42,"Drama,Romance",7.9,1261
+tt0413573,tt7043724,14,7,S14,"Who Lives, Who Dies, Who Tells Your Story","Who Lives, Who Dies, Who Tells Your Story",2017,,40,"Drama,Romance",9.1,2109
+tt0413573,tt7043730,14,8,S14,Out of Nowhere,Out of Nowhere,2017,,41,"Drama,Romance",8.5,1443
+tt0413573,tt7043736,14,9,S14,1-800-799-7233,1-800-799-7233,2018,,42,"Drama,Romance",8.7,1649
+tt0413573,tt7044202,14,10,S14,Personal Jesus,Personal Jesus,2018,,42,"Drama,Romance",8.8,2015
+tt0413573,tt7044206,14,11,S14,(Don't Fear) the Reaper,(Don't Fear) the Reaper,2018,,41,"Drama,Romance",8.2,1400
+tt0413573,tt7044218,14,12,S14,"Harder, Better, Faster, Stronger","Harder, Better, Faster, Stronger",2018,,42,"Drama,Romance",7.5,970
+tt0413573,tt7044226,14,13,S14,You Really Got a Hold on Me,You Really Got a Hold on Me,2018,,43,"Drama,Romance",7.5,924
+tt0413573,tt7044230,14,14,S14,Games People Play,Games People Play,2018,,42,"Drama,Romance",7.7,955
+tt0413573,tt7044240,14,15,S14,"Old Scars, Future Hearts","Old Scars, Future Hearts",2018,,43,"Drama,Romance",7.8,955
+tt0413573,tt7044262,14,16,S14,Caught Somewhere in Time,Caught Somewhere in Time,2018,,43,"Drama,Romance",7.3,911
+tt0413573,tt7044272,14,17,S14,One Day Like This,One Day Like This,2018,,44,"Drama,Romance",8.3,1214
+tt0413573,tt7044314,14,18,S14,Hold Back The River,Hold Back The River,2018,,43,"Drama,Romance",7.7,864
+tt0413573,tt7044320,14,19,S14,Beautiful Dreamer,Beautiful Dreamer,2018,,42,"Drama,Romance",7.7,894
+tt0413573,tt7044324,14,20,S14,Judgment Day,Judgment Day,2018,,40,"Drama,Romance",8.4,1204
+tt0413573,tt7044328,14,21,S14,Bad Reputation,Bad Reputation,2018,,42,"Drama,Romance",7.8,874
+tt0413573,tt7044330,14,22,S14,Fight For Your Mind,Fight For Your Mind,2018,,42,"Drama,Romance",7.8,884
+tt0413573,tt7044338,14,23,S14,Cold As Ice,Cold As Ice,2018,,42,"Drama,Romance",8.8,1297
+tt0413573,tt7600182,14,24,S14,All of Me,All of Me,2018,,42,"Drama,Romance",8.5,1275
+tt0413573,tt7885522,15,1,S15,With a Wonder and a Wild Desire,With a Wonder and a Wild Desire,2018,,43,"Drama,Romance",7.8,1161
+tt0413573,tt8746268,15,2,S15,Broken Together,Broken Together,2018,,43,"Drama,Romance",7.9,1061
+tt0413573,tt8879534,15,3,S15,Gut Feeling,Gut Feeling,2018,,43,"Drama,Romance",7.5,1016
+tt0413573,tt8879540,15,4,S15,Momma Knows Best,Momma Knows Best,2018,,42,"Drama,Romance",7.8,1030
+tt0413573,tt9022004,15,5,S15,Everyday Angel,Everyday Angel,2018,,42,"Drama,Romance",7.6,977
+tt0413573,tt9022006,15,6,S15,Flowers Grow Out Of My Grave,Flowers Grow Out Of My Grave,2018,,43,"Drama,Romance",8.4,1214
+tt0413573,tt9011270,15,7,S15,Anybody Have a Map?,Anybody Have a Map?,2018,,43,"Drama,Romance",8.0,1067
+tt0413573,tt9119498,15,8,S15,Blowin' in the Wind,Blowin' in the Wind,2018,,43,"Drama,Romance",8.5,1290
+tt0413573,tt9119510,15,9,S15,Shelter From the Storm,Shelter From the Storm,2019,,43,"Drama,Romance",8.2,1021
+tt0413573,tt9173162,15,10,S15,"Help, I'm Alive","Help, I'm Alive",2019,,42,"Drama,Romance",7.7,945
+tt0413573,tt9132644,15,11,S15,The Winner Takes It All,The Winner Takes It All,2019,,43,"Drama,Romance",8.2,1058
+tt0413573,tt9212382,15,12,S15,Girlfriend in a Coma,Girlfriend in a Coma,2019,,43,"Drama,Romance",8.1,1066
+tt0413573,tt9290230,15,13,S15,I Walk the Line,I Walk the Line,2019,,42,"Drama,Romance",7.7,998
+tt0413573,tt9618582,15,14,S15,I Want a New Drug,I Want a New Drug,2019,,40,"Drama,Romance",8.1,1007
+tt0413573,tt9611706,15,15,S15,We Didn't Start the Fire,We Didn't Start the Fire,2019,,43,"Drama,Romance",7.9,1017
+tt0413573,tt9611710,15,16,S15,Blood and Water,Blood and Water,2019,,42,"Drama,Romance",7.3,945
+tt0413573,tt9729132,15,17,S15,And Dream of Sheep,And Dream of Sheep,2019,,43,"Drama,Romance",7.3,935
+tt0413573,tt9729134,15,18,S15,Add It Up,Add It Up,2019,,42,"Drama,Romance",7.2,940
+tt0413573,tt9611736,15,19,S15,Silent All These Years,Silent All These Years,2019,,43,"Drama,Romance",9.5,3191
+tt0413573,tt9729136,15,20,S15,The Whole Package,The Whole Package,2019,,43,"Drama,Romance",7.6,932
+tt0413573,tt9729138,15,21,S15,Good Shepherd,Good Shepherd,2019,,43,"Drama,Romance",8.2,1080
+tt0413573,tt10120548,15,22,S15,Head Over High Heels,Head Over High Heels,2019,,43,"Drama,Romance",7.7,913
+tt0413573,tt9729144,15,23,S15,What I Did For Love,What I Did For Love,2019,,42,"Drama,Romance",7.7,978
+tt0413573,tt9729142,15,24,S15,Drawn to the Blood,Drawn to the Blood,2019,,42,"Drama,Romance",8.3,1065
+tt0413573,tt9564120,15,25,S15,Jump Into the Fog,Jump Into the Fog,2019,,42,"Drama,Romance",8.1,1034
+tt0413573,tt7885526,16,1,S16,Nothing Left to Cling To,Nothing Left to Cling To,2019,,42,"Drama,Romance",7.4,952
+tt0413573,tt10950532,16,2,S16,Back in the Saddle,Back in the Saddle,2019,,43,"Drama,Romance",7.5,835
+tt0413573,tt10989874,16,3,S16,Reunited,Reunited,2019,,43,"Drama,Romance",7.6,901
+tt0413573,tt11010784,16,4,S16,It's Raining Men,It's Raining Men,2019,,42,"Drama,Romance",7.6,796
+tt0413573,tt11058566,16,5,S16,Breathe Again,Breathe Again,2019,,41,"Drama,Romance",7.7,817
+tt0413573,tt11102922,16,6,S16,Whistlin' Past the Graveyard,Whistlin' Past the Graveyard,2019,,42,"Drama,Romance",7.6,786
+tt0413573,tt11156602,16,7,S16,Papa Don't Preach,Papa Don't Preach,2019,,43,"Drama,Romance",7.7,822
+tt0413573,tt11105164,16,8,S16,My Shot,My Shot,2019,,41,"Drama,Romance",8.9,1466
+tt0413573,tt11187872,16,9,S16,Let's All Go to the Bar,Let's All Go to the Bar,2019,,43,"Drama,Romance",7.9,882
+tt0413573,tt11317130,16,10,S16,Help Me Through the Night,Help Me Through the Night,2020,,42,"Drama,Romance",7.6,806
+tt0413573,tt11404618,16,11,S16,A Hard Pill to Swallow,A Hard Pill to Swallow,2020,,43,"Drama,Romance",7.4,770
+tt0413573,tt11300852,16,12,S16,The Last Supper,The Last Supper,2020,,42,"Drama,Romance",6.2,1063
+tt0413573,tt11681392,16,13,S16,Save the Last Dance for Me,Save the Last Dance for Me,2020,,43,"Drama,Romance",7.3,786
+tt0413573,tt11702018,16,14,S16,A Diagnosis,A Diagnosis,2020,,42,"Drama,Romance",7.4,771
+tt0413573,tt11737856,16,15,S16,Snowblind,Snowblind,2020,,43,"Drama,Romance",7.5,784
+tt0413573,tt11815092,16,16,S16,Leave a Light On,Leave a Light On,2020,,42,"Drama,Romance",4.4,2818
+tt0413573,tt11852888,16,17,S16,Life on Mars?,Life on Mars?,2020,,42,"Drama,Romance",7.0,764
+tt0413573,tt11861152,16,18,S16,Give a Little Bit,Give a Little Bit,2020,,43,"Drama,Romance",7.6,806
+tt0413573,tt11923260,16,19,S16,Love of My Life,Love of My Life,2020,,43,"Drama,Romance",6.8,1002
+tt0413573,tt11980382,16,20,S16,Sing It Again,Sing It Again,2020,,41,"Drama,Romance",7.8,767
+tt0413573,tt12019988,16,21,S16,Put on a Happy Face,Put on a Happy Face,2020,,43,"Drama,Romance",8.2,868
+tt0413573,tt10313492,17,1,S17,All Tomorrow's Parties,All Tomorrow's Parties,2020,,44,"Drama,Romance",7.6,1324
+tt0413573,tt13334916,17,2,S17,The Center Won't Hold,The Center Won't Hold,2020,,43,"Drama,Romance",8.0,1286
+tt0413573,tt13412344,17,3,S17,My Happy Ending,My Happy Ending,2020,,42,"Drama,Romance",7.6,1051
+tt0413573,tt13454262,17,4,S17,You'll Never Walk Alone,You'll Never Walk Alone,2020,,43,"Drama,Romance",7.7,1106
+tt0413573,tt13498234,17,5,S17,Fight the Power,Fight the Power,2020,,43,"Drama,Romance",7.2,1098
+tt0413573,tt13498236,17,6,S17,No Time for Despair,No Time for Despair,2020,,43,"Drama,Romance",6.8,1064
+tt0413573,tt13498240,17,7,S17,Helplessly Hoping,Helplessly Hoping,2021,,43,"Drama,Romance",7.3,1060
+tt0413573,tt14177970,17,8,S17,It's All Too Much,It's All Too Much,2021,,43,"Drama,Romance",7.9,991
+tt0413573,tt14211898,17,9,S17,In My Life,In My Life,2021,,40,"Drama,Romance",5.2,1644
+tt0413573,tt14222328,17,10,S17,Breathe,Breathe,2021,,41,"Drama,Romance",7.8,999
+tt0413573,tt14225068,17,11,S17,Sorry Doesn't Always Make It Right,Sorry Doesn't Always Make It Right,2021,,43,"Drama,Romance",7.0,812
+tt0413573,tt14330910,17,12,S17,Sign O' the Times,Sign O' the Times,2021,,41,"Drama,Romance",6.2,1319
+tt0413573,tt14406444,17,13,S17,Good as Hell,Good as Hell,2021,,43,"Drama,Romance",7.8,1040
+tt0413573,tt14467604,17,14,S17,Look Up Child,Look Up Child,2021,,43,"Drama,Romance",6.7,1008
+tt0413573,tt14508866,17,15,S17,Tradition,Tradition,2021,,43,"Drama,Romance",7.5,839
+tt0413573,tt14508868,17,16,S17,I'm Still Standing,I'm Still Standing,2021,,42,"Drama,Romance",7.0,710
+tt0413573,tt14597292,17,17,S17,Someone Saved My Life Tonight,Someone Saved My Life Tonight,2021,,44,"Drama,Romance",7.2,804
+tt0413573,tt14622216,18,1,S18,Here Comes the Sun,Here Comes the Sun,2021,,40,"Drama,Romance",7.1,943
+tt0413573,tt15192008,18,2,S18,Some Kind of Tomorrow,Some Kind of Tomorrow,2021,,39,"Drama,Romance",7.0,736
+tt0413573,tt15248472,18,3,S18,Hotter Than Hell,Hotter Than Hell,2021,,39,"Drama,Romance",8.0,870
+tt0413573,tt15514302,18,4,S18,With a Little Help from My Friends,With a Little Help from My Friends,2021,,40,"Drama,Romance",7.3,663
+tt0413573,tt15742128,18,5,S18,Bottle Up and Explode!,Bottle Up and Explode!,2021,,38,"Drama,Romance",7.6,692
+tt0413573,tt15856270,18,6,S18,Every Day Is a Holiday (With You),Every Day Is a Holiday (With You),2021,,39,"Drama,Romance",7.2,626
+tt0413573,tt16021380,18,7,S18,Today Was a Fairytale,Today Was a Fairytale,2021,,38,"Drama,Romance",7.1,610
+tt0413573,tt16274400,18,8,S18,It Came Upon a Midnight Clear,It Came Upon a Midnight Clear,2021,,39,"Drama,Romance",7.4,727
+tt0413573,tt16274406,18,9,S18,No Time to Die,No Time to Die,2021,,42,"Drama,Romance",7.4,629
+tt0413573,tt16274412,18,10,S18,Living in a House Divided,Living in a House Divided,2022,,39,"Drama,Romance",7.3,574
+tt0413573,tt18332060,18,11,S18,Legacy,Legacy,2022,,40,"Drama,Romance",7.3,559
+tt0413573,tt18351146,18,12,S18,The Makings of You,The Makings of You,2022,,40,"Drama,Romance",5.7,761
+tt0413573,tt18394228,18,13,S18,Put the Squeeze on Me,Put the Squeeze on Me,2022,,42,"Drama,Romance",7.2,561
+tt0413573,tt18569862,18,14,S18,Road Trippin',Road Trippin',2022,,42,"Drama,Romance",7.2,549
+tt0413573,tt19073278,18,15,S18,Put It to the Test,Put It to the Test,2022,,42,"Drama,Romance",7.8,587
+tt0413573,tt19408098,18,16,S18,Should I Stay or Should I Go,Should I Stay or Should I Go,2022,,43,"Drama,Romance",7.1,557
+tt0413573,tt19408112,18,17,S18,I'll Cover You,I'll Cover You,2022,,42,"Drama,Romance",7.2,533
+tt0413573,tt19408212,18,18,S18,Stronger Than Hate,Stronger Than Hate,2022,,41,"Drama,Romance",7.6,559
+tt0413573,tt19712434,18,19,S18,Out for Blood,Out for Blood,2022,,42,"Drama,Romance",7.6,563
+tt0413573,tt19712436,18,20,S18,You Are the Blood,You Are the Blood,2022,,44,"Drama,Romance",8.5,975
+tt0413573,tt16993884,19,1,S19,Everything Has Changed,Everything Has Changed,2022,,45,"Drama,Romance",7.7,812
+tt0413573,tt22187034,19,2,S19,Wasn't Expecting That,Wasn't Expecting That,2022,,40,"Drama,Romance",7.5,600
+tt0413573,tt22529532,19,3,S19,Let's Talk About Sex,Let's Talk About Sex,2022,,43,"Drama,Romance",7.4,896
+tt0413573,tt22529692,19,4,S19,Haunted,Haunted,2022,,43,"Drama,Romance",7.1,542
+tt0413573,tt22753500,19,5,S19,When I Get to the Border,When I Get to the Border,2022,,40,"Drama,Romance",7.4,650
+tt0413573,tt23118306,19,6,S19,Thunderstruck,Thunderstruck,2022,,43,"Drama,Romance",7.4,537
+tt0413573,tt23473020,19,7,S19,I'll Follow the Sun,I'll Follow the Sun,2023,,44,"Drama,Romance",6.3,701
+tt0413573,tt23473022,19,8,S19,All Star,All Star,2023,,43,"Drama,Romance",6.7,498
+tt0413573,tt26898914,19,9,S19,Love Don't Cost a Thing,Love Don't Cost a Thing,2023,,44,"Drama,Romance",6.6,481
+tt0413573,tt26936119,19,10,S19,Sisters Are Doin' It for Themselves,Sisters Are Doin' It for Themselves,2023,,43,"Drama,Romance",7.1,455
+tt0413573,tt26936121,19,11,S19,Training Day,Training Day,2023,,43,"Drama,Romance",7.2,582
+tt0413573,tt27136052,19,12,S19,Pick Yourself Up,Pick Yourself Up,2023,,41,"Drama,Romance",7.6,489
+tt0413573,tt27163814,19,13,S19,Cowgirls Don't Cry,Cowgirls Don't Cry,2023,,43,"Drama,Romance",7.2,427
+tt0413573,tt27235409,19,14,S19,Shadow of Your Love,Shadow of Your Love,2023,,43,"Drama,Romance",7.2,424
+tt0413573,tt27369366,19,15,S19,Mama Who Bore Me,Mama Who Bore Me,2023,,43,"Drama,Romance",7.1,443
+tt0413573,tt27440369,19,16,S19,Gunpowder and Lead,Gunpowder and Lead,2023,,43,"Drama,Romance",7.3,455
+tt0413573,tt27435239,19,17,S19,Come Fly With Me,Come Fly With Me,2023,,43,"Drama,Romance",7.6,436
+tt0413573,tt27441536,19,18,S19,Ready to Run,Ready to Run,2023,,43,"Drama,Romance",7.4,411
+tt0413573,tt27441541,19,19,S19,Wedding Bell Blues,Wedding Bell Blues,2023,,42,"Drama,Romance",7.7,452
+tt0413573,tt27441543,19,20,S19,Happily Ever After?,Happily Ever After?,2023,,44,"Drama,Romance",8.1,545
+tt0413573,tt27244877,20,1,S20,We've Only Just Begun,We've Only Just Begun,2024,,43,"Drama,Romance",7.3,454
+tt0413573,tt31391413,20,2,S20,Keep the Family Close,Keep the Family Close,2024,,43,"Drama,Romance",7.2,391
+tt0413573,tt31406880,20,3,S20,Walk on the Ocean,Walk on the Ocean,2024,,43,"Drama,Romance",7.4,384
+tt0413573,tt31406897,20,4,S20,Baby Can I Hold You,Baby Can I Hold You,2024,,43,"Drama,Romance",7.5,393
+tt0413573,tt31406907,20,5,S20,Never Felt So Alone,Never Felt So Alone,2024,,43,"Drama,Romance",7.4,377
+tt0413573,tt31407435,20,6,S20,The Marathon Continues,The Marathon Continues,2024,,43,"Drama,Romance",7.3,351
+tt0413573,tt31407436,20,7,S20,She Used to Be Mine,She Used to Be Mine,2024,,43,"Drama,Romance",7.4,350
+tt0413573,tt31407437,20,8,S20,"Blood, Sweat and Tears","Blood, Sweat and Tears",2024,,43,"Drama,Romance",7.2,344
+tt0413573,tt31407438,20,9,S20,I Carry Your Heart,I Carry Your Heart,2024,,43,"Drama,Romance",7.4,342
+tt0413573,tt31407439,20,10,S20,Burn It Down,Burn It Down,2024,,43,"Drama,Romance",7.9,398
+tt0413573,tt31988296,21,1,S21,If Walls Could Talk,If Walls Could Talk,2024,,43,"Drama,Romance",7.2,410
+tt0413573,tt33085454,21,2,S21,Take Me to Church,Take Me to Church,2024,,43,"Drama,Romance",7.5,354
+tt0413573,tt33311082,21,3,S21,I Can See Clearly Now,I Can See Clearly Now,2024,,43,"Drama,Romance",7.4,333
+tt0413573,tt33311086,21,4,S21,This One's for the Girls,This One's for the Girls,2024,,43,"Drama,Romance",7.5,331
+tt0413573,tt33528521,21,5,S21,You Make My Heart Explode,You Make My Heart Explode,2024,,43,"Drama,Romance",7.5,324
+tt0413573,tt33528524,21,6,S21,Night Moves,Night Moves,2024,,43,"Drama,Romance",7.5,346
+tt0413573,tt33528526,21,7,S21,If You Leave,If You Leave,2024,,43,"Drama,Romance",8.1,379
+tt0413573,tt33528529,21,8,S21,Drop It Like It's Hot,Drop It Like It's Hot,2024,,44,"Drama,Romance",7.4,344
+tt0413573,tt33528532,21,9,S21,Hit the Floor,Hit the Floor,2025,,43,"Drama,Romance",7.4,292
+tt0413573,tt33528534,21,10,S21,Jump (for My Love),Jump (for My Love),2025,,43,"Drama,Romance",7.4,288
+tt0413573,tt33528535,21,11,S21,I Still Haven't Found What I'm Looking For,I Still Haven't Found What I'm Looking For,2025,,43,"Drama,Romance",7.3,295
+tt0413573,tt33528537,21,12,S21,Ridin' Solo,Ridin' Solo,2025,,43,"Drama,Romance",7.6,288
+tt0413573,tt33528540,21,13,S21,Don't You (Forget About Me),Don't You (Forget About Me),2025,,43,"Drama,Romance",7.5,284
+tt0413573,tt33528541,21,14,S21,Love in the Ice Age,Love in the Ice Age,2025,,44,"Drama,Romance",7.4,279
+tt0413573,tt33528546,21,15,S21,Bust Your Windows,Bust Your Windows,2025,,42,"Drama,Romance",7.2,275
+tt0413573,tt33528548,21,16,S21,Papa Was a Rollin' Stone,Papa Was a Rollin' Stone,2025,,43,"Drama,Romance",7.6,271
+tt0413573,tt33528550,21,17,S21,Love You Like a Love Song,Love You Like a Love Song,2025,,43,"Drama,Romance",8.0,298
+tt0413573,tt33528553,21,18,S21,How Do I Live,How Do I Live,2025,,43,"Drama,Romance",8.2,379
+tt0413573,tt36426498,22,1,S22,Only the Strong Survive,Only the Strong Survive,2025,,,"Drama,Romance",8.1,290
+tt0413573,tt36426499,22,2,S22,We Built This City,We Built This City,2025,,43,"Drama,Romance",7.4,205
+tt0413573,tt36426495,22,3,S22,Between Two Lungs,Between Two Lungs,2025,,43,"Drama,Romance",7.4,180
+tt0413573,tt36426494,22,4,S22,Goodbye Horses,Goodbye Horses,2025,,43,"Drama,Romance",7.3,155
+tt0413573,tt36426497,22,5,S22,Sometimes I Feel Like a Motherless Child,Sometimes I Feel Like a Motherless Child,2025,,43,"Drama,Romance",7.6,155
+tt0413573,tt36426508,22,6,S22,When I Crash,When I Crash,2025,,43,"Drama,Romance",7.8,140
+tt0413573,tt36426504,22,7,S22,Skyfall,Skyfall,2026,,,"Drama,Romance",,
+tt0413573,tt36426491,22,8,S22,Heavy on Me,Heavy on Me,2025,,,"Drama,Romance",,
+tt0413573,tt36426507,22,9,S22,Episode #22.9,Episode #22.9,2026,,,"Drama,Romance",,
+tt0413573,tt36426492,22,10,S22,Strip That Down,Strip That Down,2026,,,"Drama,Romance",,
+tt0413573,tt36426500,22,11,S22,Episode #22.11,Episode #22.11,,,,"Drama,Romance",,
+tt0413573,tt36426506,22,12,S22,Episode #22.12,Episode #22.12,,,,"Drama,Romance",,
+tt0413573,tt36426501,22,13,S22,Episode #22.13,Episode #22.13,,,,"Drama,Romance",,
+tt0413573,tt36426493,22,14,S22,Episode #22.14,Episode #22.14,,,,"Drama,Romance",,
+tt0413573,tt36426505,22,15,S22,Episode #22.15,Episode #22.15,,,,"Drama,Romance",,
+tt0413573,tt36426496,22,16,S22,Episode #22.16,Episode #22.16,,,,"Drama,Romance",,
+tt0413573,tt36426502,22,17,S22,Episode #22.17,Episode #22.17,,,,"Drama,Romance",,
+tt0413573,tt36426503,22,18,S22,Episode #22.18,Episode #22.18,,,,"Drama,Romance",,

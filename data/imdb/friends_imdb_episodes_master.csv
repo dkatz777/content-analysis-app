@@ -1,0 +1,236 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0108778,tt0583459,1,1,S1,The One Where Monica Gets a Roommate,The One Where Monica Gets a Roommate,1994,,22,"Comedy,Romance",8.1,11324
+tt0108778,tt0583647,1,2,S1,The One with the Sonogram at the End,The One with the Sonogram at the End,1994,,22,"Comedy,Romance",7.8,8822
+tt0108778,tt0583653,1,3,S1,The One with the Thumb,The One with the Thumb,1994,,22,"Comedy,Romance",8.0,8291
+tt0108778,tt0583521,1,4,S1,The One with George Stephanopoulos,The One with George Stephanopoulos,1994,,22,"Comedy,Romance",7.9,8041
+tt0108778,tt0583599,1,5,S1,The One with the East German Laundry Detergent,The One with the East German Laundry Detergent,1994,,22,"Comedy,Romance",8.3,8054
+tt0108778,tt0583585,1,6,S1,The One with the Butt,The One with the Butt,1994,,22,"Comedy,Romance",8.0,7634
+tt0108778,tt0583579,1,7,S1,The One with the Blackout,The One with the Blackout,1994,,22,"Comedy,Romance",8.9,9515
+tt0108778,tt0583462,1,8,S1,The One Where Nana Dies Twice,The One Where Nana Dies Twice,1994,,22,"Comedy,Romance",7.9,7487
+tt0108778,tt0583492,1,9,S1,The One Where Underdog Gets Away,The One Where Underdog Gets Away,1994,,22,"Comedy,Romance",8.1,7260
+tt0108778,tt0583630,1,10,S1,The One with the Monkey,The One with the Monkey,1994,,22,"Comedy,Romance",7.9,7268
+tt0108778,tt0583534,1,11,S1,The One with Mrs. Bing,The One with Mrs. Bing,1995,,22,"Comedy,Romance",8.0,7160
+tt0108778,tt0583598,1,12,S1,The One with the Dozen Lasagnas,The One with the Dozen Lasagnas,1995,,22,"Comedy,Romance",8.0,7024
+tt0108778,tt0583582,1,13,S1,The One with the Boobies,The One with the Boobies,1995,,22,"Comedy,Romance",8.5,7504
+tt0108778,tt0583587,1,14,S1,The One with the Candy Hearts,The One with the Candy Hearts,1995,,22,"Comedy,Romance",8.1,6914
+tt0108778,tt0583649,1,15,S1,The One with the Stoned Guy,The One with the Stoned Guy,1995,,22,"Comedy,Romance",8.1,6964
+tt0108778,tt0583568,1,16,S1,The One with Two Parts: Part 1,The One with Two Parts: Part 1,1995,,22,"Comedy,Romance",8.0,6835
+tt0108778,tt0583569,1,17,S1,The One with Two Parts: Part 2,The One with Two Parts: Part 2,1995,,22,"Comedy,Romance",8.3,6977
+tt0108778,tt0583510,1,18,S1,The One with All the Poker,The One with All the Poker,1995,,22,"Comedy,Romance",8.7,7669
+tt0108778,tt0583493,1,19,S1,The One Where the Monkey Gets Away,The One Where the Monkey Gets Away,1995,,22,"Comedy,Romance",7.9,6683
+tt0108778,tt0583602,1,20,S1,The One with the Evil Orthodontist,The One with the Evil Orthodontist,1995,,22,"Comedy,Romance",7.7,6653
+tt0108778,tt0583603,1,21,S1,The One with the Fake Monica,The One with the Fake Monica,1995,,22,"Comedy,Romance",7.6,6704
+tt0108778,tt0583616,1,22,S1,The One with the Ick Factor,The One with the Ick Factor,1995,,22,"Comedy,Romance",8.1,6651
+tt0108778,tt0583577,1,23,S1,The One with the Birth,The One with the Birth,1995,,22,"Comedy,Romance",8.6,7061
+tt0108778,tt0583469,1,24,S1,The One Where Rachel Finds Out,The One Where Rachel Finds Out,1995,,22,"Comedy,Romance",8.8,7451
+tt0108778,tt0583562,2,1,S2,The One with Ross's New Girlfriend,The One with Ross's New Girlfriend,1995,,22,"Comedy,Romance",8.4,6849
+tt0108778,tt0583583,2,2,S2,The One with the Breast Milk,The One with the Breast Milk,1995,,22,"Comedy,Romance",8.0,6526
+tt0108778,tt0583453,2,3,S2,The One Where Heckles Dies,The One Where Heckles Dies,1995,,22,"Comedy,Romance",8.2,6580
+tt0108778,tt0583539,2,4,S2,The One with Phoebe's Husband,The One with Phoebe's Husband,1995,,22,"Comedy,Romance",7.8,6336
+tt0108778,tt0583519,2,5,S2,The One with Five Steaks and an Eggplant,The One with Five Steaks and an Eggplant,1995,,22,"Comedy,Romance",8.1,6383
+tt0108778,tt0583574,2,6,S2,The One with the Baby on the Bus,The One with the Baby on the Bus,1995,,22,"Comedy,Romance",8.4,6818
+tt0108778,tt0583481,2,7,S2,The One Where Ross Finds Out,The One Where Ross Finds Out,1995,,22,"Comedy,Romance",8.9,7741
+tt0108778,tt0583625,2,8,S2,The One with the List,The One with the List,1995,,22,"Comedy,Romance",8.3,6459
+tt0108778,tt0583537,2,9,S2,The One with Phoebe's Dad,The One with Phoebe's Dad,1995,,22,"Comedy,Romance",7.8,6139
+tt0108778,tt0583567,2,10,S2,The One with Russ,The One with Russ,1996,,22,"Comedy,Romance",7.8,6453
+tt0108778,tt0583624,2,11,S2,The One with the Lesbian Wedding,The One with the Lesbian Wedding,1996,,22,"Comedy,Romance",7.9,6316
+tt0108778,tt0583439,2,12,S2,The One After the Superbowl: Part 1,The One After the Superbowl: Part 1,1996,,22,"Comedy,Romance",8.5,6607
+tt0108778,tt0831047,2,13,S2,The One After the Superbowl: Part 2,The One After the Superbowl: Part 2,1996,,22,"Comedy,Romance",8.7,6823
+tt0108778,tt0583635,2,14,S2,The One with the Prom Video,The One with the Prom Video,1996,,22,"Comedy,Romance",9.3,9705
+tt0108778,tt0583488,2,15,S2,The One Where Ross and Rachel... You Know,The One Where Ross and Rachel... You Know,1996,,22,"Comedy,Romance",8.7,6839
+tt0108778,tt0583456,2,16,S2,The One Where Joey Moves Out,The One Where Joey Moves Out,1996,,22,"Comedy,Romance",8.5,6179
+tt0108778,tt0583448,2,17,S2,The One Where Eddie Moves In,The One Where Eddie Moves In,1996,,22,"Comedy,Romance",8.1,6041
+tt0108778,tt0583447,2,18,S2,The One Where Dr. Ramoray Dies,The One Where Dr. Ramoray Dies,1996,,22,"Comedy,Romance",8.3,6042
+tt0108778,tt0583449,2,19,S2,The One Where Eddie Won't Go,The One Where Eddie Won't Go,1996,,22,"Comedy,Romance",8.4,6184
+tt0108778,tt0583465,2,20,S2,The One Where Old Yeller Dies,The One Where Old Yeller Dies,1996,,22,"Comedy,Romance",8.0,5882
+tt0108778,tt0583584,2,21,S2,The One with the Bullies,The One with the Bullies,1996,,22,"Comedy,Romance",7.9,5947
+tt0108778,tt0583656,2,22,S2,The One with the Two Parties,The One with the Two Parties,1996,,22,"Comedy,Romance",8.9,7366
+tt0108778,tt0583591,2,23,S2,The One with the Chicken Pox,The One with the Chicken Pox,1996,,22,"Comedy,Romance",7.9,5969
+tt0108778,tt0583514,2,24,S2,The One with Barry and Mindy's Wedding,The One with Barry and Mindy's Wedding,1996,,22,"Comedy,Romance",8.1,6000
+tt0108778,tt0583634,3,1,S3,The One with the Princess Leia Fantasy,The One with the Princess Leia Fantasy,1996,,22,"Comedy,Romance",8.3,6202
+tt0108778,tt0583464,3,2,S3,The One Where No One's Ready,The One Where No One's Ready,1996,,22,"Comedy,Romance",8.9,8297
+tt0108778,tt0583619,3,3,S3,The One with the Jam,The One with the Jam,1996,,22,"Comedy,Romance",7.8,5888
+tt0108778,tt0583629,3,4,S3,The One with the Metaphorical Tunnel,The One with the Metaphorical Tunnel,1996,,22,"Comedy,Romance",7.8,5670
+tt0108778,tt0583520,3,5,S3,The One with Frank Jr.,The One with Frank Jr.,1996,,22,"Comedy,Romance",8.0,5808
+tt0108778,tt0583606,3,6,S3,The One with the Flashback,The One with the Flashback,1996,,22,"Comedy,Romance",9.0,7517
+tt0108778,tt0583637,3,7,S3,The One with the Race Car Bed,The One with the Race Car Bed,1996,,22,"Comedy,Romance",8.1,5741
+tt0108778,tt0583609,3,8,S3,The One with the Giant Poking Device,The One with the Giant Poking Device,1996,,22,"Comedy,Romance",8.2,5757
+tt0108778,tt0583607,3,9,S3,The One with the Football,The One with the Football,1996,,22,"Comedy,Romance",8.9,7865
+tt0108778,tt0583474,3,10,S3,The One Where Rachel Quits,The One Where Rachel Quits,1996,,22,"Comedy,Romance",8.0,5805
+tt0108778,tt0583443,3,11,S3,The One Where Chandler Can't Remember Which Sister,The One Where Chandler Can't Remember Which Sister,1997,,22,"Comedy,Romance",8.4,5975
+tt0108778,tt0583506,3,12,S3,The One with All the Jealousy,The One with All the Jealousy,1997,,22,"Comedy,Romance",8.0,5634
+tt0108778,tt0583461,3,13,S3,The One Where Monica and Richard Are Just Friends,The One Where Monica and Richard Are Just Friends,1997,,23,"Comedy,Romance",8.1,5680
+tt0108778,tt0583538,3,14,S3,The One with Phoebe's Ex-Partner,The One with Phoebe's Ex-Partner,1997,,22,"Comedy,Romance",7.6,5689
+tt0108778,tt0583487,3,15,S3,The One Where Ross and Rachel Take a Break,The One Where Ross and Rachel Take a Break,1997,,22,"Comedy,Romance",8.4,6103
+tt0108778,tt0583501,3,16,S3,The One with the Morning After,The One with the Morning After,1997,,22,"Comedy,Romance",9.0,7407
+tt0108778,tt0583495,3,17,S3,The One Without the Ski Trip,The One Without the Ski Trip,1997,,22,"Comedy,Romance",8.2,5721
+tt0108778,tt0583615,3,18,S3,The One with the Hypnosis Tape,The One with the Hypnosis Tape,1997,,23,"Comedy,Romance",8.2,5782
+tt0108778,tt0583654,3,19,S3,The One with the Tiny T-Shirt,The One with the Tiny T-Shirt,1997,,30,"Comedy,Romance",8.0,5559
+tt0108778,tt0583596,3,20,S3,The One with the Dollhouse,The One with the Dollhouse,1997,,22,"Comedy,Romance",7.9,5528
+tt0108778,tt0583590,3,21,S3,The One with a Chick and a Duck,The One with a Chick and a Duck,1997,,23,"Comedy,Romance",8.6,5904
+tt0108778,tt0583643,3,22,S3,The One with the Screamer,The One with the Screamer,1997,,22,"Comedy,Romance",8.1,5612
+tt0108778,tt0583565,3,23,S3,The One with Ross's Thing,The One with Ross's Thing,1997,,22,"Comedy,Romance",7.8,5536
+tt0108778,tt0583657,3,24,S3,The One with the Ultimate Fighting Champion,The One with the Ultimate Fighting Champion,1997,,22,"Comedy,Romance",8.0,5754
+tt0108778,tt0583496,3,25,S3,The One at the Beach,The One at the Beach,1997,,22,"Comedy,Romance",8.7,6345
+tt0108778,tt0583620,4,1,S4,The One with the Jellyfish,The One with the Jellyfish,1997,,22,"Comedy,Romance",8.9,7171
+tt0108778,tt0583588,4,2,S4,The One with the Cat,The One with the Cat,1997,,22,"Comedy,Romance",7.9,5650
+tt0108778,tt0583571,4,3,S4,The One with the 'Cuffs,The One with the 'Cuffs,1997,,22,"Comedy,Romance",8.4,5780
+tt0108778,tt0583576,4,4,S4,The One with the Ballroom Dancing,The One with the Ballroom Dancing,1997,,22,"Comedy,Romance",8.0,5530
+tt0108778,tt0583529,4,5,S4,The One with Joey's New Girlfriend,The One with Joey's New Girlfriend,1997,,22,"Comedy,Romance",8.2,5601
+tt0108778,tt0583595,4,6,S4,The One with the Dirty Girl,The One with the Dirty Girl,1997,,22,"Comedy,Romance",8.4,5729
+tt0108778,tt0583444,4,7,S4,The One Where Chandler Crosses the Line,The One Where Chandler Crosses the Line,1997,,22,"Comedy,Romance",8.6,5801
+tt0108778,tt0583515,4,8,S4,The One with Chandler in a Box,The One with Chandler in a Box,1997,,22,"Comedy,Romance",9.0,7114
+tt0108778,tt0583490,4,9,S4,The One Where They're Going to Party!,The One Where They're Going to Party!,1997,,22,"Comedy,Romance",7.7,5392
+tt0108778,tt0583611,4,10,S4,The One with the Girl from Poughkeepsie,The One with the Girl from Poughkeepsie,1997,,22,"Comedy,Romance",7.9,5409
+tt0108778,tt0583541,4,11,S4,The One with Phoebe's Uterus,The One with Phoebe's Uterus,1998,,22,"Comedy,Romance",8.4,5837
+tt0108778,tt0583600,4,12,S4,The One with the Embryos,The One with the Embryos,1998,,22,"Comedy,Romance",9.4,10489
+tt0108778,tt0583547,4,13,S4,The One with Rachel's Crush,The One with Rachel's Crush,1998,,22,"Comedy,Romance",8.0,5370
+tt0108778,tt0583525,4,14,S4,The One with Joey's Dirty Day,The One with Joey's Dirty Day,1998,,22,"Comedy,Romance",8.1,5417
+tt0108778,tt0583512,4,15,S4,The One with All the Rugby,The One with All the Rugby,1998,,22,"Comedy,Romance",8.3,5650
+tt0108778,tt0583604,4,16,S4,The One with the Fake Party,The One with the Fake Party,1998,,22,"Comedy,Romance",8.0,5463
+tt0108778,tt0583608,4,17,S4,The One with the Free Porn,The One with the Free Porn,1998,,22,"Comedy,Romance",8.5,5617
+tt0108778,tt0583552,4,18,S4,The One with Rachel's New Dress,The One with Rachel's New Dress,1998,,22,"Comedy,Romance",8.1,5368
+tt0108778,tt0583505,4,19,S4,The One with All the Haste,The One with All the Haste,1998,,22,"Comedy,Romance",8.6,5674
+tt0108778,tt0583513,4,20,S4,The One with All the Wedding Dresses,The One with All the Wedding Dresses,1998,,22,"Comedy,Romance",8.4,5563
+tt0108778,tt0583618,4,21,S4,The One with the Invitation,The One with the Invitation,1998,,22,"Comedy,Romance",6.9,5977
+tt0108778,tt0583659,4,22,S4,The One with the Worst Best Man Ever,The One with the Worst Best Man Ever,1998,,22,"Comedy,Romance",8.3,5417
+tt0108778,tt0583566,4,23,S4,The One with Ross's Wedding,The One with Ross's Wedding: Part 1,1998,,30,"Comedy,Romance",8.6,5905
+tt0108778,tt0831991,4,24,S4,The One with Ross's Wedding: Part 2,The One with Ross's Wedding: Part 2,1998,,30,"Comedy,Romance",9.1,7418
+tt0108778,tt0583437,5,1,S5,The One After Ross Says Rachel,The One After Ross Says Rachel,1998,,22,"Comedy,Romance",8.8,6298
+tt0108778,tt0583507,5,2,S5,The One with All the Kissing,The One with All the Kissing,1998,,22,"Comedy,Romance",8.9,6427
+tt0108778,tt0583440,5,3,S5,The One Hundredth,The One Hundredth,1998,,22,"Comedy,Romance",8.7,5963
+tt0108778,tt0583467,5,4,S5,The One Where Phoebe Hates PBS,The One Where Phoebe Hates PBS,1998,,22,"Comedy,Romance",8.1,5318
+tt0108778,tt0583622,5,5,S5,The One with the Kips,The One with the Kips,1998,,22,"Comedy,Romance",8.6,5741
+tt0108778,tt0583660,5,6,S5,The One with the Yeti,The One with the Yeti,1998,,22,"Comedy,Romance",7.8,5316
+tt0108778,tt0583486,5,7,S5,The One Where Ross Moves In,The One Where Ross Moves In,1998,,22,"Comedy,Romance",8.1,5404
+tt0108778,tt0583652,5,8,S5,The One with All the Thanksgivings,The One with All the Thanksgivings,1998,,22,"Comedy,Romance",9.0,7316
+tt0108778,tt0583563,5,9,S5,The One with Ross's Sandwich,The One with Ross's Sandwich,1998,,22,"Comedy,Romance",9.0,6788
+tt0108778,tt0583617,5,10,S5,The One with the Inappropriate Sister,The One with the Inappropriate Sister,1998,,22,"Comedy,Romance",8.0,5327
+tt0108778,tt0583511,5,11,S5,The One with All the Resolutions,The One with All the Resolutions,1999,,22,"Comedy,Romance",9.0,6715
+tt0108778,tt0583517,5,12,S5,The One with Chandler's Work Laugh,The One with Chandler's Work Laugh,1999,,22,"Comedy,Romance",8.1,5295
+tt0108778,tt0583523,5,13,S5,The One with Joey's Bag,The One with Joey's Bag,1999,,22,"Comedy,Romance",7.9,5294
+tt0108778,tt0583452,5,14,S5,The One Where Everybody Finds Out,The One Where Everybody Finds Out,1999,,22,"Comedy,Romance",9.7,14527
+tt0108778,tt0583610,5,15,S5,The One with the Girl Who Hits Joey,The One with the Girl Who Hits Joey,1999,,22,"Comedy,Romance",8.3,5563
+tt0108778,tt0583593,5,16,S5,The One with the Cop,The One with the Cop,1999,,22,"Comedy,Romance",8.5,5785
+tt0108778,tt0583551,5,17,S5,The One with Rachel's Inadvertent Kiss,The One with Rachel's Inadvertent Kiss,1999,,22,"Comedy,Romance",8.3,5338
+tt0108778,tt0583475,5,18,S5,The One Where Rachel Smokes,The One Where Rachel Smokes,1999,,22,"Comedy,Romance",7.7,5181
+tt0108778,tt0583479,5,19,S5,The One Where Ross Can't Flirt,The One Where Ross Can't Flirt,1999,,22,"Comedy,Romance",8.6,5711
+tt0108778,tt0583639,5,20,S5,The One with the Ride Along,The One with the Ride Along,1999,,22,"Comedy,Romance",8.1,5178
+tt0108778,tt0583575,5,21,S5,The One with the Ball,The One with the Ball,1999,,22,"Comedy,Romance",8.3,5368
+tt0108778,tt0583524,5,22,S5,The One with Joey's Big Break,The One with Joey's Big Break,1999,,22,"Comedy,Romance",8.1,5132
+tt0108778,tt0583500,5,23,S5,The One in Vegas: Part 1,The One in Vegas: Part 1,1999,,22,"Comedy,Romance",8.6,5788
+tt0108778,tt0831990,5,24,S5,The One in Vegas: Part 2,The One in Vegas: Part 2,1999,,22,"Comedy,Romance",9.0,6525
+tt0108778,tt0583438,6,1,S6,The One After Vegas,The One After Vegas,1999,,22,"Comedy,Romance",8.6,5685
+tt0108778,tt0583483,6,2,S6,The One Where Ross Hugs Rachel,The One Where Ross Hugs Rachel,1999,,22,"Comedy,Romance",8.0,5148
+tt0108778,tt0583560,6,3,S6,The One with Ross's Denial,The One with Ross's Denial,1999,,22,"Comedy,Romance",8.0,5064
+tt0108778,tt0583455,6,4,S6,The One Where Joey Loses His Insurance,The One Where Joey Loses His Insurance,1999,,22,"Comedy,Romance",8.3,5293
+tt0108778,tt0583530,6,5,S6,The One with Joey's Porsche,The One with Joey's Porsche,1999,,22,"Comedy,Romance",8.0,5152
+tt0108778,tt0756481,6,6,S6,The One on the Last Night,The One on the Last Night,1999,,22,"Comedy,Romance",8.4,5219
+tt0108778,tt0583468,6,7,S6,The One Where Phoebe Runs,The One Where Phoebe Runs,1999,,22,"Comedy,Romance",8.2,5228
+tt0108778,tt0583559,6,8,S6,The One with Ross' Teeth,The One with Ross' Teeth,1999,,22,"Comedy,Romance",8.3,5437
+tt0108778,tt0583482,6,9,S6,The One Where Ross Got High,The One Where Ross Got High,1999,,22,"Comedy,Romance",9.1,7449
+tt0108778,tt0583641,6,10,S6,The One with the Routine,The One with the Routine,1999,,22,"Comedy,Romance",8.5,5646
+tt0108778,tt0583572,6,11,S6,The One with the Apothecary Table,The One with the Apothecary Table,2000,,22,"Comedy,Romance",7.9,5126
+tt0108778,tt0583621,6,12,S6,The One with the Joke,The One with the Joke,2000,,22,"Comedy,Romance",7.8,5031
+tt0108778,tt0583555,6,13,S6,The One with Rachel's Sister,The One with Rachel's Sister,2000,,22,"Comedy,Romance",8.1,5231
+tt0108778,tt0583502,6,14,S6,The One Where Chandler Can't Cry,The One Where Chandler Can't Cry,2000,,22,"Comedy,Romance",8.4,5275
+tt0108778,tt0583441,6,15,S6,The One That Could Have Been: Part 1,The One That Could Have Been: Part 1,2000,,30,"Comedy,Romance",8.3,5493
+tt0108778,tt0583442,6,16,S6,The One That Could Have Been: Part 2,The One That Could Have Been: Part 2,2000,,30,"Comedy,Romance",8.3,5370
+tt0108778,tt0583570,6,17,S6,The One with Unagi,The One with Unagi,2000,,22,"Comedy,Romance",8.9,7089
+tt0108778,tt0583480,6,18,S6,The One Where Ross Dates a Student,The One Where Ross Dates a Student,2000,,22,"Comedy,Romance",8.1,5095
+tt0108778,tt0583526,6,19,S6,The One with Joey's Fridge,The One with Joey's Fridge,2000,,22,"Comedy,Romance",8.1,5171
+tt0108778,tt0756482,6,20,S6,The One with Mac and C.H.E.E.S.E.,The One with Mac and C.H.E.E.S.E.,2000,,22,"Comedy,Romance",7.1,5429
+tt0108778,tt0583485,6,21,S6,The One Where Ross Meets Elizabeth's Dad,The One Where Ross Meets Elizabeth's Dad,2000,,22,"Comedy,Romance",8.5,5409
+tt0108778,tt0583466,6,22,S6,The One Where Paul's the Man,The One Where Paul's the Man,2000,,22,"Comedy,Romance",8.9,6147
+tt0108778,tt0583640,6,23,S6,The One with the Ring,The One with the Ring,2000,,22,"Comedy,Romance",8.4,5217
+tt0108778,tt0583636,6,24,S6,The One with the Proposal: Part 1,The One with the Proposal: Part 1,2000,,30,"Comedy,Romance",8.6,5405
+tt0108778,tt0954401,6,25,S6,The One with the Proposal: Part 2,The One with the Proposal: Part 2,2000,,30,"Comedy,Romance",9.2,7463
+tt0108778,tt0756483,7,1,S7,The One with Monica's Thunder,The One with Monica's Thunder,2000,,22,"Comedy,Romance",8.2,5400
+tt0108778,tt0583546,7,2,S7,The One with Rachel's Book,The One with Rachel's Book,2000,,22,"Comedy,Romance",8.1,5015
+tt0108778,tt0583536,7,3,S7,The One with Phoebe's Cookies,The One with Phoebe's Cookies,2000,,22,"Comedy,Romance",7.9,4980
+tt0108778,tt0583544,7,4,S7,The One with Rachel's Assistant,The One with Rachel's Assistant,2000,,22,"Comedy,Romance",7.9,4998
+tt0108778,tt0583601,7,5,S7,The One with the Engagement Picture,The One with the Engagement Picture,2000,,22,"Comedy,Romance",7.9,4963
+tt0108778,tt0583632,7,6,S7,The One with the Nap Partners,The One with the Nap Partners,2000,,22,"Comedy,Romance",8.7,5847
+tt0108778,tt0583558,7,7,S7,The One with Ross's Library Book,The One with Ross's Library Book,2000,,22,"Comedy,Romance",8.3,5089
+tt0108778,tt0583431,7,8,S7,The One Where Chandler Doesn't Like Dogs,The One Where Chandler Doesn't Like Dogs,2000,,22,"Comedy,Romance",8.0,4961
+tt0108778,tt0583503,7,9,S7,The One with All the Candy,The One with All the Candy,2000,,22,"Comedy,Romance",7.9,4909
+tt0108778,tt0583613,7,10,S7,The One with the Holiday Armadillo,The One with the Holiday Armadillo,2000,,22,"Comedy,Romance",8.4,5435
+tt0108778,tt0583504,7,11,S7,The One with All the Cheesecakes,The One with All the Cheesecakes,2001,,22,"Comedy,Romance",8.4,5240
+tt0108778,tt0583491,7,12,S7,The One Where They're Up All Night,The One Where They're Up All Night,2001,,22,"Comedy,Romance",8.5,5329
+tt0108778,tt0583478,7,13,S7,The One Where Rosita Dies,The One Where Rosita Dies,2001,,22,"Comedy,Romance",8.2,5016
+tt0108778,tt0583489,7,14,S7,The One Where They All Turn Thirty,The One Where They All Turn Thirty,2001,,22,"Comedy,Romance",8.4,5316
+tt0108778,tt0583528,7,15,S7,The One with Joey's New Brain,The One with Joey's New Brain,2001,,22,"Comedy,Romance",8.2,5143
+tt0108778,tt0583655,7,16,S7,The One with the Truth About London,The One with the Truth About London,2001,,22,"Comedy,Romance",8.6,5352
+tt0108778,tt0583589,7,17,S7,The One with the Cheap Wedding Dress,The One with the Cheap Wedding Dress,2001,,22,"Comedy,Romance",8.2,4924
+tt0108778,tt0583522,7,18,S7,The One with Joey's Award,The One with Joey's Award,2001,,22,"Comedy,Romance",8.2,4985
+tt0108778,tt0583556,7,19,S7,The One with Ross and Monica's Cousin,The One with Ross and Monica's Cousin,2001,,22,"Comedy,Romance",8.5,5515
+tt0108778,tt0583545,7,20,S7,The One with Rachel's Big Kiss,The One with Rachel's Big Kiss,2001,,22,"Comedy,Romance",8.2,5106
+tt0108778,tt0756484,7,21,S7,The One with the Vows,The One with the Vows,2001,,22,"Comedy,Romance",7.2,4994
+tt0108778,tt0583516,7,22,S7,The One with Chandler's Dad,The One with Chandler's Dad,2001,,22,"Comedy,Romance",8.2,5069
+tt0108778,tt0583531,7,23,S7,The One with Monica and Chandler's Wedding: Part 1,The One with Monica and Chandler's Wedding: Part 1,2001,,22,"Comedy,Romance",8.7,5581
+tt0108778,tt0583532,7,24,S7,The One with Monica and Chandler's Wedding: Part 2,The One with Monica and Chandler's Wedding: Part 2,2001,,22,"Comedy,Romance",9.1,6400
+tt0108778,tt0583435,8,1,S8,The One After I Do,The One After I Do,2001,,22,"Comedy,Romance",8.6,5393
+tt0108778,tt0583638,8,2,S8,The One with the Red Sweater,The One with the Red Sweater,2001,,22,"Comedy,Romance",9.0,6224
+tt0108778,tt0583476,8,3,S8,The One Where Rachel Tells...,The One Where Rachel Tells...,2001,,22,"Comedy,Romance",8.6,5085
+tt0108778,tt0583658,8,4,S8,The One with the Videotape,The One with the Videotape,2001,,22,"Comedy,Romance",9.2,7248
+tt0108778,tt0583548,8,5,S8,The One with Rachel's Date,The One with Rachel's Date,2001,,22,"Comedy,Romance",7.9,4869
+tt0108778,tt0583612,8,6,S8,The One with the Halloween Party,The One with the Halloween Party,2001,,22,"Comedy,Romance",8.4,5325
+tt0108778,tt0583648,8,7,S8,The One with the Stain,The One with the Stain,2001,,22,"Comedy,Romance",7.7,4944
+tt0108778,tt0583650,8,8,S8,The One with the Stripper,The One with the Stripper,2001,,22,"Comedy,Romance",8.6,5505
+tt0108778,tt0583642,8,9,S8,The One with the Rumor,The One with the Rumor,2001,,22,"Comedy,Romance",9.2,8851
+tt0108778,tt0583533,8,10,S8,The One with Monica's Boots,The One with Monica's Boots,2001,,22,"Comedy,Romance",7.9,4940
+tt0108778,tt0583594,8,11,S8,The One with Ross's Step Forward,The One with Ross's Step Forward,2001,,22,"Comedy,Romance",7.8,4748
+tt0108778,tt0583454,8,12,S8,The One Where Joey Dates Rachel,The One Where Joey Dates Rachel,2002,,22,"Comedy,Romance",8.4,5169
+tt0108778,tt0583446,8,13,S8,The One Where Chandler Takes a Bath,The One Where Chandler Takes a Bath,2002,,22,"Comedy,Romance",8.4,5023
+tt0108778,tt0583644,8,14,S8,The One with the Secret Closet,The One with the Secret Closet,2002,,22,"Comedy,Romance",8.0,4759
+tt0108778,tt0583578,8,15,S8,The One with the Birthing Video,The One with the Birthing Video,2002,,22,"Comedy,Romance",8.2,4744
+tt0108778,tt0583458,8,16,S8,The One Where Joey Tells Rachel,The One Where Joey Tells Rachel,2002,,22,"Comedy,Romance",8.1,4840
+tt0108778,tt0583651,8,17,S8,The One with the Tea Leaves,The One with the Tea Leaves,2002,,22,"Comedy,Romance",7.9,4743
+tt0108778,tt0583499,8,18,S8,The One in Massapequa,The One in Massapequa,2002,,22,"Comedy,Romance",8.0,4818
+tt0108778,tt0583527,8,19,S8,The One with Joey's Interview,The One with Joey's Interview,2002,,22,"Comedy,Romance",7.2,4931
+tt0108778,tt0583573,8,20,S8,The One with the Baby Shower,The One with the Baby Shower,2002,,22,"Comedy,Romance",8.1,4820
+tt0108778,tt0583592,8,21,S8,The One with the Cooking Class,The One with the Cooking Class,2002,,22,"Comedy,Romance",8.0,4771
+tt0108778,tt0583473,8,22,S8,The One Where Rachel Is Late,The One Where Rachel Is Late,2002,,22,"Comedy,Romance",8.2,4727
+tt0108778,tt0583471,8,23,S8,The One Where Rachel Has a Baby: Part 1,The One Where Rachel Has a Baby: Part 1,2002,,22,"Comedy,Romance",8.7,5146
+tt0108778,tt0583472,8,24,S8,The One Where Rachel Has a Baby: Part 2,The One Where Rachel Has a Baby: Part 2,2002,,22,"Comedy,Romance",8.8,5509
+tt0108778,tt0583463,9,1,S9,The One Where No One Proposes,The One Where No One Proposes,2002,,22,"Comedy,Romance",8.5,5236
+tt0108778,tt0583450,9,2,S9,The One Where Emma Cries,The One Where Emma Cries,2002,,22,"Comedy,Romance",8.4,5215
+tt0108778,tt0583633,9,3,S9,The One with the Pediatrician,The One with the Pediatrician,2002,,22,"Comedy,Romance",8.1,4844
+tt0108778,tt0583645,9,4,S9,The One with the Sharks,The One with the Sharks,2002,,22,"Comedy,Romance",8.0,4876
+tt0108778,tt0583535,9,5,S9,The One with Phoebe's Birthday Dinner,The One with Phoebe's Birthday Dinner,2002,,22,"Comedy,Romance",8.3,5007
+tt0108778,tt0583627,9,6,S9,The One with the Male Nanny,The One with the Male Nanny,2002,,32,"Comedy,Romance",8.2,5201
+tt0108778,tt0583561,9,7,S9,The One with Ross's Inappropriate Song,The One with Ross's Inappropriate Song,2002,,22,"Comedy,Romance",8.5,5202
+tt0108778,tt0583553,9,8,S9,The One with Rachel's Other Sister,The One with Rachel's Other Sister,2002,,22,"Comedy,Romance",8.7,5833
+tt0108778,tt0583554,9,9,S9,The One with Rachel's Phone Number,The One with Rachel's Phone Number,2002,,22,"Comedy,Romance",8.0,4797
+tt0108778,tt0583518,9,10,S9,The One with Christmas in Tulsa,The One with Christmas in Tulsa,2002,,22,"Comedy,Romance",7.2,4932
+tt0108778,tt0583470,9,11,S9,The One Where Rachel Goes Back to Work,The One Where Rachel Goes Back to Work,2003,,22,"Comedy,Romance",7.8,4637
+tt0108778,tt0583540,9,12,S9,The One with Phoebe's Rats,The One with Phoebe's Rats,2003,,22,"Comedy,Romance",7.7,4767
+tt0108778,tt0583460,9,13,S9,The One Where Monica Sings,The One Where Monica Sings,2003,,22,"Comedy,Romance",7.9,4742
+tt0108778,tt0583580,9,14,S9,The One with the Blind Dates,The One with the Blind Dates,2003,,22,"Comedy,Romance",8.0,4671
+tt0108778,tt0583631,9,15,S9,The One with the Mugging,The One with the Mugging,2003,,22,"Comedy,Romance",8.1,4707
+tt0108778,tt0583581,9,16,S9,The One with the Boob Job,The One with the Boob Job,2003,,22,"Comedy,Romance",8.0,4597
+tt0108778,tt0583628,9,17,S9,The One with the Memorial Service,The One with the Memorial Service,2003,,22,"Comedy,Romance",8.3,4785
+tt0108778,tt0583626,9,18,S9,The One with the Lottery,The One with the Lottery,2003,,23,"Comedy,Romance",8.5,4958
+tt0108778,tt0583549,9,19,S9,The One with Rachel's Dream,The One with Rachel's Dream,2003,,22,"Comedy,Romance",7.9,4645
+tt0108778,tt0583646,9,20,S9,The One with the Soap Opera Party,The One with the Soap Opera Party,2003,,22,"Comedy,Romance",8.1,4677
+tt0108778,tt0583605,9,21,S9,The One with the Fertility Test,The One with the Fertility Test,2003,,22,"Comedy,Romance",8.1,4580
+tt0108778,tt0583597,9,22,S9,The One with the Donor,The One with the Donor,2003,,22,"Comedy,Romance",7.6,4659
+tt0108778,tt0583497,9,23,S9,The One in Barbados,The One in Barbados,2003,,50,"Comedy,Romance",8.5,5383
+tt0108778,tt0583436,10,1,S10,The One After Joey and Rachel Kiss,The One After Joey and Rachel Kiss,2003,,22,"Comedy,Romance",8.4,5479
+tt0108778,tt0583484,10,2,S10,The One Where Ross Is Fine,The One Where Ross Is Fine,2003,,22,"Comedy,Romance",8.7,5917
+tt0108778,tt0583564,10,3,S10,The One with Ross's Tan,The One with Ross's Tan,2003,,22,"Comedy,Romance",8.6,5714
+tt0108778,tt0583586,10,4,S10,The One with the Cake,The One with the Cake,2003,,22,"Comedy,Romance",8.2,5037
+tt0108778,tt0583477,10,5,S10,The One Where Rachel's Sister Babysits,The One Where Rachel's Sister Babysits,2003,,22,"Comedy,Romance",8.0,4958
+tt0108778,tt0583557,10,6,S10,The One with Ross' Grant,The One with Ross' Grant,2003,,22,"Comedy,Romance",8.0,5022
+tt0108778,tt0583614,10,7,S10,The One with the Home Study,The One with the Home Study,2003,,22,"Comedy,Romance",8.1,4831
+tt0108778,tt0583623,10,8,S10,The One with the Late Thanksgiving,The One with the Late Thanksgiving,2003,,22,"Comedy,Romance",8.8,5787
+tt0108778,tt0583432,10,9,S10,The One with the Birth Mother,The One with the Birth Mother,2004,,22,"Comedy,Romance",8.4,5119
+tt0108778,tt0583445,10,10,S10,The One Where Chandler Gets Caught,The One Where Chandler Gets Caught,2004,,22,"Comedy,Romance",7.8,4919
+tt0108778,tt0583494,10,11,S10,The One Where the Stripper Cries,The One Where the Stripper Cries,2004,,22,"Comedy,Romance",8.9,6316
+tt0108778,tt0583542,10,12,S10,The One with Phoebe's Wedding,The One with Phoebe's Wedding,2004,,22,"Comedy,Romance",8.8,5656
+tt0108778,tt0583457,10,13,S10,The One Where Joey Speaks French,The One Where Joey Speaks French,2004,,22,"Comedy,Romance",8.3,5339
+tt0108778,tt0583543,10,14,S10,The One with Princess Consuela,The One with Princess Consuela,2004,,22,"Comedy,Romance",8.4,5174
+tt0108778,tt0583451,10,15,S10,The One Where Estelle Dies,The One Where Estelle Dies,2004,,22,"Comedy,Romance",8.4,4900
+tt0108778,tt0583550,10,16,S10,The One with Rachel's Going Away Party,The One with Rachel's Going Away Party,2004,,22,"Comedy,Romance",8.8,5636
+tt0108778,tt0583433,10,17,S10,The Last One: Part 1,The Last One: Part 1,2004,,48,"Comedy,Romance",9.6,17557
+tt0108778,tt33064961,10,18,S10,The Last One: Part 2,The Last One: Part 2,2004,,23,"Comedy,Romance",9.6,1049

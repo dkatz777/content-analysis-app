@@ -1,0 +1,223 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0424627,tt0781280,1,0,S1,The Lost Dog Pilot,The Lost Dog Pilot,2003,,22,"Adventure,Crime,Documentary",6.0,25
+tt0424627,tt0764351,1,1,S1,Meet the Chapmans,Meet the Chapmans,2004,,22,"Adventure,Crime,Documentary",7.4,42
+tt0424627,tt0764339,1,2,S1,Father and Son,Father and Son,2004,,21,"Adventure,Crime,Documentary",7.4,40
+tt0424627,tt0764360,1,3,S1,The Competition,The Competition,2004,,22,"Adventure,Crime,Documentary",7.3,17
+tt0424627,tt0764328,1,4,S1,A Walk on the Wild Side,A Walk on the Wild Side,2004,,,"Adventure,Crime,Documentary",7.1,14
+tt0424627,tt0764333,1,5,S1,Bounty Hunters Have Hearts Too,Bounty Hunters Have Hearts Too,2004,,22,"Adventure,Crime,Documentary",6.7,16
+tt0424627,tt0764349,1,6,S1,Love's Labors Lost and Found,Love's Labors Lost and Found,2004,,22,"Adventure,Crime,Documentary",7.3,14
+tt0424627,tt0764361,1,7,S1,The Godfather of Waikiki,The Godfather of Waikiki,2004,,21,"Adventure,Crime,Documentary",6.6,23
+tt0424627,tt0764342,1,8,S1,Hide and Seek: Part 1,Hide and Seek: Part 1,2004,,22,"Adventure,Crime,Documentary",6.4,15
+tt0424627,tt0764343,1,9,S1,Hide and Seek: Part 2,Hide and Seek: Part 2,2004,,22,"Adventure,Crime,Documentary",6.9,11
+tt0424627,tt0764347,1,10,S1,Justin's Big Day,Justin's Big Day,2004,,22,"Adventure,Crime,Documentary",6.4,15
+tt0424627,tt0764345,1,11,S1,It's Good to Be Home,It's Good to Be Home,2004,,22,"Adventure,Crime,Documentary",6.2,13
+tt0424627,tt0764367,1,12,S1,You Can't Go Home Again,You Can't Go Home Again,2004,,22,"Adventure,Crime,Documentary",7.7,16
+tt0424627,tt0764327,1,13,S1,A Family Feud,A Family Feud,2004,,22,"Adventure,Crime,Documentary",7.0,11
+tt0424627,tt0764356,1,14,S1,Sons and Daughters,Sons and Daughters,2004,,22,"Adventure,Crime,Documentary",6.7,14
+tt0424627,tt0764362,1,15,S1,The Sweep,The Sweep,2004,,22,"Adventure,Crime,Documentary",6.9,10
+tt0424627,tt0764357,1,16,S1,Stress Management,Stress Management,2005,,22,"Adventure,Crime,Documentary",6.5,13
+tt0424627,tt0764366,1,17,S1,Where There's Smoke...,Where There's Smoke...,2005,,22,"Adventure,Crime,Documentary",6.7,13
+tt0424627,tt0764354,1,18,S1,Second Chances,Second Chances,2005,,22,"Adventure,Crime,Documentary",7.4,12
+tt0424627,tt0764329,2,1,S2,Baby's Back in Town,Baby's Back in Town,2005,,22,"Adventure,Crime,Documentary",6.9,13
+tt0424627,tt0764359,2,2,S2,Surprise! Surprise!,Surprise! Surprise!,2005,,22,"Adventure,Crime,Documentary",6.0,11
+tt0424627,tt0764353,2,3,S2,No Ice in Paradise,No Ice in Paradise,2005,,22,"Adventure,Crime,Documentary",5.6,11
+tt0424627,tt0764355,2,4,S2,Son of Dog,Son of Dog,2005,,,"Adventure,Crime,Documentary",7.4,6
+tt0424627,tt0764340,2,5,S2,Fathers in Law,Fathers in Law,2005,,22,"Adventure,Crime,Documentary",6.4,7
+tt0424627,tt0764332,2,6,S2,Bosco the Clown,Bosco the Clown,2005,,22,"Adventure,Crime,Documentary",,
+tt0424627,tt0760637,2,7,S2,Brother's Keeper,Brother's Keeper,2005,,22,"Adventure,Crime,Documentary",7.0,11
+tt0424627,tt0764350,2,8,S2,Mama's Boys,Mama's Boys,2005,,22,"Adventure,Crime,Documentary",6.1,10
+tt0424627,tt0764348,2,9,S2,Lost in Paradise,Lost in Paradise,2005,,22,"Adventure,Crime,Documentary",5.9,11
+tt0424627,tt0764335,2,10,S2,Coaching Day,Coaching Day,2005,,22,"Adventure,Crime,Documentary",,
+tt0424627,tt0764363,2,11,S2,The Women of Waikiki,The Women of Waikiki,2005,,21,"Adventure,Crime,Documentary",6.4,8
+tt0424627,tt0764365,2,12,S2,To Capture One's Own,To Capture One's Own,2005,,22,"Adventure,Crime,Documentary",6.4,12
+tt0424627,tt0764364,2,13,S2,This Dog Can Hunt,This Dog Can Hunt,2005,,45,"Adventure,Crime,Documentary",7.8,10
+tt0424627,tt0764330,2,15,S2,Big Bags and Boxers,Big Bags and Boxers,2005,,22,"Adventure,Crime,Documentary",7.6,12
+tt0424627,tt0764334,2,16,S2,Cats & Dogs,Cats & Dogs,2005,,22,"Adventure,Crime,Documentary",5.7,9
+tt0424627,tt0764336,2,17,S2,Destiny Love,Destiny Love,2005,,22,"Adventure,Crime,Documentary",5.9,10
+tt0424627,tt0764344,2,18,S2,If You Knew Nunu,If You Knew Nunu,2005,,22,"Adventure,Crime,Documentary",7.3,8
+tt0424627,tt0764338,2,19,S2,Double Trouble,Double Trouble,2005,,22,"Adventure,Crime,Documentary",5.8,11
+tt0424627,tt0764331,2,20,S2,"Big Island, Small Town","Big Island, Small Town",2005,,22,"Adventure,Crime,Documentary",6.8,7
+tt0424627,tt0764346,2,21,S2,Jonah Is Missing,Jonah Is Missing,2005,,22,"Adventure,Crime,Documentary",6.4,7
+tt0424627,tt0764358,2,22,S2,Suga on My Cuffs,Suga on My Cuffs,2005,,22,"Adventure,Crime,Documentary",7.7,8
+tt0424627,tt0764352,2,23,S2,Mothers and Daughters,Mothers and Daughters,2006,,22,"Adventure,Crime,Documentary",6.8,8
+tt0424627,tt0764337,2,24,S2,Dog Is Smokin',Dog Is Smokin',2006,,22,"Adventure,Crime,Documentary",,
+tt0424627,tt0786586,2,25,S2,Judgment Day,Judgment Day,2006,,22,"Adventure,Crime,Documentary",6.8,7
+tt0424627,tt0786475,2,26,S2,Moms & Dads,Moms & Dads,2006,,22,"Adventure,Crime,Documentary",7.4,9
+tt0424627,tt0764341,2,27,S2,For the Love of Dog: Luau Special,For the Love of Dog: Luau Special,2006,,45,"Adventure,Crime,Documentary",7.0,7
+tt0424627,tt0780733,3,1,S3,"California, Here Dog Comes","California, Here Dog Comes",2006,,,"Adventure,Crime,Documentary",8.1,16
+tt0424627,tt0786587,3,2,S3,"You Snooze, You Lose","You Snooze, You Lose",2006,,22,"Adventure,Crime,Documentary",6.4,7
+tt0424627,tt0796054,3,3,S3,A Helping Hand,A Helping Hand,2006,,21,"Adventure,Crime,Documentary",6.8,7
+tt0424627,tt0786474,3,4,S3,Do Unto Others,Do Unto Others,2006,,22,"Adventure,Crime,Documentary",,
+tt0424627,tt0796055,3,5,S3,In Sickness and in Health,In Sickness and in Health,2006,,22,"Adventure,Crime,Documentary",7.8,10
+tt0424627,tt0843900,3,6,S3,If the Shirt Fits...,If the Shirt Fits...,2006,,22,"Adventure,Crime,Documentary",7.4,7
+tt0424627,tt0796056,3,7,S3,Take Your Daughter to Work Day,Take Your Daughter to Work Day,2006,,22,"Adventure,Crime,Documentary",6.4,11
+tt0424627,tt0843683,3,8,S3,Rock-A-Bye Bounty,Rock-A-Bye Bounty,2006,,22,"Adventure,Crime,Documentary",6.9,10
+tt0424627,tt0843681,3,9,S3,Father-Hood,Father-Hood,2006,,22,"Adventure,Crime,Documentary",6.5,10
+tt0424627,tt0843685,3,10,S3,The Thief Who Stole Christmas,The Thief Who Stole Christmas,2006,,21,"Adventure,Crime,Documentary",7.1,10
+tt0424627,tt0843682,3,11,S3,Out of Sight,Out of Sight,2006,,22,"Adventure,Crime,Documentary",,
+tt0424627,tt0843899,3,12,S3,Cupid in Cuffs,Cupid in Cuffs,2006,,21,"Adventure,Crime,Documentary",7.9,19
+tt0424627,tt0843680,3,13,S3,Cops and Criminals,Cops and Criminals,2006,,22,"Adventure,Crime,Documentary",6.0,8
+tt0424627,tt0843901,3,14,S3,To Love and to Cherish,To Love and to Cherish,2006,,46,"Adventure,Crime,Documentary",6.9,11
+tt0424627,tt0843898,3,15,S3,Bustin' with Justin,Bustin' with Justin,2006,,22,"Adventure,Crime,Documentary",7.1,11
+tt0424627,tt0843897,3,16,S3,Bonds of Love,Bonds of Love,2006,,91,"Adventure,Crime,Documentary",7.4,7
+tt0424627,tt0851636,3,17,S3,Vegas or Bust,Vegas or Bust,2006,,22,"Adventure,Crime,Documentary",6.8,7
+tt0424627,tt0851635,3,18,S3,Playing Possum,Playing Possum,2006,,22,"Adventure,Crime,Documentary",6.7,9
+tt0424627,tt0843684,3,19,S3,"Run Fugitive, Run","Run Fugitive, Run",2006,,22,"Adventure,Crime,Documentary",6.6,9
+tt0424627,tt0863420,3,20,S3,Ticket to Ride,Ticket to Ride,2006,,21,"Adventure,Crime,Documentary",6.4,10
+tt0424627,tt0875296,3,21,S3,Mother Knows Best,Mother Knows Best,2006,,22,"Adventure,Crime,Documentary",6.3,10
+tt0424627,tt0863419,3,22,S3,Rainy Day Woman,Rainy Day Woman,2006,,22,"Adventure,Crime,Documentary",6.6,8
+tt0424627,tt0883670,3,23,S3,Rocky Mountain Roundup,Rocky Mountain Roundup,2006,,22,"Adventure,Crime,Documentary",6.0,9
+tt0424627,tt0916164,3,25,S3,Inside Out,Inside Out,2006,,22,"Adventure,Crime,Documentary",,
+tt0424627,tt0875297,3,26,S3,Irons in the Fire,Irons in the Fire,2006,,22,"Adventure,Crime,Documentary",7.5,8
+tt0424627,tt0909468,3,27,S3,Running on Empty,Running on Empty,2006,,22,"Adventure,Crime,Documentary",6.9,9
+tt0424627,tt0893004,3,28,S3,This One's for You,This One's for You,2006,,22,"Adventure,Crime,Documentary",7.4,9
+tt0424627,tt0893003,3,29,S3,Baby Lyssa Steps Up,Baby Lyssa Steps Up,2006,,22,"Adventure,Crime,Documentary",7.2,17
+tt0424627,tt0925371,3,32,S3,Growing Up Is Hard to Do,Growing Up Is Hard to Do,2006,,22,"Adventure,Crime,Documentary",6.6,9
+tt0424627,tt0931739,3,33,S3,Year of the Dog,Year of the Dog,2007,,43,"Adventure,Crime,Documentary",7.3,15
+tt0424627,tt1014707,4,1,S4,The Mystery of Mona Lisa,The Mystery of Mona Lisa,2007,,45,"Adventure,Crime,Documentary",6.7,12
+tt0424627,tt1004156,4,2,S4,Rusty Cuffs,Rusty Cuffs,2007,,45,"Adventure,Crime,Documentary",7.2,17
+tt0424627,tt1004155,4,3,S4,Make a Wish,Make a Wish,2007,,22,"Adventure,Crime,Documentary",7.0,10
+tt0424627,tt1028186,4,4,S4,Tough Love,Tough Love,2007,,22,"Adventure,Crime,Documentary",6.8,12
+tt0424627,tt1028184,4,5,S4,Surprise Ending,Surprise Ending,2007,,22,"Adventure,Crime,Documentary",6.6,12
+tt0424627,tt1028185,4,6,S4,The Big Wipe-Out,The Big Wipe-Out,2007,,22,"Adventure,Crime,Documentary",6.9,11
+tt0424627,tt1067609,4,7,S4,You Can Bet on It,You Can Bet on It,2007,,22,"Adventure,Crime,Documentary",6.4,8
+tt0424627,tt1067361,4,8,S4,Fly Boy,Fly Boy,2007,,22,"Adventure,Crime,Documentary",6.7,9
+tt0424627,tt1050425,4,9,S4,Guns and Ice,Guns and Ice,2007,,22,"Adventure,Crime,Documentary",6.1,11
+tt0424627,tt1067608,4,10,S4,The Good Fight,The Good Fight,2007,,22,"Adventure,Crime,Documentary",6.8,11
+tt0424627,tt1067362,4,11,S4,The Last Call,The Last Call,2007,,22,"Adventure,Crime,Documentary",7.9,19
+tt0424627,tt1117751,4,12,S4,The Smackdown of Baby Lyssa,The Smackdown of Baby Lyssa,2007,,22,"Adventure,Crime,Documentary",7.0,22
+tt0424627,tt1117747,4,13,S4,A Friend in Need,A Friend in Need,2007,,22,"Adventure,Crime,Documentary",6.9,9
+tt0424627,tt1117754,4,14,S4,Your Lying Eyes,Your Lying Eyes,2007,,45,"Adventure,Crime,Documentary",6.0,7
+tt0424627,tt1117748,4,15,S4,A Man Called Dog,A Man Called Dog,2007,,,"Adventure,Crime,Documentary",7.2,8
+tt0424627,tt1117749,4,16,S4,Crime Don't Pay,Crime Don't Pay,2007,,22,"Adventure,Crime,Documentary",6.4,7
+tt0424627,tt1117752,4,17,S4,Twisted Love,Twisted Love,2007,,22,"Adventure,Crime,Documentary",6.6,8
+tt0424627,tt1117753,4,18,S4,Where the Wild Things Are,Where the Wild Things Are,2007,,22,"Adventure,Crime,Documentary",6.8,10
+tt0424627,tt1117750,4,19,S4,No Love Still,No Love Still,2007,,22,"Adventure,Crime,Documentary",6.3,9
+tt0424627,tt1126864,4,20,S4,Day of the Dog,Day of the Dog,2007,,22,"Adventure,Crime,Documentary",6.2,8
+tt0424627,tt1126865,4,21,S4,The Time to Cry,The Time to Cry,2007,,46,"Adventure,Crime,Documentary",6.5,9
+tt0424627,tt1262609,5,1,S5,Up on the Roof,Up on the Roof,2008,,44,"Adventure,Crime,Documentary",6.9,12
+tt0424627,tt1262608,5,2,S5,Family Business,Family Business,2008,,45,"Adventure,Crime,Documentary",6.3,8
+tt0424627,tt1270174,5,3,S5,Felons Interrupted,Felons Interrupted,2008,,46,"Adventure,Crime,Documentary",6.3,12
+tt0424627,tt1283354,5,4,S5,Let it Snow,Let it Snow,2008,,22,"Adventure,Crime,Documentary",6.6,9
+tt0424627,tt1283355,5,5,S5,Rush from Judgement,Rush from Judgement,2008,,22,"Adventure,Crime,Documentary",6.2,8
+tt0424627,tt1283353,5,6,S5,Burn & Return,Burn & Return,2008,,22,"Adventure,Crime,Documentary",6.4,12
+tt0424627,tt1348557,5,7,S5,Stormy Weather,Stormy Weather,2008,,22,"Adventure,Crime,Documentary",6.5,9
+tt0424627,tt1348553,5,8,S5,One for the Money,One for the Money,2008,,22,"Adventure,Crime,Documentary",6.4,12
+tt0424627,tt1348555,5,9,S5,Reality Check,Reality Check,2008,,22,"Adventure,Crime,Documentary",6.4,10
+tt0424627,tt1348552,5,10,S5,No Piece of Cake,No Piece of Cake,2008,,22,"Adventure,Crime,Documentary",6.7,13
+tt0424627,tt1348554,5,11,S5,Prayers & Mace,Prayers & Mace,2008,,22,"Adventure,Crime,Documentary",6.9,12
+tt0424627,tt1348551,5,12,S5,New Dog in Town,New Dog in Town,2008,,22,"Adventure,Crime,Documentary",5.4,10
+tt0424627,tt1348558,5,13,S5,Trick or Treat,Trick or Treat,2008,,21,"Adventure,Crime,Documentary",6.8,13
+tt0424627,tt1348550,5,14,S5,Girl Trouble,Girl Trouble,2008,,46,"Adventure,Crime,Documentary",6.9,10
+tt0424627,tt1348556,5,15,S5,Seeing the Light,Seeing the Light,2008,,22,"Adventure,Crime,Documentary",6.6,9
+tt0424627,tt1348560,5,16,S5,When a Stranger Calls,When a Stranger Calls,2008,,22,"Adventure,Crime,Documentary",6.3,9
+tt0424627,tt1348559,5,17,S5,Tricks of the Trade,Tricks of the Trade,2008,,22,"Adventure,Crime,Documentary",6.6,11
+tt0424627,tt1369142,6,1,S6,"Jack & Jill, Part 1","Jack & Jill, Part 1",2009,,46,"Adventure,Crime,Documentary",7.2,19
+tt0424627,tt1368218,6,2,S6,Island Hopper,Island Hopper,2009,,22,"Adventure,Crime,Documentary",7.4,9
+tt0424627,tt1372860,6,3,S6,Nice Guys Finish Last,Nice Guys Finish Last,2009,,22,"Adventure,Crime,Documentary",6.9,10
+tt0424627,tt1407406,6,4,S6,No Fly Zone,No Fly Zone,2009,,22,"Adventure,Crime,Documentary",6.8,9
+tt0424627,tt1439714,6,5,S6,Teaching Moment,Teaching Moment,2009,,22,"Adventure,Crime,Documentary",7.1,9
+tt0424627,tt1439710,6,6,S6,Mission of Mercy,Mission of Mercy,2009,,22,"Adventure,Crime,Documentary",7.4,10
+tt0424627,tt1439713,6,7,S6,Practice Makes Perfect,Practice Makes Perfect,2009,,22,"Adventure,Crime,Documentary",6.4,7
+tt0424627,tt1407407,6,8,S6,Save the Dogs,Save the Dogs,2009,,22,"Adventure,Crime,Documentary",6.7,9
+tt0424627,tt1439708,6,9,S6,Back Behind Bars,Back Behind Bars,2009,,22,"Adventure,Crime,Documentary",6.7,8
+tt0424627,tt1439709,6,10,S6,Family Man,Family Man,2009,,22,"Adventure,Crime,Documentary",6.4,9
+tt0424627,tt1439707,6,11,S6,All in the Family,All in the Family,2009,,22,"Adventure,Crime,Documentary",6.3,10
+tt0424627,tt1439711,6,12,S6,Mother Courage,Mother Courage,2009,,45,"Adventure,Crime,Documentary",6.7,11
+tt0424627,tt1500307,6,13,S6,Bounty Boot Camp,Bounty Boot Camp,2009,,45,"Adventure,Crime,Documentary",5.8,7
+tt0424627,tt1500308,6,14,S6,Friends and Neighbors,Friends and Neighbors,2009,,45,"Adventure,Crime,Documentary",7.0,8
+tt0424627,tt1500309,6,15,S6,The Set Up,The Set Up,2009,,46,"Adventure,Crime,Documentary",6.8,7
+tt0424627,tt1500310,6,16,S6,The Searchers,The Searchers,2009,,44,"Adventure,Crime,Documentary",6.8,10
+tt0424627,tt1500311,6,17,S6,Buddha's Delight,Buddha's Delight,2009,,45,"Adventure,Crime,Documentary",6.8,10
+tt0424627,tt1500312,6,18,S6,Three's Company,Three's Company,2009,,45,"Adventure,Crime,Documentary",6.7,9
+tt0424627,tt1499991,6,19,S6,Strip Search,Strip Search,2009,,22,"Adventure,Crime,Documentary",6.7,9
+tt0424627,tt1520558,6,20,S6,Secret Places,Secret Places,2009,,22,"Adventure,Crime,Documentary",6.8,10
+tt0424627,tt1520557,6,21,S6,Father of the Bride,Father of the Bride,2009,,45,"Adventure,Crime,Documentary",6.3,8
+tt0424627,tt1759023,6,28,S6,Bounty Baby (I),Bounty Baby (I),2010,,46,"Adventure,Crime,Documentary",7.4,9
+tt0424627,tt1755176,6,30,S6,Rain Check - Part 1,Rain Check - Part 1,2010,,45,"Adventure,Crime,Documentary",6.8,6
+tt0424627,tt1574895,7,1,S7,Wrong Turn: Part 1,Wrong Turn: Part 1,2009,,45,"Adventure,Crime,Documentary",7.1,12
+tt0424627,tt1574896,7,2,S7,Wrong Turn: Part 2,Wrong Turn: Part 2,2009,,,"Adventure,Crime,Documentary",5.7,8
+tt0424627,tt1574885,7,3,S7,Armed and Dangerous: Part 1,Armed and Dangerous: Part 1,2009,,,"Adventure,Crime,Documentary",6.5,8
+tt0424627,tt1574886,7,4,S7,Armed and Dangerous: Part 2,Armed and Dangerous: Part 2,2009,,,"Adventure,Crime,Documentary",,
+tt0424627,tt1574889,7,5,S7,Easy Rider: Part 1,Easy Rider: Part 1,2009,,45,"Adventure,Crime,Documentary",6.6,10
+tt0424627,tt1574890,7,6,S7,Easy Rider: Part 2,Easy Rider: Part 2,2009,,,"Adventure,Crime,Documentary",6.6,7
+tt0424627,tt1574893,7,7,S7,The Hunt for Santa: Part 1,The Hunt for Santa: Part 1,2009,,44,"Adventure,Crime,Documentary",6.8,16
+tt0424627,tt1574894,7,8,S7,The Hunt for Santa: Part 2,The Hunt for Santa: Part 2,2009,,,"Adventure,Crime,Documentary",6.9,15
+tt0424627,tt1574892,7,10,S7,Kid Stuff,Kid Stuff,2010,,22,"Adventure,Crime,Documentary",6.8,11
+tt0424627,tt1574888,7,11,S7,Easy Does It,Easy Does It,2010,,22,"Adventure,Crime,Documentary",7.2,9
+tt0424627,tt1574891,7,12,S7,Ghost Rider,Ghost Rider,2010,,22,"Adventure,Crime,Documentary",7.0,9
+tt0424627,tt1648353,7,13,S7,Back in the Hood,Back in the Hood,2010,,22,"Adventure,Crime,Documentary",7.1,9
+tt0424627,tt1648360,7,14,S7,One for the Road,One for the Road,2010,,22,"Adventure,Crime,Documentary",6.8,8
+tt0424627,tt1648356,7,15,S7,"Bait and Switch, Part 2","Bait and Switch, Part 2",2010,,,"Adventure,Crime,Documentary",7.9,9
+tt0424627,tt1648355,7,16,S7,"Bait and Switch, Part 1","Bait and Switch, Part 1",2010,,44,"Adventure,Crime,Documentary",7.0,7
+tt0424627,tt1648363,7,17,S7,True Identity,True Identity,2010,,22,"Adventure,Crime,Documentary",7.8,11
+tt0424627,tt1648362,7,18,S7,Secrets and Lies,Secrets and Lies,2010,,22,"Adventure,Crime,Documentary",7.0,8
+tt0424627,tt1648357,7,19,S7,Match Point,Match Point,2010,,22,"Adventure,Crime,Documentary",6.9,10
+tt0424627,tt1648358,7,20,S7,Menehune Mischief,Menehune Mischief,2010,,22,"Adventure,Crime,Documentary",7.0,10
+tt0424627,tt1648359,7,21,S7,Mister Mom,Mister Mom,2010,,22,"Adventure,Crime,Documentary",7.1,12
+tt0424627,tt1648354,7,22,S7,Bait & Snitch,Bait & Snitch,2010,,22,"Adventure,Crime,Documentary",6.9,10
+tt0424627,tt1648361,7,23,S7,Scared Straight,Scared Straight,2010,,22,"Adventure,Crime,Documentary",7.0,11
+tt0424627,tt1737927,7,24,S7,"All My Children, Part 1","All My Children, Part 1",2010,,45,"Adventure,Crime,Documentary",,
+tt0424627,tt1737928,7,25,S7,"All My Children, Part 2","All My Children, Part 2",2010,,,"Adventure,Crime,Documentary",,
+tt0424627,tt1737935,7,26,S7,"Welcome to the Jungle, Part 1","Welcome to the Jungle, Part 1",2010,,43,"Adventure,Crime,Documentary",7.2,7
+tt0424627,tt1737936,7,27,S7,"Welcome to the Jungle, Part 2","Welcome to the Jungle, Part 2",2010,,,"Adventure,Crime,Documentary",,
+tt0424627,tt1737929,7,28,S7,"Bounty Baby, Part 1","Bounty Baby, Part 1",2010,,,"Adventure,Crime,Documentary",7.4,7
+tt0424627,tt1737930,7,29,S7,"Bounty Baby, Part 2","Bounty Baby, Part 2",2010,,,"Adventure,Crime,Documentary",,
+tt0424627,tt1737933,7,30,S7,"Rain Check, Part 1","Rain Check, Part 1",2010,,,"Adventure,Crime,Documentary",7.6,7
+tt0424627,tt1737934,7,31,S7,"Rain Check, Part 2","Rain Check, Part 2",2010,,,"Adventure,Crime,Documentary",,
+tt0424627,tt1737932,7,32,S7,Love on the Run,Love on the Run,2010,,22,"Adventure,Crime,Documentary",7.3,8
+tt0424627,tt1737931,7,33,S7,Jump Start,Jump Start,2010,,21,"Adventure,Crime,Documentary",7.1,10
+tt0424627,tt1749425,7,34,S7,The Ice Man,The Ice Man,2010,,45,"Adventure,Crime,Documentary",,
+tt0424627,tt7748096,7,35,S7,Where mercy is shown mercy is given,Where mercy is shown mercy is given,2010,,,"Adventure,Crime,Documentary",,
+tt0424627,tt1749426,7,36,S7,Trouble in Paradise,Trouble in Paradise,2010,,46,"Adventure,Crime,Documentary",6.2,7
+tt0424627,tt1749424,7,38,S7,Girl Power,Girl Power,2010,,21,"Adventure,Crime,Documentary",6.8,6
+tt0424627,tt1746922,7,39,S7,Prodigal Son,Prodigal Son,2010,,22,"Adventure,Crime,Documentary",6.8,7
+tt0424627,tt1749423,7,40,S7,Family Ties,Family Ties,2010,,22,"Adventure,Crime,Documentary",6.0,10
+tt0424627,tt1759024,7,41,S7,Special Delivery,Special Delivery,2010,,22,"Adventure,Crime,Documentary",7.0,7
+tt0424627,tt1807206,7,42,S7,Surface Scratches,Surface Scratches,2010,,22,"Adventure,Crime,Documentary",7.6,7
+tt0424627,tt1807207,7,43,S7,The Great Debate,The Great Debate,2010,,22,"Adventure,Crime,Documentary",,
+tt0424627,tt1902030,7,44,S7,Facebooked,Facebooked,2010,,22,"Adventure,Crime,Documentary",6.6,10
+tt0424627,tt1989796,7,45,S7,Mano-a-Mano,Mano-a-Mano,2010,,22,"Adventure,Crime,Documentary",,
+tt0424627,tt1902031,7,52,S7,Tent City,Tent City,2011,,45,"Adventure,Crime,Documentary",,
+tt0424627,tt1907948,7,54,S7,Dead of Night,Dead of Night,2011,,45,"Adventure,Crime,Documentary",7.6,7
+tt0424627,tt2256339,7,56,S7,"The Montrose Files: The Million Dollar Man, Part 1","The Montrose Files: The Million Dollar Man, Part 1",2011,,45,"Adventure,Crime,Documentary",,
+tt0424627,tt1909950,7,58,S7,"The Montrose Files: The Million Dollar Man, Part 2","The Montrose Files: The Million Dollar Man, Part 2",2011,,45,"Adventure,Crime,Documentary",,
+tt0424627,tt2256335,7,60,S7,"The Montrose Files, Part 3: Round the Clock","The Montrose Files, Part 3: Round the Clock",2011,,,"Adventure,Crime,Documentary",,
+tt0424627,tt2256341,7,62,S7,"The Montrose Files, Part 4: And Then There Were None","The Montrose Files, Part 4: And Then There Were None",2011,,45,"Adventure,Crime,Documentary",,
+tt0424627,tt2256333,7,64,S7,"Oh Brother, Where Art Thou?","Oh Brother, Where Art Thou?",2011,,45,"Adventure,Crime,Documentary",6.5,8
+tt0424627,tt1882345,7,66,S7,Cap and Gown,Cap and Gown,2011,,45,"Adventure,Crime,Documentary",7.3,8
+tt0424627,tt2607834,8,1,S8,And Baby Makes Three,And Baby Makes Three,2012,,44,"Adventure,Crime,Documentary",7.6,10
+tt0424627,tt3126682,8,2,S8,And Baby Makes Three: Part 2,And Baby Makes Three: Part 2,2012,,,"Adventure,Crime,Documentary",,
+tt0424627,tt2160675,8,3,S8,The Tender Trap,The Tender Trap,2012,,43,"Adventure,Crime,Documentary",8.5,15
+tt0424627,tt3126684,8,4,S8,The Tender Trap: Part 2,The Tender Trap: Part 2,2012,,,"Adventure,Crime,Documentary",,
+tt0424627,tt2623942,8,5,S8,Greed Is Good,Greed Is Good,2012,,44,"Adventure,Crime,Documentary",,
+tt0424627,tt3126688,8,6,S8,Greed Is Good: Part 2,Greed Is Good: Part 2,2012,,,"Adventure,Crime,Documentary",,
+tt0424627,tt2182981,8,7,S8,Tears for Fears,Tears for Fears,2012,,44,"Adventure,Crime,Documentary",7.5,10
+tt0424627,tt3126690,8,8,S8,Tears for Fears: Part 2,Tears for Fears: Part 2,2012,,,"Adventure,Crime,Documentary",,
+tt0424627,tt2623958,8,9,S8,Picture This,Picture This,2012,,22,"Adventure,Crime,Documentary",7.0,6
+tt0424627,tt2196595,8,10,S8,"Tag, You're It","Tag, You're It",2012,,22,"Adventure,Crime,Documentary",7.0,7
+tt0424627,tt2204587,8,11,S8,A Family Affair,A Family Affair,2012,,44,"Adventure,Crime,Documentary",7.7,8
+tt0424627,tt2297359,8,13,S8,Training Day,Training Day,2012,,22,"Adventure,Crime,Documentary",7.2,7
+tt0424627,tt2298731,8,14,S8,Cutting the Apron Strings,Cutting the Apron Strings,2012,,22,"Adventure,Crime,Documentary",8.0,8
+tt0424627,tt2309165,8,15,S8,Short Handed,Short Handed,2012,,21,"Adventure,Crime,Documentary",6.8,10
+tt0424627,tt2297357,8,16,S8,Photo Op,Photo Op,2012,,21,"Adventure,Crime,Documentary",7.4,9
+tt0424627,tt2321805,8,17,S8,A House Divided,A House Divided,2012,,21,"Adventure,Crime,Documentary",8.4,17
+tt0424627,tt2607846,8,18,S8,All Grown Up,All Grown Up,2012,,21,"Adventure,Crime,Documentary",,
+tt0424627,tt2333267,8,19,S8,Fight Like a Girl,Fight Like a Girl,2012,,21,"Adventure,Crime,Documentary",7.0,7
+tt0424627,tt3126680,8,20,S8,A Higher Power,A Higher Power,2012,,20,"Adventure,Crime,Documentary",6.8,7
+tt0424627,tt2623994,8,21,S8,Ties That Bind,Ties That Bind,2012,,21,"Adventure,Crime,Documentary",6.0,7
+tt0424627,tt2371691,8,22,S8,Who's the Boss,Who's the Boss,2012,,22,"Adventure,Crime,Documentary",7.0,7
+tt0424627,tt2387857,8,23,S8,Bus Stop Bruiser,Bus Stop Bruiser,2012,,22,"Adventure,Crime,Documentary",7.6,7
+tt0424627,tt2397717,8,24,S8,Luck Be a Lady,Luck Be a Lady,2012,,44,"Adventure,Crime,Documentary",6.0,7
+tt0424627,tt3126678,8,25,S8,Luck Be a Lady: Part 2,Luck Be a Lady: Part 2,2012,,,"Adventure,Crime,Documentary",,
+tt0424627,tt2174418,8,26,S8,Behind the Scenes (I),Behind the Scenes (I),2012,,44,"Adventure,Crime,Documentary",,
+tt0424627,tt3126676,8,27,S8,Behind the Scenes: Part 2,Behind the Scenes: Part 2,2012,,,"Adventure,Crime,Documentary",,
+tt0424627,tt2390555,8,28,S8,God Looks on the Heart,God Looks on the Heart,2012,,22,"Adventure,Crime,Documentary",7.8,11
+tt0424627,tt2370009,8,29,S8,Big Brother,Big Brother,2012,,22,"Adventure,Crime,Documentary",8.0,9
+tt0424627,tt2201284,8,30,S8,Mid-Course Correction,Mid-Course Correction,2012,,22,"Adventure,Crime,Documentary",6.8,21
+tt0424627,tt1574887,,,,Call Waiting,Call Waiting,2009,,22,"Adventure,Crime,Documentary",8.2,18
+tt0424627,tt2256337,,,,The Montrose Files: Part 3,The Montrose Files: Part 3,2011,,,"Adventure,Crime,Documentary",,
+tt0424627,tt2307251,,,,The Montrose Files: Round the Clock,The Montrose Files: Round the Clock,2011,,44,"Adventure,Crime,Documentary",,
+tt0424627,tt3110034,,,,The Road Show: Where Mercy Is Shown,The Road Show: Where Mercy Is Shown,2010,,89,"Adventure,Crime,Documentary",6.6,8
+tt0424627,tt3131434,,,,Midnight Run,Midnight Run,2009,,45,"Adventure,Crime,Documentary",,
+tt0424627,tt3196440,,,,Welcome to the Jungle,Welcome to the Jungle,2010,,45,"Adventure,Crime,Documentary",,

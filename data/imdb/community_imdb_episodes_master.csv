@@ -1,0 +1,111 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt1439629,tt1467481,1,1,S1,Pilot,Pilot,2009,,26,Comedy,7.5,6450
+tt1439629,tt1503241,1,2,S1,Spanish 101,Spanish 101,2009,,22,Comedy,7.7,5609
+tt1439629,tt1480354,1,3,S1,Introduction to Film,Introduction to Film,2009,,21,Comedy,8.1,5569
+tt1439629,tt1527326,1,4,S1,Social Psychology,Social Psychology,2009,,22,Comedy,8.0,5110
+tt1439629,tt1515324,1,5,S1,Advanced Criminal Law,Advanced Criminal Law,2009,,21,Comedy,7.7,4902
+tt1439629,tt1515325,1,6,S1,"Football, Feminism and You","Football, Feminism and You",2009,,21,Comedy,7.6,4806
+tt1439629,tt1528909,1,7,S1,Introduction to Statistics,Introduction to Statistics,2009,,21,Comedy,8.6,5551
+tt1439629,tt1531446,1,8,S1,Home Economics,Home Economics,2009,,21,Comedy,7.8,4704
+tt1439629,tt1531175,1,9,S1,Debate 109,Debate 109,2009,,21,Comedy,8.7,5593
+tt1439629,tt1544667,1,10,S1,Environmental Science,Environmental Science,2009,,21,Comedy,8.1,4747
+tt1439629,tt1550378,1,11,S1,Politics of Human Sexuality,Politics of Human Sexuality,2009,,21,Comedy,7.7,4553
+tt1439629,tt1559103,1,12,S1,Comparative Religion,Comparative Religion,2009,,21,Comedy,8.3,4916
+tt1439629,tt1575766,1,13,S1,Investigative Journalism,Investigative Journalism,2010,,21,Comedy,7.8,4700
+tt1439629,tt1584204,1,14,S1,Interpretive Dance,Interpretive Dance,2010,,20,Comedy,7.8,4479
+tt1439629,tt1593849,1,15,S1,Romantic Expressionism,Romantic Expressionism,2010,,21,Comedy,7.9,4445
+tt1439629,tt1593848,1,16,S1,Communication Studies,Communication Studies,2010,,21,Comedy,8.3,4620
+tt1439629,tt1594619,1,17,S1,Physical Education,Physical Education,2010,,21,Comedy,8.9,5746
+tt1439629,tt1612641,1,18,S1,Basic Genealogy,Basic Genealogy,2010,,21,Comedy,7.8,4475
+tt1439629,tt1582821,1,19,S1,Beginner Pottery,Beginner Pottery,2010,,28,Comedy,8.3,4711
+tt1439629,tt1619954,1,20,S1,The Science of Illusion,The Science of Illusion,2010,,20,Comedy,8.3,4606
+tt1439629,tt1628912,1,21,S1,Contemporary American Poultry,Contemporary American Poultry,2010,,21,Comedy,9.3,7293
+tt1439629,tt1628913,1,22,S1,The Art of Discourse,The Art of Discourse,2010,,21,Comedy,7.8,4652
+tt1439629,tt1595996,1,23,S1,Modern Warfare,Modern Warfare,2010,,20,Comedy,9.8,15969
+tt1439629,tt1628195,1,24,S1,English as a Second Language,English as a Second Language,2010,,21,Comedy,8.1,4367
+tt1439629,tt1652486,1,25,S1,Pascal's Triangle Revisited,Pascal's Triangle Revisited,2010,,21,Comedy,8.4,4707
+tt1439629,tt1640852,2,1,S2,Anthropology 101,Anthropology 101,2010,,22,Comedy,8.6,5034
+tt1439629,tt1640868,2,2,S2,Accounting for Lawyers,Accounting for Lawyers,2010,,22,Comedy,8.2,4526
+tt1439629,tt1640863,2,3,S2,The Psychology of Letting Go,The Psychology of Letting Go,2010,,22,Comedy,7.9,4382
+tt1439629,tt1640869,2,4,S2,Basic Rocket Science,Basic Rocket Science,2010,,30,Comedy,8.6,5218
+tt1439629,tt1640870,2,5,S2,Messianic Myths and Ancient Peoples,Messianic Myths and Ancient Peoples,2010,,22,Comedy,7.7,4863
+tt1439629,tt1640871,2,6,S2,Epidemiology,Epidemiology,2010,,22,Comedy,9.2,7135
+tt1439629,tt1640872,2,7,S2,Aerodynamics of Gender,Aerodynamics of Gender,2010,,22,Comedy,8.3,4944
+tt1439629,tt1640873,2,8,S2,Cooperative Calligraphy,Cooperative Calligraphy,2010,,22,Comedy,9.1,6136
+tt1439629,tt1640874,2,9,S2,Conspiracy Theories and Interior Design,Conspiracy Theories and Interior Design,2010,,22,Comedy,9.4,7419
+tt1439629,tt1640853,2,10,S2,Mixology Certification,Mixology Certification,2010,,21,Comedy,8.4,4875
+tt1439629,tt1640854,2,11,S2,Abed's Uncontrollable Christmas,Abed's Uncontrollable Christmas,2010,,21,Comedy,8.6,6435
+tt1439629,tt1640855,2,12,S2,Asian Population Studies,Asian Population Studies,2011,,22,Comedy,7.9,4174
+tt1439629,tt1640856,2,13,S2,Celebrity Pharmacology 212,Celebrity Pharmacology 212,2011,,21,Comedy,7.8,4307
+tt1439629,tt1824317,2,14,S2,Advanced Dungeons & Dragons,Advanced Dungeons & Dragons,2011,,22,Comedy,9.5,8232
+tt1439629,tt1640857,2,15,S2,Early 21st Century Romanticism,Early 21st Century Romanticism,2011,,22,Comedy,7.9,4281
+tt1439629,tt1640858,2,16,S2,Intermediate Documentary Filmmaking,Intermediate Documentary Filmmaking,2011,,22,Comedy,8.7,4962
+tt1439629,tt1640860,2,17,S2,Intro to Political Science,Intro to Political Science,2011,,21,Comedy,8.1,4400
+tt1439629,tt1640861,2,18,S2,Custody Law and Eastern European Diplomacy,Custody Law and Eastern European Diplomacy,2011,,22,Comedy,7.3,4119
+tt1439629,tt1640862,2,19,S2,Critical Film Studies,Critical Film Studies,2011,,21,Comedy,8.9,5732
+tt1439629,tt1640864,2,20,S2,Competitive Wine Tasting,Competitive Wine Tasting,2011,,22,Comedy,7.4,4068
+tt1439629,tt1640865,2,21,S2,Paradigms of Human Memory,Paradigms of Human Memory,2011,,21,Comedy,9.0,5707
+tt1439629,tt1640866,2,22,S2,Applied Anthropology and Culinary Arts,Applied Anthropology and Culinary Arts,2011,,20,Comedy,7.9,4102
+tt1439629,tt1640867,2,23,S2,A Fistful of Paintballs,A Fistful of Paintballs,2011,,30,Comedy,9.6,8840
+tt1439629,tt1862636,2,24,S2,For a Few Paintballs More,For a Few Paintballs More,2011,,30,Comedy,9.5,7478
+tt1439629,tt1986325,3,1,S3,Biology 101,Biology 101,2011,,21,Comedy,7.9,4362
+tt1439629,tt2060962,3,2,S3,Geography of Global Conflict,Geography of Global Conflict,2011,,21,Comedy,7.9,4297
+tt1439629,tt2063144,3,3,S3,Competitive Ecology,Competitive Ecology,2011,,22,Comedy,7.9,4315
+tt1439629,tt2060963,3,4,S3,Remedial Chaos Theory,Remedial Chaos Theory,2011,,22,Comedy,9.8,14529
+tt1439629,tt2063145,3,5,S3,Horror Fiction in Seven Spooky Steps,Horror Fiction in Seven Spooky Steps,2011,,21,Comedy,8.7,5037
+tt1439629,tt2049724,3,6,S3,Advanced Gay,Advanced Gay,2011,,22,Comedy,7.5,4212
+tt1439629,tt2083482,3,7,S3,Studies in Modern Movement,Studies in Modern Movement,2011,,22,Comedy,8.5,4577
+tt1439629,tt2083483,3,8,S3,Documentary Filmmaking: Redux,Documentary Filmmaking: Redux,2011,,22,Comedy,9.0,5716
+tt1439629,tt2080563,3,9,S3,Foosball and Nocturnal Vigilantism,Foosball and Nocturnal Vigilantism,2011,,22,Comedy,8.3,4397
+tt1439629,tt2105238,3,10,S3,Regional Holiday Music,Regional Holiday Music,2011,,22,Comedy,8.5,5217
+tt1439629,tt2117096,3,11,S3,Urban Matrimony and the Sandwich Arts,Urban Matrimony and the Sandwich Arts,2012,,22,Comedy,7.5,4023
+tt1439629,tt2090774,3,12,S3,Contemporary Impressionists,Contemporary Impressionists,2012,,22,Comedy,7.8,4111
+tt1439629,tt2128972,3,13,S3,Digital Exploration of Interior Design,Digital Exploration of Interior Design,2012,,22,Comedy,8.1,4175
+tt1439629,tt2127579,3,14,S3,Pillows and Blankets,Pillows and Blankets,2012,,22,Comedy,9.3,6837
+tt1439629,tt2194835,3,15,S3,Origins of Vampire Mythology,Origins of Vampire Mythology,2012,,21,Comedy,8.0,4082
+tt1439629,tt2194837,3,16,S3,Virtual Systems Analysis,Virtual Systems Analysis,2012,,22,Comedy,8.5,4589
+tt1439629,tt2194839,3,17,S3,Basic Lupine Urology,Basic Lupine Urology,2012,,21,Comedy,9.4,6913
+tt1439629,tt2192103,3,18,S3,Course Listing Unavailable,Course Listing Unavailable,2012,,21,Comedy,8.1,3977
+tt1439629,tt2196353,3,19,S3,Curriculum Unavailable,Curriculum Unavailable,2012,,22,Comedy,9.1,5282
+tt1439629,tt2383315,3,20,S3,Digital Estate Planning,Digital Estate Planning,2012,,22,Comedy,9.4,6941
+tt1439629,tt2279599,3,21,S3,The First Chang Dynasty,The First Chang Dynasty,2012,,22,Comedy,9.0,4878
+tt1439629,tt2383317,3,22,S3,Introduction to Finality,Introduction to Finality,2012,,22,Comedy,8.7,4382
+tt1439629,tt2295962,4,1,S4,History 101,History 101,2013,,22,Comedy,7.1,4358
+tt1439629,tt2371360,4,2,S4,Paranormal Parentage,Paranormal Parentage,2013,,22,Comedy,7.5,3998
+tt1439629,tt2672790,4,3,S4,Conventions of Space and Time,Conventions of Space and Time,2013,,22,Comedy,7.2,3937
+tt1439629,tt2699318,4,4,S4,Alternative History of the German Invasion,Alternative History of the German Invasion,2013,,22,Comedy,7.0,3739
+tt1439629,tt2712482,4,5,S4,Cooperative Escapism in Familial Relations,Cooperative Escapism in Familial Relations,2013,,22,Comedy,7.4,3788
+tt1439629,tt2717182,4,6,S4,Advanced Documentary Filmmaking,Advanced Documentary Filmmaking,2013,,21,Comedy,7.4,3666
+tt1439629,tt2764048,4,7,S4,Economics of Marine Biology,Economics of Marine Biology,2013,,22,Comedy,6.6,3716
+tt1439629,tt2777464,4,8,S4,Herstory of Dance,Herstory of Dance,2013,,22,Comedy,7.8,3946
+tt1439629,tt2791144,4,9,S4,Intro to Felt Surrogacy,Intro to Felt Surrogacy,2013,,20,Comedy,6.8,4332
+tt1439629,tt2578322,4,10,S4,Intro to Knots,Intro to Knots,2013,,22,Comedy,7.5,3672
+tt1439629,tt2522288,4,11,S4,Basic Human Anatomy,Basic Human Anatomy,2013,,22,Comedy,7.9,3810
+tt1439629,tt2560884,4,12,S4,Heroic Origins,Heroic Origins,2013,,22,Comedy,8.1,4083
+tt1439629,tt2855096,4,13,S4,Advanced Introduction to Finality,Advanced Introduction to Finality,2013,,22,Comedy,7.6,3881
+tt1439629,tt2911368,5,1,S5,Repilot,Repilot,2014,,22,Comedy,7.6,4125
+tt1439629,tt3176520,5,2,S5,Introduction to Teaching,Introduction to Teaching,2014,,21,Comedy,8.4,4179
+tt1439629,tt3230996,5,3,S5,Basic Intergluteal Numismatics,Basic Intergluteal Numismatics,2014,,21,Comedy,9.0,5471
+tt1439629,tt3278566,5,4,S5,Cooperative Polygraphy,Cooperative Polygraphy,2014,,21,Comedy,9.2,5516
+tt1439629,tt3278574,5,5,S5,Geothermal Escapism,Geothermal Escapism,2014,,20,Comedy,9.4,6158
+tt1439629,tt3278580,5,6,S5,Analysis of Cork-Based Networking,Analysis of Cork-Based Networking,2014,,21,Comedy,8.0,3854
+tt1439629,tt3278586,5,7,S5,Bondage and Beta Male Sexuality,Bondage and Beta Male Sexuality,2014,,21,Comedy,7.7,3506
+tt1439629,tt3278596,5,8,S5,App Development and Condiments,App Development and Condiments,2014,,21,Comedy,8.9,5047
+tt1439629,tt3278600,5,9,S5,VCR Maintenance and Educational Publishing,VCR Maintenance and Educational Publishing,2014,,21,Comedy,7.9,3619
+tt1439629,tt3313070,5,10,S5,Advanced Advanced Dungeons & Dragons,Advanced Advanced Dungeons & Dragons,2014,,21,Comedy,8.3,3883
+tt1439629,tt3313074,5,11,S5,G.I. Jeff,G.I. Jeff,2014,,21,Comedy,7.7,3940
+tt1439629,tt3313076,5,12,S5,Basic Story,Basic Story,2014,,21,Comedy,7.6,3299
+tt1439629,tt3313082,5,13,S5,Basic Sandwich,Basic Sandwich,2014,,20,Comedy,8.0,3448
+tt1439629,tt3840022,6,1,S6,Ladders,Ladders,2015,,28,Comedy,7.5,3751
+tt1439629,tt4242868,6,2,S6,Lawnmower Maintenance & Postnatal Care,Lawnmower Maintenance & Postnatal Care,2015,,27,Comedy,7.3,3562
+tt1439629,tt4242870,6,3,S6,Basic Crisis Room Decorum,Basic Crisis Room Decorum,2015,,25,Comedy,7.5,3370
+tt1439629,tt4242872,6,4,S6,Queer Studies & Advanced Waxing,Queer Studies & Advanced Waxing,2015,,31,Comedy,7.9,3513
+tt1439629,tt4242876,6,5,S6,Laws of Robotics & Party Rights,Laws of Robotics & Party Rights,2015,,29,Comedy,7.4,3226
+tt1439629,tt4242880,6,6,S6,Basic Email Security,Basic Email Security,2015,,28,Comedy,7.3,3314
+tt1439629,tt4242884,6,7,S6,Advanced Safety Features,Advanced Safety Features,2015,,29,Comedy,7.1,3274
+tt1439629,tt4242890,6,8,S6,Intro to Recycled Cinema,Intro to Recycled Cinema,2015,,28,Comedy,7.7,3351
+tt1439629,tt4242886,6,9,S6,Grifting 101,Grifting 101,2015,,29,Comedy,7.5,3292
+tt1439629,tt4242892,6,10,S6,Basic RV Repair and Palmistry,Basic RV Repair and Palmistry,2015,,26,Comedy,7.3,3325
+tt1439629,tt4242896,6,11,S6,Modern Espionage,Modern Espionage,2015,,29,Comedy,8.8,4180
+tt1439629,tt4242898,6,12,S6,Wedding Videography,Wedding Videography,2015,,26,Comedy,8.5,3875
+tt1439629,tt3898640,6,13,S6,Emotional Consequences of Broadcast Television,Emotional Consequences of Broadcast Television,2015,,27,Comedy,9.4,6910

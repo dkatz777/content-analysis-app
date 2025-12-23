@@ -1,0 +1,122 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0411008,tt0636289,1,1,S1,Pilot: Part 1,Pilot: Part 1,2004,,42,"Adventure,Drama,Fantasy",9.1,17916
+tt0411008,tt0636290,1,2,S1,Pilot: Part 2,Pilot: Part 2,2004,,40,"Adventure,Drama,Fantasy",9.1,12698
+tt0411008,tt0636294,1,3,S1,Tabula Rasa,Tabula Rasa,2004,,43,"Adventure,Drama,Fantasy",8.3,10072
+tt0411008,tt0636300,1,4,S1,Walkabout,Walkabout,2004,,42,"Adventure,Drama,Fantasy",9.0,11431
+tt0411008,tt0636303,1,5,S1,White Rabbit,White Rabbit,2004,,42,"Adventure,Drama,Fantasy",8.3,9174
+tt0411008,tt0636284,1,6,S1,House of the Rising Sun,House of the Rising Sun,2004,,42,"Adventure,Drama,Fantasy",8.0,8962
+tt0411008,tt0636298,1,7,S1,The Moth,The Moth,2004,,43,"Adventure,Drama,Fantasy",8.3,9009
+tt0411008,tt0636275,1,8,S1,Confidence Man,Confidence Man,2004,,43,"Adventure,Drama,Fantasy",8.6,9164
+tt0411008,tt0636292,1,9,S1,Solitary,Solitary,2004,,43,"Adventure,Drama,Fantasy",8.4,8588
+tt0411008,tt0636291,1,10,S1,Raised by Another,Raised by Another,2004,,42,"Adventure,Drama,Fantasy",8.5,8721
+tt0411008,tt0636272,1,11,S1,All the Best Cowboys Have Daddy Issues,All the Best Cowboys Have Daddy Issues,2004,,42,"Adventure,Drama,Fantasy",8.8,8863
+tt0411008,tt0636302,1,12,S1,Whatever the Case May Be,Whatever the Case May Be,2005,,43,"Adventure,Drama,Fantasy",7.8,8331
+tt0411008,tt0636282,1,13,S1,Hearts and Minds,Hearts and Minds,2005,,43,"Adventure,Drama,Fantasy",8.0,8178
+tt0411008,tt0636293,1,14,S1,Special,Special,2005,,43,"Adventure,Drama,Fantasy",8.0,8009
+tt0411008,tt0636283,1,15,S1,Homecoming,Homecoming,2005,,41,"Adventure,Drama,Fantasy",8.2,8094
+tt0411008,tt0636288,1,16,S1,Outlaws,Outlaws,2005,,43,"Adventure,Drama,Fantasy",8.5,8293
+tt0411008,tt0636268,1,17,S1,...In Translation,...In Translation,2005,,43,"Adventure,Drama,Fantasy",8.3,8046
+tt0411008,tt0636286,1,18,S1,Numbers,Numbers,2005,,43,"Adventure,Drama,Fantasy",9.0,9232
+tt0411008,tt0636276,1,19,S1,Deus Ex Machina,Deus Ex Machina,2005,,43,"Adventure,Drama,Fantasy",9.0,9129
+tt0411008,tt0636277,1,20,S1,Do No Harm,Do No Harm,2005,,43,"Adventure,Drama,Fantasy",8.9,8854
+tt0411008,tt0636296,1,21,S1,The Greater Good,The Greater Good,2005,,43,"Adventure,Drama,Fantasy",8.1,7674
+tt0411008,tt0636273,1,22,S1,Born to Run,Born to Run,2005,,43,"Adventure,Drama,Fantasy",7.9,7779
+tt0411008,tt0636279,1,23,S1,Exodus: Part 1,Exodus: Part 1,2005,,43,"Adventure,Drama,Fantasy",9.0,9051
+tt0411008,tt0636280,1,24,S1,Exodus: Part 2,Exodus: Part 2,2005,,43,"Adventure,Drama,Fantasy",9.1,9727
+tt0411008,tt6222548,1,25,S1,Exodus: Part 3,Exodus: Part 3,2005,,43,"Adventure,Drama,Fantasy",9.3,6989
+tt0411008,tt0636285,2,1,S2,"Man of Science, Man of Faith","Man of Science, Man of Faith",2005,,43,"Adventure,Drama,Fantasy",9.1,9512
+tt0411008,tt0636271,2,2,S2,Adrift,Adrift,2005,,42,"Adventure,Drama,Fantasy",8.3,7508
+tt0411008,tt0636287,2,3,S2,Orientation,Orientation,2005,,43,"Adventure,Drama,Fantasy",8.7,7808
+tt0411008,tt0636278,2,4,S2,Everybody Hates Hugo,Everybody Hates Hugo,2005,,43,"Adventure,Drama,Fantasy",8.2,7505
+tt0411008,tt0636269,2,5,S2,...And Found,...And Found,2005,,42,"Adventure,Drama,Fantasy",7.7,7243
+tt0411008,tt0636270,2,6,S2,Abandoned,Abandoned,2005,,43,"Adventure,Drama,Fantasy",8.2,7236
+tt0411008,tt0636299,2,7,S2,The Other 48 Days,The Other 48 Days,2005,,46,"Adventure,Drama,Fantasy",8.7,8339
+tt0411008,tt0636274,2,8,S2,Collision,Collision,2005,,42,"Adventure,Drama,Fantasy",8.6,7393
+tt0411008,tt0636301,2,9,S2,What Kate Did,What Kate Did,2005,,46,"Adventure,Drama,Fantasy",8.1,7162
+tt0411008,tt0636295,2,10,S2,The 23rd Psalm,The 23rd Psalm,2006,,43,"Adventure,Drama,Fantasy",8.6,7586
+tt0411008,tt0636297,2,11,S2,The Hunting Party,The Hunting Party,2006,,43,"Adventure,Drama,Fantasy",8.3,7098
+tt0411008,tt0636281,2,12,S2,Fire + Water,Fire + Water,2006,,43,"Adventure,Drama,Fantasy",7.1,7308
+tt0411008,tt0756934,2,13,S2,The Long Con,The Long Con,2006,,44,"Adventure,Drama,Fantasy",8.6,7453
+tt0411008,tt0758090,2,14,S2,One of Them,One of Them,2006,,44,"Adventure,Drama,Fantasy",8.5,7136
+tt0411008,tt0764076,2,15,S2,Maternity Leave,Maternity Leave,2006,,46,"Adventure,Drama,Fantasy",8.2,7062
+tt0411008,tt0769314,2,16,S2,The Whole Truth,The Whole Truth,2006,,43,"Adventure,Drama,Fantasy",8.1,6810
+tt0411008,tt0771860,2,17,S2,Lockdown,Lockdown,2006,,43,"Adventure,Drama,Fantasy",9.0,7964
+tt0411008,tt0784695,2,18,S2,Dave,Dave,2006,,46,"Adventure,Drama,Fantasy",8.2,7366
+tt0411008,tt0771861,2,19,S2,S.O.S.,S.O.S.,2006,,43,"Adventure,Drama,Fantasy",7.7,7150
+tt0411008,tt0782394,2,20,S2,Two for the Road,Two for the Road,2006,,43,"Adventure,Drama,Fantasy",8.9,8042
+tt0411008,tt0786169,2,21,S2,?,?,2006,,46,"Adventure,Drama,Fantasy",8.7,7435
+tt0411008,tt0799198,2,22,S2,Three Minutes,Three Minutes,2006,,45,"Adventure,Drama,Fantasy",8.4,6995
+tt0411008,tt0793130,2,23,S2,"Live Together, Die Alone: Part 1","Live Together, Die Alone: Part 1",2006,,44,"Adventure,Drama,Fantasy",9.3,10274
+tt0411008,tt21802166,2,24,S2,"Live Together, Die Alone: Part 2","Live Together, Die Alone: Part 2",2006,,43,"Adventure,Drama,Fantasy",9.4,3292
+tt0411008,tt0836956,3,1,S3,A Tale of Two Cities,A Tale of Two Cities,2006,,43,"Adventure,Drama,Fantasy",8.5,8138
+tt0411008,tt0847791,3,2,S3,The Glass Ballerina,The Glass Ballerina,2006,,43,"Adventure,Drama,Fantasy",7.9,7079
+tt0411008,tt0840616,3,3,S3,Further Instructions,Further Instructions,2006,,42,"Adventure,Drama,Fantasy",7.8,6989
+tt0411008,tt0850964,3,4,S3,Every Man for Himself,Every Man for Himself,2006,,43,"Adventure,Drama,Fantasy",8.2,7059
+tt0411008,tt0863695,3,5,S3,The Cost of Living,The Cost of Living,2006,,43,"Adventure,Drama,Fantasy",8.0,7052
+tt0411008,tt0883770,3,6,S3,I Do,I Do,2006,,43,"Adventure,Drama,Fantasy",8.5,7405
+tt0411008,tt0891077,3,7,S3,Not in Portland,Not in Portland,2007,,43,"Adventure,Drama,Fantasy",8.6,7367
+tt0411008,tt0928284,3,8,S3,Flashes Before Your Eyes,Flashes Before Your Eyes,2007,,43,"Adventure,Drama,Fantasy",9.1,9311
+tt0411008,tt0954439,3,9,S3,Stranger in a Strange Land,Stranger in a Strange Land,2007,,43,"Adventure,Drama,Fantasy",7.1,7236
+tt0411008,tt0913743,3,10,S3,Tricia Tanaka Is Dead,Tricia Tanaka Is Dead,2007,,43,"Adventure,Drama,Fantasy",8.2,7474
+tt0411008,tt0936198,3,11,S3,Enter 77,Enter 77,2007,,43,"Adventure,Drama,Fantasy",8.5,7154
+tt0411008,tt0959403,3,12,S3,Par Avion,Par Avion,2007,,43,"Adventure,Drama,Fantasy",8.1,6900
+tt0411008,tt0968992,3,13,S3,The Man from Tallahassee,The Man from Tallahassee,2007,,43,"Adventure,Drama,Fantasy",9.1,8235
+tt0411008,tt0988050,3,14,S3,Exposé,Exposé,2007,,42,"Adventure,Drama,Fantasy",7.9,8232
+tt0411008,tt0979596,3,15,S3,Left Behind,Left Behind,2007,,43,"Adventure,Drama,Fantasy",8.0,6801
+tt0411008,tt0979597,3,16,S3,One of Us,One of Us,2007,,43,"Adventure,Drama,Fantasy",8.6,7062
+tt0411008,tt0979594,3,17,S3,Catch-22,Catch-22,2007,,42,"Adventure,Drama,Fantasy",8.3,6795
+tt0411008,tt0979595,3,18,S3,D.O.C.,D.O.C.,2007,,43,"Adventure,Drama,Fantasy",8.1,6741
+tt0411008,tt0992243,3,19,S3,The Brig,The Brig,2007,,43,"Adventure,Drama,Fantasy",9.1,8079
+tt0411008,tt0992244,3,20,S3,The Man Behind the Curtain,The Man Behind the Curtain,2007,,43,"Adventure,Drama,Fantasy",9.2,8848
+tt0411008,tt0998660,3,21,S3,Greatest Hits,Greatest Hits,2007,,43,"Adventure,Drama,Fantasy",9.1,8773
+tt0411008,tt1004798,3,22,S3,Through the Looking Glass: Part 1,Through the Looking Glass: Part 1,2007,,43,"Adventure,Drama,Fantasy",9.6,15949
+tt0411008,tt26421545,3,23,S3,Through the Looking Glass: Part 2,Through the Looking Glass: Part 2,2007,,43,"Adventure,Drama,Fantasy",9.7,4558
+tt0411008,tt0994348,4,1,S4,The Beginning of the End,The Beginning of the End,2008,,43,"Adventure,Drama,Fantasy",8.7,8434
+tt0411008,tt0994359,4,2,S4,Confirmed Dead,Confirmed Dead,2008,,43,"Adventure,Drama,Fantasy",8.6,7306
+tt0411008,tt0994363,4,3,S4,The Economist,The Economist,2008,,43,"Adventure,Drama,Fantasy",8.3,6903
+tt0411008,tt0994364,4,4,S4,Eggtown,Eggtown,2008,,43,"Adventure,Drama,Fantasy",7.9,6782
+tt0411008,tt0994365,4,5,S4,The Constant,The Constant,2008,,43,"Adventure,Drama,Fantasy",9.7,19355
+tt0411008,tt0994366,4,6,S4,The Other Woman,The Other Woman,2008,,43,"Adventure,Drama,Fantasy",7.7,6645
+tt0411008,tt0994367,4,7,S4,Ji Yeon,Ji Yeon,2008,,43,"Adventure,Drama,Fantasy",8.2,6835
+tt0411008,tt0994368,4,8,S4,Meet Kevin Johnson,Meet Kevin Johnson,2008,,43,"Adventure,Drama,Fantasy",8.3,6734
+tt0411008,tt0994369,4,9,S4,The Shape of Things to Come,The Shape of Things to Come,2008,,43,"Adventure,Drama,Fantasy",9.0,7952
+tt0411008,tt0994349,4,10,S4,Something Nice Back Home,Something Nice Back Home,2008,,43,"Adventure,Drama,Fantasy",7.8,6488
+tt0411008,tt0994350,4,11,S4,Cabin Fever,Cabin Fever,2008,,44,"Adventure,Drama,Fantasy",8.5,6691
+tt0411008,tt0994351,4,12,S4,There's No Place Like Home: Part 1,There's No Place Like Home: Part 1,2008,,43,"Adventure,Drama,Fantasy",8.9,7317
+tt0411008,tt0994352,4,13,S4,There's No Place Like Home: Part 2,There's No Place Like Home: Part 2,2008,,40,"Adventure,Drama,Fantasy",9.2,8549
+tt0411008,tt1952703,4,14,S4,There's No Place Like Home: Part 3,There's No Place Like Home: Part 3,2008,,44,"Adventure,Drama,Fantasy",9.2,6676
+tt0411008,tt1280267,5,1,S5,Because You Left,Because You Left,2009,,43,"Adventure,Drama,Fantasy",8.6,7495
+tt0411008,tt1313407,5,2,S5,The Lie,The Lie,2009,,42,"Adventure,Drama,Fantasy",8.1,6500
+tt0411008,tt1319361,5,3,S5,Jughead,Jughead,2009,,43,"Adventure,Drama,Fantasy",8.4,6630
+tt0411008,tt1321693,5,4,S5,The Little Prince,The Little Prince,2009,,43,"Adventure,Drama,Fantasy",8.1,6321
+tt0411008,tt1322105,5,5,S5,This Place Is Death,This Place Is Death,2009,,43,"Adventure,Drama,Fantasy",8.6,6658
+tt0411008,tt1340502,5,6,S5,316,316,2009,,43,"Adventure,Drama,Fantasy",8.4,6491
+tt0411008,tt1321692,5,7,S5,The Life and Death of Jeremy Bentham,The Life and Death of Jeremy Bentham,2009,,46,"Adventure,Drama,Fantasy",8.8,7242
+tt0411008,tt1341555,5,8,S5,LaFleur,LaFleur,2009,,43,"Adventure,Drama,Fantasy",8.9,7435
+tt0411008,tt1353861,5,9,S5,Namaste,Namaste,2009,,43,"Adventure,Drama,Fantasy",8.4,6223
+tt0411008,tt1358333,5,10,S5,He's Our You,He's Our You,2009,,42,"Adventure,Drama,Fantasy",8.3,6170
+tt0411008,tt1363399,5,11,S5,"Whatever Happened, Happened","Whatever Happened, Happened",2009,,43,"Adventure,Drama,Fantasy",8.1,6138
+tt0411008,tt1368702,5,12,S5,Dead Is Dead,Dead Is Dead,2009,,43,"Adventure,Drama,Fantasy",8.7,6524
+tt0411008,tt1378943,5,13,S5,Some Like It Hoth,Some Like It Hoth,2009,,43,"Adventure,Drama,Fantasy",8.1,5849
+tt0411008,tt1378944,5,14,S5,The Variable,The Variable,2009,,43,"Adventure,Drama,Fantasy",8.7,6811
+tt0411008,tt1400160,5,15,S5,Follow the Leader,Follow the Leader,2009,,43,"Adventure,Drama,Fantasy",8.5,6260
+tt0411008,tt1399779,5,16,S5,The Incident: Part 1,The Incident: Part 1,2009,,42,"Adventure,Drama,Fantasy",9.1,8374
+tt0411008,tt2197294,5,17,S5,The Incident: Part 2,The Incident: Part 2,2009,,42,"Adventure,Drama,Fantasy",9.2,6569
+tt0411008,tt1453335,6,1,S6,LA X: Part 1,LA X: Part 1,2010,,41,"Adventure,Drama,Fantasy",8.6,7340
+tt0411008,tt2524344,6,2,S6,LA X: Part 2,LA X: Part 2,2010,,43,"Adventure,Drama,Fantasy",8.3,5211
+tt0411008,tt1560343,6,3,S6,What Kate Does,What Kate Does,2010,,43,"Adventure,Drama,Fantasy",7.5,6378
+tt0411008,tt1533421,6,4,S6,The Substitute,The Substitute,2010,,43,"Adventure,Drama,Fantasy",8.2,6046
+tt0411008,tt1467640,6,5,S6,Lighthouse,Lighthouse,2010,,44,"Adventure,Drama,Fantasy",7.9,5967
+tt0411008,tt1467641,6,6,S6,Sundown,Sundown,2010,,42,"Adventure,Drama,Fantasy",7.9,5857
+tt0411008,tt1467642,6,7,S6,Dr. Linus,Dr. Linus,2010,,43,"Adventure,Drama,Fantasy",8.4,6172
+tt0411008,tt1467643,6,8,S6,Recon,Recon,2010,,43,"Adventure,Drama,Fantasy",7.7,5904
+tt0411008,tt1467644,6,9,S6,Ab Aeterno,Ab Aeterno,2010,,48,"Adventure,Drama,Fantasy",9.2,9613
+tt0411008,tt1467629,6,10,S6,The Package,The Package,2010,,43,"Adventure,Drama,Fantasy",7.7,5812
+tt0411008,tt1467630,6,11,S6,Happily Ever After,Happily Ever After,2010,,43,"Adventure,Drama,Fantasy",8.8,7200
+tt0411008,tt1467631,6,12,S6,Everybody Loves Hugo,Everybody Loves Hugo,2010,,43,"Adventure,Drama,Fantasy",8.3,5955
+tt0411008,tt1603637,6,13,S6,The Last Recruit,The Last Recruit,2010,,43,"Adventure,Drama,Fantasy",8.0,5881
+tt0411008,tt1467632,6,14,S6,The Candidate,The Candidate,2010,,43,"Adventure,Drama,Fantasy",8.9,7638
+tt0411008,tt1467633,6,15,S6,Across the Sea,Across the Sea,2010,,43,"Adventure,Drama,Fantasy",8.1,7552
+tt0411008,tt1467634,6,16,S6,What They Died For,What They Died For,2010,,43,"Adventure,Drama,Fantasy",8.5,6756
+tt0411008,tt1467635,6,17,S6,The End: Part 1,The End: Part 1,2010,,50,"Adventure,Drama,Fantasy",8.4,13825
+tt0411008,tt15049668,6,18,S6,The End: Part 2,The End: Part 2,2010,,43,"Adventure,Drama,Fantasy",9.1,5911

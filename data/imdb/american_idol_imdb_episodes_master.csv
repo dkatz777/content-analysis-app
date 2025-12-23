@@ -1,0 +1,733 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0319931,tt0762560,1,1,S1,Debut,Debut,2002,,,"Documentary,Game-Show,Music",5.2,78
+tt0319931,tt0762573,1,2,S1,Episode Two,Episode Two,2002,,,"Documentary,Game-Show,Music",4.4,61
+tt0319931,tt0762567,1,3,S1,"No Way Jim Moves on After That Performance. Right, Simon? Simon?","No Way Jim Moves on After That Performance. Right, Simon? Simon?",2002,,,"Documentary,Game-Show,Music",4.3,55
+tt0319931,tt0762568,1,4,S1,Dewey Defeats Truman!,Dewey Defeats Truman!,2002,,,"Documentary,Game-Show,Music",4.5,55
+tt0319931,tt0762569,1,5,S1,Army of the Mediocre,Army of the Mediocre,2002,,,"Documentary,Game-Show,Music",4.4,52
+tt0319931,tt0762570,1,6,S1,Six Pack,Six Pack,2002,,,"Documentary,Game-Show,Music",4.4,55
+tt0319931,tt0762571,1,7,S1,"The Bad, the Even Worse and the Ugly","The Bad, the Even Worse and the Ugly",2002,,,"Documentary,Game-Show,Music",4.3,50
+tt0319931,tt0762572,1,8,S1,Judge Fight!,Judge Fight!,2002,,,"Documentary,Game-Show,Music",4.4,53
+tt0319931,tt0762576,1,9,S1,Wild!,Wild!,2002,,,"Documentary,Game-Show,Music",4.4,51
+tt0319931,tt0797136,1,10,S1,The Live Album!,The Live Album!,2002,,,"Documentary,Game-Show,Music",4.3,54
+tt0319931,tt0797137,1,11,S1,The Unkindest Cuts,The Unkindest Cuts,2002,,,"Documentary,Game-Show,Music",3.8,52
+tt0319931,tt0798740,1,12,S1,Pride Goeth Before the 'Fro,Pride Goeth Before the 'Fro,2002,,,"Documentary,Game-Show,Music",4.1,50
+tt0319931,tt0798982,1,13,S1,Clash of the Titanic Egos,Clash of the Titanic Egos,2002,,,"Documentary,Game-Show,Music",4.3,54
+tt0319931,tt0968361,1,14,S1,Ryan-ara!,Ryan-ara!,2002,,,"Documentary,Game-Show,Music",4.3,41
+tt0319931,tt0968356,1,15,S1,"Jump, Jive and Fail!","Jump, Jive and Fail!",2002,,,"Documentary,Game-Show,Music",4.2,43
+tt0319931,tt0968359,1,16,S1,Nooooooooooooooooooooooooo!,Nooooooooooooooooooooooooo!,2002,,,"Documentary,Game-Show,Music",4.4,42
+tt0319931,tt0968355,1,17,S1,Five Alive (and an Assortment of Other Bad Puns),Five Alive (and an Assortment of Other Bad Puns),2002,,,"Documentary,Game-Show,Music",4.0,40
+tt0319931,tt0968360,1,18,S1,RJ Is Short for,RJ Is Short for,2002,,,"Documentary,Game-Show,Music",4.4,41
+tt0319931,tt0968368,1,19,S1,Two for Each One,Two for Each One,2002,,,"Documentary,Game-Show,Music",4.6,41
+tt0319931,tt0968369,1,20,S1,What? Who? You're Sure Now?,What? Who? You're Sure Now?,2002,,,"Documentary,Game-Show,Music",4.7,42
+tt0319931,tt0968362,1,21,S1,Three Do Two,Three Do Two,2002,,,"Documentary,Game-Show,Music",4.1,40
+tt0319931,tt0968367,1,22,S1,Two More,Two More,2002,,,"Documentary,Game-Show,Music",4.5,41
+tt0319931,tt0511810,1,23,S1,Showdown!,Showdown!,2002,,,"Documentary,Game-Show,Music",4.6,43
+tt0319931,tt0511811,1,24,S1,El Finale!,El Finale!,2002,,,"Documentary,Game-Show,Music",5.2,58
+tt0319931,tt0511812,2,1,S2,Start It Up!,Start It Up!,2003,,,"Documentary,Game-Show,Music",5.3,36
+tt0319931,tt1000188,2,2,S2,Part Deux,Part Deux,2003,,,"Documentary,Game-Show,Music",5.6,34
+tt0319931,tt1000189,2,3,S2,One Last Batch,One Last Batch,2003,,,"Documentary,Game-Show,Music",5.6,33
+tt0319931,tt0511831,2,4,S2,Cut 'Em Up,Cut 'Em Up,2003,,,"Documentary,Game-Show,Music",5.6,35
+tt0319931,tt1000190,2,5,S2,Eight Is Enough,Eight Is Enough,2003,,,"Documentary,Game-Show,Music",5.3,34
+tt0319931,tt1000191,2,6,S2,Two to Tango,Two to Tango,2003,,,"Documentary,Game-Show,Music",4.9,33
+tt0319931,tt0511832,2,7,S2,Here We Go Again,Here We Go Again,2003,,,"Documentary,Game-Show,Music",4.9,35
+tt0319931,tt1000192,2,8,S2,"Oh, Who Will It Be?!","Oh, Who Will It Be?!",2003,,,"Documentary,Game-Show,Music",4.7,34
+tt0319931,tt1000193,2,9,S2,Eight More Will Come Before Us...,Eight More Will Come Before Us...,2003,,,"Documentary,Game-Show,Music",4.8,36
+tt0319931,tt1000186,2,10,S2,Get Ready to See Two Happy People. And Six Unhappy Ones,Get Ready to See Two Happy People. And Six Unhappy Ones,2003,,,"Documentary,Game-Show,Music",4.6,33
+tt0319931,tt1000187,2,11,S2,"American Idol: The Good, the Bad and the Ugly","American Idol: The Good, the Bad and the Ugly",2003,,,"Documentary,Game-Show,Music",4.6,33
+tt0319931,tt0511813,2,12,S2,Last Batch,Last Batch,2003,,,"Documentary,Game-Show,Music",5.4,39
+tt0319931,tt0511814,2,13,S2,Two by Two They March to the Finals,Two by Two They March to the Finals,2003,,,"Documentary,Game-Show,Music",4.8,36
+tt0319931,tt0511815,2,14,S2,Wild!,Wild!,2003,,,"Documentary,Game-Show,Music",5.0,36
+tt0319931,tt1114816,2,15,S2,"I Need Results, Not Excuses","I Need Results, Not Excuses",2003,,,"Documentary,Game-Show,Music",5.0,24
+tt0319931,tt0511816,2,16,S2,The Clean Dozen,The Clean Dozen,2003,,,"Documentary,Game-Show,Music",5.0,36
+tt0319931,tt1114817,2,17,S2,The First One Bites the Dust,The First One Bites the Dust,2003,,,"Documentary,Game-Show,Music",5.1,31
+tt0319931,tt0511817,2,18,S2,Eleven Man Band,Eleven Man Band,2003,,,"Documentary,Game-Show,Music",4.8,37
+tt0319931,tt1114818,2,19,S2,One More Shall Fall,One More Shall Fall,2003,,,"Documentary,Game-Show,Music",5.2,31
+tt0319931,tt0511818,2,20,S2,"10, 9, 8... Ah, You Know How the Rest Goes","10, 9, 8... Ah, You Know How the Rest Goes",2003,,,"Documentary,Game-Show,Music",5.0,49
+tt0319931,tt1114819,2,21,S2,Ten Will Become Nine,Ten Will Become Nine,2003,,,"Documentary,Game-Show,Music",4.8,33
+tt0319931,tt0511819,2,22,S2,You Kids Be Good!,You Kids Be Good!,2003,,,"Documentary,Game-Show,Music",5.0,36
+tt0319931,tt1114820,2,23,S2,Not the Final Countdown!,Not the Final Countdown!,2003,,,"Documentary,Game-Show,Music",4.7,34
+tt0319931,tt0511820,2,24,S2,The Hits!,The Hits!,2003,,,"Documentary,Game-Show,Music",4.9,36
+tt0319931,tt0511821,2,25,S2,Eight Minus One Is Seven,Eight Minus One Is Seven,2003,,,"Documentary,Game-Show,Music",4.7,37
+tt0319931,tt0511822,2,26,S2,Episode #2.26,Episode #2.26,2003,,,"Documentary,Game-Show,Music",4.9,36
+tt0319931,tt1114821,2,27,S2,Episode #2.27,Episode #2.27,2003,,,"Documentary,Game-Show,Music",4.7,34
+tt0319931,tt1114822,2,28,S2,Halfway Home,Halfway Home,2003,,,"Documentary,Game-Show,Music",4.7,36
+tt0319931,tt0511823,2,29,S2,"Six of One, Half Dozen of Another","Six of One, Half Dozen of Another",2003,,,"Documentary,Game-Show,Music",5.0,36
+tt0319931,tt0511824,2,30,S2,Six to the Five on a to the I,Six to the Five on a to the I,2003,,,"Documentary,Game-Show,Music",5.0,35
+tt0319931,tt0511825,2,31,S2,Episode #2.31,Episode #2.31,2003,,,"Documentary,Game-Show,Music",4.8,37
+tt0319931,tt0511826,2,32,S2,Episode #2.32,Episode #2.32,2003,,,"Documentary,Game-Show,Music",4.9,36
+tt0319931,tt0511827,2,33,S2,"The Final Four Is a Trademarked Term, So I Won't Use It as a Cliched Title","The Final Four Is a Trademarked Term, So I Won't Use It as a Cliched Title",2003,,,"Documentary,Game-Show,Music",5.2,36
+tt0319931,tt1114823,2,34,S2,Want to See a Magic Trick? Tonight Somebody Will Disappear!,Want to See a Magic Trick? Tonight Somebody Will Disappear!,2003,,,"Documentary,Game-Show,Music",5.3,31
+tt0319931,tt0511828,2,35,S2,Trifecta!,Trifecta!,2003,,,"Documentary,Game-Show,Music",4.9,47
+tt0319931,tt0511829,2,36,S2,"Soon There Will Be Two. Very Soon, in Fact","Soon There Will Be Two. Very Soon, in Fact",2003,,,"Documentary,Game-Show,Music",5.4,39
+tt0319931,tt0968357,2,37,S2,Let's Learn About Ruben and Clay!,Let's Learn About Ruben and Clay!,2003,,,"Documentary,Game-Show,Music",4.3,39
+tt0319931,tt0511830,2,38,S2,Clay v. Ruben,Clay v. Ruben,2003,,,"Documentary,Game-Show,Music",5.0,41
+tt0319931,tt4031022,2,39,S2,I Bet It'll Be Ruben! Or Clay!,I Bet It'll Be Ruben! Or Clay!,2003,,,"Documentary,Game-Show,Music",5.9,24
+tt0319931,tt0511833,3,1,S3,"First Show, First Recap","First Show, First Recap",2004,,42,"Documentary,Game-Show,Music",4.7,43
+tt0319931,tt2093367,3,2,S3,The Journey Continues,The Journey Continues,2004,,42,"Documentary,Game-Show,Music",4.4,27
+tt0319931,tt2093369,3,3,S3,Night Three!,Night Three!,2004,,42,"Documentary,Game-Show,Music",4.4,27
+tt0319931,tt0511851,3,4,S3,Finally! A Show About California!,Finally! A Show About California!,2004,,42,"Documentary,Game-Show,Music",5.0,40
+tt0319931,tt2093376,3,5,S3,Mokolokilikilanilaki! It's Hawai'i!,Mokolokilikilanilaki! It's Hawai'i!,2004,,42,"Documentary,Game-Show,Music",4.9,28
+tt0319931,tt2093377,3,6,S3,The Road Is to Hollywood! (Is Paved with Broken Dreams. And Asphalt.),The Road Is to Hollywood! (Is Paved with Broken Dreams. And Asphalt.),2004,,42,"Documentary,Game-Show,Music",5.0,27
+tt0319931,tt0511856,3,7,S3,"You're Going to Hollywood! (For a Little Bit, at Least.)","You're Going to Hollywood! (For a Little Bit, at Least.)",2004,,42,"Documentary,Game-Show,Music",5.2,34
+tt0319931,tt0511857,3,8,S3,87 - People Not Good Enough = 32 Finalists!,87 - People Not Good Enough = 32 Finalists!,2004,,42,"Documentary,Game-Show,Music",5.0,37
+tt0319931,tt0511858,3,9,S3,Sing!,Sing!,2004,,42,"Documentary,Game-Show,Music",4.9,37
+tt0319931,tt0511834,3,10,S3,Two Will Be Happy. Six Will Be Sad. Lots Will Be Watching.,Two Will Be Happy. Six Will Be Sad. Lots Will Be Watching.,2004,,42,"Documentary,Game-Show,Music",5.4,33
+tt0319931,tt2093361,3,11,S3,Sing Again!,Sing Again!,2004,,42,"Documentary,Game-Show,Music",4.8,24
+tt0319931,tt2093362,3,12,S3,The Final Decision... But the Right One?,The Final Decision... But the Right One?,2004,,42,"Documentary,Game-Show,Music",4.8,24
+tt0319931,tt2093363,3,13,S3,"I'm Back, Baby!","I'm Back, Baby!",2004,,42,"Documentary,Game-Show,Music",4.8,24
+tt0319931,tt2093364,3,14,S3,You! Over Here! With the Rest of the Finalists!,You! Over Here! With the Rest of the Finalists!,2004,,42,"Documentary,Game-Show,Music",4.8,24
+tt0319931,tt0511835,3,15,S3,"Uncut, Uncensored and Untalented","Uncut, Uncensored and Untalented",2004,,42,"Documentary,Game-Show,Music",5.3,33
+tt0319931,tt2093365,3,16,S3,Group Four! Then the Wild Card!,Group Four! Then the Wild Card!,2004,,42,"Documentary,Game-Show,Music",4.8,24
+tt0319931,tt0511836,3,17,S3,Finally! Finalists!,Finally! Finalists!,2004,,42,"Documentary,Game-Show,Music",5.6,32
+tt0319931,tt0511837,3,18,S3,Episode #3.18,Episode #3.18,2004,,42,"Documentary,Game-Show,Music",4.9,34
+tt0319931,tt2093366,3,19,S3,12 Finalists Have Been Chosen,12 Finalists Have Been Chosen,2004,,42,"Documentary,Game-Show,Music",4.8,24
+tt0319931,tt0511838,3,20,S3,Clay Aiken Returns,Clay Aiken Returns,2004,,42,"Documentary,Game-Show,Music",5.8,35
+tt0319931,tt0511839,3,21,S3,1 Down 11 to Go,1 Down 11 to Go,2004,,42,"Documentary,Game-Show,Music",5.6,35
+tt0319931,tt0511840,3,22,S3,Soon There Will Be 10,Soon There Will Be 10,2004,,42,"Documentary,Game-Show,Music",5.3,36
+tt0319931,tt0511841,3,23,S3,10 Contestants Sing,10 Contestants Sing,2004,,42,"Documentary,Game-Show,Music",5.3,37
+tt0319931,tt2093368,3,24,S3,10 - 1 = 9,10 - 1 = 9,2004,,42,"Documentary,Game-Show,Music",5.1,27
+tt0319931,tt0511842,3,25,S3,Elton John Theme,Elton John Theme,2004,,42,"Documentary,Game-Show,Music",5.3,39
+tt0319931,tt0511843,3,26,S3,Tamyra Gray Returns,Tamyra Gray Returns,2004,,42,"Documentary,Game-Show,Music",5.7,39
+tt0319931,tt0511844,3,27,S3,8 Left to Compete,8 Left to Compete,2004,,42,"Documentary,Game-Show,Music",5.5,43
+tt0319931,tt0511845,3,28,S3,Down to 7/Battle of the Jo(H)Ns,Down to 7/Battle of the Jo(H)Ns,2004,,42,"Documentary,Game-Show,Music",5.7,37
+tt0319931,tt0511846,3,29,S3,7 Sing,7 Sing,2004,,42,"Documentary,Game-Show,Music",5.2,39
+tt0319931,tt0511847,3,30,S3,6 Remain - Barry Manilow Visits,6 Remain - Barry Manilow Visits,2004,,42,"Documentary,Game-Show,Music",5.8,41
+tt0319931,tt0511848,3,31,S3,6 Perform,6 Perform,2004,,42,"Documentary,Game-Show,Music",4.7,36
+tt0319931,tt2093370,3,32,S3,6 - 1 = 5 Is the Result,6 - 1 = 5 Is the Result,2004,,42,"Documentary,Game-Show,Music",5.3,27
+tt0319931,tt2093371,3,33,S3,5 Idols Sing,5 Idols Sing,2004,,42,"Documentary,Game-Show,Music",5.3,28
+tt0319931,tt2093372,3,34,S3,Only 4 Remain,Only 4 Remain,2004,,42,"Documentary,Game-Show,Music",5.3,27
+tt0319931,tt2093373,3,35,S3,4 Idols Perform,4 Idols Perform,2004,,42,"Documentary,Game-Show,Music",5.3,27
+tt0319931,tt2093374,3,36,S3,Only 3 Idols Remain,Only 3 Idols Remain,2004,,42,"Documentary,Game-Show,Music",5.0,28
+tt0319931,tt0511849,3,37,S3,Episode #3.37,Episode #3.37,2004,,42,"Documentary,Game-Show,Music",5.1,38
+tt0319931,tt2093375,3,38,S3,Episode #3.38,Episode #3.38,2004,,42,"Documentary,Game-Show,Music",4.6,26
+tt0319931,tt0511850,3,39,S3,The Final Three,The Final Three,2004,,42,"Documentary,Game-Show,Music",5.6,35
+tt0319931,tt0511852,3,40,S3,Now Down to 2,Now Down to 2,2004,,42,"Documentary,Game-Show,Music",6.1,38
+tt0319931,tt0511853,3,41,S3,Episode #3.41,Episode #3.41,2004,,42,"Documentary,Game-Show,Music",4.9,43
+tt0319931,tt0511854,3,42,S3,Fantasia Barrino vs. Diana DeGarmo,Fantasia Barrino vs. Diana DeGarmo,2004,,42,"Documentary,Game-Show,Music",5.1,36
+tt0319931,tt0511855,3,43,S3,American Idol 2004 Finale,American Idol 2004 Finale,2004,,42,"Documentary,Game-Show,Music",5.8,54
+tt0319931,tt0511859,4,1,S4,Auditions: Washington DC,Auditions: Washington DC,2005,,,"Documentary,Game-Show,Music",5.0,47
+tt0319931,tt0785949,4,2,S4,Auditions: St. Louis,Auditions: St. Louis,2005,,,"Documentary,Game-Show,Music",4.2,41
+tt0319931,tt0511871,4,3,S4,Auditions: New Orleans,Auditions: New Orleans,2005,,,"Documentary,Game-Show,Music",4.9,45
+tt0319931,tt0511873,4,4,S4,Auditions: Las Vegas,Auditions: Las Vegas,2005,,,"Documentary,Game-Show,Music",4.7,45
+tt0319931,tt0511874,4,5,S4,Auditions: Cleveland & Orlando,Auditions: Cleveland & Orlando,2005,,,"Documentary,Game-Show,Music",4.8,42
+tt0319931,tt0511875,4,6,S4,Auditions: San Francisco,Auditions: San Francisco,2005,,,"Documentary,Game-Show,Music",4.7,43
+tt0319931,tt0962205,4,7,S4,Hollywood Rounds: Part 1,Hollywood Rounds: Part 1,2005,,,"Documentary,Game-Show,Music",4.4,40
+tt0319931,tt0511876,4,8,S4,Hollywood Rounds: Part 2,Hollywood Rounds: Part 2,2005,,,"Documentary,Game-Show,Music",4.6,42
+tt0319931,tt0962206,4,9,S4,Hollywood Rounds: Part 3,Hollywood Rounds: Part 3,2005,,,"Documentary,Game-Show,Music",4.6,37
+tt0319931,tt0962207,4,10,S4,Hollywood Rounds: Part 4,Hollywood Rounds: Part 4,2005,,,"Documentary,Game-Show,Music",5.1,38
+tt0319931,tt0511860,4,11,S4,Top 24 Performance Show: Part 1 (Guys),Top 24 Performance Show: Part 1 (Guys),2005,,,"Documentary,Game-Show,Music",5.0,47
+tt0319931,tt0511861,4,12,S4,Top 24 Performance Show: Part 2 (Girls),Top 24 Performance Show: Part 2 (Girls),2005,,,"Documentary,Game-Show,Music",4.5,42
+tt0319931,tt0511862,4,13,S4,Top 24 Results Show,Top 24 Results Show,2005,,,"Documentary,Game-Show,Music",4.9,44
+tt0319931,tt0511863,4,14,S4,Top 20 Performance Show: Part 1 (Guys),Top 20 Performance Show: Part 1 (Guys),2005,,,"Documentary,Game-Show,Music",5.8,44
+tt0319931,tt0511864,4,15,S4,Top 20 Performance Show: Part 2 (Girls),Top 20 Performance Show: Part 2 (Girls),2005,,,"Documentary,Game-Show,Music",4.9,46
+tt0319931,tt0511865,4,16,S4,Top 20 Results Show,Top 20 Results Show,2005,,,"Documentary,Game-Show,Music",5.5,42
+tt0319931,tt0511866,4,17,S4,Top 16 Performance Show: Guys,Top 16 Performance Show: Guys,2005,,,"Documentary,Game-Show,Music",5.6,34
+tt0319931,tt0511867,4,18,S4,Top 16 Performance Show: Girls,Top 16 Performance Show: Girls,2005,,,"Documentary,Game-Show,Music",5.1,35
+tt0319931,tt0511868,4,19,S4,Top 12 Revealed,Top 12 Revealed,2005,,,"Documentary,Game-Show,Music",5.0,37
+tt0319931,tt1007082,4,20,S4,Top 12 Perform,Top 12 Perform,2005,,,"Documentary,Game-Show,Music",4.9,33
+tt0319931,tt1007083,4,21,S4,One Must Go Home Tonight!,One Must Go Home Tonight!,2005,,,"Documentary,Game-Show,Music",5.1,30
+tt0319931,tt0511869,4,22,S4,Top 11 Perform,Top 11 Perform,2005,,,"Documentary,Game-Show,Music",5.7,38
+tt0319931,tt1007084,4,23,S4,Top 11 Return,Top 11 Return,2005,,,"Documentary,Game-Show,Music",5.2,30
+tt0319931,tt1007085,4,24,S4,It's Down to the Top 10,It's Down to the Top 10,2005,,,"Documentary,Game-Show,Music",5.1,30
+tt0319931,tt1007086,4,25,S4,Top 10 Perform,Top 10 Perform,2005,,,"Documentary,Game-Show,Music",5.5,31
+tt0319931,tt1007087,4,26,S4,It's Down to the Top 9,It's Down to the Top 9,2005,,,"Documentary,Game-Show,Music",5.1,30
+tt0319931,tt0511870,4,27,S4,American Idol's Top 9 Perform,American Idol's Top 9 Perform,2005,,,"Documentary,Game-Show,Music",5.7,40
+tt0319931,tt1272052,4,28,S4,It's Down to the Top 8,It's Down to the Top 8,2005,,,"Documentary,Game-Show,Music",5.2,27
+tt0319931,tt0995879,4,29,S4,Top 8 Perform: Songs from the Year You Were Born,Top 8 Perform: Songs from the Year You Were Born,2005,,,"Documentary,Game-Show,Music",5.1,29
+tt0319931,tt0995881,4,30,S4,Who Is Eliminated from the Top 8,Who Is Eliminated from the Top 8,2005,,,"Documentary,Game-Show,Music",5.0,29
+tt0319931,tt0995882,4,31,S4,Top 7 Perform,Top 7 Perform,2005,,,"Documentary,Game-Show,Music",5.1,31
+tt0319931,tt0995883,4,32,S4,Who's Out of the Top 7,Who's Out of the Top 7,2005,,,"Documentary,Game-Show,Music",5.0,29
+tt0319931,tt0995884,4,33,S4,Top 6 Perform,Top 6 Perform,2005,,,"Documentary,Game-Show,Music",5.1,29
+tt0319931,tt0995885,4,34,S4,Who Is Eliminated from the Top 6,Who Is Eliminated from the Top 6,2005,,,"Documentary,Game-Show,Music",5.0,29
+tt0319931,tt0995886,4,35,S4,Top 5 Perform,Top 5 Perform,2005,,,"Documentary,Game-Show,Music",5.6,32
+tt0319931,tt0511872,4,36,S4,Find Out Who's Been Eliminated from the Top 5,Find Out Who's Been Eliminated from the Top 5,2005,,,"Documentary,Game-Show,Music",5.5,33
+tt0319931,tt1007088,4,37,S4,American Idol's Final 4 Perform!,American Idol's Final 4 Perform!,2005,,,"Documentary,Game-Show,Music",4.4,32
+tt0319931,tt1007089,4,38,S4,Find Out Who's Been Eliminated from the Final 4,Find Out Who's Been Eliminated from the Final 4,2005,,,"Documentary,Game-Show,Music",4.9,29
+tt0319931,tt1007090,4,39,S4,American Idol's Final 3 Perform,American Idol's Final 3 Perform,2005,,,"Documentary,Game-Show,Music",5.3,30
+tt0319931,tt1007091,4,40,S4,Tonight Is the Night When 3 Become 2,Tonight Is the Night When 3 Become 2,2005,,,"Documentary,Game-Show,Music",4.6,31
+tt0319931,tt3375654,4,41,S4,American Idol Presents the World's Worst Auditions,American Idol Presents the World's Worst Auditions,2005,,,"Documentary,Game-Show,Music",5.1,16
+tt0319931,tt5744926,4,42,S4,Bo Bice vs. Carrie Underwood,Bo Bice vs. Carrie Underwood,2005,,,"Documentary,Game-Show,Music",5.2,13
+tt0319931,tt0511877,4,43,S4,And the Winner Is...,And the Winner Is...,2005,,,"Documentary,Game-Show,Music",4.1,45
+tt0319931,tt0756739,5,1,S5,Auditions: Chicago,Auditions: Chicago,2006,,,"Documentary,Game-Show,Music",3.6,40
+tt0319931,tt0762563,5,2,S5,Auditions: Denver,Auditions: Denver,2006,,,"Documentary,Game-Show,Music",4.4,40
+tt0319931,tt0762564,5,3,S5,"Auditions: Greensboro, North Carolina","Auditions: Greensboro, North Carolina",2006,,,"Documentary,Game-Show,Music",3.7,38
+tt0319931,tt0762566,5,4,S5,Auditions: San Francisco,Auditions: San Francisco,2006,,,"Documentary,Game-Show,Music",4.1,42
+tt0319931,tt0762565,5,5,S5,Auditions: Las Vegas,Auditions: Las Vegas,2006,,,"Documentary,Game-Show,Music",4.0,39
+tt0319931,tt0762561,5,6,S5,"Auditions: Austin, Texas","Auditions: Austin, Texas",2006,,,"Documentary,Game-Show,Music",3.8,39
+tt0319931,tt0762562,5,7,S5,"Auditions: Boston, Massachusetts","Auditions: Boston, Massachusetts",2006,,,"Documentary,Game-Show,Music",3.7,38
+tt0319931,tt0762574,5,8,S5,Hollywood Eliminations: Part 1,Hollywood Eliminations: Part 1,2006,,,"Documentary,Game-Show,Music",4.8,45
+tt0319931,tt0762575,5,9,S5,Hollywood Eliminations: Part 2,Hollywood Eliminations: Part 2,2006,,,"Documentary,Game-Show,Music",4.5,45
+tt0319931,tt0915838,5,10,S5,Hollywood Eliminations: Part 3,Hollywood Eliminations: Part 3,2006,,,"Documentary,Game-Show,Music",5.4,45
+tt0319931,tt0915846,5,11,S5,Top 24 Performance Show: Part 1 (Girls),Top 24 Performance Show: Part 1 (Girls),2006,,,"Documentary,Game-Show,Music",4.3,39
+tt0319931,tt0915847,5,12,S5,Top 24 Performance Show: Part 2 (Guys),Top 24 Performance Show: Part 2 (Guys),2006,,,"Documentary,Game-Show,Music",4.9,48
+tt0319931,tt0915848,5,13,S5,Top 24 Results Show,Top 24 Results Show,2006,,,"Documentary,Game-Show,Music",5.0,48
+tt0319931,tt0915843,5,14,S5,Top 20 Performance Show: Part 1 (Girls),Top 20 Performance Show: Part 1 (Girls),2006,,,"Documentary,Game-Show,Music",4.7,40
+tt0319931,tt0915844,5,15,S5,Top 20 Performance Show: Part 2 (Guys),Top 20 Performance Show: Part 2 (Guys),2006,,,"Documentary,Game-Show,Music",5.0,44
+tt0319931,tt0915845,5,16,S5,Top 20 Results Show,Top 20 Results Show,2006,,,"Documentary,Game-Show,Music",5.0,42
+tt0319931,tt0915840,5,17,S5,Top 16 Performance Show: Part 1 (Girls),Top 16 Performance Show: Part 1 (Girls),2006,,,"Documentary,Game-Show,Music",4.5,40
+tt0319931,tt0915841,5,18,S5,Top 16 Performance Show: Part 2 (Guys),Top 16 Performance Show: Part 2 (Guys),2006,,,"Documentary,Game-Show,Music",5.0,45
+tt0319931,tt0915842,5,19,S5,Top 16 Results Show,Top 16 Results Show,2006,,,"Documentary,Game-Show,Music",5.4,43
+tt0319931,tt0915839,5,20,S5,Top 12 Performance Show: Stevie Wonder,Top 12 Performance Show: Stevie Wonder,2006,,,"Documentary,Game-Show,Music",5.4,44
+tt0319931,tt0788316,5,21,S5,Top 12 Results Show,Top 12 Results Show,2006,,,"Documentary,Game-Show,Music",5.2,41
+tt0319931,tt0781615,5,22,S5,Top 11 Performance Show: The 50's,Top 11 Performance Show: The 50's,2006,,,"Documentary,Game-Show,Music",5.5,43
+tt0319931,tt0781616,5,23,S5,Top 11 Results Show,Top 11 Results Show,2006,,,"Documentary,Game-Show,Music",5.6,42
+tt0319931,tt0945639,5,24,S5,Top 10 Performance Show: 21st Century,Top 10 Performance Show: 21st Century,2006,,,"Documentary,Game-Show,Music",4.9,40
+tt0319931,tt0792516,5,25,S5,Top 10 Results Show,Top 10 Results Show,2006,,,"Documentary,Game-Show,Music",5.0,42
+tt0319931,tt0785950,5,26,S5,Top 9 Performance Show: Country,Top 9 Performance Show: Country,2006,,,"Documentary,Game-Show,Music",5.3,52
+tt0319931,tt0797133,5,27,S5,Top 9 Results Show,Top 9 Results Show,2006,,,"Documentary,Game-Show,Music",5.2,42
+tt0319931,tt0945647,5,28,S5,Top 8 Performance Show: Queen,Top 8 Performance Show: Queen,2006,,,"Documentary,Game-Show,Music",5.2,43
+tt0319931,tt0945648,5,29,S5,Top 8 Results Show,Top 8 Results Show,2006,,,"Documentary,Game-Show,Music",5.2,45
+tt0319931,tt0945646,5,30,S5,Top 7 Performance Show: Great American Songbook,Top 7 Performance Show: Great American Songbook,2006,,,"Documentary,Game-Show,Music",5.4,46
+tt0319931,tt0797134,5,31,S5,Top 7 Results Show,Top 7 Results Show,2006,,,"Documentary,Game-Show,Music",5.5,46
+tt0319931,tt0945645,5,32,S5,Top 6 Performance Show: Love Songs,Top 6 Performance Show: Love Songs,2006,,,"Documentary,Game-Show,Music",5.0,40
+tt0319931,tt0797135,5,33,S5,Top 6 Results Show,Top 6 Results Show,2006,,,"Documentary,Game-Show,Music",5.2,45
+tt0319931,tt0945643,5,34,S5,Top 5 Performance Show: Birth Year & Latest Billboards,Top 5 Performance Show: Birth Year & Latest Billboards,2006,,,"Documentary,Game-Show,Music",5.0,39
+tt0319931,tt0945644,5,35,S5,Top 5 Results Show,Top 5 Results Show,2006,,,"Documentary,Game-Show,Music",5.0,39
+tt0319931,tt0945641,5,36,S5,Top 4 Performance Show: Elvis Presley,Top 4 Performance Show: Elvis Presley,2006,,,"Documentary,Game-Show,Music",5.0,40
+tt0319931,tt0945642,5,37,S5,Top 4 Results Show,Top 4 Results Show,2006,,,"Documentary,Game-Show,Music",5.0,42
+tt0319931,tt0945640,5,38,S5,"Top 3 Performance Show: Clive Davis', Judges' & Idol's Choice","Top 3 Performance Show: Clive Davis', Judges' & Idol's Choice",2006,,,"Documentary,Game-Show,Music",5.0,40
+tt0319931,tt0843104,5,39,S5,Top 3 Results Show,Top 3 Results Show,2006,,,"Documentary,Game-Show,Music",5.5,45
+tt0319931,tt0962208,5,40,S5,Top 2 Showdown,Top 2 Showdown,2006,,,"Documentary,Game-Show,Music",5.3,47
+tt0319931,tt0818191,5,41,S5,Grand Final,Grand Final,2006,,,"Documentary,Game-Show,Music",5.8,72
+tt0319931,tt0937443,6,1,S6,Auditions: Minneapolis,Auditions: Minneapolis,2007,,,"Documentary,Game-Show,Music",4.0,50
+tt0319931,tt0937444,6,2,S6,Auditions: Seattle,Auditions: Seattle,2007,,,"Documentary,Game-Show,Music",5.0,50
+tt0319931,tt0941049,6,3,S6,Auditions: Memphis,Auditions: Memphis,2007,,,"Documentary,Game-Show,Music",5.5,59
+tt0319931,tt0941050,6,4,S6,Auditions: New York,Auditions: New York,2007,,,"Documentary,Game-Show,Music",4.5,51
+tt0319931,tt0945649,6,5,S6,Auditions: Birmingham,Auditions: Birmingham,2007,,,"Documentary,Game-Show,Music",4.3,42
+tt0319931,tt0945650,6,6,S6,Auditions: Los Angeles,Auditions: Los Angeles,2007,,,"Documentary,Game-Show,Music",4.0,45
+tt0319931,tt0959586,6,7,S6,Auditions: San Antonio,Auditions: San Antonio,2007,,,"Documentary,Game-Show,Music",3.7,44
+tt0319931,tt0960158,6,8,S6,Auditions: Rest of the Best,Auditions: Rest of the Best,2007,,,"Documentary,Game-Show,Music",4.0,45
+tt0319931,tt0960159,6,9,S6,The Hollywood Round,The Hollywood Round,2007,,,"Documentary,Game-Show,Music",4.7,45
+tt0319931,tt0960160,6,10,S6,Final 24 Verdict,Final 24 Verdict,2007,,,"Documentary,Game-Show,Music",5.0,54
+tt0319931,tt0968366,6,11,S6,Top 24 Performance Show: Part 1 Guys,Top 24 Performance Show: Part 1 Guys,2007,,,"Documentary,Game-Show,Music",4.8,42
+tt0319931,tt0968365,6,12,S6,Top 24 Performance Show: Part 2 Girls,Top 24 Performance Show: Part 2 Girls,2007,,,"Documentary,Game-Show,Music",4.6,42
+tt0319931,tt0968354,6,13,S6,Top 24 Results Show,Top 24 Results Show,2007,,86,"Documentary,Game-Show,Music",5.4,48
+tt0319931,tt0968364,6,14,S6,Top 20 Performance Show: Part 1 Guys,Top 20 Performance Show: Part 1 Guys,2007,,,"Documentary,Game-Show,Music",4.2,40
+tt0319931,tt0968363,6,15,S6,Top 20 Performance Show: Part 2 Girls,Top 20 Performance Show: Part 2 Girls,2007,,,"Documentary,Game-Show,Music",4.3,38
+tt0319931,tt0968358,6,16,S6,Top 20 Results Show,Top 20 Results Show,2007,,,"Documentary,Game-Show,Music",4.3,41
+tt0319931,tt0973000,6,17,S6,Top 16 Performance Show: Part 1 Guys,Top 16 Performance Show: Part 1 Guys,2007,,,"Documentary,Game-Show,Music",4.2,39
+tt0319931,tt0972999,6,18,S6,Top 16 Performance Show: Part 2 Girls,Top 16 Performance Show: Part 2 Girls,2007,,,"Documentary,Game-Show,Music",4.4,42
+tt0319931,tt0972998,6,19,S6,Top 16 Results Show,Top 16 Results Show,2007,,,"Documentary,Game-Show,Music",4.4,42
+tt0319931,tt0975003,6,20,S6,Top 12 Performance Show: Diana Ross,Top 12 Performance Show: Diana Ross,2007,,,"Documentary,Game-Show,Music",4.3,47
+tt0319931,tt0975002,6,21,S6,Top 12 Results Show,Top 12 Results Show,2007,,21,"Documentary,Game-Show,Music",4.0,45
+tt0319931,tt0983280,6,22,S6,Top 11 Performance Show: British Invasion,Top 11 Performance Show: British Invasion,2007,,,"Documentary,Game-Show,Music",4.5,44
+tt0319931,tt0983279,6,23,S6,Top 11 Results Show,Top 11 Results Show,2007,,,"Documentary,Game-Show,Music",3.9,46
+tt0319931,tt0986444,6,24,S6,Top 10 Performance Show: Gwen Stefani,Top 10 Performance Show: Gwen Stefani,2007,,,"Documentary,Game-Show,Music",4.6,43
+tt0319931,tt0986443,6,25,S6,Top 10 Results Show,Top 10 Results Show,2007,,,"Documentary,Game-Show,Music",4.2,42
+tt0319931,tt0989906,6,26,S6,The Top Nine Finalists,The Top Nine Finalists,2007,,,"Documentary,Game-Show,Music",4.3,52
+tt0319931,tt0989905,6,27,S6,Live Results: Round Seven,Live Results: Round Seven,2007,,,"Documentary,Game-Show,Music",4.2,40
+tt0319931,tt0991475,6,28,S6,The Top Eight Finalists,The Top Eight Finalists,2007,,,"Documentary,Game-Show,Music",4.0,46
+tt0319931,tt0991476,6,29,S6,Episode #6.29,Episode #6.29,2007,,,"Documentary,Game-Show,Music",4.0,49
+tt0319931,tt0991477,6,30,S6,Episode #6.30,Episode #6.30,2007,,,"Documentary,Game-Show,Music",4.6,55
+tt0319931,tt0991478,6,31,S6,Episode #6.31,Episode #6.31,2007,,,"Documentary,Game-Show,Music",4.1,44
+tt0319931,tt0991479,6,32,S6,Idol Gives Back: Part One,Idol Gives Back: Part One,2007,,,"Documentary,Game-Show,Music",5.2,56
+tt0319931,tt1008987,6,33,S6,Idol Gives Back: Part Two,Idol Gives Back: Part Two,2007,,,"Documentary,Game-Show,Music",5.7,87
+tt0319931,tt1008988,6,34,S6,Episode #6.34,Episode #6.34,2007,,,"Documentary,Game-Show,Music",5.3,53
+tt0319931,tt1008989,6,35,S6,Episode #6.35,Episode #6.35,2007,,,"Documentary,Game-Show,Music",5.8,53
+tt0319931,tt1008990,6,36,S6,Episode #6.36,Episode #6.36,2007,,,"Documentary,Game-Show,Music",3.8,44
+tt0319931,tt1008991,6,37,S6,Episode #6.37,Episode #6.37,2007,,,"Documentary,Game-Show,Music",4.3,47
+tt0319931,tt1008992,6,38,S6,Episode #6.38,Episode #6.38,2007,,,"Documentary,Game-Show,Music",4.7,46
+tt0319931,tt1008993,6,39,S6,Episode #6.39,Episode #6.39,2007,,,"Documentary,Game-Show,Music",4.2,47
+tt0319931,tt1008994,6,40,S6,Episode #6.40,Episode #6.40,2007,,,"Documentary,Game-Show,Music",4.8,50
+tt0319931,tt1008995,6,41,S6,Finale,Finale,2007,,120,"Documentary,Game-Show,Music",7.2,111
+tt0319931,tt1171416,7,1,S7,Auditions: Philadelphia,Auditions: Philadelphia,2008,,,"Documentary,Game-Show,Music",5.7,57
+tt0319931,tt1171415,7,2,S7,Auditions: Dallas,Auditions: Dallas,2008,,,"Documentary,Game-Show,Music",5.3,50
+tt0319931,tt1111130,7,3,S7,Auditions: San Diego,Auditions: San Diego,2008,,,"Documentary,Game-Show,Music",4.6,50
+tt0319931,tt1171407,7,4,S7,Charleston Auditions,Charleston Auditions,2008,,,"Documentary,Game-Show,Music",4.6,47
+tt0319931,tt1171410,7,5,S7,Omaha Auditions,Omaha Auditions,2008,,,"Documentary,Game-Show,Music",3.7,41
+tt0319931,tt1171411,7,6,S7,Auditions: Miami,Auditions: Miami,2008,,,"Documentary,Game-Show,Music",4.4,42
+tt0319931,tt1171412,7,7,S7,Atlanta Auditions,Atlanta Auditions,2008,,,"Documentary,Game-Show,Music",4.1,45
+tt0319931,tt1171413,7,8,S7,Best of the Rest Auditions,Best of the Rest Auditions,2008,,,"Documentary,Game-Show,Music",4.5,43
+tt0319931,tt1171414,7,9,S7,Hollywood Round 1,Hollywood Round 1,2008,,,"Documentary,Game-Show,Music",4.4,44
+tt0319931,tt1171376,7,10,S7,Hollywood Round 2,Hollywood Round 2,2008,,,"Documentary,Game-Show,Music",5.1,47
+tt0319931,tt1171377,7,11,S7,The Top 12 Boys Perform,The Top 12 Boys Perform,2008,,,"Documentary,Game-Show,Music",5.3,53
+tt0319931,tt1171378,7,12,S7,The Top 12 Girls Perform,The Top 12 Girls Perform,2008,,,"Documentary,Game-Show,Music",5.0,45
+tt0319931,tt1171379,7,13,S7,First All New Live Results Show,First All New Live Results Show,2008,,,"Documentary,Game-Show,Music",4.8,42
+tt0319931,tt1171380,7,14,S7,The Top Ten Male Singers Perform,The Top Ten Male Singers Perform,2008,,,"Documentary,Game-Show,Music",5.2,49
+tt0319931,tt1171381,7,15,S7,The Top Ten Female Singers Perform,The Top Ten Female Singers Perform,2008,,,"Documentary,Game-Show,Music",4.0,44
+tt0319931,tt1171382,7,16,S7,Live Results Show: Two Men and Two Women Eliminated,Live Results Show: Two Men and Two Women Eliminated,2008,,,"Documentary,Game-Show,Music",4.5,43
+tt0319931,tt1171383,7,17,S7,The Top Eight Male Singers Perform,The Top Eight Male Singers Perform,2008,,,"Documentary,Game-Show,Music",4.5,46
+tt0319931,tt1171384,7,18,S7,The Top Eight Female Singers Perform,The Top Eight Female Singers Perform,2008,,,"Documentary,Game-Show,Music",4.7,43
+tt0319931,tt1171385,7,19,S7,Live Results Show: Top 12 Finalists Revealed,Live Results Show: Top 12 Finalists Revealed,2008,,,"Documentary,Game-Show,Music",4.3,39
+tt0319931,tt1171386,7,20,S7,The Top 12 Finalists Perform,The Top 12 Finalists Perform,2008,,,"Documentary,Game-Show,Music",4.5,43
+tt0319931,tt1171387,7,21,S7,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2008,,,"Documentary,Game-Show,Music",4.4,40
+tt0319931,tt1171388,7,22,S7,The Top 11 Finalists Perform,The Top 11 Finalists Perform,2008,,,"Documentary,Game-Show,Music",4.1,46
+tt0319931,tt1171389,7,23,S7,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2008,,,"Documentary,Game-Show,Music",5.3,48
+tt0319931,tt1171390,7,24,S7,The Top 10 Finalists Perform,The Top 10 Finalists Perform,2008,,,"Documentary,Game-Show,Music",3.9,44
+tt0319931,tt1171391,7,25,S7,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2008,,,"Documentary,Game-Show,Music",4.4,42
+tt0319931,tt1171392,7,26,S7,The Top Nine Finalists Perform,The Top Nine Finalists Perform,2008,,,"Documentary,Game-Show,Music",4.4,46
+tt0319931,tt1171393,7,27,S7,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2008,,,"Documentary,Game-Show,Music",4.8,44
+tt0319931,tt1171394,7,28,S7,The Top Eight Finalists Perform,The Top Eight Finalists Perform,2008,,,"Documentary,Game-Show,Music",4.3,45
+tt0319931,tt1171395,7,29,S7,Idol Gives Back,Idol Gives Back,2008,,,"Documentary,Game-Show,Music",4.9,73
+tt0319931,tt1171397,7,30,S7,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2008,,,"Documentary,Game-Show,Music",4.3,95
+tt0319931,tt1171398,7,31,S7,The Top Seven Finalists Perform,The Top Seven Finalists Perform,2008,,,"Documentary,Game-Show,Music",4.3,52
+tt0319931,tt1171399,7,32,S7,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2008,,,"Documentary,Game-Show,Music",3.9,39
+tt0319931,tt1171400,7,33,S7,The Top Six Finalists Perform,The Top Six Finalists Perform,2008,,,"Documentary,Game-Show,Music",4.5,49
+tt0319931,tt1171401,7,34,S7,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2008,,,"Documentary,Game-Show,Music",4.5,43
+tt0319931,tt1171402,7,35,S7,The Top Five Finalists Perform,The Top Five Finalists Perform,2008,,,"Documentary,Game-Show,Music",4.4,47
+tt0319931,tt1171403,7,36,S7,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2008,,,"Documentary,Game-Show,Music",5.5,54
+tt0319931,tt1171404,7,37,S7,The Top Four Finalists Perform,The Top Four Finalists Perform,2008,,,"Documentary,Game-Show,Music",4.4,42
+tt0319931,tt1171405,7,38,S7,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2008,,,"Documentary,Game-Show,Music",3.9,43
+tt0319931,tt1171406,7,39,S7,The Top Three Finalists Perform,The Top Three Finalists Perform,2008,,,"Documentary,Game-Show,Music",4.2,45
+tt0319931,tt1171408,7,40,S7,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2008,,,"Documentary,Game-Show,Music",4.3,44
+tt0319931,tt1171409,7,41,S7,The Final Two Perform,The Final Two Perform,2008,,,"Documentary,Game-Show,Music",5.8,49
+tt0319931,tt1193651,7,42,S7,Finale,Finale,2008,,,"Documentary,Game-Show,Music",7.5,101
+tt0319931,tt1319759,8,1,S8,Auditions: Phoenix,Auditions: Phoenix,2009,,42,"Documentary,Game-Show,Music",6.3,73
+tt0319931,tt1319760,8,2,S8,Auditons: Kansas City,Auditons: Kansas City,2009,,42,"Documentary,Game-Show,Music",4.2,46
+tt0319931,tt1319761,8,3,S8,Auditions: San Francisco,Auditions: San Francisco,2009,,42,"Documentary,Game-Show,Music",4.8,47
+tt0319931,tt1319762,8,4,S8,Auditons: Louisville,Auditons: Louisville,2009,,42,"Documentary,Game-Show,Music",5.0,44
+tt0319931,tt1343454,8,5,S8,Auditions: Jacksonville,Auditions: Jacksonville,2009,,42,"Documentary,Game-Show,Music",5.2,44
+tt0319931,tt1343455,8,6,S8,Auditions: Salt Lake City,Auditions: Salt Lake City,2009,,42,"Documentary,Game-Show,Music",5.2,43
+tt0319931,tt1343456,8,7,S8,Auditions: NYC/San Juan,Auditions: NYC/San Juan,2009,,42,"Documentary,Game-Show,Music",5.7,47
+tt0319931,tt1343457,8,8,S8,Hollywood Round No. 1,Hollywood Round No. 1,2009,,42,"Documentary,Game-Show,Music",4.8,52
+tt0319931,tt1343458,8,9,S8,Hollywood Round No. 2,Hollywood Round No. 2,2009,,42,"Documentary,Game-Show,Music",5.7,47
+tt0319931,tt1343422,8,10,S8,Hollywood Round No. 3,Hollywood Round No. 3,2009,,42,"Documentary,Game-Show,Music",5.8,51
+tt0319931,tt1343423,8,11,S8,Hollywood Round No. 4: Top 36 Chosen,Hollywood Round No. 4: Top 36 Chosen,2009,,42,"Documentary,Game-Show,Music",5.6,51
+tt0319931,tt1343424,8,12,S8,Group 1 Performs,Group 1 Performs,2009,,42,"Documentary,Game-Show,Music",5.6,51
+tt0319931,tt1343425,8,13,S8,Group 1 Results,Group 1 Results,2009,,42,"Documentary,Game-Show,Music",5.0,42
+tt0319931,tt1343426,8,14,S8,Group 2 Performs,Group 2 Performs,2009,,42,"Documentary,Game-Show,Music",5.3,45
+tt0319931,tt1343427,8,15,S8,Group 2 Results,Group 2 Results,2009,,42,"Documentary,Game-Show,Music",5.5,48
+tt0319931,tt1343428,8,16,S8,Group 3 Performs,Group 3 Performs,2009,,42,"Documentary,Game-Show,Music",5.1,41
+tt0319931,tt1343429,8,17,S8,Group 3 Results,Group 3 Results,2009,,42,"Documentary,Game-Show,Music",5.3,39
+tt0319931,tt1343430,8,18,S8,Wild Card,Wild Card,2009,,42,"Documentary,Game-Show,Music",5.3,41
+tt0319931,tt1343431,8,19,S8,The Top 13 Finalists Perform,The Top 13 Finalists Perform,2009,,42,"Documentary,Game-Show,Music",5.6,51
+tt0319931,tt1343432,8,20,S8,Live Results Show: Two Contestants Eliminated,Live Results Show: Two Contestants Eliminated,2009,,42,"Documentary,Game-Show,Music",5.2,46
+tt0319931,tt1343433,8,21,S8,The Top 11 Finalists Perform,The Top 11 Finalists Perform,2009,,42,"Documentary,Game-Show,Music",5.3,48
+tt0319931,tt1343434,8,22,S8,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2009,,42,"Documentary,Game-Show,Music",5.3,46
+tt0319931,tt1343435,8,23,S8,The Top 10 Finalists Perform,The Top 10 Finalists Perform,2009,,42,"Documentary,Game-Show,Music",6.1,50
+tt0319931,tt1343436,8,24,S8,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2009,,42,"Documentary,Game-Show,Music",5.3,41
+tt0319931,tt1343437,8,25,S8,The Top Nine Finalists Perform,The Top Nine Finalists Perform,2009,,42,"Documentary,Game-Show,Music",5.6,49
+tt0319931,tt1343438,8,26,S8,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2009,,42,"Documentary,Game-Show,Music",5.2,45
+tt0319931,tt1343439,8,27,S8,The Top Eight Finalists Perform,The Top Eight Finalists Perform,2009,,42,"Documentary,Game-Show,Music",5.8,47
+tt0319931,tt1343440,8,28,S8,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2009,,42,"Documentary,Game-Show,Music",5.7,43
+tt0319931,tt1343441,8,29,S8,The Top Seven Finalists Perform,The Top Seven Finalists Perform,2009,,42,"Documentary,Game-Show,Music",5.8,55
+tt0319931,tt1343442,8,30,S8,Live Results Show,Live Results Show,2009,,42,"Documentary,Game-Show,Music",5.7,49
+tt0319931,tt1343443,8,31,S8,The Top Seven Finalists Perform,The Top Seven Finalists Perform,2009,,42,"Documentary,Game-Show,Music",5.6,46
+tt0319931,tt1343444,8,32,S8,Live Results Show: Two Contestants Eliminated,Live Results Show: Two Contestants Eliminated,2009,,42,"Documentary,Game-Show,Music",6.5,55
+tt0319931,tt1343445,8,33,S8,The Top Five Finalists Perform,The Top Five Finalists Perform,2009,,42,"Documentary,Game-Show,Music",5.3,39
+tt0319931,tt1343446,8,34,S8,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2009,,42,"Documentary,Game-Show,Music",8.1,87
+tt0319931,tt1343447,8,35,S8,The Top Four Finalists Perform,The Top Four Finalists Perform,2009,,42,"Documentary,Game-Show,Music",6.0,49
+tt0319931,tt1343448,8,36,S8,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2009,,42,"Documentary,Game-Show,Music",5.7,49
+tt0319931,tt1343449,8,37,S8,The Top Three Finalists Perform,The Top Three Finalists Perform,2009,,42,"Documentary,Game-Show,Music",7.0,59
+tt0319931,tt1343450,8,38,S8,Live Results Show: One Contestant Eliminated,Live Results Show: One Contestant Eliminated,2009,,42,"Documentary,Game-Show,Music",5.8,52
+tt0319931,tt1343451,8,39,S8,The Final Two Perform,The Final Two Perform,2009,,42,"Documentary,Game-Show,Music",7.0,67
+tt0319931,tt1343452,8,40,S8,Finale,Finale,2009,,42,"Documentary,Game-Show,Music",7.1,96
+tt0319931,tt1555453,9,1,S9,Auditions: Boston,Auditions: Boston,2010,,,"Documentary,Game-Show,Music",5.1,42
+tt0319931,tt1555454,9,2,S9,Auditions: Atlanta,Auditions: Atlanta,2010,,,"Documentary,Game-Show,Music",5.0,44
+tt0319931,tt1555455,9,3,S9,Auditions: Chicago,Auditions: Chicago,2010,,,"Documentary,Game-Show,Music",4.2,37
+tt0319931,tt1555456,9,4,S9,Auditions: Orlando,Auditions: Orlando,2010,,,"Documentary,Game-Show,Music",5.4,50
+tt0319931,tt1574429,9,5,S9,Auditions: Los Angeles,Auditions: Los Angeles,2010,,,"Documentary,Game-Show,Music",4.5,33
+tt0319931,tt1574427,9,6,S9,Auditions: Dallas,Auditions: Dallas,2010,,42,"Documentary,Game-Show,Music",4.3,34
+tt0319931,tt1574428,9,7,S9,Auditions: Denver,Auditions: Denver,2010,,,"Documentary,Game-Show,Music",5.1,35
+tt0319931,tt1574434,9,8,S9,The Road to Hollywood,The Road to Hollywood,2010,,,"Documentary,Game-Show,Music",5.3,48
+tt0319931,tt1574430,9,9,S9,Hollywood Round: Part 1,Hollywood Round: Part 1,2010,,,"Documentary,Game-Show,Music",5.1,39
+tt0319931,tt1574431,9,10,S9,Hollywood Round: Part 2,Hollywood Round: Part 2,2010,,,"Documentary,Game-Show,Music",5.2,40
+tt0319931,tt1574432,9,11,S9,Hollywood Round: Part 3,Hollywood Round: Part 3,2010,,,"Documentary,Game-Show,Music",4.5,34
+tt0319931,tt1574433,9,12,S9,Hollywood Round: Part 4,Hollywood Round: Part 4,2010,,,"Documentary,Game-Show,Music",4.8,30
+tt0319931,tt1577160,9,13,S9,Top 12 Female Semifinalists Perform,Top 12 Female Semifinalists Perform,2010,,,"Documentary,Game-Show,Music",4.5,37
+tt0319931,tt1577161,9,14,S9,Top 12 Male Semifinalists Perform,Top 12 Male Semifinalists Perform,2010,,,"Documentary,Game-Show,Music",4.5,33
+tt0319931,tt1577159,9,15,S9,First Results Show: Two Male and Two Female Contestants Eliminated,First Results Show: Two Male and Two Female Contestants Eliminated,2010,,,"Documentary,Game-Show,Music",4.7,29
+tt0319931,tt1582666,9,16,S9,Top 10 Male Semifinalists Perform,Top 10 Male Semifinalists Perform,2010,,,"Documentary,Game-Show,Music",4.7,31
+tt0319931,tt1584160,9,17,S9,Top 10 Female Semifinalists Perform,Top 10 Female Semifinalists Perform,2010,,,"Documentary,Game-Show,Music",4.8,30
+tt0319931,tt1599397,9,18,S9,Results Show: Two Male and Two Female Contestants Eliminated,Results Show: Two Male and Two Female Contestants Eliminated,2010,,,"Documentary,Game-Show,Music",4.8,28
+tt0319931,tt1599398,9,19,S9,Top 8 Female Semifinalists Perform,Top 8 Female Semifinalists Perform,2010,,,"Documentary,Game-Show,Music",4.9,34
+tt0319931,tt1599399,9,20,S9,Top 8 Male Semifinalists Perform,Top 8 Male Semifinalists Perform,2010,,,"Documentary,Game-Show,Music",5.0,33
+tt0319931,tt1601488,9,21,S9,Results Show: Two Male and Two Female Contestants Eliminated - Finalists Revealed,Results Show: Two Male and Two Female Contestants Eliminated - Finalists Revealed,2010,,,"Documentary,Game-Show,Music",5.5,52
+tt0319931,tt1601489,9,22,S9,Top 12 Performance: Rolling Stones,Top 12 Performance: Rolling Stones,2010,,,"Documentary,Game-Show,Music",4.8,32
+tt0319931,tt1601490,9,23,S9,Top 12 Results,Top 12 Results,2010,,,"Documentary,Game-Show,Music",4.9,33
+tt0319931,tt1618493,9,24,S9,Top 11 Performance,Top 11 Performance,2010,,,"Documentary,Game-Show,Music",4.5,34
+tt0319931,tt1618494,9,25,S9,Top 11 Results,Top 11 Results,2010,,,"Documentary,Game-Show,Music",4.7,30
+tt0319931,tt1619920,9,26,S9,Top 10 Performance,Top 10 Performance,2010,,,"Documentary,Game-Show,Music",5.6,32
+tt0319931,tt1619921,9,27,S9,Top 10 Results,Top 10 Results,2010,,,"Documentary,Game-Show,Music",5.2,34
+tt0319931,tt1619925,9,28,S9,Top Nine Performance,Top Nine Performance,2010,,,"Documentary,Game-Show,Music",5.0,33
+tt0319931,tt1619926,9,29,S9,Top Nine Results,Top Nine Results,2010,,,"Documentary,Game-Show,Music",4.6,32
+tt0319931,tt1619922,9,30,S9,"Top Nine Performance, Part 2","Top Nine Performance, Part 2",2010,,,"Documentary,Game-Show,Music",5.8,34
+tt0319931,tt1619924,9,31,S9,Top Nine Results: Two Contestants Eliminated,Top Nine Results: Two Contestants Eliminated,2010,,,"Documentary,Game-Show,Music",5.4,35
+tt0319931,tt1634154,9,32,S9,Top Seven Performance,Top Seven Performance,2010,,,"Documentary,Game-Show,Music",5.5,30
+tt0319931,tt1634153,9,33,S9,Idol Gives Back/Top Seven Results,Idol Gives Back/Top Seven Results,2010,,,"Documentary,Game-Show,Music",5.1,37
+tt0319931,tt1634155,9,34,S9,Top Six Performance,Top Six Performance,2010,,,"Documentary,Game-Show,Music",4.7,29
+tt0319931,tt1634156,9,35,S9,Top Six Results,Top Six Results,2010,,39,"Documentary,Game-Show,Music",3.5,30
+tt0319931,tt1646996,9,36,S9,Top Five Performance,Top Five Performance,2010,,,"Documentary,Game-Show,Music",4.4,32
+tt0319931,tt1646997,9,37,S9,Top Five Results,Top Five Results,2010,,,"Documentary,Game-Show,Music",4.4,31
+tt0319931,tt1646998,9,38,S9,Top Four Performance,Top Four Performance,2010,,,"Documentary,Game-Show,Music",4.5,31
+tt0319931,tt1646999,9,39,S9,Top Four Results,Top Four Results,2010,,,"Documentary,Game-Show,Music",4.4,30
+tt0319931,tt1654869,9,40,S9,Top Three Performance,Top Three Performance,2010,,,"Documentary,Game-Show,Music",4.8,32
+tt0319931,tt1654870,9,41,S9,Top Three Results,Top Three Results,2010,,,"Documentary,Game-Show,Music",4.1,31
+tt0319931,tt1654871,9,42,S9,Top Two Performance,Top Two Performance,2010,,,"Documentary,Game-Show,Music",4.7,31
+tt0319931,tt1654868,9,43,S9,Finale: Winner Revealed,Finale: Winner Revealed,2010,,,"Documentary,Game-Show,Music",6.6,45
+tt0319931,tt1792170,10,1,S10,Auditions No. 1: New York/New Jersey,Auditions No. 1: New York/New Jersey,2011,,,"Documentary,Game-Show,Music",5.9,59
+tt0319931,tt1803233,10,2,S10,Auditions No. 2: New Orleans,Auditions No. 2: New Orleans,2011,,,"Documentary,Game-Show,Music",6.6,59
+tt0319931,tt1819799,10,3,S10,Auditions No. 3,Auditions No. 3,2011,,,"Documentary,Game-Show,Music",5.9,55
+tt0319931,tt1819800,10,4,S10,Auditions No. 4,Auditions No. 4,2011,,,"Documentary,Game-Show,Music",5.9,45
+tt0319931,tt1826100,10,5,S10,Auditions No. 5,Auditions No. 5,2011,,,"Documentary,Game-Show,Music",5.1,45
+tt0319931,tt1826101,10,6,S10,Auditions No. 6,Auditions No. 6,2011,,,"Documentary,Game-Show,Music",5.1,49
+tt0319931,tt1830927,10,7,S10,Auditions No. 7,Auditions No. 7,2011,,,"Documentary,Game-Show,Music",5.8,45
+tt0319931,tt1830928,10,8,S10,Hollywood Round: Part 1,Hollywood Round: Part 1,2011,,,"Documentary,Game-Show,Music",5.0,37
+tt0319931,tt1830938,10,9,S10,"Hollywood Round, Part 1","Hollywood Round, Part 1",2011,,,"Documentary,Game-Show,Music",5.5,41
+tt0319931,tt1830939,10,10,S10,"Hollywood Round, Part 2","Hollywood Round, Part 2",2011,,,"Documentary,Game-Show,Music",5.4,40
+tt0319931,tt1830940,10,11,S10,Las Vegas Round,Las Vegas Round,2011,,,"Documentary,Game-Show,Music",5.9,40
+tt0319931,tt1830943,10,12,S10,Top 24 Semifinalists Announced,Top 24 Semifinalists Announced,2011,,,"Documentary,Game-Show,Music",5.1,40
+tt0319931,tt1830941,10,13,S10,"Semifinalists Perform, Part 1","Semifinalists Perform, Part 1",2011,,,"Documentary,Game-Show,Music",5.7,39
+tt0319931,tt1830942,10,14,S10,"Semifinalists Perform, Part 2","Semifinalists Perform, Part 2",2011,,,"Documentary,Game-Show,Music",5.3,40
+tt0319931,tt1830937,10,15,S10,First Results Show and Finalists Announced,First Results Show and Finalists Announced,2011,,,"Documentary,Game-Show,Music",7.4,69
+tt0319931,tt1830929,10,16,S10,Finalists Compete,Finalists Compete,2011,,,"Documentary,Game-Show,Music",6.3,62
+tt0319931,tt1830930,10,17,S10,One Voted Off,One Voted Off,2011,,,"Documentary,Game-Show,Music",5.0,39
+tt0319931,tt1830931,10,18,S10,Finalists Compete,Finalists Compete,2011,,,"Documentary,Game-Show,Music",5.2,38
+tt0319931,tt1830932,10,19,S10,One Voted Off,One Voted Off,2011,,,"Documentary,Game-Show,Music",4.9,40
+tt0319931,tt1830933,10,20,S10,11 Finalists Compete,11 Finalists Compete,2011,,,"Documentary,Game-Show,Music",5.5,47
+tt0319931,tt1830934,10,21,S10,1 of 11 Voted Off,1 of 11 Voted Off,2011,,,"Documentary,Game-Show,Music",5.1,39
+tt0319931,tt1830935,10,22,S10,11 Finalists Compete Again,11 Finalists Compete Again,2011,,,"Documentary,Game-Show,Music",5.0,38
+tt0319931,tt1830936,10,23,S10,2 of 11 Voted Off,2 of 11 Voted Off,2011,,,"Documentary,Game-Show,Music",5.1,41
+tt0319931,tt1865604,10,24,S10,9 Finalists Compete,9 Finalists Compete,2011,,,"Documentary,Game-Show,Music",6.8,56
+tt0319931,tt1865600,10,25,S10,1 of 9 Voted Off,1 of 9 Voted Off,2011,,,"Documentary,Game-Show,Music",5.3,45
+tt0319931,tt1865603,10,26,S10,8 Finalists Compete,8 Finalists Compete,2011,,,"Documentary,Game-Show,Music",6.0,40
+tt0319931,tt1865599,10,27,S10,1 of 8 Voted Off,1 of 8 Voted Off,2011,,,"Documentary,Game-Show,Music",4.9,36
+tt0319931,tt1865602,10,28,S10,7 Finalists Compete,7 Finalists Compete,2011,,,"Documentary,Game-Show,Music",5.8,38
+tt0319931,tt1865598,10,29,S10,1 of 7 Voted Off,1 of 7 Voted Off,2011,,,"Documentary,Game-Show,Music",5.0,35
+tt0319931,tt1865601,10,30,S10,6 Finalists Compete,6 Finalists Compete,2011,,,"Documentary,Game-Show,Music",5.7,38
+tt0319931,tt1865597,10,31,S10,1 of 6 Voted Off,1 of 6 Voted Off,2011,,,"Documentary,Game-Show,Music",4.9,33
+tt0319931,tt1907858,10,32,S10,Five Finalists Compete,Five Finalists Compete,2011,,,"Documentary,Game-Show,Music",5.7,46
+tt0319931,tt1908636,10,33,S10,One of Five Voted Off,One of Five Voted Off,2011,,,"Documentary,Game-Show,Music",5.2,47
+tt0319931,tt1928380,10,34,S10,Four Finalists Compete,Four Finalists Compete,2011,,,"Documentary,Game-Show,Music",5.0,36
+tt0319931,tt1928381,10,35,S10,One of Four Voted Off,One of Four Voted Off,2011,,,"Documentary,Game-Show,Music",4.8,37
+tt0319931,tt1924591,10,36,S10,Three Finalists Compete,Three Finalists Compete,2011,,,"Documentary,Game-Show,Music",5.5,42
+tt0319931,tt1925575,10,37,S10,One of Three Voted Off,One of Three Voted Off,2011,,,"Documentary,Game-Show,Music",5.4,47
+tt0319931,tt1930612,10,38,S10,Two Finalists Compete,Two Finalists Compete,2011,,,"Documentary,Game-Show,Music",5.6,44
+tt0319931,tt1933691,10,39,S10,Finale,Finale,2011,,,"Documentary,Game-Show,Music",5.9,68
+tt0319931,tt2105112,11,1,S11,Auditions #1: Savannah,Auditions #1: Savannah,2012,,,"Documentary,Game-Show,Music",6.8,60
+tt0319931,tt1997636,11,2,S11,Auditions #2: Pittsburgh,Auditions #2: Pittsburgh,2012,,,"Documentary,Game-Show,Music",5.0,37
+tt0319931,tt2193333,11,3,S11,Auditions #3: San Diego,Auditions #3: San Diego,2012,,,"Documentary,Game-Show,Music",5.3,34
+tt0319931,tt2193335,11,4,S11,Auditions #4: Aspen,Auditions #4: Aspen,2012,,,"Documentary,Game-Show,Music",5.4,40
+tt0319931,tt2193325,11,5,S11,"Auditions #5: Galveston, TX","Auditions #5: Galveston, TX",2012,,,"Documentary,Game-Show,Music",5.4,37
+tt0319931,tt2193327,11,6,S11,"Auditions #6: Portland, OR","Auditions #6: Portland, OR",2012,,,"Documentary,Game-Show,Music",5.0,33
+tt0319931,tt2193329,11,7,S11,"Auditions #7: St. Louis, MO","Auditions #7: St. Louis, MO",2012,,,"Documentary,Game-Show,Music",4.8,33
+tt0319931,tt2193331,11,8,S11,"Hollywood Round, Part 1","Hollywood Round, Part 1",2012,,,"Documentary,Game-Show,Music",5.5,34
+tt0319931,tt2198335,11,9,S11,"Hollywood Round, Part 2","Hollywood Round, Part 2",2012,,,"Documentary,Game-Show,Music",5.0,31
+tt0319931,tt2215925,11,10,S11,"Hollywood Round, Part 3","Hollywood Round, Part 3",2012,,,"Documentary,Game-Show,Music",5.2,34
+tt0319931,tt2218165,11,11,S11,Performance Challenge,Performance Challenge,2012,,,"Documentary,Game-Show,Music",5.8,40
+tt0319931,tt2234627,11,12,S11,"Final Judgment, Part 1","Final Judgment, Part 1",2012,,,"Documentary,Game-Show,Music",5.5,43
+tt0319931,tt2230420,11,13,S11,"Final Judgement, Part 2","Final Judgement, Part 2",2012,,,"Documentary,Game-Show,Music",6.3,50
+tt0319931,tt2262196,11,14,S11,Semifinalist Boys Perform,Semifinalist Boys Perform,2012,,,"Documentary,Game-Show,Music",4.6,26
+tt0319931,tt2249339,11,15,S11,Semifinalist Girls Perform,Semifinalist Girls Perform,2012,,,"Documentary,Game-Show,Music",6.1,51
+tt0319931,tt2268759,11,16,S11,Finalists Revealed,Finalists Revealed,2012,,,"Documentary,Game-Show,Music",5.3,30
+tt0319931,tt2268761,11,17,S11,Top 13 Perform,Top 13 Perform,2012,,,"Documentary,Game-Show,Music",5.6,42
+tt0319931,tt2268763,11,18,S11,Top 13 Results,Top 13 Results,2012,,,"Documentary,Game-Show,Music",6.0,40
+tt0319931,tt2288269,11,19,S11,Top 11 Perform,Top 11 Perform,2012,,,"Documentary,Game-Show,Music",4.8,33
+tt0319931,tt2288267,11,20,S11,Top 11 Results,Top 11 Results,2012,,,"Documentary,Game-Show,Music",6.2,60
+tt0319931,tt2290899,11,21,S11,Top 10 Perform,Top 10 Perform,2012,,,"Documentary,Game-Show,Music",5.7,38
+tt0319931,tt2290897,11,22,S11,Top 10 Results,Top 10 Results,2012,,,"Documentary,Game-Show,Music",5.2,38
+tt0319931,tt2202484,11,23,S11,Top 9 Perform,Top 9 Perform,2012,,,"Documentary,Game-Show,Music",4.2,24
+tt0319931,tt2202318,11,24,S11,Top 9 Results,Top 9 Results,2012,,,"Documentary,Game-Show,Music",4.1,25
+tt0319931,tt2201786,11,25,S11,Top 8 Perform,Top 8 Perform,2012,,,"Documentary,Game-Show,Music",4.2,25
+tt0319931,tt2201578,11,26,S11,Top 8 Results,Top 8 Results,2012,,,"Documentary,Game-Show,Music",4.1,24
+tt0319931,tt2200828,11,27,S11,Top 7 Perform,Top 7 Perform,2012,,,"Documentary,Game-Show,Music",4.4,25
+tt0319931,tt2200762,11,28,S11,Top 7 Results,Top 7 Results,2012,,,"Documentary,Game-Show,Music",4.4,24
+tt0319931,tt2200712,11,29,S11,Top 7 Perform Again,Top 7 Perform Again,2012,,,"Documentary,Game-Show,Music",4.4,24
+tt0319931,tt2200398,11,30,S11,Top 7 Redux,Top 7 Redux,2012,,,"Documentary,Game-Show,Music",4.3,24
+tt0319931,tt2199474,11,31,S11,Top 6 Perform,Top 6 Perform,2012,,,"Documentary,Game-Show,Music",4.7,25
+tt0319931,tt2198990,11,32,S11,Top 6 Results,Top 6 Results,2012,,,"Documentary,Game-Show,Music",4.2,24
+tt0319931,tt2198518,11,33,S11,Top 5 Perform,Top 5 Perform,2012,,,"Documentary,Game-Show,Music",4.4,24
+tt0319931,tt2197986,11,34,S11,Top 5 Results,Top 5 Results,2012,,,"Documentary,Game-Show,Music",4.1,24
+tt0319931,tt2381425,11,35,S11,Top 4 Perform,Top 4 Perform,2012,,,"Documentary,Game-Show,Music",5.0,34
+tt0319931,tt2382059,11,36,S11,Top 4 Results,Top 4 Results,2012,,,"Documentary,Game-Show,Music",6.7,55
+tt0319931,tt2197288,11,37,S11,Top 3 Perform,Top 3 Perform,2012,,,"Documentary,Game-Show,Music",5.1,27
+tt0319931,tt2197100,11,38,S11,Top 3 Results,Top 3 Results,2012,,,"Documentary,Game-Show,Music",5.4,27
+tt0319931,tt2396821,11,39,S11,Finale Top 2,Finale Top 2,2012,,,"Documentary,Game-Show,Music",6.8,58
+tt0319931,tt2404031,11,40,S11,Winner Announced,Winner Announced,2012,,,"Documentary,Game-Show,Music",5.4,39
+tt0319931,tt2292298,12,1,S12,New York City Auditions,New York City Auditions,2013,,83,"Documentary,Game-Show,Music",5.6,66
+tt0319931,tt2599630,12,2,S12,Episode #12.2,Episode #12.2,2013,,,"Documentary,Game-Show,Music",5.6,46
+tt0319931,tt2599632,12,3,S12,Episode #12.3,Episode #12.3,2013,,,"Documentary,Game-Show,Music",5.6,39
+tt0319931,tt2599634,12,4,S12,Episode #12.4,Episode #12.4,2013,,,"Documentary,Game-Show,Music",5.2,46
+tt0319931,tt2599636,12,5,S12,Episode #12.5,Episode #12.5,2013,,,"Documentary,Game-Show,Music",5.2,41
+tt0319931,tt2599640,12,6,S12,Episode #12.6,Episode #12.6,2013,,,"Documentary,Game-Show,Music",5.8,42
+tt0319931,tt2645534,12,7,S12,Ryan,Ryan,2013,,,"Documentary,Game-Show,Music",5.0,33
+tt0319931,tt2645532,12,8,S12,Episode #12.8,Episode #12.8,2013,,,"Documentary,Game-Show,Music",4.4,34
+tt0319931,tt2645530,12,9,S12,"Hollywood Week, Part 3","Hollywood Week, Part 3",2013,,,"Documentary,Game-Show,Music",4.6,34
+tt0319931,tt2645528,12,10,S12,"Hollywood Week, Part 4","Hollywood Week, Part 4",2013,,,"Documentary,Game-Show,Music",4.9,33
+tt0319931,tt2645526,12,11,S12,Las Vegas: Girls Perform,Las Vegas: Girls Perform,2013,,,"Documentary,Game-Show,Music",4.5,30
+tt0319931,tt2645524,12,12,S12,Episode #12.12,Episode #12.12,2013,,,"Documentary,Game-Show,Music",4.8,31
+tt0319931,tt2645522,12,13,S12,Episode #12.13,Episode #12.13,2013,,,"Documentary,Game-Show,Music",4.2,27
+tt0319931,tt2645520,12,14,S12,Episode #12.14,Episode #12.14,2013,,,"Documentary,Game-Show,Music",3.8,28
+tt0319931,tt2645518,12,15,S12,Episode #12.15,Episode #12.15,2013,,,"Documentary,Game-Show,Music",4.4,29
+tt0319931,tt2645516,12,16,S12,Episode #12.16,Episode #12.16,2013,,,"Documentary,Game-Show,Music",4.1,27
+tt0319931,tt2645514,12,17,S12,Episode #12.17,Episode #12.17,2013,,,"Documentary,Game-Show,Music",4.2,27
+tt0319931,tt2645512,12,18,S12,Episode #12.18,Episode #12.18,2013,,,"Documentary,Game-Show,Music",4.4,31
+tt0319931,tt2645510,12,19,S12,Episode #12.19,Episode #12.19,2013,,,"Documentary,Game-Show,Music",4.1,26
+tt0319931,tt2645508,12,20,S12,Episode #12.20,Episode #12.20,2013,,,"Documentary,Game-Show,Music",3.9,26
+tt0319931,tt2645506,12,21,S12,Episode #12.21,Episode #12.21,2013,,,"Documentary,Game-Show,Music",4.6,27
+tt0319931,tt2645504,12,22,S12,Episode #12.22,Episode #12.22,2013,,,"Documentary,Game-Show,Music",4.8,33
+tt0319931,tt2805542,12,23,S12,Episode #12.23,Episode #12.23,2013,,,"Documentary,Game-Show,Music",4.8,29
+tt0319931,tt2818276,12,24,S12,Episode #12.24,Episode #12.24,2013,,,"Documentary,Game-Show,Music",4.1,25
+tt0319931,tt2792566,12,25,S12,Episode #12.25,Episode #12.25,2013,,,"Documentary,Game-Show,Music",4.5,27
+tt0319931,tt2818280,12,26,S12,Episode #12.26,Episode #12.26,2013,,,"Documentary,Game-Show,Music",4.0,27
+tt0319931,tt2818282,12,27,S12,Episode #12.27,Episode #12.27,2013,,,"Documentary,Game-Show,Music",5.2,30
+tt0319931,tt2902354,12,28,S12,Top 5 Performs,Top 5 Performs,2013,,,"Documentary,Game-Show,Music",4.1,26
+tt0319931,tt2902350,12,29,S12,Episode #12.29,Episode #12.29,2013,,,"Documentary,Game-Show,Music",3.9,26
+tt0319931,tt2902352,12,30,S12,Episode #12.30,Episode #12.30,2013,,,"Documentary,Game-Show,Music",4.0,26
+tt0319931,tt2902374,12,31,S12,Episode #12.31,Episode #12.31,2013,,,"Documentary,Game-Show,Music",4.0,27
+tt0319931,tt2902362,12,32,S12,Episode #12.32,Episode #12.32,2013,,,"Documentary,Game-Show,Music",3.4,25
+tt0319931,tt2902358,12,33,S12,Episode #12.33,Episode #12.33,2013,,,"Documentary,Game-Show,Music",3.2,25
+tt0319931,tt2902368,12,34,S12,Episode #12.34,Episode #12.34,2013,,,"Documentary,Game-Show,Music",3.9,27
+tt0319931,tt2902366,12,35,S12,Episode #12.35,Episode #12.35,2013,,,"Documentary,Game-Show,Music",3.7,27
+tt0319931,tt2902378,12,36,S12,Episode #12.36,Episode #12.36,2013,,,"Documentary,Game-Show,Music",3.7,28
+tt0319931,tt2902356,12,37,S12,Episode #12.37,Episode #12.37,2013,,,"Documentary,Game-Show,Music",4.5,36
+tt0319931,tt3170056,13,1,S13,Episode #13.1,Episode #13.1,2014,,,"Documentary,Game-Show,Music",5.9,44
+tt0319931,tt3413130,13,2,S13,Auditions No. 2,Auditions No. 2,2014,,,"Documentary,Game-Show,Music",6.6,41
+tt0319931,tt3447002,13,3,S13,"Auditions: Detroit, Michigan","Auditions: Detroit, Michigan",2014,,,"Documentary,Game-Show,Music",6.0,33
+tt0319931,tt3447000,13,4,S13,Episode #13.4,Episode #13.4,2014,,,"Documentary,Game-Show,Music",5.4,32
+tt0319931,tt3446998,13,5,S13,Episode #13.5,Episode #13.5,2014,,,"Documentary,Game-Show,Music",5.6,32
+tt0319931,tt3446996,13,6,S13,Episode #13.6,Episode #13.6,2014,,,"Documentary,Game-Show,Music",5.4,32
+tt0319931,tt3446994,13,7,S13,Episode #13.7,Episode #13.7,2014,,,"Documentary,Game-Show,Music",5.1,28
+tt0319931,tt3446992,13,8,S13,Episode #13.8,Episode #13.8,2014,,,"Documentary,Game-Show,Music",4.9,29
+tt0319931,tt3446990,13,9,S13,Episode #13.9,Episode #13.9,2014,,,"Documentary,Game-Show,Music",5.3,29
+tt0319931,tt3446988,13,10,S13,Episode #13.10,Episode #13.10,2014,,,"Documentary,Game-Show,Music",5.4,29
+tt0319931,tt3517550,13,11,S13,15 Girls Perform,15 Girls Perform,2014,,,"Documentary,Game-Show,Music",4.7,30
+tt0319931,tt3523374,13,12,S13,Episode #13.12,Episode #13.12,2014,,,"Documentary,Game-Show,Music",5.1,31
+tt0319931,tt3523378,13,13,S13,Episode #13.13,Episode #13.13,2014,,,"Documentary,Game-Show,Music",5.4,28
+tt0319931,tt3523380,13,14,S13,Episode #13.14,Episode #13.14,2014,,,"Documentary,Game-Show,Music",5.5,29
+tt0319931,tt3523384,13,15,S13,Episode #13.15,Episode #13.15,2014,,,"Documentary,Game-Show,Music",5.2,28
+tt0319931,tt3523382,13,16,S13,12 Finalists Perform,12 Finalists Perform,2014,,,"Documentary,Game-Show,Music",4.5,25
+tt0319931,tt3523386,13,17,S13,Episode #13.17,Episode #13.17,2014,,,"Documentary,Game-Show,Music",4.6,27
+tt0319931,tt3523388,13,18,S13,Episode #13.18,Episode #13.18,2014,,,"Documentary,Game-Show,Music",5.1,26
+tt0319931,tt3523392,13,19,S13,Episode #13.19,Episode #13.19,2014,,,"Documentary,Game-Show,Music",4.9,26
+tt0319931,tt3523390,13,20,S13,Episode #13.20,Episode #13.20,2014,,,"Documentary,Game-Show,Music",5.4,27
+tt0319931,tt3555810,13,21,S13,Episode #13.21,Episode #13.21,2014,,,"Documentary,Game-Show,Music",4.9,26
+tt0319931,tt3601816,13,22,S13,Finalists Perform,Finalists Perform,2014,,,"Documentary,Game-Show,Music",5.1,28
+tt0319931,tt3601818,13,23,S13,Episode #13.23,Episode #13.23,2014,,,"Documentary,Game-Show,Music",4.9,25
+tt0319931,tt3601820,13,24,S13,Episode #13.24,Episode #13.24,2014,,,"Documentary,Game-Show,Music",4.7,25
+tt0319931,tt3601822,13,25,S13,Episode #13.25,Episode #13.25,2014,,,"Documentary,Game-Show,Music",4.6,27
+tt0319931,tt3601824,13,26,S13,Songs from the 1980s,Songs from the 1980s,2014,,,"Documentary,Game-Show,Music",4.9,27
+tt0319931,tt3601826,13,27,S13,Episode #13.27,Episode #13.27,2014,,,"Documentary,Game-Show,Music",4.6,27
+tt0319931,tt3601828,13,28,S13,Episode #13.28,Episode #13.28,2014,,,"Documentary,Game-Show,Music",5.2,26
+tt0319931,tt3601830,13,29,S13,Episode #13.29,Episode #13.29,2014,,,"Documentary,Game-Show,Music",4.3,26
+tt0319931,tt3644146,13,30,S13,Episode #13.30,Episode #13.30,2014,,,"Documentary,Game-Show,Music",4.3,26
+tt0319931,tt3644148,13,31,S13,Episode #13.31,Episode #13.31,2014,,,"Documentary,Game-Show,Music",4.2,26
+tt0319931,tt3644150,13,32,S13,Episode #13.32,Episode #13.32,2014,,,"Documentary,Game-Show,Music",4.9,27
+tt0319931,tt3644152,13,33,S13,Episode #13.33,Episode #13.33,2014,,,"Documentary,Game-Show,Music",4.4,27
+tt0319931,tt3644154,13,34,S13,Episode #13.34,Episode #13.34,2014,,,"Documentary,Game-Show,Music",4.9,26
+tt0319931,tt3644156,13,35,S13,Episode #13.35,Episode #13.35,2014,,,"Documentary,Game-Show,Music",4.7,24
+tt0319931,tt3644158,13,36,S13,Episode #13.36,Episode #13.36,2014,,,"Documentary,Game-Show,Music",5.3,25
+tt0319931,tt3644160,13,37,S13,Episode #13.37,Episode #13.37,2014,,,"Documentary,Game-Show,Music",5.3,25
+tt0319931,tt3644162,13,38,S13,Episode #13.38,Episode #13.38,2014,,,"Documentary,Game-Show,Music",4.5,23
+tt0319931,tt3701178,13,39,S13,Episode #13.39,Episode #13.39,2014,,,"Documentary,Game-Show,Music",5.4,25
+tt0319931,tt4193004,14,1,S14,Auditions #1: Nashville,Auditions #1: Nashville,2015,,60,"Documentary,Game-Show,Music",6.6,38
+tt0319931,tt4317714,14,2,S14,Auditions #2: Kansas City,Auditions #2: Kansas City,2015,,120,"Documentary,Game-Show,Music",6.1,31
+tt0319931,tt4317720,14,3,S14,Auditions #3: Kansas City,Auditions #3: Kansas City,2015,,60,"Documentary,Game-Show,Music",5.3,31
+tt0319931,tt4317718,14,4,S14,Auditions #4: New York,Auditions #4: New York,2015,,120,"Documentary,Game-Show,Music",5.8,28
+tt0319931,tt4317716,14,5,S14,Episode #14.5,Episode #14.5,2015,,,"Documentary,Game-Show,Music",5.1,26
+tt0319931,tt4317722,14,6,S14,Episode #14.6,Episode #14.6,2015,,,"Documentary,Game-Show,Music",4.7,29
+tt0319931,tt4317724,14,7,S14,Auditions #7,Auditions #7,2015,,,"Documentary,Game-Show,Music",5.2,29
+tt0319931,tt4317732,14,8,S14,Auditions #8,Auditions #8,2015,,,"Documentary,Game-Show,Music",5.5,30
+tt0319931,tt4317728,14,9,S14,Episode #14.9,Episode #14.9,2015,,,"Documentary,Game-Show,Music",4.9,28
+tt0319931,tt4317730,14,10,S14,Episode #14.10,Episode #14.10,2015,,,"Documentary,Game-Show,Music",4.8,29
+tt0319931,tt4317734,14,11,S14,Episode #14.11,Episode #14.11,2015,,,"Documentary,Game-Show,Music",5.2,29
+tt0319931,tt4317726,14,12,S14,Episode #14.12,Episode #14.12,2015,,,"Documentary,Game-Show,Music",5.1,29
+tt0319931,tt4317736,14,13,S14,Showcase No. 1,Showcase No. 1,2015,,,"Documentary,Game-Show,Music",5.9,31
+tt0319931,tt4317740,14,14,S14,Episode #14.14,Episode #14.14,2015,,,"Documentary,Game-Show,Music",5.5,28
+tt0319931,tt4471244,14,15,S14,Episode #14.15,Episode #14.15,2015,,,"Documentary,Game-Show,Music",5.6,25
+tt0319931,tt4471246,14,16,S14,Episode #14.16,Episode #14.16,2015,,,"Documentary,Game-Show,Music",5.4,24
+tt0319931,tt4467330,14,17,S14,Top 8 Guys Perform,Top 8 Guys Perform,2015,,,"Documentary,Game-Show,Music",5.6,27
+tt0319931,tt4469734,14,18,S14,Top 8 Girls Perform,Top 8 Girls Perform,2015,,,"Documentary,Game-Show,Music",5.4,25
+tt0319931,tt4471248,14,19,S14,Episode #14.19,Episode #14.19,2015,,,"Documentary,Game-Show,Music",4.8,23
+tt0319931,tt4471250,14,20,S14,Episode #14.20,Episode #14.20,2015,,,"Documentary,Game-Show,Music",4.6,24
+tt0319931,tt4471252,14,21,S14,Episode #14.21,Episode #14.21,2015,,,"Documentary,Game-Show,Music",5.3,25
+tt0319931,tt4485136,14,22,S14,Episode #14.22,Episode #14.22,2015,,,"Documentary,Game-Show,Music",5.7,22
+tt0319931,tt4485138,14,23,S14,Episode #14.23,Episode #14.23,2015,,,"Documentary,Game-Show,Music",5.4,24
+tt0319931,tt4485140,14,24,S14,Top 7 Perform,Top 7 Perform,2015,,,"Documentary,Game-Show,Music",5.8,26
+tt0319931,tt4485142,14,25,S14,Episode #14.25,Episode #14.25,2015,,120,"Documentary,Game-Show,Music",5.2,24
+tt0319931,tt4578836,14,26,S14,Top 5 Perform,Top 5 Perform,2015,,,"Documentary,Game-Show,Music",5.2,21
+tt0319931,tt4578838,14,27,S14,Top 4 Perform,Top 4 Perform,2015,,,"Documentary,Game-Show,Music",5.4,21
+tt0319931,tt4578840,14,28,S14,Episode #14.28,Episode #14.28,2015,,,"Documentary,Game-Show,Music",5.3,19
+tt0319931,tt4578842,14,29,S14,Top 2 Perform,Top 2 Perform,2015,,,"Documentary,Game-Show,Music",5.2,21
+tt0319931,tt4578844,14,30,S14,Winner Announced,Winner Announced,2015,,127,"Documentary,Game-Show,Music",5.0,24
+tt0319931,tt5216404,15,1,S15,Audition #1,Audition #1,2016,,,"Documentary,Game-Show,Music",6.7,33
+tt0319931,tt5347796,15,2,S15,Auditions #2,Auditions #2,2016,,,"Documentary,Game-Show,Music",7.2,27
+tt0319931,tt5354164,15,3,S15,Auditions #3,Auditions #3,2016,,60,"Documentary,Game-Show,Music",6.8,24
+tt0319931,tt5371138,15,4,S15,Denver & Little Rock Auditions,Denver & Little Rock Auditions,2016,,,"Documentary,Game-Show,Music",6.3,21
+tt0319931,tt5430102,15,5,S15,Episode #15.5,Episode #15.5,,,,"Documentary,Game-Show,Music",,
+tt0319931,tt5430104,15,6,S15,Episode #15.6,Episode #15.6,2016,,,"Documentary,Game-Show,Music",,
+tt0319931,tt5430106,15,7,S15,Hollywood Round #1,Hollywood Round #1,,,,"Documentary,Game-Show,Music",,
+tt0319931,tt5430108,15,8,S15,Hollywood Round #2,Hollywood Round #2,2016,,,"Documentary,Game-Show,Music",,
+tt0319931,tt5458376,15,9,S15,Hollywood Round #3,Hollywood Round #3,2016,,68,"Documentary,Game-Show,Music",6.4,18
+tt0319931,tt5458380,15,10,S15,Hollywood Round #4,Hollywood Round #4,2016,,,"Documentary,Game-Show,Music",6.4,18
+tt0319931,tt5458382,15,11,S15,Showcase #1: 1st 12 Performances,Showcase #1: 1st 12 Performances,2016,,,"Documentary,Game-Show,Music",6.8,22
+tt0319931,tt5465774,15,12,S15,Showcase #2: Judges Vote,Showcase #2: Judges Vote,2016,,,"Documentary,Game-Show,Music",6.4,21
+tt0319931,tt6588754,15,13,S15,Duets Round 1,Duets Round 1,2016,,,"Documentary,Game-Show,Music",,
+tt0319931,tt6588758,15,14,S15,Duets Round 2,Duets Round 2,2016,,,"Documentary,Game-Show,Music",6.0,12
+tt0319931,tt5463928,15,16,S15,Top 10 Revealed and Perform,Top 10 Revealed and Perform,2016,,,"Documentary,Game-Show,Music",6.9,18
+tt0319931,tt5569834,15,17,S15,Top 8 Perform,Top 8 Perform,2016,,,"Documentary,Game-Show,Music",5.9,15
+tt0319931,tt5569836,15,18,S15,Top 6 Perform,Top 6 Perform,2016,,,"Documentary,Game-Show,Music",5.6,16
+tt0319931,tt5569838,15,19,S15,Top 5 Perform,Top 5 Perform,2016,,,"Documentary,Game-Show,Music",5.6,16
+tt0319931,tt27078433,15,20,S15,Top 4 Perform,Top 4 Perform,2016,,,"Documentary,Game-Show,Music",,
+tt0319931,tt5579464,15,22,S15,American Dream,American Dream,2016,,,"Documentary,Game-Show,Music",7.4,21
+tt0319931,tt5617220,15,24,S15,Winner Chosen,Winner Chosen,2016,,,"Documentary,Game-Show,Music",7.8,34
+tt0319931,tt15310190,16,0,S16,Launch,Launch,2018,,,"Documentary,Game-Show,Music",,
+tt0319931,tt6892384,16,1,S16,101 (Auditions),101 (Auditions),2018,,84,"Documentary,Game-Show,Music",6.9,70
+tt0319931,tt7844956,16,2,S16,102 (Auditions),102 (Auditions),2018,,83,"Documentary,Game-Show,Music",7.4,49
+tt0319931,tt8107146,16,3,S16,103 (Auditions),103 (Auditions),2018,,84,"Documentary,Game-Show,Music",7.9,38
+tt0319931,tt8107148,16,4,S16,104 (Auditions),104 (Auditions),2018,,84,"Documentary,Game-Show,Music",7.5,37
+tt0319931,tt8107152,16,5,S16,105 (Auditions),105 (Auditions),2018,,84,"Documentary,Game-Show,Music",7.3,33
+tt0319931,tt8107154,16,6,S16,106 (Hollywood Week),106 (Hollywood Week),2018,,85,"Documentary,Game-Show,Music",7.7,38
+tt0319931,tt8161562,16,7,S16,107 (Hollywood Week),107 (Hollywood Week),2018,,84,"Documentary,Game-Show,Music",7.9,34
+tt0319931,tt8161570,16,8,S16,108 (Showcase/Final Judgment),108 (Showcase/Final Judgment),2018,,84,"Documentary,Game-Show,Music",7.7,37
+tt0319931,tt8161576,16,9,S16,109 (Top 24 Solos),109 (Top 24 Solos),2018,,83,"Documentary,Game-Show,Music",7.5,33
+tt0319931,tt8331810,16,10,S16,110 (Top 24 Celebrity Duets),110 (Top 24 Celebrity Duets),2018,,84,"Documentary,Game-Show,Music",8.2,28
+tt0319931,tt8331814,16,11,S16,111 (Top 24 Solos),111 (Top 24 Solos),2018,,84,"Documentary,Game-Show,Music",7.7,28
+tt0319931,tt8331828,16,12,S16,112 (Top 24 Celebrity Duets),112 (Top 24 Celebrity Duets),2018,,84,"Documentary,Game-Show,Music",8.4,29
+tt0319931,tt8331830,16,13,S16,113 (Top 14),113 (Top 14),2018,,84,"Documentary,Game-Show,Music",8.0,29
+tt0319931,tt8331832,16,14,S16,114 (Top 10 Reveal),114 (Top 10 Reveal),2018,,84,"Documentary,Game-Show,Music",8.2,28
+tt0319931,tt8350500,16,15,S16,115 (Top 10 - Disney Night),115 (Top 10 - Disney Night),2018,,84,"Documentary,Game-Show,Music",8.0,32
+tt0319931,tt8350502,16,16,S16,116 (Top 7),116 (Top 7),2018,,84,"Documentary,Game-Show,Music",7.5,32
+tt0319931,tt8408388,16,17,S16,117 (Top 5),117 (Top 5),2018,,84,"Documentary,Game-Show,Music",8.0,27
+tt0319931,tt8408390,16,18,S16,118 (Performance Finals),118 (Performance Finals),2018,,84,"Documentary,Game-Show,Music",7.2,29
+tt0319931,tt8415412,16,19,S16,119 (Grand Finale),119 (Grand Finale),2018,,86,"Documentary,Game-Show,Music",7.0,36
+tt0319931,tt15310180,17,0,S17,200 (Promo),200 (Promo),2019,,,"Documentary,Game-Show,Music",,
+tt0319931,tt9579120,17,1,S17,201 (Auditions),201 (Auditions),2019,,85,"Documentary,Game-Show,Music",8.1,53
+tt0319931,tt9833124,17,2,S17,202 (Auditions),202 (Auditions),2019,,85,"Documentary,Game-Show,Music",7.7,44
+tt0319931,tt9833128,17,3,S17,203 (Auditions),203 (Auditions),2019,,85,"Documentary,Game-Show,Music",8.1,49
+tt0319931,tt9833130,17,4,S17,204 (Auditions),204 (Auditions),2019,,84,"Documentary,Game-Show,Music",8.2,39
+tt0319931,tt9910056,17,5,S17,205 (Auditions),205 (Auditions),2019,,84,"Documentary,Game-Show,Music",8.2,38
+tt0319931,tt10004300,17,6,S17,206 (Hollywood Week),206 (Hollywood Week),2019,,85,"Documentary,Game-Show,Music",8.4,46
+tt0319931,tt10004302,17,7,S17,207 (Hollywood Week),207 (Hollywood Week),2019,,85,"Documentary,Game-Show,Music",8.2,43
+tt0319931,tt10004304,17,8,S17,208 (Showcase/Final Judgement),208 (Showcase/Final Judgement),2019,,128,"Documentary,Game-Show,Music",8.5,48
+tt0319931,tt10069378,17,9,S17,209 (Top 20 Solos),209 (Top 20 Solos),2019,,84,"Documentary,Game-Show,Music",8.5,42
+tt0319931,tt10069380,17,10,S17,210 (All-Star Duets),210 (All-Star Duets),2019,,85,"Documentary,Game-Show,Music",8.2,39
+tt0319931,tt10121806,17,11,S17,211 (All-Star Duets),211 (All-Star Duets),2019,,85,"Documentary,Game-Show,Music",7.5,38
+tt0319931,tt10121808,17,12,S17,212 (Top 14),212 (Top 14),2019,,85,"Documentary,Game-Show,Music",8.0,36
+tt0319931,tt10121812,17,13,S17,213 (Top 10 Reveal),213 (Top 10 Reveal),2019,,85,"Documentary,Game-Show,Music",8.0,38
+tt0319931,tt10188426,17,14,S17,214 (Disney Night),214 (Disney Night),2019,,85,"Documentary,Game-Show,Music",7.5,41
+tt0319931,tt10188428,17,15,S17,Meet Your Finalists,Meet Your Finalists,2019,,83,"Documentary,Game-Show,Music",8.0,32
+tt0319931,tt10222920,17,16,S17,215,215,2019,,85,"Documentary,Game-Show,Music",8.0,35
+tt0319931,tt10222924,17,17,S17,216 (Woodstock and Show Stoppers),216 (Woodstock and Show Stoppers),2019,,85,"Documentary,Game-Show,Music",7.4,36
+tt0319931,tt10222926,17,18,S17,217,217,2019,,85,"Documentary,Game-Show,Music",7.6,35
+tt0319931,tt10222930,17,19,S17,218 (Season Finale),218 (Season Finale),2019,,127,"Documentary,Game-Show,Music",7.1,38
+tt0319931,tt15310176,18,0,S18,300 (Promo),300 (Promo),2020,,,"Documentary,Game-Show,Music",,
+tt0319931,tt10326978,18,1,S18,301 (Auditions),301 (Auditions),2020,,85,"Documentary,Game-Show,Music",8.0,52
+tt0319931,tt11729426,18,2,S18,302 (Auditions),302 (Auditions),2020,,85,"Documentary,Game-Show,Music",7.9,45
+tt0319931,tt11764634,18,3,S18,303 (Auditions),303 (Auditions),2020,,84,"Documentary,Game-Show,Music",7.9,41
+tt0319931,tt11802190,18,4,S18,304 (Auditions),304 (Auditions),2020,,84,"Documentary,Game-Show,Music",8.3,40
+tt0319931,tt11906172,18,5,S18,305 (Auditions),305 (Auditions),2020,,84,"Documentary,Game-Show,Music",8.3,38
+tt0319931,tt11911940,18,6,S18,306 (Hollywood Week - Genre Challenge),306 (Hollywood Week - Genre Challenge),2020,,85,"Documentary,Game-Show,Music",8.3,41
+tt0319931,tt11947426,18,7,S18,307 (Hollywood Week - Duets),307 (Hollywood Week - Duets),2020,,84,"Documentary,Game-Show,Music",8.2,39
+tt0319931,tt11953632,18,8,S18,308 (Hollywood Week - Solos),308 (Hollywood Week - Solos),2020,,85,"Documentary,Game-Show,Music",8.3,38
+tt0319931,tt12019390,18,9,S18,309 (Hawaii Showcase and Final Judgment Part #1),309 (Hawaii Showcase and Final Judgment Part #1),2020,,85,"Documentary,Game-Show,Music",8.1,34
+tt0319931,tt12019394,18,10,S18,310 (Hawaii Showcase and Final Judgment Part #2),310 (Hawaii Showcase and Final Judgment Part #2),2020,,83,"Documentary,Game-Show,Music",7.9,32
+tt0319931,tt12026568,18,11,S18,American Idol -- This Is Me (Part #1),American Idol -- This Is Me (Part #1),2020,,83,"Documentary,Game-Show,Music",7.2,33
+tt0319931,tt12059642,18,12,S18,American Idol -- This Is Me (Part #2),American Idol -- This Is Me (Part #2),2020,,83,"Documentary,Game-Show,Music",7.0,33
+tt0319931,tt12146488,18,13,S18,313 (On With the Show: Top 20 Sing for Your Vote),313 (On With the Show: Top 20 Sing for Your Vote),2020,,87,"Documentary,Game-Show,Music",7.8,37
+tt0319931,tt12188980,18,14,S18,314 (On with the Show: Homeward Bound),314 (On with the Show: Homeward Bound),2020,,85,"Documentary,Game-Show,Music",7.7,37
+tt0319931,tt12193614,18,15,S18,315 (On With the Show: Disney; Mother's Day),315 (On With the Show: Disney; Mother's Day),2020,,84,"Documentary,Game-Show,Music",7.7,34
+tt0319931,tt12193616,18,16,S18,316 (On With the Show: Grand Finale),316 (On With the Show: Grand Finale),2020,,84,"Documentary,Game-Show,Music",6.4,41
+tt0319931,tt15310166,19,0,S19,400 (Promo),400 (Promo),2021,,,"Documentary,Game-Show,Music",,
+tt0319931,tt12367906,19,1,S19,401 (Auditions),401 (Auditions),2021,,86,"Documentary,Game-Show,Music",7.2,50
+tt0319931,tt13962728,19,2,S19,402 (Auditions),402 (Auditions),2021,,84,"Documentary,Game-Show,Music",8.0,38
+tt0319931,tt14023522,19,3,S19,403 (Auditions),403 (Auditions),2021,,85,"Documentary,Game-Show,Music",8.0,36
+tt0319931,tt14103180,19,4,S19,404 (Auditions),404 (Auditions),2021,,85,"Documentary,Game-Show,Music",8.3,36
+tt0319931,tt14200242,19,5,S19,405 (Auditions),405 (Auditions),2021,,85,"Documentary,Game-Show,Music",8.1,34
+tt0319931,tt14200252,19,6,S19,406 (Hollywood Week: Genre Challenge),406 (Hollywood Week: Genre Challenge),2021,,85,"Documentary,Game-Show,Music",8.5,37
+tt0319931,tt14200264,19,7,S19,407 (Hollywood Duets Challenge),407 (Hollywood Duets Challenge),2021,,85,"Documentary,Game-Show,Music",8.6,35
+tt0319931,tt14207140,19,8,S19,408 (Showstopper/Final Judgment Part #1),408 (Showstopper/Final Judgment Part #1),2021,,85,"Documentary,Game-Show,Music",8.3,35
+tt0319931,tt14250562,19,9,S19,409 (Showstopper/Final Judgment Part #2),409 (Showstopper/Final Judgment Part #2),2021,,84,"Documentary,Game-Show,Music",8.5,35
+tt0319931,tt14284368,19,10,S19,410 (All Star Duets and Solos),410 (All Star Duets and Solos),2021,,85,"Documentary,Game-Show,Music",8.4,34
+tt0319931,tt14299954,19,11,S19,411 (All Star Duets and Solos),411 (All Star Duets and Solos),2021,,85,"Documentary,Game-Show,Music",8.7,36
+tt0319931,tt14302052,19,12,S19,412 (Top 16),412 (Top 16),2021,,85,"Documentary,Game-Show,Music",8.4,32
+tt0319931,tt14329426,19,13,S19,413 (Top 12 Live Reveal),413 (Top 12 Live Reveal),2021,,85,"Documentary,Game-Show,Music",8.1,35
+tt0319931,tt14356306,19,14,S19,414 (Oscar Nominated Songs),414 (Oscar Nominated Songs),2021,,85,"Documentary,Game-Show,Music",8.2,35
+tt0319931,tt14356312,19,15,S19,415 (The Comeback),415 (The Comeback),2021,,84,"Documentary,Game-Show,Music",7.8,36
+tt0319931,tt14356314,19,16,S19,416 (Disney Night),416 (Disney Night),2021,,85,"Documentary,Game-Show,Music",8.4,31
+tt0319931,tt14356318,19,17,S19,417 (Coldplay Songbook & Mother's Day Dedication),417 (Coldplay Songbook & Mother's Day Dedication),2021,,85,"Documentary,Game-Show,Music",8.2,28
+tt0319931,tt14356320,19,18,S19,418 (My Personal Idol/Artist Singles),418 (My Personal Idol/Artist Singles),2021,,85,"Documentary,Game-Show,Music",7.0,26
+tt0319931,tt14356322,19,19,S19,419 (Grand Finale),419 (Grand Finale),2021,,128,"Documentary,Game-Show,Music",7.4,23
+tt0319931,tt14642054,20,1,S20,501 (Auditions),501 (Auditions),2022,,85,"Documentary,Game-Show,Music",6.9,51
+tt0319931,tt17542772,20,2,S20,502 (Auditions),502 (Auditions),2022,,85,"Documentary,Game-Show,Music",8.9,39
+tt0319931,tt17542776,20,3,S20,503 (Auditions),503 (Auditions),2022,,85,"Documentary,Game-Show,Music",8.6,31
+tt0319931,tt17542774,20,4,S20,504 (Auditions),504 (Auditions),2022,,85,"Documentary,Game-Show,Music",8.2,32
+tt0319931,tt18553730,20,5,S20,505 (Auditions),505 (Auditions),2022,,85,"Documentary,Game-Show,Music",8.9,34
+tt0319931,tt18950706,20,6,S20,505A (Auditions),505A (Auditions),2022,,39,"Documentary,Game-Show,Music",8.6,29
+tt0319931,tt18950710,20,7,S20,506 (Hollywood Week: Genre Challenge),506 (Hollywood Week: Genre Challenge),2022,,85,"Documentary,Game-Show,Music",8.9,31
+tt0319931,tt18950712,20,8,S20,507 (Hollywood Duets Challenge),507 (Hollywood Duets Challenge),2022,,85,"Documentary,Game-Show,Music",8.8,32
+tt0319931,tt18950716,20,9,S20,508 (Showstopper/Final Judgment),508 (Showstopper/Final Judgment),2022,,85,"Documentary,Game-Show,Music",8.5,26
+tt0319931,tt18950718,20,10,S20,509 (Top 24 at Disney's Aulani Resort in Hawaii Part #1),509 (Top 24 at Disney's Aulani Resort in Hawaii Part #1),2022,,85,"Documentary,Game-Show,Music",8.2,27
+tt0319931,tt18950722,20,11,S20,510 (Top 24 at Disney's Aulani Resort in Hawaii Part #2),510 (Top 24 at Disney's Aulani Resort in Hawaii Part #2),2022,,83,"Documentary,Game-Show,Music",8.5,25
+tt0319931,tt19267202,20,12,S20,511 (Season 20's Top 20),511 (Season 20's Top 20),2022,,128,"Documentary,Game-Show,Music",9.1,34
+tt0319931,tt19380328,20,13,S20,512 (Top 14 Live Reveal),512 (Top 14 Live Reveal),2022,,85,"Documentary,Game-Show,Music",8.2,27
+tt0319931,tt19387606,20,14,S20,513 (Top 14),513 (Top 14),2022,,85,"Documentary,Game-Show,Music",8.0,26
+tt0319931,tt19387608,20,15,S20,514 (Judge's Song Contest),514 (Judge's Song Contest),2022,,85,"Documentary,Game-Show,Music",8.8,30
+tt0319931,tt19387614,20,16,S20,515 (Disney Night),515 (Disney Night),2022,,85,"Documentary,Game-Show,Music",8.8,30
+tt0319931,tt19387616,20,17,S20,516 (The Great Idol Reunion),516 (The Great Idol Reunion),2022,,43,"Documentary,Game-Show,Music",8.7,32
+tt0319931,tt19387620,20,18,S20,517 (Top 7),517 (Top 7),2022,,85,"Documentary,Game-Show,Music",7.9,27
+tt0319931,tt19818298,20,19,S20,518 (Top 5),518 (Top 5),2022,,85,"Documentary,Game-Show,Music",8.1,26
+tt0319931,tt19818300,20,20,S20,519 (Grand Finale),519 (Grand Finale),2022,,128,"Documentary,Game-Show,Music",7.5,28
+tt0319931,tt20228606,21,1,S21,601 (Auditions),601 (Auditions),2023,,85,"Documentary,Game-Show,Music",8.4,39
+tt0319931,tt26765905,21,2,S21,602 (Auditions),602 (Auditions),2023,,85,"Documentary,Game-Show,Music",8.2,36
+tt0319931,tt26765907,21,3,S21,603 (Auditions),603 (Auditions),2023,,85,"Documentary,Game-Show,Music",8.7,34
+tt0319931,tt26921283,21,4,S21,603A (Auditions),603A (Auditions),2023,,42,"Documentary,Game-Show,Music",8.4,31
+tt0319931,tt26921284,21,5,S21,604 (Auditions),604 (Auditions),2023,,85,"Documentary,Game-Show,Music",8.3,32
+tt0319931,tt27125849,21,6,S21,605 (Auditions),605 (Auditions),2023,,85,"Documentary,Game-Show,Music",8.6,32
+tt0319931,tt27125853,21,7,S21,606 (Hollywood Week Part #1),606 (Hollywood Week Part #1),2023,,85,"Documentary,Game-Show,Music",7.8,33
+tt0319931,tt27125854,21,8,S21,607 (Hollywood Week Part #2),607 (Hollywood Week Part #2),2023,,85,"Documentary,Game-Show,Music",8.1,32
+tt0319931,tt27201827,21,9,S21,608 (Showstopper/Final Judgement Part 1),608 (Showstopper/Final Judgement Part 1),2023,,85,"Documentary,Game-Show,Music",8.2,31
+tt0319931,tt27201829,21,10,S21,609 (Showstopper/Final Judgement Part 2),609 (Showstopper/Final Judgement Part 2),2023,,,"Documentary,Game-Show,Music",8.2,29
+tt0319931,tt27428648,21,11,S21,610 (Top 26 at Disney's Aulani Resort in Hawaii Part #1),610 (Top 26 at Disney's Aulani Resort in Hawaii Part #1),2023,,85,"Documentary,Game-Show,Music",8.3,29
+tt0319931,tt27428682,21,12,S21,611 (Top 26 at Disney's Aulani Resort in Hawaii Part #2),611 (Top 26 at Disney's Aulani Resort in Hawaii Part #2),2023,,85,"Documentary,Game-Show,Music",8.4,29
+tt0319931,tt27428707,21,13,S21,612 (Top 20),612 (Top 20),2023,,128,"Documentary,Game-Show,Music",8.2,34
+tt0319931,tt27428712,21,14,S21,613 (Top 12 Reveal!),613 (Top 12 Reveal!),2023,,85,"Documentary,Game-Show,Music",8.5,34
+tt0319931,tt27429587,21,15,S21,614 (Rock and Roll Hall of Fame Night),614 (Rock and Roll Hall of Fame Night),2023,,85,"Documentary,Game-Show,Music",8.5,31
+tt0319931,tt27429588,21,16,S21,615 (Judge's Song Contest),615 (Judge's Song Contest),2023,,85,"Documentary,Game-Show,Music",8.4,31
+tt0319931,tt27429592,21,17,S21,616 (Top 8: Alanis Morisette/Ed Sheeran),616 (Top 8: Alanis Morisette/Ed Sheeran),2023,,85,"Documentary,Game-Show,Music",7.9,30
+tt0319931,tt27429596,21,18,S21,617 (Disney Night),617 (Disney Night),2023,,85,"Documentary,Game-Show,Music",7.9,33
+tt0319931,tt27429601,21,19,S21,617A (Journey to the Finale),617A (Journey to the Finale),2023,,85,"Documentary,Game-Show,Music",7.2,26
+tt0319931,tt27629285,21,20,S21,618 (Season Finale),618 (Season Finale),2023,,128,"Documentary,Game-Show,Music",8.1,35
+tt0319931,tt27774537,22,1,S22,701 (Auditions),701 (Auditions),2024,,85,"Documentary,Game-Show,Music",8.9,35
+tt0319931,tt31260782,22,2,S22,702 (Auditions),702 (Auditions),2024,,85,"Documentary,Game-Show,Music",8.8,41
+tt0319931,tt31260784,22,3,S22,703 (Auditions),703 (Auditions),2024,,85,"Documentary,Game-Show,Music",9.1,34
+tt0319931,tt31557402,22,4,S22,704 (Auditions),704 (Auditions),2024,,85,"Documentary,Game-Show,Music",9.1,36
+tt0319931,tt31557409,22,5,S22,705 (Auditions),705 (Auditions),2024,,85,"Documentary,Game-Show,Music",9.0,29
+tt0319931,tt31909557,22,6,S22,706 (Hollywood Week - Idol Arena),706 (Hollywood Week - Idol Arena),2024,,85,"Documentary,Game-Show,Music",8.2,29
+tt0319931,tt31909562,22,7,S22,707 (Showstopper/Final Judgment),707 (Showstopper/Final Judgment),2024,,85,"Documentary,Game-Show,Music",9.2,32
+tt0319931,tt31909563,22,8,S22,708 (Top 24 at Disney's Aulani Resort in Hawaii Part #1),708 (Top 24 at Disney's Aulani Resort in Hawaii Part #1),2024,,85,"Documentary,Game-Show,Music",8.4,28
+tt0319931,tt31909566,22,9,S22,709 (Top 24 at Disney's Aulani Resort in Hawaii Part #2),709 (Top 24 at Disney's Aulani Resort in Hawaii Part #2),2024,,85,"Documentary,Game-Show,Music",8.1,31
+tt0319931,tt31909574,22,10,S22,710 (Top 20),710 (Top 20),2024,,128,"Documentary,Game-Show,Music",7.9,29
+tt0319931,tt31909575,22,11,S22,711 (Top 14 Reveal),711 (Top 14 Reveal),2024,,85,"Documentary,Game-Show,Music",8.2,29
+tt0319931,tt31974663,22,12,S22,712 (Rock & Roll Hall of Fame),712 (Rock & Roll Hall of Fame),2024,,85,"Documentary,Game-Show,Music",8.8,33
+tt0319931,tt32020449,22,13,S22,713 (Billboard #1 Hits),713 (Billboard #1 Hits),2024,,85,"Documentary,Game-Show,Music",8.2,28
+tt0319931,tt32020453,22,14,S22,714 (Shania Twain Mentors the Top 10 on Songs From Their Year of Birth),714 (Shania Twain Mentors the Top 10 on Songs From Their Year of Birth),2024,,85,"Documentary,Game-Show,Music",9.2,33
+tt0319931,tt32020455,22,15,S22,715 (Judge's Song Contest),715 (Judge's Song Contest),2024,,84,"Documentary,Game-Show,Music",8.9,33
+tt0319931,tt32020457,22,16,S22,716 (Adele Night),716 (Adele Night),2024,,85,"Documentary,Game-Show,Music",8.3,30
+tt0319931,tt32116587,22,17,S22,717 (Disney Night),717 (Disney Night),2024,,85,"Documentary,Game-Show,Music",8.3,27
+tt0319931,tt32116588,22,18,S22,718 (Grand Finale),718 (Grand Finale),2024,,127,"Documentary,Game-Show,Music",7.7,29
+tt0319931,tt32580062,23,1,S23,801 (Post Oscars: Auditions),801 (Post Oscars: Auditions),2025,,21,"Documentary,Game-Show,Music",6.9,34
+tt0319931,tt35975113,23,2,S23,802 (Season Premiere: Auditions),802 (Season Premiere: Auditions),2025,,85,"Documentary,Game-Show,Music",7.5,34
+tt0319931,tt35984869,23,3,S23,803 (Auditions),803 (Auditions),2025,,85,"Documentary,Game-Show,Music",7.8,27
+tt0319931,tt35984885,23,4,S23,804 (Auditions),804 (Auditions),2025,,84,"Documentary,Game-Show,Music",8.6,29
+tt0319931,tt35984887,23,5,S23,805 (Auditions),805 (Auditions),2025,,85,"Documentary,Game-Show,Music",8.5,26
+tt0319931,tt35984889,23,6,S23,806 (Hollywood Week: Idol Arena),806 (Hollywood Week: Idol Arena),2025,,85,"Documentary,Game-Show,Music",8.8,23
+tt0319931,tt35984905,23,7,S23,807 (Hollywood Week: Showstopper),807 (Hollywood Week: Showstopper),2025,,85,"Documentary,Game-Show,Music",8.1,26
+tt0319931,tt35984910,23,8,S23,808 (Head to Head),808 (Head to Head),2025,,85,"Documentary,Game-Show,Music",8.2,27
+tt0319931,tt36375847,23,9,S23,809 (Top 24 at Disney's Aulani Resort in Hawai'i Part #1),809 (Top 24 at Disney's Aulani Resort in Hawai'i Part #1),2025,,85,"Documentary,Game-Show,Music",8.6,29
+tt0319931,tt36375848,23,10,S23,810 (Top 24 at Disney's Aulani Resort in Hawai'i Part #2),810 (Top 24 at Disney's Aulani Resort in Hawai'i Part #2),2025,,85,"Documentary,Game-Show,Music",7.8,29
+tt0319931,tt36375850,23,11,S23,811 (Songs of Faith),811 (Songs of Faith),2025,,128,"Documentary,Game-Show,Music",7.4,48
+tt0319931,tt36375851,23,12,S23,812 (Top 14 Reveal),812 (Top 14 Reveal),2025,,85,"Documentary,Game-Show,Music",8.6,27
+tt0319931,tt36502839,23,13,S23,813 (Rock & Roll Hall of Fame),813 (Rock & Roll Hall of Fame),2025,,85,"Documentary,Game-Show,Music",8.2,26
+tt0319931,tt36502841,23,14,S23,814 (Iconic Idol Moments),814 (Iconic Idol Moments),2025,,85,"Documentary,Game-Show,Music",8.0,26
+tt0319931,tt36502842,23,15,S23,815 (Ladies' Night),815 (Ladies' Night),2025,,85,"Documentary,Game-Show,Music",8.5,25
+tt0319931,tt36502843,23,16,S23,816 (Judge's Song Contest),816 (Judge's Song Contest),2025,,85,"Documentary,Game-Show,Music",7.9,27
+tt0319931,tt36622450,23,17,S23,817 (Disney Night #1),817 (Disney Night #1),2025,,85,"Documentary,Game-Show,Music",8.2,24
+tt0319931,tt36622469,23,18,S23,818 (Disney Night #2),818 (Disney Night #2),2025,,85,"Documentary,Game-Show,Music",7.2,26
+tt0319931,tt36715087,23,19,S23,819 (Grand Finale),819 (Grand Finale),2025,,127,"Documentary,Game-Show,Music",7.4,26
+tt0319931,tt36885550,24,1,S24,Episode #24.1,Episode #24.1,2026,,,"Documentary,Game-Show,Music",,
+tt0319931,tt3375618,,,,Idols in Vegas,Idols in Vegas,2002,,,"Documentary,Game-Show,Music",5.0,14
+tt0319931,tt3375622,,,,American Idol Revisited,American Idol Revisited,2003,,,"Documentary,Game-Show,Music",5.0,13
+tt0319931,tt3375626,,,,American Idol: The Best of the Worst,American Idol: The Best of the Worst,2003,,,"Documentary,Game-Show,Music",5.3,14
+tt0319931,tt3375632,,,,Top 2 Special,Top 2 Special,2003,,,"Documentary,Game-Show,Music",5.0,13
+tt0319931,tt3375634,,,,American Idol: Christmas Songs,American Idol: Christmas Songs,2003,,,"Documentary,Game-Show,Music",4.4,13
+tt0319931,tt3375640,,,,"Uncut, Uncensored and Untalented","Uncut, Uncensored and Untalented",2004,,,"Documentary,Game-Show,Music",4.2,13
+tt0319931,tt3375646,,,,The Phenomenon,The Phenomenon,2004,,,"Documentary,Game-Show,Music",4.6,13
+tt0319931,tt3375652,,,,"Kelly, Ruben & Fantasia: Home for Christmas","Kelly, Ruben & Fantasia: Home for Christmas",2004,,,"Documentary,Game-Show,Music",4.6,13
+tt0319931,tt34996456,,,,Journey to the Finale,Journey to the Finale,2023,,,"Documentary,Game-Show,Music",,
+tt0319931,tt3833864,,,,The Big Time!,The Big Time!,2002,,,"Documentary,Game-Show,Music",5.0,13
+tt0319931,tt5365496,,,,Hollywood Round No. 4,Hollywood Round No. 4,2016,,,"Documentary,Game-Show,Music",,
+tt0319931,tt5596724,,,,Wild Card Round 1,Wild Card Round 1,2004,,,"Documentary,Game-Show,Music",,
+tt0319931,tt5598094,,,,American Idol: The Final Five '04,American Idol: The Final Five '04,2004,,,"Documentary,Game-Show,Music",,
+tt0319931,tt5598108,,,,3 Sing,3 Sing,2004,,,"Documentary,Game-Show,Music",5.0,13
+tt0319931,tt7821212,,,,Episode dated 24 March 2016,Episode dated 24 March 2016,2016,,,"Documentary,Game-Show,Music",,

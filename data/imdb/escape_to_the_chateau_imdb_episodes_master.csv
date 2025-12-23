@@ -1,0 +1,54 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt6249614,tt6284194,1,1,S1,Finding the Chateau,Finding the Chateau,2016,,48,Reality-TV,8.6,70
+tt6249614,tt6284198,1,2,S1,"Chickens, Heating and a Blank Canvas","Chickens, Heating and a Blank Canvas",2016,,48,Reality-TV,8.8,52
+tt6249614,tt7726344,1,3,S1,Angel's Palace of Dreams,Angel's Palace of Dreams,2016,,,Reality-TV,8.7,44
+tt6249614,tt6284200,1,4,S1,"Moat, Pineapple Chandeliers and a Wedding","Moat, Pineapple Chandeliers and a Wedding",2016,,48,Reality-TV,8.8,48
+tt6249614,tt6284206,2,1,S2,"Pig Roaster, Versailles Loo and First Day at School","Pig Roaster, Versailles Loo and First Day at School",2016,,48,Reality-TV,8.9,49
+tt6249614,tt6284210,2,2,S2,"Fishing, Foraging and an Elevator","Fishing, Foraging and an Elevator",2016,,47,Reality-TV,9.2,51
+tt6249614,tt6284218,2,3,S2,Christmas at the Chateau,Christmas at the Chateau,2016,,47,Reality-TV,8.9,54
+tt6249614,tt7419512,3,1,S3,Only 20 Rooms to Go,Only 20 Rooms to Go,2017,,47,Reality-TV,9.0,44
+tt6249614,tt7454080,3,2,S3,Spring,Spring,2017,,47,Reality-TV,9.1,41
+tt6249614,tt7454084,3,3,S3,The Wedding Season,The Wedding Season,2017,,47,Reality-TV,9.2,44
+tt6249614,tt8137616,4,1,S4,"Weddings, Stables & Staircases","Weddings, Stables & Staircases",2018,,47,Reality-TV,8.5,36
+tt6249614,tt8137638,4,2,S4,Harvest and Birthday,Harvest and Birthday,2018,,47,Reality-TV,8.6,36
+tt6249614,tt8137640,4,3,S4,A Floating Dome,A Floating Dome,2018,,47,Reality-TV,8.8,39
+tt6249614,tt9284420,5,1,S5,Glamping,Glamping,2018,,47,Reality-TV,8.4,38
+tt6249614,tt9284422,5,2,S5,In the Attic,In the Attic,2018,,47,Reality-TV,8.7,33
+tt6249614,tt9342072,5,3,S5,Parkour & Turret,Parkour & Turret,2018,,47,Reality-TV,8.7,30
+tt6249614,tt9342078,5,4,S5,Peak Summer,Peak Summer,2018,,47,Reality-TV,8.5,30
+tt6249614,tt9372212,5,5,S5,Cafe Grandma,Cafe Grandma,2018,,47,Reality-TV,8.5,30
+tt6249614,tt9382302,5,6,S5,Harvest Time,Harvest Time,2018,,47,Reality-TV,8.7,31
+tt6249614,tt9382304,5,7,S5,... at Christmas,... at Christmas,2018,,47,Reality-TV,8.5,33
+tt6249614,tt10700116,6,1,S6,Restoring the Dream,Restoring the Dream,2019,,47,Reality-TV,8.3,29
+tt6249614,tt10700410,6,2,S6,Designing the Dream,Designing the Dream,2019,,47,Reality-TV,7.8,23
+tt6249614,tt10700428,6,3,S6,The Great Outdoors,The Great Outdoors,2019,,47,Reality-TV,8.2,22
+tt6249614,tt11195706,6,4,S6,Winter Returns,Winter Returns,2019,,47,Reality-TV,8.6,27
+tt6249614,tt11241106,6,5,S6,A Boat in the Moat,A Boat in the Moat,2019,,47,Reality-TV,8.5,24
+tt6249614,tt11266906,6,6,S6,Weddings & Aviaries,Weddings & Aviaries,2019,,47,Reality-TV,8.3,25
+tt6249614,tt11381688,6,7,S6,The Party of a Lifetime,The Party of a Lifetime,2019,,,Reality-TV,8.3,26
+tt6249614,tt11381704,6,8,S6,Camper Van,Camper Van,2019,,47,Reality-TV,8.5,26
+tt6249614,tt11381728,6,9,S6,Autumn Renovation,Autumn Renovation,2019,,,Reality-TV,8.6,24
+tt6249614,tt11381762,6,10,S6,Riverboat,Riverboat,2019,,,Reality-TV,8.2,26
+tt6249614,tt11381772,6,11,S6,At Christmas,At Christmas,2019,,,Reality-TV,7.8,28
+tt6249614,tt13393944,7,1,S7,Supersized Workshop,Supersized Workshop,2020,,47,Reality-TV,8.8,23
+tt6249614,tt13567650,7,2,S7,"Sloe Gin, Library & Ceiling Rose","Sloe Gin, Library & Ceiling Rose",2020,,47,Reality-TV,8.1,22
+tt6249614,tt13567660,7,3,S7,"Wash House, Trench & Vintage Bike","Wash House, Trench & Vintage Bike",2020,,47,Reality-TV,8.4,22
+tt6249614,tt13567670,7,4,S7,"Orangery, Daybeds & Unexpected History","Orangery, Daybeds & Unexpected History",2020,,47,Reality-TV,8.4,21
+tt6249614,tt13600198,7,5,S7,"Pop-Up Restaurant, Orangery, Celebration","Pop-Up Restaurant, Orangery, Celebration",2020,,47,Reality-TV,8.1,22
+tt6249614,tt13667664,7,6,S7,... at Christmas,... at Christmas,2020,,47,Reality-TV,8.0,25
+tt6249614,tt13906822,8,1,S8,Gardening & the Coach House,Gardening & the Coach House,2021,,47,Reality-TV,8.1,18
+tt6249614,tt15741100,8,2,S8,Chateau Roof & the Preserves Cupboard,Chateau Roof & the Preserves Cupboard,2021,,47,Reality-TV,8.0,14
+tt6249614,tt15964298,8,3,S8,Great British Garden Party & the Roof,Great British Garden Party & the Roof,2021,,47,Reality-TV,7.9,16
+tt6249614,tt15765720,8,4,S8,Storage & Memory Furnishings,Storage & Memory Furnishings,2021,,47,Reality-TV,7.3,13
+tt6249614,tt15765728,8,5,S8,Attic & a Celestial-Inspired Sky Bar,Attic & a Celestial-Inspired Sky Bar,2021,,47,Reality-TV,7.6,14
+tt6249614,tt16280558,8,6,S8,"Colour Boards, Rendering & an Old Gadage","Colour Boards, Rendering & an Old Gadage",2021,,47,Reality-TV,7.7,13
+tt6249614,tt16317976,8,7,S8,Mollusc Madness & Key Moulding,Mollusc Madness & Key Moulding,2021,,47,Reality-TV,7.8,13
+tt6249614,tt16425784,8,8,S8,Escape to the Chateau at Christmas,Escape to the Chateau at Christmas,2021,,47,Reality-TV,7.9,15
+tt6249614,tt21835682,9,1,S9,Atelier de Mariage,Atelier de Mariage,2022,,60,Reality-TV,7.8,16
+tt6249614,tt23028464,9,2,S9,Natasha and Victoria's Big Wedding,Natasha and Victoria's Big Wedding,2022,,,Reality-TV,7.5,12
+tt6249614,tt23028474,9,3,S9,19th Century Folly Retreat,19th Century Folly Retreat,2022,,,Reality-TV,8.3,10
+tt6249614,tt23028482,9,4,S9,Summer Kitchen,Summer Kitchen,2022,,,Reality-TV,8.2,10
+tt6249614,tt23028492,9,5,S9,Bling Birthday Party,Bling Birthday Party,2022,,,Reality-TV,7.9,10
+tt6249614,tt23028494,9,6,S9,Games Room and Hidden Treasure,Games Room and Hidden Treasure,2022,,,Reality-TV,8.0,10
+tt6249614,tt23028500,9,7,S9,Winter Garden Room,Winter Garden Room,2022,,,Reality-TV,8.5,11
+tt6249614,tt23028506,9,8,S9,Escape to the Chateau at Christmas,Escape to the Chateau at Christmas,2022,,,Reality-TV,8.9,10

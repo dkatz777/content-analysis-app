@@ -1,0 +1,380 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0446809,tt0786090,1,1,S1,Greenhorns,Greenhorns,2005,,44,"Adventure,Documentary,Reality-TV",7.7,101
+tt0446809,tt0786094,1,2,S1,Long Sleepless Nights,Long Sleepless Nights,2005,,44,"Adventure,Documentary,Reality-TV",7.5,77
+tt0446809,tt0786093,1,3,S1,Lady Luck,Lady Luck,2005,,44,"Adventure,Documentary,Reality-TV",7.6,70
+tt0446809,tt0786086,1,4,S1,Beat the Clock,Beat the Clock,2005,,44,"Adventure,Documentary,Reality-TV",7.9,71
+tt0446809,tt0786087,1,5,S1,Dead of Winter,Dead of Winter,2005,,44,"Adventure,Documentary,Reality-TV",7.9,67
+tt0446809,tt0786095,1,6,S1,Man Overboard,Man Overboard,2005,,44,"Adventure,Documentary,Reality-TV",7.9,66
+tt0446809,tt0786092,1,7,S1,High Hopes,High Hopes,2005,,44,"Adventure,Documentary,Reality-TV",7.9,65
+tt0446809,tt0786089,1,8,S1,Good Fishing,Good Fishing,2005,,44,"Adventure,Documentary,Reality-TV",7.8,65
+tt0446809,tt0786097,1,9,S1,The Clock's Ticking,The Clock's Ticking,2005,,44,"Adventure,Documentary,Reality-TV",8.0,64
+tt0446809,tt0786098,1,10,S1,The Final Run,The Final Run,2005,,44,"Adventure,Documentary,Reality-TV",7.9,60
+tt0446809,tt0786091,2,1,S2,Heading Out to Sea,Heading Out to Sea,2006,,44,"Adventure,Documentary,Reality-TV",7.8,58
+tt0446809,tt0786085,2,2,S2,Batten Down the Hatches,Batten Down the Hatches,2006,,44,"Adventure,Documentary,Reality-TV",7.7,54
+tt0446809,tt0786096,2,3,S2,On the Crab,On the Crab,2006,,44,"Adventure,Documentary,Reality-TV",7.7,52
+tt0446809,tt0786099,2,4,S2,The Finish Line,The Finish Line,2006,,44,"Adventure,Documentary,Reality-TV",7.7,51
+tt0446809,tt0786088,2,5,S2,Friends and Rivals,Friends and Rivals,2006,,44,"Adventure,Documentary,Reality-TV",7.9,55
+tt0446809,tt0792527,2,6,S2,A New Hunt Begins,A New Hunt Begins,2006,,44,"Adventure,Documentary,Reality-TV",7.7,53
+tt0446809,tt0793732,2,7,S2,Smoke on the Water,Smoke on the Water,2006,,44,"Adventure,Documentary,Reality-TV",8.0,54
+tt0446809,tt0793731,2,8,S2,Man vs. Ice,Man vs. Ice,2006,,44,"Adventure,Documentary,Reality-TV",8.0,56
+tt0446809,tt0817338,2,9,S2,On the Edge,On the Edge,2006,,44,"Adventure,Documentary,Reality-TV",8.1,53
+tt0446809,tt0792528,2,10,S2,Pribilof Stare,Pribilof Stare,2006,,44,"Adventure,Documentary,Reality-TV",8.0,53
+tt0446809,tt0817339,2,11,S2,Race Against the Ice,Race Against the Ice,2006,,44,"Adventure,Documentary,Reality-TV",8.0,52
+tt0446809,tt0805822,2,12,S2,Cashing In,Cashing In,2006,,44,"Adventure,Documentary,Reality-TV",8.0,50
+tt0446809,tt0998223,3,1,S3,A Tragic Beginning,A Tragic Beginning,2007,,44,"Adventure,Documentary,Reality-TV",7.9,64
+tt0446809,tt1004136,3,2,S3,The Unforgiving Sea,The Unforgiving Sea,2007,,44,"Adventure,Documentary,Reality-TV",8.0,57
+tt0446809,tt1014236,3,3,S3,Pain and Paybacks,Pain and Paybacks,2007,,43,"Adventure,Documentary,Reality-TV",7.7,50
+tt0446809,tt1019007,3,4,S3,Cheating Death,Cheating Death,2007,,43,"Adventure,Documentary,Reality-TV",8.0,52
+tt0446809,tt1022674,3,5,S3,Bering Sea Salvation,Bering Sea Salvation,2007,,44,"Adventure,Documentary,Reality-TV",7.6,50
+tt0446809,tt1027326,3,6,S3,The Last Lap,The Last Lap,2007,,44,"Adventure,Documentary,Reality-TV",7.5,48
+tt0446809,tt1032378,3,7,S3,New Beginnings,New Beginnings,2007,,44,"Adventure,Documentary,Reality-TV",7.7,49
+tt0446809,tt1035994,3,8,S3,Caught in the Storm,Caught in the Storm,2007,,44,"Adventure,Documentary,Reality-TV",8.0,64
+tt0446809,tt1041961,3,9,S3,Crossing the Line,Crossing the Line,2007,,44,"Adventure,Documentary,Reality-TV",7.6,50
+tt0446809,tt1046009,3,10,S3,Trials of the Greenhorns,Trials of the Greenhorns,2007,,44,"Adventure,Documentary,Reality-TV",7.7,48
+tt0446809,tt1046008,3,11,S3,Ice and Open Water,Ice and Open Water,2007,,44,"Adventure,Documentary,Reality-TV",7.8,49
+tt0446809,tt1052546,3,12,S3,A Frozen Finish,A Frozen Finish,2007,,44,"Adventure,Documentary,Reality-TV",7.9,52
+tt0446809,tt1200907,4,1,S4,Get 'Em Back Safe!,Get 'Em Back Safe!,2008,,44,"Adventure,Documentary,Reality-TV",8.0,48
+tt0446809,tt1218608,4,2,S4,Striking Out,Striking Out,2008,,44,"Adventure,Documentary,Reality-TV",7.8,45
+tt0446809,tt1218607,4,3,S4,A Numbers Game,A Numbers Game,2008,,44,"Adventure,Documentary,Reality-TV",7.9,44
+tt0446809,tt1221627,4,4,S4,Unsafe and Unsound,Unsafe and Unsound,2008,,44,"Adventure,Documentary,Reality-TV",8.0,44
+tt0446809,tt1224758,4,5,S4,No Mercy,No Mercy,2008,,44,"Adventure,Documentary,Reality-TV",7.8,44
+tt0446809,tt1229267,4,6,S4,Racing the Clock,Racing the Clock,2008,,44,"Adventure,Documentary,Reality-TV",7.7,44
+tt0446809,tt1230735,4,7,S4,Seeking the Catch,Seeking the Catch,2008,,44,"Adventure,Documentary,Reality-TV",7.9,42
+tt0446809,tt1234451,4,8,S4,No Season for Old Men,No Season for Old Men,2008,,44,"Adventure,Documentary,Reality-TV",7.5,41
+tt0446809,tt1234972,4,9,S4,Storm Season,Storm Season,2008,,44,"Adventure,Documentary,Reality-TV",7.7,42
+tt0446809,tt1241817,4,10,S4,Blow Up,Blow Up,2008,,44,"Adventure,Documentary,Reality-TV",7.6,41
+tt0446809,tt1244238,4,11,S4,"Big Weather, Big Trouble","Big Weather, Big Trouble",2008,,44,"Adventure,Documentary,Reality-TV",7.5,42
+tt0446809,tt1244239,4,12,S4,Mortal Men,Mortal Men,2008,,44,"Adventure,Documentary,Reality-TV",7.6,39
+tt0446809,tt1243695,4,13,S4,Fresh Blood,Fresh Blood,2008,,44,"Adventure,Documentary,Reality-TV",7.8,40
+tt0446809,tt1251919,4,14,S4,Changing Tides,Changing Tides,2008,,44,"Adventure,Documentary,Reality-TV",7.9,40
+tt0446809,tt1256806,4,15,S4,Catch as Catch Can,Catch as Catch Can,2008,,44,"Adventure,Documentary,Reality-TV",7.9,40
+tt0446809,tt1261127,4,16,S4,The Final Hour,The Final Hour,2008,,44,"Adventure,Documentary,Reality-TV",8.0,39
+tt0446809,tt2506350,4,17,S4,Legends,Legends,2008,,44,"Adventure,Documentary,Reality-TV",7.7,23
+tt0446809,tt2506344,4,19,S4,Emergency!,Emergency!,2008,,44,"Adventure,Documentary,Reality-TV",7.4,21
+tt0446809,tt1406349,5,1,S5,Everything on the Line,Everything on the Line,2009,,44,"Adventure,Documentary,Reality-TV",7.9,46
+tt0446809,tt1415949,5,2,S5,Red Skies in the Morning,Red Skies in the Morning,2009,,44,"Adventure,Documentary,Reality-TV",8.0,39
+tt0446809,tt1420802,5,3,S5,Stay Focused or Die,Stay Focused or Die,2009,,44,"Adventure,Documentary,Reality-TV",8.1,39
+tt0446809,tt1425506,5,4,S5,Put Up or Shut Up,Put Up or Shut Up,2009,,44,"Adventure,Documentary,Reality-TV",7.6,37
+tt0446809,tt1431773,5,5,S5,"Long Haul, Short Fuses","Long Haul, Short Fuses",2009,,44,"Adventure,Documentary,Reality-TV",7.9,43
+tt0446809,tt1440472,5,6,S5,Deadline,Deadline,2009,,44,"Adventure,Documentary,Reality-TV",7.5,36
+tt0446809,tt1440473,5,7,S5,Down to the Wire,Down to the Wire,2009,,44,"Adventure,Documentary,Reality-TV",7.4,38
+tt0446809,tt1443874,5,8,S5,Payback Time,Payback Time,2009,,44,"Adventure,Documentary,Reality-TV",7.4,38
+tt0446809,tt1447581,5,9,S5,No Second Chances,No Second Chances,2009,,44,"Adventure,Documentary,Reality-TV",7.7,35
+tt0446809,tt1451487,5,10,S5,Sea of Misery,Sea of Misery,2009,,44,"Adventure,Documentary,Reality-TV",7.7,36
+tt0446809,tt1455336,5,11,S5,Lockout,Lockout,2009,,44,"Adventure,Documentary,Reality-TV",7.6,37
+tt0446809,tt1461319,5,12,S5,A Slap in the Face or Kick in the Butt,A Slap in the Face or Kick in the Butt,2009,,44,"Adventure,Documentary,Reality-TV",7.6,37
+tt0446809,tt1464911,5,13,S5,Ends of the Earth,Ends of the Earth,2009,,44,"Adventure,Documentary,Reality-TV",7.5,36
+tt0446809,tt1468459,5,14,S5,Bitter Tears,Bitter Tears,2009,,44,"Adventure,Documentary,Reality-TV",8.0,40
+tt0446809,tt1473215,5,15,S5,Day of Reckoning,Day of Reckoning,2009,,44,"Adventure,Documentary,Reality-TV",7.7,35
+tt0446809,tt1477982,5,16,S5,Shipwrecked,Shipwrecked,2009,,44,"Adventure,Documentary,Reality-TV",8.0,44
+tt0446809,tt1605865,6,1,S6,Slow Burn,Slow Burn,2010,,44,"Adventure,Documentary,Reality-TV",7.7,49
+tt0446809,tt1634175,6,2,S6,Breaking 'Em In,Breaking 'Em In,2010,,44,"Adventure,Documentary,Reality-TV",7.6,40
+tt0446809,tt1640909,6,3,S6,Sea Tested,Sea Tested,2010,,44,"Adventure,Documentary,Reality-TV",7.6,41
+tt0446809,tt1642048,6,4,S6,Bering Sea Swim Club,Bering Sea Swim Club,2010,,44,"Adventure,Documentary,Reality-TV",7.7,42
+tt0446809,tt1647835,6,5,S6,Arctic Quest,Arctic Quest,2010,,44,"Adventure,Documentary,Reality-TV",7.6,39
+tt0446809,tt1651548,6,6,S6,False Pass,False Pass,2010,,44,"Adventure,Documentary,Reality-TV",7.6,37
+tt0446809,tt1656266,6,7,S6,When Hell Freezes Over,When Hell Freezes Over,2010,,44,"Adventure,Documentary,Reality-TV",7.6,36
+tt0446809,tt1661530,6,8,S6,We're Not n Kansas Anymore...,We're Not n Kansas Anymore...,2010,,44,"Adventure,Documentary,Reality-TV",7.7,39
+tt0446809,tt1669937,6,9,S6,Glory Days,Glory Days,2010,,44,"Adventure,Documentary,Reality-TV",7.5,39
+tt0446809,tt1669938,6,10,S6,The Darkened Seas,The Darkened Seas,2010,,44,"Adventure,Documentary,Reality-TV",7.9,44
+tt0446809,tt1673834,6,11,S6,Blown Off Course,Blown Off Course,2010,,44,"Adventure,Documentary,Reality-TV",7.6,42
+tt0446809,tt1680438,6,12,S6,Empty Throne,Empty Throne,2010,,44,"Adventure,Documentary,Reality-TV",7.9,41
+tt0446809,tt1681427,6,13,S6,Cain and Abel,Cain and Abel,2010,,44,"Adventure,Documentary,Reality-TV",8.0,44
+tt0446809,tt1685075,6,14,S6,Redemption Day,Redemption Day,2010,,44,"Adventure,Documentary,Reality-TV",7.8,50
+tt0446809,tt1688120,6,15,S6,Valhalla,Valhalla,2010,,44,"Adventure,Documentary,Reality-TV",8.0,47
+tt0446809,tt1688290,6,16,S6,Captain Phil Harris Remembered,Captain Phil Harris Remembered,2010,,,"Adventure,Documentary,Reality-TV",8.6,68
+tt0446809,tt1694268,6,17,S6,Endless,Endless,2010,,44,"Adventure,Documentary,Reality-TV",7.8,38
+tt0446809,tt1847867,7,1,S7,New Blood,New Blood,2011,,120,"Adventure,Documentary,Reality-TV",7.7,37
+tt0446809,tt1886913,7,2,S7,Proving Grounds,Proving Grounds,2011,,43,"Adventure,Documentary,Reality-TV",7.3,35
+tt0446809,tt1901934,7,3,S7,Old Age and Treachery,Old Age and Treachery,2011,,44,"Adventure,Documentary,Reality-TV",7.3,38
+tt0446809,tt1910785,7,4,S7,Breaking Point,Breaking Point,2011,,44,"Adventure,Documentary,Reality-TV",7.7,34
+tt0446809,tt1912641,7,5,S7,A Wing and a Prayer,A Wing and a Prayer,2011,,44,"Adventure,Documentary,Reality-TV",7.5,35
+tt0446809,tt1923009,7,6,S7,Exit Wounds,Exit Wounds,2011,,44,"Adventure,Documentary,Reality-TV",7.3,38
+tt0446809,tt1935415,7,7,S7,Thick as Thieves,Thick as Thieves,2011,,44,"Adventure,Documentary,Reality-TV",7.8,39
+tt0446809,tt1943194,7,8,S7,Graduation Day,Graduation Day,2011,,44,"Adventure,Documentary,Reality-TV",7.8,37
+tt0446809,tt1945499,7,9,S7,Sea Change,Sea Change,2011,,44,"Adventure,Documentary,Reality-TV",7.8,36
+tt0446809,tt1951889,7,10,S7,Frontier Medicine,Frontier Medicine,2011,,44,"Adventure,Documentary,Reality-TV",7.8,37
+tt0446809,tt1962257,7,11,S7,"Birds, Bones and Blood","Birds, Bones and Blood",2011,,44,"Adventure,Documentary,Reality-TV",7.7,33
+tt0446809,tt1965588,7,12,S7,It's Not All Mai Tais and Yahtzee,It's Not All Mai Tais and Yahtzee,2011,,44,"Adventure,Documentary,Reality-TV",7.6,35
+tt0446809,tt1975409,7,13,S7,Pirate School,Pirate School,2011,,44,"Adventure,Documentary,Reality-TV",7.7,34
+tt0446809,tt1980434,7,14,S7,The Island,The Island,2011,,44,"Adventure,Documentary,Reality-TV",7.7,35
+tt0446809,tt1986349,7,15,S7,I Smell a Nightmare,I Smell a Nightmare,2011,,44,"Adventure,Documentary,Reality-TV",7.7,34
+tt0446809,tt1991415,7,16,S7,"Mohawks & Madness, Goodness & Gladness","Mohawks & Madness, Goodness & Gladness",2011,,44,"Adventure,Documentary,Reality-TV",7.8,36
+tt0446809,tt2303349,8,1,S8,The Gamble,The Gamble,2012,,44,"Adventure,Documentary,Reality-TV",7.5,44
+tt0446809,tt2344355,8,2,S8,Turf War,Turf War,2012,,44,"Adventure,Documentary,Reality-TV",7.8,41
+tt0446809,tt2357785,8,3,S8,Weak Links,Weak Links,2012,,44,"Adventure,Documentary,Reality-TV",7.2,32
+tt0446809,tt2366843,8,4,S8,The Hook,The Hook,2012,,44,"Adventure,Documentary,Reality-TV",7.3,31
+tt0446809,tt2380507,8,5,S8,Alien Abduction,Alien Abduction,2012,,44,"Adventure,Documentary,Reality-TV",7.1,30
+tt0446809,tt2389453,8,6,S8,Vital Signs,Vital Signs,2012,,44,"Adventure,Documentary,Reality-TV",7.3,32
+tt0446809,tt2396913,8,7,S8,I Don't Wanna Die,I Don't Wanna Die,2012,,44,"Adventure,Documentary,Reality-TV",7.6,31
+tt0446809,tt2157240,8,8,S8,The Aftermath,The Aftermath,2012,,88,"Adventure,Documentary,Reality-TV",7.3,32
+tt0446809,tt2194614,8,9,S8,Nowhere to Go But Down,Nowhere to Go But Down,2012,,44,"Adventure,Documentary,Reality-TV",7.0,27
+tt0446809,tt2169950,8,10,S8,Rise and Fall,Rise and Fall,2012,,44,"Adventure,Documentary,Reality-TV",7.3,29
+tt0446809,tt2220444,8,11,S8,No Exit,No Exit,2012,,44,"Adventure,Documentary,Reality-TV",7.5,27
+tt0446809,tt2201268,8,12,S8,Collision Course,Collision Course,2012,,43,"Adventure,Documentary,Reality-TV",7.1,28
+tt0446809,tt2223020,8,13,S8,Landlocked,Landlocked,2012,,44,"Adventure,Documentary,Reality-TV",7.4,25
+tt0446809,tt2236784,8,14,S8,Fearless Leaders,Fearless Leaders,2012,,44,"Adventure,Documentary,Reality-TV",7.5,27
+tt0446809,tt2249892,8,15,S8,Release the Beast,Release the Beast,2012,,44,"Adventure,Documentary,Reality-TV",7.2,24
+tt0446809,tt2278788,8,16,S8,"The Bitter, Bloody End","The Bitter, Bloody End",2012,,86,"Adventure,Documentary,Reality-TV",7.5,27
+tt0446809,tt2726646,9,1,S9,Mutiny on the Bering Sea,Mutiny on the Bering Sea,2013,,44,"Adventure,Documentary,Reality-TV",7.3,41
+tt0446809,tt2843702,9,2,S9,Dagger in the Back,Dagger in the Back,2013,,43,"Adventure,Documentary,Reality-TV",7.3,36
+tt0446809,tt2866754,9,3,S9,Blood in the Morning,Blood in the Morning,2013,,43,"Adventure,Documentary,Reality-TV",7.3,33
+tt0446809,tt2888236,9,4,S9,The Crooke & the Tangler,The Crooke & the Tangler,2013,,43,"Adventure,Documentary,Reality-TV",7.3,30
+tt0446809,tt2911044,9,5,S9,Judgement Day,Judgement Day,2013,,43,"Adventure,Documentary,Reality-TV",7.4,28
+tt0446809,tt2918730,9,6,S9,A Fist to the Face,A Fist to the Face,2013,,43,"Adventure,Documentary,Reality-TV",7.5,32
+tt0446809,tt2939666,9,7,S9,Goodbye Jake,Goodbye Jake,2013,,43,"Adventure,Documentary,Reality-TV",7.3,31
+tt0446809,tt2951138,9,8,S9,Kicking Off with a Bang,Kicking Off with a Bang,2013,,44,"Adventure,Documentary,Reality-TV",7.5,28
+tt0446809,tt2961064,9,9,S9,The Storm of the Season,The Storm of the Season,2013,,43,"Adventure,Documentary,Reality-TV",7.5,22
+tt0446809,tt2975866,9,10,S9,Sleeping with the Enemy,Sleeping with the Enemy,2013,,43,"Adventure,Documentary,Reality-TV",7.4,22
+tt0446809,tt2999560,9,11,S9,We're Not Gonna Take It,We're Not Gonna Take It,2013,,43,"Adventure,Documentary,Reality-TV",7.3,29
+tt0446809,tt3007626,9,12,S9,Listing Lovers,Listing Lovers,2013,,43,"Adventure,Documentary,Reality-TV",6.9,28
+tt0446809,tt3037814,9,13,S9,So You Wanna Be a Boat Owner...,So You Wanna Be a Boat Owner...,2013,,44,"Adventure,Documentary,Reality-TV",7.4,23
+tt0446809,tt3045722,9,14,S9,"Ship of Iron, Men of Steel","Ship of Iron, Men of Steel",2013,,43,"Adventure,Documentary,Reality-TV",7.4,25
+tt0446809,tt3067450,9,15,S9,Man Overboard,Man Overboard,2013,,43,"Adventure,Documentary,Reality-TV",7.7,24
+tt0446809,tt3074752,9,16,S9,The Final Battle,The Final Battle,2013,,86,"Adventure,Documentary,Reality-TV",7.3,27
+tt0446809,tt3606914,10,1,S10,Careful What You Wish For,Careful What You Wish For,2014,,86,"Adventure,Documentary,Reality-TV",8.0,41
+tt0446809,tt3689724,10,2,S10,Family Affair,Family Affair,2014,,43,"Adventure,Documentary,Reality-TV",7.9,37
+tt0446809,tt3700470,10,3,S10,Darwin's Law,Darwin's Law,2014,,43,"Adventure,Documentary,Reality-TV",7.9,32
+tt0446809,tt3715636,10,4,S10,Against the Law,Against the Law,2014,,44,"Adventure,Documentary,Reality-TV",7.9,30
+tt0446809,tt3731856,10,5,S10,On the Rocks,On the Rocks,2014,,43,"Adventure,Documentary,Reality-TV",7.8,31
+tt0446809,tt3754346,10,6,S10,Falling Down,Falling Down,2014,,44,"Adventure,Documentary,Reality-TV",7.9,29
+tt0446809,tt3763952,10,7,S10,Lost at Sea,Lost at Sea,2014,,44,"Adventure,Documentary,Reality-TV",7.8,26
+tt0446809,tt3776802,10,8,S10,Cornelia Marie Blue,Cornelia Marie Blue,2014,,43,"Adventure,Documentary,Reality-TV",7.6,29
+tt0446809,tt3796680,10,9,S10,Skipper Harris in Training,Skipper Harris in Training,2014,,43,"Adventure,Documentary,Reality-TV",7.8,26
+tt0446809,tt3810812,10,10,S10,Fisherman's Daughter,Fisherman's Daughter,2014,,43,"Adventure,Documentary,Reality-TV",7.6,28
+tt0446809,tt3829606,10,11,S10,Blonde Ambition,Blonde Ambition,2014,,44,"Adventure,Documentary,Reality-TV",7.8,29
+tt0446809,tt3856900,10,12,S10,Women Drivers,Women Drivers,2014,,43,"Adventure,Documentary,Reality-TV",8.0,25
+tt0446809,tt3865470,10,13,S10,Greatest Game Ever Fished,Greatest Game Ever Fished,2014,,43,"Adventure,Documentary,Reality-TV",7.9,25
+tt0446809,tt3877532,10,14,S10,Breaking Mandy,Breaking Mandy,2014,,43,"Adventure,Documentary,Reality-TV",8.1,25
+tt0446809,tt3890384,10,15,S10,Sabotage,Sabotage,2014,,43,"Adventure,Documentary,Reality-TV",8.1,24
+tt0446809,tt3904348,10,16,S10,You'll Know My Name Is the Lord...,You'll Know My Name Is the Lord...,2014,,86,"Adventure,Documentary,Reality-TV",8.0,28
+tt0446809,tt4511180,11,1,S11,A Brotherhood Tested,A Brotherhood Tested,2015,,85,"Adventure,Documentary,Reality-TV",8.2,37
+tt0446809,tt4625126,11,2,S11,Prodigal Son,Prodigal Son,2015,,42,"Adventure,Documentary,Reality-TV",8.2,28
+tt0446809,tt4627960,11,3,S11,The Ultimatum,The Ultimatum,2015,,43,"Adventure,Documentary,Reality-TV",7.8,24
+tt0446809,tt4651680,11,4,S11,Super Typhoon Part 1,Super Typhoon Part 1,2015,,42,"Adventure,Documentary,Reality-TV",8.2,29
+tt0446809,tt4665096,11,5,S11,Super Typhoon Part 2,Super Typhoon Part 2,2015,,42,"Adventure,Documentary,Reality-TV",7.8,28
+tt0446809,tt4682938,11,6,S11,Wasted Talent,Wasted Talent,2015,,42,"Adventure,Documentary,Reality-TV",8.0,30
+tt0446809,tt4718608,11,7,S11,Heavy Lies the Crown,Heavy Lies the Crown,2015,,43,"Adventure,Documentary,Reality-TV",8.0,26
+tt0446809,tt4730590,11,8,S11,Zero Hour,Zero Hour,2015,,42,"Adventure,Documentary,Reality-TV",8.2,25
+tt0446809,tt4770850,11,9,S11,Hells Bells,Hells Bells,2015,,42,"Adventure,Documentary,Reality-TV",8.2,28
+tt0446809,tt4781776,11,10,S11,Lunatic Fringe,Lunatic Fringe,2015,,41,"Adventure,Documentary,Reality-TV",8.3,29
+tt0446809,tt4799834,11,11,S11,New Captain on the Block,New Captain on the Block,2015,,42,"Adventure,Documentary,Reality-TV",8.0,28
+tt0446809,tt4820734,11,12,S11,5-Year Storm: Part 1,5-Year Storm: Part 1,2015,,43,"Adventure,Documentary,Reality-TV",8.5,31
+tt0446809,tt4846614,11,13,S11,5-Year Storm: Part 2,5-Year Storm: Part 2,2015,,43,"Adventure,Documentary,Reality-TV",8.2,26
+tt0446809,tt4900236,11,14,S11,Bite the Hand,Bite the Hand,2015,,43,"Adventure,Documentary,Reality-TV",8.1,24
+tt0446809,tt4916852,11,15,S11,"New Blood, Old Wounds","New Blood, Old Wounds",2015,,42,"Adventure,Documentary,Reality-TV",8.0,25
+tt0446809,tt4918202,11,16,S11,Beastmode,Beastmode,2015,,43,"Adventure,Documentary,Reality-TV",8.3,24
+tt0446809,tt4939316,11,17,S11,I'm the Captain,I'm the Captain,2015,,43,"Adventure,Documentary,Reality-TV",8.2,25
+tt0446809,tt4955680,11,18,S11,We Have Not Yet Begun to Fight,We Have Not Yet Begun to Fight,2015,,86,"Adventure,Documentary,Reality-TV",8.4,24
+tt0446809,tt5477220,12,1,S12,Carpe Diem,Carpe Diem,2016,,85,"Adventure,Documentary,Reality-TV",8.2,34
+tt0446809,tt5593216,12,2,S12,First Timers,First Timers,2016,,42,"Adventure,Documentary,Reality-TV",7.8,27
+tt0446809,tt5611154,12,3,S12,No Good Deed...,No Good Deed...,2016,,42,"Adventure,Documentary,Reality-TV",8.2,29
+tt0446809,tt5644450,12,4,S12,Swedish Twins,Swedish Twins,2016,,42,"Adventure,Documentary,Reality-TV",8.0,26
+tt0446809,tt5655706,12,5,S12,Million-Dollar-Bet,Million-Dollar-Bet,2016,,42,"Adventure,Documentary,Reality-TV",8.0,27
+tt0446809,tt5667878,12,6,S12,100% Injury Rate,100% Injury Rate,2016,,42,"Adventure,Documentary,Reality-TV",8.1,26
+tt0446809,tt5706952,12,7,S12,Cold War,Cold War,2016,,42,"Adventure,Documentary,Reality-TV",8.1,25
+tt0446809,tt5732382,12,8,S12,Winter Is Coming,Winter Is Coming,2016,,42,"Adventure,Documentary,Reality-TV",8.0,26
+tt0446809,tt5752136,12,9,S12,Into the Gale,Into the Gale,2016,,42,"Adventure,Documentary,Reality-TV",8.0,26
+tt0446809,tt5776984,12,10,S12,Proving Grounds,Proving Grounds,2016,,42,"Adventure,Documentary,Reality-TV",8.0,22
+tt0446809,tt5795526,12,11,S12,Raw Deal,Raw Deal,2016,,42,"Adventure,Documentary,Reality-TV",7.7,23
+tt0446809,tt5810168,12,12,S12,Settling the Score,Settling the Score,2016,,42,"Adventure,Documentary,Reality-TV",7.8,22
+tt0446809,tt5822458,12,13,S12,Fire at Sea: Part 1,Fire at Sea: Part 1,2016,,42,"Adventure,Documentary,Reality-TV",8.1,27
+tt0446809,tt5849342,12,14,S12,Fire at Sea: Part 2,Fire at Sea: Part 2,2016,,42,"Adventure,Documentary,Reality-TV",7.9,26
+tt0446809,tt5869874,12,15,S12,Blood and Guts,Blood and Guts,2016,,42,"Adventure,Documentary,Reality-TV",7.8,26
+tt0446809,tt5891286,12,16,S12,Life or Death Decision,Life or Death Decision,2016,,42,"Adventure,Documentary,Reality-TV",8.0,25
+tt0446809,tt5891292,12,17,S12,The Widowmaker: Part 1,The Widowmaker: Part 1,2016,,85,"Adventure,Documentary,Reality-TV",8.2,30
+tt0446809,tt5916926,12,18,S12,The Widowmaker: Part 2,The Widowmaker: Part 2,2016,,85,"Adventure,Documentary,Reality-TV",8.3,31
+tt0446809,tt6647836,13,1,S13,Uncharted Territory,Uncharted Territory,2017,,83,"Adventure,Documentary,Reality-TV",8.2,35
+tt0446809,tt6782426,13,2,S13,Seismic Shift,Seismic Shift,2017,,43,"Adventure,Documentary,Reality-TV",7.9,31
+tt0446809,tt6807456,13,3,S13,Down in Flames,Down in Flames,2017,,43,"Adventure,Documentary,Reality-TV",7.8,28
+tt0446809,tt6840284,13,4,S13,Crushing Blows,Crushing Blows,2017,,42,"Adventure,Documentary,Reality-TV",8.0,28
+tt0446809,tt6860558,13,5,S13,Bad Moon,Bad Moon,2017,,42,"Adventure,Documentary,Reality-TV",7.8,25
+tt0446809,tt6882264,13,6,S13,"Hail Mary, Full of Crab","Hail Mary, Full of Crab",2017,,42,"Adventure,Documentary,Reality-TV",8.0,27
+tt0446809,tt6909556,13,7,S13,Poisoned at Sea,Poisoned at Sea,2017,,41,"Adventure,Documentary,Reality-TV",7.8,27
+tt0446809,tt6938340,13,8,S13,FUBAR,FUBAR,2017,,41,"Adventure,Documentary,Reality-TV",7.9,25
+tt0446809,tt6970928,13,9,S13,The Russian Line,The Russian Line,2017,,41,"Adventure,Documentary,Reality-TV",8.0,28
+tt0446809,tt6987928,13,10,S13,Back to the Killing Season,Back to the Killing Season,2017,,41,"Adventure,Documentary,Reality-TV",7.5,26
+tt0446809,tt7023722,13,11,S13,Hurricane Alley,Hurricane Alley,2017,,41,"Adventure,Documentary,Reality-TV",7.5,25
+tt0446809,tt7044608,13,12,S13,Arctic Mega Storm,Arctic Mega Storm,2017,,41,"Adventure,Documentary,Reality-TV",7.9,25
+tt0446809,tt7080000,13,13,S13,Dead-Stick,Dead-Stick,2017,,41,"Adventure,Documentary,Reality-TV",7.9,26
+tt0446809,tt7147320,13,14,S13,450 Mile Storm,450 Mile Storm,2017,,41,"Adventure,Documentary,Reality-TV",8.1,21
+tt0446809,tt7171454,13,15,S13,Respect Earned,Respect Earned,2017,,41,"Adventure,Documentary,Reality-TV",8.3,21
+tt0446809,tt7212738,13,16,S13,Man Down,Man Down,2017,,41,"Adventure,Documentary,Reality-TV",8.8,27
+tt0446809,tt7249622,13,17,S13,Hillstrand's Last Catch,Hillstrand's Last Catch,2017,,41,"Adventure,Documentary,Reality-TV",8.3,24
+tt0446809,tt7249626,13,18,S13,Lost at Sea,Lost at Sea,2017,,41,"Adventure,Documentary,Reality-TV",8.4,28
+tt0446809,tt7304910,13,19,S13,Last Damn Arctic Storm,Last Damn Arctic Storm,2017,,41,"Adventure,Documentary,Reality-TV",8.1,24
+tt0446809,tt8108270,14,1,S14,Battle Lines,Battle Lines,2018,,87,"Adventure,Documentary,Reality-TV",8.2,40
+tt0446809,tt8266086,14,2,S14,First Blood,First Blood,2018,,41,"Adventure,Documentary,Reality-TV",8.0,30
+tt0446809,tt8318994,14,3,S14,Dead in the Water,Dead in the Water,2018,,43,"Adventure,Documentary,Reality-TV",8.0,31
+tt0446809,tt8351172,14,4,S14,Salt Wounds,Salt Wounds,2018,,43,"Adventure,Documentary,Reality-TV",7.9,28
+tt0446809,tt8351174,14,5,S14,Collision Void,Collision Void,2018,,41,"Adventure,Documentary,Reality-TV",7.9,29
+tt0446809,tt8369686,14,6,S14,Arctic Hurricane,Arctic Hurricane,2018,,41,"Adventure,Documentary,Reality-TV",8.0,25
+tt0446809,tt8452856,14,7,S14,Clash of Kings,Clash of Kings,2018,,41,"Adventure,Documentary,Reality-TV",7.8,26
+tt0446809,tt8452858,14,8,S14,Becoming Captain,Becoming Captain,2018,,41,"Adventure,Documentary,Reality-TV",8.0,24
+tt0446809,tt8484438,14,9,S14,Purgatory,Purgatory,2018,,41,"Adventure,Documentary,Reality-TV",7.7,24
+tt0446809,tt8527042,14,10,S14,Winter's Curse,Winter's Curse,2018,,41,"Adventure,Documentary,Reality-TV",7.6,25
+tt0446809,tt8527044,14,11,S14,Blackout,Blackout,2018,,43,"Adventure,Documentary,Reality-TV",7.7,24
+tt0446809,tt8574742,14,12,S14,Winter's Fury,Winter's Fury,2018,,83,"Adventure,Documentary,Reality-TV",7.8,24
+tt0446809,tt8638332,14,13,S14,Baptism by Fire,Baptism by Fire,2018,,41,"Adventure,Documentary,Reality-TV",7.8,22
+tt0446809,tt8719076,14,14,S14,Supermoon Storm,Supermoon Storm,2018,,41,"Adventure,Documentary,Reality-TV",8.3,22
+tt0446809,tt8773834,14,15,S14,Greenhorn Overboard,Greenhorn Overboard,2018,,43,"Adventure,Documentary,Reality-TV",8.6,25
+tt0446809,tt8773836,14,16,S14,Turf Wars,Turf Wars,2018,,41,"Adventure,Documentary,Reality-TV",7.9,20
+tt0446809,tt8844458,14,17,S14,No Safe Harbor,No Safe Harbor,2018,,41,"Adventure,Documentary,Reality-TV",7.8,19
+tt0446809,tt8875834,14,18,S14,Blood & Water,Blood & Water,2018,,44,"Adventure,Documentary,Reality-TV",7.5,18
+tt0446809,tt8885894,14,19,S14,Storm Surge,Storm Surge,2018,,43,"Adventure,Documentary,Reality-TV",7.8,14
+tt0446809,tt9893064,15,1,S15,Battle of Kings,Battle of Kings,2019,,83,"Adventure,Documentary,Reality-TV",7.5,28
+tt0446809,tt10135524,15,2,S15,Super Swarm,Super Swarm,2019,,83,"Adventure,Documentary,Reality-TV",7.3,26
+tt0446809,tt10224046,15,3,S15,Price of Punishment,Price of Punishment,2019,,45,"Adventure,Documentary,Reality-TV",7.5,23
+tt0446809,tt10255532,15,4,S15,Failure to Launch,Failure to Launch,2019,,43,"Adventure,Documentary,Reality-TV",7.8,23
+tt0446809,tt10284230,15,5,S15,Triple Jeopardy,Triple Jeopardy,2019,,,"Adventure,Documentary,Reality-TV",7.6,20
+tt0446809,tt10337264,15,6,S15,Blood in the Water,Blood in the Water,2019,,83,"Adventure,Documentary,Reality-TV",8.0,24
+tt0446809,tt10355480,15,7,S15,Winter is Here,Winter is Here,2019,,83,"Adventure,Documentary,Reality-TV",7.6,17
+tt0446809,tt10393452,15,8,S15,Tough Inheritance,Tough Inheritance,2019,,41,"Adventure,Documentary,Reality-TV",7.8,17
+tt0446809,tt10403948,15,9,S15,Russian Roulette,Russian Roulette,2019,,41,"Adventure,Documentary,Reality-TV",7.9,18
+tt0446809,tt10466944,15,10,S15,Curse of the Russian Line,Curse of the Russian Line,2019,,41,"Adventure,Documentary,Reality-TV",7.1,16
+tt0446809,tt10493836,15,11,S15,Hell Hath No Fury,Hell Hath No Fury,2019,,41,"Adventure,Documentary,Reality-TV",7.6,16
+tt0446809,tt10510394,15,12,S15,Sixty Foot Monster,Sixty Foot Monster,2019,,41,"Adventure,Documentary,Reality-TV",7.6,16
+tt0446809,tt10612930,15,13,S15,Crane Wreck,Crane Wreck,2019,,43,"Adventure,Documentary,Reality-TV",7.3,17
+tt0446809,tt10655146,15,14,S15,Devil's Cut,Devil's Cut,2019,,44,"Adventure,Documentary,Reality-TV",7.8,14
+tt0446809,tt10655154,15,15,S15,Unbreakable,Unbreakable,2019,,41,"Adventure,Documentary,Reality-TV",7.8,15
+tt0446809,tt10712852,15,16,S15,Hell or High Water,Hell or High Water,2019,,41,"Adventure,Documentary,Reality-TV",7.6,14
+tt0446809,tt10777900,15,17,S15,Unholy Alliance,Unholy Alliance,2019,,41,"Adventure,Documentary,Reality-TV",7.9,16
+tt0446809,tt10777902,15,18,S15,Dark Ship,Dark Ship,2019,,43,"Adventure,Documentary,Reality-TV",7.8,16
+tt0446809,tt10826088,15,19,S15,Time and Tide Wait for No Man,Time and Tide Wait for No Man,2019,,41,"Adventure,Documentary,Reality-TV",7.8,14
+tt0446809,tt10929670,15,20,S15,Dead or Alive,Dead or Alive,2019,,41,"Adventure,Documentary,Reality-TV",7.8,15
+tt0446809,tt10929672,15,21,S15,Now or Never,Now or Never,2019,,42,"Adventure,Documentary,Reality-TV",7.7,13
+tt0446809,tt12008252,16,1,S16,Cold War Rivals,Cold War Rivals,2020,,90,"Adventure,Documentary,Reality-TV",7.9,28
+tt0446809,tt12160932,16,2,S16,Typhoon Hagibis,Typhoon Hagibis,2020,,42,"Adventure,Documentary,Reality-TV",7.6,24
+tt0446809,tt12228436,16,3,S16,Breaking Point,Breaking Point,2020,,42,"Adventure,Documentary,Reality-TV",7.5,18
+tt0446809,tt12269486,16,4,S16,Shotguns and Fist Fights,Shotguns and Fist Fights,2020,,43,"Adventure,Documentary,Reality-TV",7.8,16
+tt0446809,tt12306010,16,5,S16,Double Agent,Double Agent,2020,,43,"Adventure,Documentary,Reality-TV",6.8,16
+tt0446809,tt12363004,16,6,S16,The Bleeding Edge,The Bleeding Edge,2020,,43,"Adventure,Documentary,Reality-TV",7.6,16
+tt0446809,tt12392870,16,7,S16,The Russian Front,The Russian Front,2020,,44,"Adventure,Documentary,Reality-TV",8.1,18
+tt0446809,tt12445800,16,8,S16,Mayday Mayday,Mayday Mayday,2020,,86,"Adventure,Documentary,Reality-TV",8.1,17
+tt0446809,tt12484494,16,9,S16,Cold War Heating Up,Cold War Heating Up,2020,,42,"Adventure,Documentary,Reality-TV",7.7,18
+tt0446809,tt12531136,16,10,S16,Harm's Way,Harm's Way,2020,,44,"Adventure,Documentary,Reality-TV",7.6,16
+tt0446809,tt12552306,16,11,S16,Chase Boat Rescue,Chase Boat Rescue,2020,,45,"Adventure,Documentary,Reality-TV",8.2,17
+tt0446809,tt12592610,16,12,S16,Dutch Harbor Double Cross,Dutch Harbor Double Cross,2020,,45,"Adventure,Documentary,Reality-TV",7.7,16
+tt0446809,tt12680876,16,13,S16,Bomb Cyclone,Bomb Cyclone,2020,,43,"Adventure,Documentary,Reality-TV",7.7,17
+tt0446809,tt12682690,16,14,S16,Bering Sea Crash,Bering Sea Crash,2020,,44,"Adventure,Documentary,Reality-TV",7.8,18
+tt0446809,tt12729690,16,15,S16,Gut Instinct,Gut Instinct,2020,,,"Adventure,Documentary,Reality-TV",7.5,15
+tt0446809,tt12729692,16,16,S16,Bering Sea Wrecking Ball,Bering Sea Wrecking Ball,2020,,41,"Adventure,Documentary,Reality-TV",7.8,15
+tt0446809,tt12831670,16,17,S16,Danger Close,Danger Close,2020,,41,"Adventure,Documentary,Reality-TV",7.2,16
+tt0446809,tt12907300,16,18,S16,Like Father Like Daughter,Like Father Like Daughter,2020,,42,"Adventure,Documentary,Reality-TV",7.2,15
+tt0446809,tt12907308,16,19,S16,Rogue Wave Juggernaut,Rogue Wave Juggernaut,2020,,42,"Adventure,Documentary,Reality-TV",7.6,16
+tt0446809,tt13010236,16,20,S16,A Problem Like Maria,A Problem Like Maria,2020,,44,"Adventure,Documentary,Reality-TV",7.6,20
+tt0446809,tt13010238,16,21,S16,End of the Beginning,End of the Beginning,2020,,41,"Adventure,Documentary,Reality-TV",7.5,15
+tt0446809,tt13074572,16,22,S16,Blood Is Thicker Than Water,Blood Is Thicker Than Water,2020,,41,"Adventure,Documentary,Reality-TV",7.1,17
+tt0446809,tt13074574,16,23,S16,Everything Changes,Everything Changes,2020,,87,"Adventure,Documentary,Reality-TV",7.6,19
+tt0446809,tt14215782,17,1,S17,Out of the Ashes,Out of the Ashes,2021,,85,"Adventure,Documentary,Reality-TV",7.5,36
+tt0446809,tt14495246,17,2,S17,Russian Dragger,Russian Dragger,2021,,44,"Adventure,Documentary,Reality-TV",7.5,25
+tt0446809,tt14584832,17,3,S17,Point of No Return,Point of No Return,2021,,45,"Adventure,Documentary,Reality-TV",7.6,22
+tt0446809,tt14584858,17,4,S17,Time Machine,Time Machine,2021,,45,"Adventure,Documentary,Reality-TV",7.8,25
+tt0446809,tt14630362,17,5,S17,Force Majeure,Force Majeure,2021,,45,"Adventure,Documentary,Reality-TV",7.2,22
+tt0446809,tt14675922,17,6,S17,Restricted Zone,Restricted Zone,2021,,45,"Adventure,Documentary,Reality-TV",7.6,20
+tt0446809,tt14721768,17,7,S17,What Would Phil Harris Do?,What Would Phil Harris Do?,2021,,45,"Adventure,Documentary,Reality-TV",7.8,21
+tt0446809,tt14832970,17,8,S17,Tangled Web,Tangled Web,2021,,45,"Adventure,Documentary,Reality-TV",7.7,20
+tt0446809,tt14858012,17,9,S17,Dedication,Dedication,2021,,90,"Adventure,Documentary,Reality-TV",8.6,32
+tt0446809,tt14913856,17,10,S17,Truth Will Set You Free,Truth Will Set You Free,2021,,45,"Adventure,Documentary,Reality-TV",8.2,23
+tt0446809,tt14913888,17,11,S17,Shipbreakers,Shipbreakers,2021,,45,"Adventure,Documentary,Reality-TV",8.0,22
+tt0446809,tt15034860,17,12,S17,Extreme Arctic,Extreme Arctic,2021,,45,"Adventure,Documentary,Reality-TV",7.8,22
+tt0446809,tt15066714,17,13,S17,Of Ice and Men,Of Ice and Men,2021,,45,"Adventure,Documentary,Reality-TV",7.9,20
+tt0446809,tt15126044,17,14,S17,The Crush,The Crush,2021,,45,"Adventure,Documentary,Reality-TV",7.9,21
+tt0446809,tt15126034,17,15,S17,Run Silent Run Deep,Run Silent Run Deep,2021,,45,"Adventure,Documentary,Reality-TV",8.0,22
+tt0446809,tt15243222,17,16,S17,First Come First Served,First Come First Served,2021,,45,"Adventure,Documentary,Reality-TV",7.7,22
+tt0446809,tt15244288,17,17,S17,Quid Pro Crab,Quid Pro Crab,2021,,45,"Adventure,Documentary,Reality-TV",6.9,21
+tt0446809,tt15251118,17,18,S17,Winter's Gambit,Winter's Gambit,2021,,45,"Adventure,Documentary,Reality-TV",7.9,20
+tt0446809,tt15337968,17,19,S17,Wicked Game,Wicked Game,2021,,45,"Adventure,Documentary,Reality-TV",7.6,17
+tt0446809,tt15337992,17,20,S17,Over the Rail,Over the Rail,2021,,45,"Adventure,Documentary,Reality-TV",7.5,19
+tt0446809,tt15415662,17,21,S17,First in Line,First in Line,2021,,45,"Adventure,Documentary,Reality-TV",7.5,20
+tt0446809,tt15415666,17,22,S17,The Ultimate Price,The Ultimate Price,2021,,90,"Adventure,Documentary,Reality-TV",8.1,23
+tt0446809,tt19754476,18,0,S18,The King is Dead ...,The King is Dead ...,2022,,,"Adventure,Documentary,Reality-TV",7.6,24
+tt0446809,tt18987366,18,1,S18,Long Live the Kings!,Long Live the Kings!,2022,,87,"Adventure,Documentary,Reality-TV",7.9,25
+tt0446809,tt19864198,18,2,S18,Crushed at Sea,Crushed at Sea,2022,,45,"Adventure,Documentary,Reality-TV",7.9,25
+tt0446809,tt19893098,18,3,S18,Five Souls on Board,Five Souls on Board,2022,,45,"Adventure,Documentary,Reality-TV",8.2,24
+tt0446809,tt20236644,18,4,S18,The Hunt for Russian Reds,The Hunt for Russian Reds,2022,,45,"Adventure,Documentary,Reality-TV",7.9,21
+tt0446809,tt20412848,18,5,S18,Depth Charge,Depth Charge,2022,,45,"Adventure,Documentary,Reality-TV",7.7,19
+tt0446809,tt20518284,18,6,S18,Sons of Legacy,Sons of Legacy,2022,,45,"Adventure,Documentary,Reality-TV",7.8,18
+tt0446809,tt20865138,18,7,S18,"Pot of Gold, Heart of Steel","Pot of Gold, Heart of Steel",2022,,45,"Adventure,Documentary,Reality-TV",7.7,17
+tt0446809,tt21030128,18,8,S18,Deepest Alaska,Deepest Alaska,2022,,45,"Adventure,Documentary,Reality-TV",7.6,17
+tt0446809,tt21053770,18,9,S18,Fathers or Fishermen,Fathers or Fishermen,2022,,45,"Adventure,Documentary,Reality-TV",7.6,16
+tt0446809,tt21146628,18,10,S18,Who Let the Cod Out?,Who Let the Cod Out?,2022,,45,"Adventure,Documentary,Reality-TV",7.9,16
+tt0446809,tt21215964,18,11,S18,No Good Deed Unpunished,No Good Deed Unpunished,2022,,45,"Adventure,Documentary,Reality-TV",7.9,17
+tt0446809,tt21227318,18,12,S18,Sailor's Delight,Sailor's Delight,2022,,45,"Adventure,Documentary,Reality-TV",8.0,19
+tt0446809,tt21294424,18,13,S18,To the End of the Earth,To the End of the Earth,2022,,90,"Adventure,Documentary,Reality-TV",8.3,19
+tt0446809,tt21344462,18,14,S18,Where Eagles Dare,Where Eagles Dare,2022,,45,"Adventure,Documentary,Reality-TV",7.9,16
+tt0446809,tt21599190,18,15,S18,The Crush of Winter,The Crush of Winter,2022,,45,"Adventure,Documentary,Reality-TV",7.9,15
+tt0446809,tt21625078,18,16,S18,No Turning Back,No Turning Back,2022,,45,"Adventure,Documentary,Reality-TV",7.8,13
+tt0446809,tt21861796,18,17,S18,Operation Anvil Drop,Operation Anvil Drop,2022,,45,"Adventure,Documentary,Reality-TV",7.4,15
+tt0446809,tt21879424,18,18,S18,Hell on the High Seas,Hell on the High Seas,2022,,45,"Adventure,Documentary,Reality-TV",7.7,14
+tt0446809,tt21943444,18,19,S18,Avian Apocalypse,Avian Apocalypse,2022,,45,"Adventure,Documentary,Reality-TV",7.7,15
+tt0446809,tt22005034,18,20,S18,Frozen,Frozen,2022,,45,"Adventure,Documentary,Reality-TV",7.9,13
+tt0446809,tt22061164,18,21,S18,Graveyard of Gear,Graveyard of Gear,2022,,45,"Adventure,Documentary,Reality-TV",8.0,13
+tt0446809,tt22181666,18,22,S18,Sub-Zero Scramble,Sub-Zero Scramble,2022,,45,"Adventure,Documentary,Reality-TV",7.8,13
+tt0446809,tt22335556,18,23,S18,Port of Last Resort,Port of Last Resort,2022,,45,"Adventure,Documentary,Reality-TV",7.3,14
+tt0446809,tt27497341,19,0,S19,"New Blood, Primal Fears","New Blood, Primal Fears",2023,,90,"Adventure,Documentary,Reality-TV",7.1,28
+tt0446809,tt27230843,19,1,S19,Call of a New Generation,Call of a New Generation,2023,,90,"Adventure,Documentary,Reality-TV",7.9,38
+tt0446809,tt27608441,19,2,S19,Wheelhouse Bound,Wheelhouse Bound,2023,,44,"Adventure,Documentary,Reality-TV",7.1,26
+tt0446809,tt27668469,19,3,S19,Amazing Grace,Amazing Grace,2023,,45,"Adventure,Documentary,Reality-TV",7.2,24
+tt0446809,tt27668472,19,4,S19,Bering Sea Superstition,Bering Sea Superstition,2023,,45,"Adventure,Documentary,Reality-TV",7.1,28
+tt0446809,tt27668474,19,5,S19,In Need of Rescue,In Need of Rescue,2023,,45,"Adventure,Documentary,Reality-TV",7.5,26
+tt0446809,tt27845207,19,6,S19,Blood and Treasure,Blood and Treasure,2023,,45,"Adventure,Documentary,Reality-TV",6.8,21
+tt0446809,tt27911099,19,7,S19,Cold Hard World,Cold Hard World,2023,,45,"Adventure,Documentary,Reality-TV",7.3,20
+tt0446809,tt27991848,19,8,S19,Anchor Management,Anchor Management,2023,,45,"Adventure,Documentary,Reality-TV",7.4,18
+tt0446809,tt28077985,19,9,S19,Million Dollar Season,Million Dollar Season,2023,,45,"Adventure,Documentary,Reality-TV",7.4,18
+tt0446809,tt28145851,19,10,S19,Between Payday and Mayday,Between Payday and Mayday,2023,,45,"Adventure,Documentary,Reality-TV",7.1,21
+tt0446809,tt28238579,19,11,S19,Loose Lips Sink Ships,Loose Lips Sink Ships,2023,,87,"Adventure,Documentary,Reality-TV",7.6,19
+tt0446809,tt28356941,19,12,S19,Tradition of Superstition,Tradition of Superstition,2023,,45,"Adventure,Documentary,Reality-TV",7.8,17
+tt0446809,tt28442293,19,13,S19,Victory at Sea,Victory at Sea,2023,,45,"Adventure,Documentary,Reality-TV",7.9,19
+tt0446809,tt28561452,19,14,S19,The Better Captain,The Better Captain,2023,,45,"Adventure,Documentary,Reality-TV",7.7,17
+tt0446809,tt28621166,19,15,S19,Uncharted Grounds,Uncharted Grounds,2023,,45,"Adventure,Documentary,Reality-TV",7.8,18
+tt0446809,tt28666285,19,16,S19,Pain Level Ten,Pain Level Ten,2023,,45,"Adventure,Documentary,Reality-TV",7.8,17
+tt0446809,tt28743735,19,17,S19,Dead Reckoning,Dead Reckoning,2023,,45,"Adventure,Documentary,Reality-TV",7.6,16
+tt0446809,tt28800160,19,18,S19,Disorder on the Border,Disorder on the Border,2023,,45,"Adventure,Documentary,Reality-TV",7.8,19
+tt0446809,tt28979335,19,19,S19,Beware the King Tide,Beware the King Tide,2023,,45,"Adventure,Documentary,Reality-TV",7.7,17
+tt0446809,tt29106812,19,20,S19,Battleship,Battleship,2023,,45,"Adventure,Documentary,Reality-TV",7.7,16
+tt0446809,tt29253904,19,21,S19,Last Stand of John Hillstrand,Last Stand of John Hillstrand,2023,,45,"Adventure,Documentary,Reality-TV",7.6,18
+tt0446809,tt29312931,19,22,S19,Nautical Deathtrap,Nautical Deathtrap,2023,,90,"Adventure,Documentary,Reality-TV",7.9,19
+tt0446809,tt32311390,20,1,S20,King Crab Derby,King Crab Derby,2024,,90,"Adventure,Documentary,Reality-TV",7.6,40
+tt0446809,tt32615491,20,2,S20,Bering Sea Gut Check,Bering Sea Gut Check,2024,,45,"Adventure,Documentary,Reality-TV",7.6,26
+tt0446809,tt32615495,20,3,S20,A Titan Among Men,A Titan Among Men,2024,,45,"Adventure,Documentary,Reality-TV",7.7,23
+tt0446809,tt32828723,20,4,S20,Lights Out!,Lights Out!,2024,,45,"Adventure,Documentary,Reality-TV",7.5,26
+tt0446809,tt32986680,20,5,S20,"Twice Bitten, Twice Shy","Twice Bitten, Twice Shy",2024,,45,"Adventure,Documentary,Reality-TV",7.2,21
+tt0446809,tt33037918,20,6,S20,The Purpose of Porpoises,The Purpose of Porpoises,2024,,45,"Adventure,Documentary,Reality-TV",7.5,23
+tt0446809,tt33053959,20,7,S20,Forged in Fury,Forged in Fury,2024,,45,"Adventure,Documentary,Reality-TV",7.5,20
+tt0446809,tt33079124,20,8,S20,Seaborne Sacrifice,Seaborne Sacrifice,2024,,45,"Adventure,Documentary,Reality-TV",7.5,20
+tt0446809,tt33097811,20,9,S20,A Wrinkle in Time,A Wrinkle in Time,2024,,45,"Adventure,Documentary,Reality-TV",7.7,23
+tt0446809,tt33202229,20,10,S20,Under the Gun,Under the Gun,2024,,45,"Adventure,Documentary,Reality-TV",7.2,20
+tt0446809,tt33256741,20,11,S20,Blow the Man Down,Blow the Man Down,2024,,45,"Adventure,Documentary,Reality-TV",7.2,21
+tt0446809,tt33335491,20,12,S20,Raw Winter,Raw Winter,2024,,90,"Adventure,Documentary,Reality-TV",7.2,18
+tt0446809,tt33343535,20,13,S20,Merciless Seas,Merciless Seas,2024,,45,"Adventure,Documentary,Reality-TV",6.7,20
+tt0446809,tt33371919,20,14,S20,Anchors Away,Anchors Away,2024,,45,"Adventure,Documentary,Reality-TV",7.1,18
+tt0446809,tt33461139,20,15,S20,A Bridge Too Far,A Bridge Too Far,2024,,45,"Adventure,Documentary,Reality-TV",7.2,17
+tt0446809,tt33461141,20,16,S20,My Brother's Keeper,My Brother's Keeper,2024,,45,"Adventure,Documentary,Reality-TV",8.7,27
+tt0446809,tt33795512,20,17,S20,Out Cold,Out Cold,2024,,,"Adventure,Documentary,Reality-TV",7.3,18
+tt0446809,tt34070596,20,18,S20,Graveyard for the Lost,Graveyard for the Lost,2024,,45,"Adventure,Documentary,Reality-TV",7.0,21
+tt0446809,tt34070598,20,19,S20,Nothin' but Mammals,Nothin' but Mammals,2024,,,"Adventure,Documentary,Reality-TV",7.6,19
+tt0446809,tt37427574,21,1,S21,The Wild West,The Wild West,2025,,95,"Adventure,Documentary,Reality-TV",7.4,39
+tt0446809,tt37855515,21,2,S21,Abandon All but Hope,Abandon All but Hope,2025,,45,"Adventure,Documentary,Reality-TV",8.3,25
+tt0446809,tt37930319,21,3,S21,Typhoon Sea State,Typhoon Sea State,2025,,45,"Adventure,Documentary,Reality-TV",7.3,23
+tt0446809,tt38004583,21,4,S21,Mutiny on the Confidence,Mutiny on the Confidence,2025,,45,"Adventure,Documentary,Reality-TV",7.3,21
+tt0446809,tt38076810,21,5,S21,The Ship's Bell Tolls,The Ship's Bell Tolls,2025,,45,"Adventure,Documentary,Reality-TV",7.8,21
+tt0446809,tt38090096,21,6,S21,Boarded on the Time Bandit,Boarded on the Time Bandit,2025,,45,"Adventure,Documentary,Reality-TV",7.6,19
+tt0446809,tt38275236,21,7,S21,"You're Fired, Mate!","You're Fired, Mate!",2025,,45,"Adventure,Documentary,Reality-TV",7.4,20
+tt0446809,tt38283601,21,8,S21,Bering Sea Casino,Bering Sea Casino,2025,,45,"Adventure,Documentary,Reality-TV",7.3,21
+tt0446809,tt38283914,21,9,S21,Dire Straits,Dire Straits,2025,,44,"Adventure,Documentary,Reality-TV",7.5,18
+tt0446809,tt38428557,21,10,S21,Rage Bait,Rage Bait,2025,,44,"Adventure,Documentary,Reality-TV",7.0,17
+tt0446809,tt38650520,21,11,S21,"Fail Fast, Fail Often","Fail Fast, Fail Often",2025,,44,"Adventure,Documentary,Reality-TV",7.4,18
+tt0446809,tt38716011,21,12,S21,Kidney Punch,Kidney Punch,2025,,44,"Adventure,Documentary,Reality-TV",7.5,15
+tt0446809,tt38778349,21,13,S21,Ice Peril,Ice Peril,2025,,,"Adventure,Documentary,Reality-TV",7.5,15
+tt0446809,tt38778353,21,14,S21,Bring Out the Monster,Bring Out the Monster,2025,,,"Adventure,Documentary,Reality-TV",7.2,12
+tt0446809,tt39026425,21,15,S21,Beyond the Breaking Point,Beyond the Breaking Point,2025,,,"Adventure,Documentary,Reality-TV",,
+tt0446809,tt39026424,21,16,S21,Million-Dollar Bounties,Million-Dollar Bounties,2025,,,"Adventure,Documentary,Reality-TV",,
+tt0446809,tt1061094,,,,Deadliest Catch Captains & Their Families,Deadliest Catch Captains & Their Families,,,,"Adventure,Documentary,Reality-TV",,
+tt0446809,tt10612928,,,,The Mystery of F/V Destination,The Mystery of F/V Destination,2019,,41,"Adventure,Documentary,Reality-TV",8.1,17
+tt0446809,tt12592526,,,,Casey and the New Cornelia Marie,Casey and the New Cornelia Marie,2020,,41,"Adventure,Documentary,Reality-TV",7.4,9
+tt0446809,tt1473216,,,,Roughest and Toughest Moments,Roughest and Toughest Moments,2009,,,"Adventure,Documentary,Reality-TV",8.3,24
+tt0446809,tt32568158,,,,The Twenty-Season Toll,The Twenty-Season Toll,2024,,65,"Adventure,Documentary,Reality-TV",8.6,9
+tt0446809,tt5441338,,,,Best of Season 1,Best of Season 1,2006,,,"Adventure,Documentary,Reality-TV",7.2,11
+tt0446809,tt8484326,,,,The Last Tour of the USCG Sherman,The Last Tour of the USCG Sherman,2018,,5,"Adventure,Documentary,Reality-TV",7.1,9
+tt0446809,tt9066900,,,,Bearing Sea Triangle,Bearing Sea Triangle,2018,,43,"Adventure,Documentary,Reality-TV",7.4,13

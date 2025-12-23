@@ -1,0 +1,120 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0118303,tt0559074,1,1,S1,Pilot,Pilot,1997,,30,"Comedy,Romance",8.0,325
+tt0118303,tt0559013,1,2,S1,And the In-Laws Meet,And the In-Laws Meet,1997,,30,"Comedy,Romance",7.8,236
+tt0118303,tt0559086,1,3,S1,Shower the People You Love with Love,Shower the People You Love with Love,1997,,30,"Comedy,Romance",7.7,217
+tt0118303,tt0559012,1,4,S1,And Then There's the Wedding,And Then There's the Wedding,1997,,30,"Comedy,Romance",7.7,202
+tt0118303,tt0559096,1,5,S1,The Ex-Files,The Ex-Files,1997,,30,"Comedy,Romance",7.5,192
+tt0118303,tt0559124,1,6,S1,Yoga and Boo Boo,Yoga and Boo Boo,1997,,30,"Comedy,Romance",7.4,189
+tt0118303,tt0559049,1,7,S1,Indian Summer,Indian Summer,1997,,30,"Comedy,Romance",7.5,190
+tt0118303,tt0559068,1,8,S1,Mr. Montgomery Goes to Washington,Mr. Montgomery Goes to Washington,1997,,30,"Comedy,Romance",7.7,181
+tt0118303,tt0559042,1,9,S1,"He Ain't Heavy, He's My Father","He Ain't Heavy, He's My Father",1997,,30,"Comedy,Romance",7.8,177
+tt0118303,tt0559097,1,10,S1,The First Thanksgiving,The First Thanksgiving,1997,,30,"Comedy,Romance",7.9,183
+tt0118303,tt0559050,1,11,S1,Instant Dharma,Instant Dharma,1997,,30,"Comedy,Romance",7.1,190
+tt0118303,tt0559041,1,12,S1,Haus Arrest,Haus Arrest,1997,,30,"Comedy,Romance",7.4,182
+tt0118303,tt0559030,1,13,S1,Do You Want Fries with That?,Do You Want Fries with That?,1998,,30,"Comedy,Romance",7.7,168
+tt0118303,tt0559071,1,14,S1,Old Yeller,Old Yeller,1998,,30,"Comedy,Romance",7.3,169
+tt0118303,tt0559104,1,15,S1,The Second Coming of Leonard,The Second Coming of Leonard,1998,,30,"Comedy,Romance",7.4,171
+tt0118303,tt0559026,1,16,S1,Dharma and Greg's First Romantic Valentine's Day Weekend,Dharma and Greg's First Romantic Valentine's Day Weekend,1998,,30,"Comedy,Romance",7.6,175
+tt0118303,tt0559101,1,17,S1,The Official Dharma & Greg Episode of the 1998 Winter Olympics,The Official Dharma & Greg Episode of the 1998 Winter Olympics,1998,,30,"Comedy,Romance",7.8,175
+tt0118303,tt0559021,1,18,S1,Daughter of the Bride of Finkelstein,Daughter of the Bride of Finkelstein,1998,,30,"Comedy,Romance",7.6,159
+tt0118303,tt0559029,1,19,S1,Dharma's Tangled Web,Dharma's Tangled Web,1998,,30,"Comedy,Romance",7.5,170
+tt0118303,tt0559093,1,20,S1,The Cat's Out of the Bag,The Cat's Out of the Bag,1998,,30,"Comedy,Romance",7.5,171
+tt0118303,tt0559088,1,21,S1,"Spring Forward, Fall Down","Spring Forward, Fall Down",1998,,30,"Comedy,Romance",7.6,157
+tt0118303,tt0559069,1,22,S1,Much Ado During Nothing,Much Ado During Nothing,1998,,30,"Comedy,Romance",8.0,166
+tt0118303,tt0559052,1,23,S1,Invasion of the Buddy Snatcher,Invasion of the Buddy Snatcher,1998,,30,"Comedy,Romance",7.7,169
+tt0118303,tt0559080,2,1,S2,Ringing Up Baby,Ringing Up Baby,1998,,30,"Comedy,Romance",7.7,148
+tt0118303,tt0559054,2,2,S2,It Takes a Village,It Takes a Village,1998,,30,"Comedy,Romance",7.4,154
+tt0118303,tt0559114,2,3,S2,"Turn, Turn, Turn","Turn, Turn, Turn",1998,,30,"Comedy,Romance",7.6,146
+tt0118303,tt0559102,2,4,S2,The Paper Hat Anniversary,The Paper Hat Anniversary,1998,,30,"Comedy,Romance",7.8,142
+tt0118303,tt0559115,2,5,S2,Unarmed and Dangerous,Unarmed and Dangerous,1998,,30,"Comedy,Romance",7.3,144
+tt0118303,tt0559008,2,6,S2,A Closet Full of Hell,A Closet Full of Hell,1998,,30,"Comedy,Romance",8.1,182
+tt0118303,tt0559117,2,7,S2,Valet Girl,Valet Girl,1998,,30,"Comedy,Romance",7.5,148
+tt0118303,tt0559061,2,8,S2,"Like, Dharma's Totally Got a Date","Like, Dharma's Totally Got a Date",1998,,30,"Comedy,Romance",7.8,154
+tt0118303,tt0559019,2,9,S2,Brought to You in Dharmavision,Brought to You in Dharmavision,1998,,30,"Comedy,Romance",7.3,152
+tt0118303,tt0559123,2,10,S2,"Yes, We Have No Bananas (or Anything Else for That Matter)","Yes, We Have No Bananas (or Anything Else for That Matter)",1998,,30,"Comedy,Romance",7.5,152
+tt0118303,tt0559098,2,11,S2,The House That Dharma Built,The House That Dharma Built,1998,,30,"Comedy,Romance",7.7,148
+tt0118303,tt0559014,2,12,S2,Are You Ready for Some Football?,Are You Ready for Some Football?,1998,,30,"Comedy,Romance",7.5,149
+tt0118303,tt0559022,2,13,S2,Death & Violins,Death & Violins,1999,,30,"Comedy,Romance",7.6,155
+tt0118303,tt0559023,2,14,S2,Dharma & Greg on a Hot Tin Roof,Dharma & Greg on a Hot Tin Roof,1999,,30,"Comedy,Romance",7.6,154
+tt0118303,tt0559027,2,15,S2,Dharma and the Horse She Rode in On,Dharma and the Horse She Rode in On,1999,,30,"Comedy,Romance",7.6,146
+tt0118303,tt0559082,2,16,S2,See Dharma Run,See Dharma Run,1999,,30,"Comedy,Romance",7.4,141
+tt0118303,tt0559081,2,17,S2,"Run, Dharma, Run","Run, Dharma, Run",1999,,30,"Comedy,Romance",7.4,136
+tt0118303,tt0559083,2,18,S2,See Dharma Run Amok,See Dharma Run Amok,1999,,,"Comedy,Romance",7.4,141
+tt0118303,tt0559037,2,19,S2,Everybody Must Get Stones,Everybody Must Get Stones,1999,,30,"Comedy,Romance",7.4,134
+tt0118303,tt0559025,2,20,S2,Dharma Drags Edward Out of Retirement,Dharma Drags Edward Out of Retirement,1999,,30,"Comedy,Romance",8.0,147
+tt0118303,tt0559053,2,21,S2,It Never Happened One Night,It Never Happened One Night,1999,,30,"Comedy,Romance",7.5,137
+tt0118303,tt0559010,2,22,S2,"Bed, Bath and Beyond","Bed, Bath and Beyond",1999,,30,"Comedy,Romance",7.6,141
+tt0118303,tt0559016,2,23,S2,"A Girl Can Dream, Can't She?","A Girl Can Dream, Can't She?",1999,,30,"Comedy,Romance",7.4,135
+tt0118303,tt0972632,2,24,S2,The Dating Game,The Dating Game,1999,,30,"Comedy,Romance",7.4,136
+tt0118303,tt0559072,3,1,S3,One Flew Over the Lawyer's Desk,One Flew Over the Lawyer's Desk,1999,,30,"Comedy,Romance",6.8,128
+tt0118303,tt0559119,3,2,S3,Welcome to the Hotel Calamari,Welcome to the Hotel Calamari,1999,,30,"Comedy,Romance",7.2,133
+tt0118303,tt0559028,3,3,S3,Dharma's Inferno,Dharma's Inferno,1999,,30,"Comedy,Romance",7.3,131
+tt0118303,tt0559075,3,4,S3,Play Lady Play,Play Lady Play,1999,,30,"Comedy,Romance",7.6,145
+tt0118303,tt0559047,3,5,S3,"I Did It for You, Kitty","I Did It for You, Kitty",1999,,30,"Comedy,Romance",7.2,132
+tt0118303,tt0559109,3,6,S3,The Very Grateful Dead,The Very Grateful Dead,1999,,30,"Comedy,Romance",7.3,135
+tt0118303,tt0559038,3,7,S3,Fairway to Heaven,Fairway to Heaven,1999,,30,"Comedy,Romance",7.5,125
+tt0118303,tt0559111,3,8,S3,Tie-Dying the Knot,Tie-Dying the Knot,1999,,30,"Comedy,Romance",7.3,129
+tt0118303,tt0559058,3,9,S3,Law & Disorder,Law & Disorder,1999,,30,"Comedy,Romance",7.3,124
+tt0118303,tt0559090,3,10,S3,Thanksgiving Until It Hurts,Thanksgiving Until It Hurts,1999,,30,"Comedy,Romance",7.8,139
+tt0118303,tt0559059,3,11,S3,"Lawyers, Beer and Money","Lawyers, Beer and Money",1999,,30,"Comedy,Romance",7.5,129
+tt0118303,tt0559062,3,12,S3,Looking for the Goodbars,Looking for the Goodbars,1999,,30,"Comedy,Romance",7.6,126
+tt0118303,tt0559033,3,13,S3,Drop Dead Gorgeous,Drop Dead Gorgeous,2000,,30,"Comedy,Romance",7.9,138
+tt0118303,tt0559040,3,14,S3,"Good Cop, Bad Daughter","Good Cop, Bad Daughter",2000,,30,"Comedy,Romance",7.5,130
+tt0118303,tt0559108,3,15,S3,The Trouble with Troubador,The Trouble with Troubador,2000,,,"Comedy,Romance",7.3,129
+tt0118303,tt0559118,3,16,S3,Weekend at Larry's,Weekend at Larry's,2000,,30,"Comedy,Romance",7.8,127
+tt0118303,tt0559105,3,17,S3,The Spy Who Said He Loved Me,The Spy Who Said He Loved Me,2000,,30,"Comedy,Romance",7.6,125
+tt0118303,tt0559011,3,18,S3,A Night to Remember,A Night to Remember,2000,,30,"Comedy,Romance",7.4,126
+tt0118303,tt0559091,3,19,S3,The Best Laid Plans,The Best Laid Plans,2000,,30,"Comedy,Romance",7.8,125
+tt0118303,tt0559089,3,20,S3,Talkin' About My Regeneration,Talkin' About My Regeneration,2000,,30,"Comedy,Romance",7.4,123
+tt0118303,tt0559017,3,21,S3,Big Daddy,Big Daddy,2000,,30,"Comedy,Romance",7.4,120
+tt0118303,tt0559125,3,22,S3,Your Place or Mine,Your Place or Mine,2000,,30,"Comedy,Romance",7.4,123
+tt0118303,tt0559044,3,23,S3,Hell to the Chief,Hell to the Chief,2000,,30,"Comedy,Romance",7.0,117
+tt0118303,tt0559015,3,24,S3,Be My Baby,Be My Baby,2000,,30,"Comedy,Romance",7.5,116
+tt0118303,tt0559067,4,1,S4,Mother and Daughter Reunion,Mother and Daughter Reunion,2000,,30,"Comedy,Romance",7.2,120
+tt0118303,tt0559063,4,2,S4,"Love, Honor & Olé!","Love, Honor & Olé!",2000,,30,"Comedy,Romance",7.3,116
+tt0118303,tt0559076,4,3,S4,Playing the Field,Playing the Field,2000,,30,"Comedy,Romance",7.1,110
+tt0118303,tt0559043,4,4,S4,"Hell No, Greg Can't Go","Hell No, Greg Can't Go",2000,,30,"Comedy,Romance",6.8,114
+tt0118303,tt0559065,4,5,S4,Midwife Crisis,Midwife Crisis,2000,,30,"Comedy,Romance",7.1,112
+tt0118303,tt0559087,4,6,S4,Sleepless in San Francisco,Sleepless in San Francisco,2000,,30,"Comedy,Romance",7.3,111
+tt0118303,tt0559064,4,7,S4,Mad Secretaries and Englishmen,Mad Secretaries and Englishmen,2000,,30,"Comedy,Romance",6.7,109
+tt0118303,tt0559020,4,8,S4,Charma Loves Greb,Charma Loves Greb,2000,,30,"Comedy,Romance",7.2,114
+tt0118303,tt0559018,4,9,S4,Boxing Dharma,Boxing Dharma,2000,,30,"Comedy,Romance",6.9,114
+tt0118303,tt0559034,4,10,S4,Dutch Treat,Dutch Treat,2001,,30,"Comedy,Romance",7.4,117
+tt0118303,tt0559092,4,11,S4,The Box,The Box,2001,,30,"Comedy,Romance",7.1,113
+tt0118303,tt0559060,4,12,S4,Let's Get Fiscal,Let's Get Fiscal,2001,,30,"Comedy,Romance",7.3,111
+tt0118303,tt0559035,4,13,S4,Educating Dharma: Part 1,Educating Dharma: Part 1,2001,,30,"Comedy,Romance",7.2,122
+tt0118303,tt0559036,4,14,S4,Educating Dharma: Part 2,Educating Dharma: Part 2,2001,,30,"Comedy,Romance",7.1,118
+tt0118303,tt0559024,4,15,S4,Dharma Does Dallas,Dharma Does Dallas,2001,,30,"Comedy,Romance",7.9,125
+tt0118303,tt0559056,4,16,S4,Judy & Greg,Judy & Greg,2001,,30,"Comedy,Romance",7.6,124
+tt0118303,tt0559031,4,17,S4,Do the Hustle,Do the Hustle,2001,,30,"Comedy,Romance",7.6,117
+tt0118303,tt0559039,4,18,S4,For Pete's Sake,For Pete's Sake,2001,,30,"Comedy,Romance",7.2,106
+tt0118303,tt0559057,4,19,S4,Kitty Dearest,Kitty Dearest,2001,,30,"Comedy,Romance",7.0,110
+tt0118303,tt0559106,4,20,S4,The Story of K,The Story of K,2001,,30,"Comedy,Romance",7.1,114
+tt0118303,tt0559078,4,21,S4,Pride & Prejudice,Pride & Prejudice,2001,,30,"Comedy,Romance",7.0,114
+tt0118303,tt0559046,4,22,S4,How This Happened,How This Happened,2001,,30,"Comedy,Romance",7.8,112
+tt0118303,tt0559094,4,23,S4,The End of the Innocence: Part 1,The End of the Innocence: Part 1,2001,,30,"Comedy,Romance",7.1,131
+tt0118303,tt0559095,4,24,S4,The End of the Innocence: Part 2,The End of the Innocence: Part 2,2001,,30,"Comedy,Romance",7.7,123
+tt0118303,tt0559051,5,1,S5,Intensive Caring,Intensive Caring,2001,,30,"Comedy,Romance",7.0,122
+tt0118303,tt0559121,5,2,S5,With a Little Help from My Friend,With a Little Help from My Friend,2001,,30,"Comedy,Romance",7.5,114
+tt0118303,tt0559073,5,3,S5,Papa Was Almost a Rolling Stone,Papa Was Almost a Rolling Stone,2001,,,"Comedy,Romance",7.6,116
+tt0118303,tt0559084,5,4,S5,Sexual Healing,Sexual Healing,2001,,,"Comedy,Romance",7.4,111
+tt0118303,tt0559122,5,5,S5,Without Reservations,Without Reservations,2001,,,"Comedy,Romance",7.0,122
+tt0118303,tt0559112,5,6,S5,Try to Remember This Kind of September,Try to Remember This Kind of September,2001,,,"Comedy,Romance",7.0,118
+tt0118303,tt0559116,5,7,S5,Used Karma,Used Karma,2001,,,"Comedy,Romance",7.5,121
+tt0118303,tt0559045,5,8,S5,Home Is Where the Art Is,Home Is Where the Art Is,2001,,,"Comedy,Romance",7.0,118
+tt0118303,tt0559120,5,9,S5,Wish We Weren't Here,Wish We Weren't Here,2001,,22,"Comedy,Romance",7.4,137
+tt0118303,tt0559032,5,10,S5,Dream a Little Dream of Her,Dream a Little Dream of Her,2001,,22,"Comedy,Romance",7.1,119
+tt0118303,tt0559009,5,11,S5,A Fish Tale,A Fish Tale,2001,,,"Comedy,Romance",7.2,111
+tt0118303,tt0559077,5,12,S5,Previously on Dharma and Greg,Previously on Dharma and Greg,2001,,22,"Comedy,Romance",7.6,136
+tt0118303,tt0559079,5,13,S5,Protecting the Ego-System,Protecting the Ego-System,2002,,22,"Comedy,Romance",7.3,118
+tt0118303,tt0559070,5,14,S5,Near-Death of a Salesman,Near-Death of a Salesman,2002,,22,"Comedy,Romance",7.7,116
+tt0118303,tt0559055,5,15,S5,"It's a Bird, It's a Plane, It's... My Wife","It's a Bird, It's a Plane, It's... My Wife",2002,,22,"Comedy,Romance",7.5,122
+tt0118303,tt0559048,5,16,S5,"I Think, Therefore I Am in Trouble","I Think, Therefore I Am in Trouble",2002,,22,"Comedy,Romance",7.3,118
+tt0118303,tt0559085,5,17,S5,She's with the Band,She's with the Band,2002,,22,"Comedy,Romance",7.3,126
+tt0118303,tt0559066,5,18,S5,Mission: Implausible,Mission: Implausible,2002,,22,"Comedy,Romance",8.0,130
+tt0118303,tt0559110,5,19,S5,This Diamond Ring,This Diamond Ring,2002,,22,"Comedy,Romance",7.4,114
+tt0118303,tt0559107,5,20,S5,The Tooth Is Out There,The Tooth Is Out There,2002,,22,"Comedy,Romance",7.5,125
+tt0118303,tt0559103,5,21,S5,The Parent Trap,The Parent Trap,2002,,22,"Comedy,Romance",6.8,119
+tt0118303,tt0559113,5,22,S5,Tuesday's Child,Tuesday's Child,2002,,22,"Comedy,Romance",7.5,127
+tt0118303,tt0559099,5,23,S5,The Mamas and the Papas: Part 1,The Mamas and the Papas: Part 1,2002,,22,"Comedy,Romance",7.1,119
+tt0118303,tt0559100,5,24,S5,The Mamas and the Papas: Part 2,The Mamas and the Papas: Part 2,2002,,22,"Comedy,Romance",7.6,119

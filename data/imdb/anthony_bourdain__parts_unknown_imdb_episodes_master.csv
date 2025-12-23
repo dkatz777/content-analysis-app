@@ -1,0 +1,108 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt2845786,tt2849368,1,1,S1,Myanmar,Myanmar,2013,,43,"Adventure,Documentary",7.9,342
+tt2845786,tt2849378,1,2,S1,Los Angeles,Los Angeles,2013,,43,"Adventure,Documentary",7.6,269
+tt2845786,tt2849394,1,3,S1,Colombia,Colombia,2013,,43,"Adventure,Documentary",7.5,235
+tt2845786,tt2849364,1,4,S1,Canada,Canada,2013,,43,"Adventure,Documentary",8.4,277
+tt2845786,tt2849380,1,5,S1,Morocco (Tangier),Morocco (Tangier),2013,,43,"Adventure,Documentary",7.8,213
+tt2845786,tt2849400,1,6,S1,Libya,Libya,2013,,43,"Adventure,Documentary",7.6,224
+tt2845786,tt2849408,1,7,S1,Peru,Peru,2013,,43,"Adventure,Documentary",7.5,182
+tt2845786,tt2849384,1,8,S1,Congo,Congo,2013,,43,"Adventure,Documentary",7.9,217
+tt2845786,tt3426786,1,9,S1,Prime Cuts: Season 1,Prime Cuts: Season 1,2013,,,"Adventure,Documentary",6.9,38
+tt2845786,tt3285356,2,1,S2,Jerusalem,Jerusalem,2013,,43,"Adventure,Documentary",8.1,209
+tt2845786,tt3280212,2,2,S2,Spain,Spain,2013,,43,"Adventure,Documentary",7.7,186
+tt2845786,tt3302926,2,3,S2,New Mexico,New Mexico,2013,,43,"Adventure,Documentary",7.2,155
+tt2845786,tt3267020,2,4,S2,Copenhagen,Copenhagen,2013,,43,"Adventure,Documentary",8.3,193
+tt2845786,tt3284978,2,5,S2,Sicily,Sicily,2013,,43,"Adventure,Documentary",7.7,173
+tt2845786,tt3284720,2,6,S2,South Africa,South Africa,2013,,43,"Adventure,Documentary",7.3,136
+tt2845786,tt3344306,2,7,S2,Tokyo,Tokyo,2013,,43,"Adventure,Documentary",8.2,197
+tt2845786,tt3332446,2,8,S2,Detroit,Detroit,2013,,43,"Adventure,Documentary",8.2,172
+tt2845786,tt3768398,2,9,S2,Prime Cuts: Season 2,Prime Cuts: Season 2,2014,,,"Adventure,Documentary",7.1,36
+tt2845786,tt3635798,3,1,S3,"Punjab, India","Punjab, India",2014,,43,"Adventure,Documentary",8.0,169
+tt2845786,tt3712958,3,2,S3,Las Vegas,Las Vegas,2014,,43,"Adventure,Documentary",7.2,148
+tt2845786,tt3717664,3,3,S3,Lyon,Lyon,2014,,43,"Adventure,Documentary",8.8,203
+tt2845786,tt3729160,3,4,S3,Mexico City,Mexico City,2014,,42,"Adventure,Documentary",7.8,138
+tt2845786,tt3736790,3,5,S3,Russia,Russia,2014,,43,"Adventure,Documentary",7.9,160
+tt2845786,tt3729162,3,6,S3,Mississippi Delta,Mississippi Delta,2014,,43,"Adventure,Documentary",7.6,134
+tt2845786,tt3729182,3,7,S3,Thailand,Thailand,2014,,43,"Adventure,Documentary",8.4,183
+tt2845786,tt3729184,3,8,S3,"Bahia, Brazil","Bahia, Brazil",2014,,43,"Adventure,Documentary",7.6,121
+tt2845786,tt4094974,3,10,S3,Prime Cuts: Season 3,Prime Cuts: Season 3,2014,,,"Adventure,Documentary",6.8,36
+tt2845786,tt4079154,4,1,S4,Shanghai,Shanghai,2014,,43,"Adventure,Documentary",7.9,141
+tt2845786,tt4094176,4,2,S4,The Bronx,The Bronx,2014,,43,"Adventure,Documentary",7.6,137
+tt2845786,tt4094966,4,3,S4,Paraguay,Paraguay,2014,,43,"Adventure,Documentary",7.6,110
+tt2845786,tt4116948,4,4,S4,Vietnam,Vietnam,2014,,43,"Adventure,Documentary",8.3,159
+tt2845786,tt4129732,4,5,S4,Tanzania,Tanzania,2014,,43,"Adventure,Documentary",7.9,127
+tt2845786,tt4149112,4,6,S4,Iran,Iran,2014,,43,"Adventure,Documentary",8.8,306
+tt2845786,tt4181346,4,7,S4,Massachusetts,Massachusetts,2014,,43,"Adventure,Documentary",8.2,171
+tt2845786,tt4181348,4,8,S4,Jamaica,Jamaica,2014,,43,"Adventure,Documentary",7.8,143
+tt2845786,tt4637912,4,9,S4,Prime Cuts: Season 4,Prime Cuts: Season 4,2015,,,"Adventure,Documentary",6.7,33
+tt2845786,tt5258636,4,10,S4,Viewer's Choice,Viewer's Choice,2015,,,"Adventure,Documentary",7.6,38
+tt2845786,tt4637908,5,1,S5,Korea,Korea,2015,,43,"Adventure,Documentary",7.3,148
+tt2845786,tt4637914,5,2,S5,Miami,Miami,2015,,43,"Adventure,Documentary",7.8,132
+tt2845786,tt4637916,5,3,S5,Scotland,Scotland,2015,,43,"Adventure,Documentary",8.1,166
+tt2845786,tt4693410,5,4,S5,Madagascar,Madagascar,2015,,43,"Adventure,Documentary",7.7,129
+tt2845786,tt4780884,5,5,S5,New Jersey,New Jersey,2015,,42,"Adventure,Documentary",7.4,106
+tt2845786,tt4761900,5,6,S5,Budapest,Budapest,2015,,43,"Adventure,Documentary",7.9,115
+tt2845786,tt4795858,5,7,S5,Hawaii,Hawaii,2015,,43,"Adventure,Documentary",7.8,110
+tt2845786,tt4807928,5,8,S5,Beirut,Beirut,2015,,43,"Adventure,Documentary",7.8,117
+tt2845786,tt5080742,5,9,S5,Prime Cuts: Season 5,Prime Cuts: Season 5,2015,,,"Adventure,Documentary",6.4,34
+tt2845786,tt5081104,6,1,S6,Cuba,Cuba,2015,,43,"Adventure,Documentary",7.7,134
+tt2845786,tt5083320,6,2,S6,"Marseille, France","Marseille, France",2015,,43,"Adventure,Documentary",8.2,129
+tt2845786,tt5091306,6,3,S6,"Okinawa, Japan","Okinawa, Japan",2015,,43,"Adventure,Documentary",7.9,122
+tt2845786,tt5133102,6,4,S6,Bay Area,Bay Area,2015,,43,"Adventure,Documentary",7.6,104
+tt2845786,tt5133104,6,5,S6,Ethiopia,Ethiopia,2015,,42,"Adventure,Documentary",7.6,110
+tt2845786,tt5154058,6,6,S6,Borneo,Borneo,2015,,42,"Adventure,Documentary",7.6,118
+tt2845786,tt5154060,6,7,S6,Istanbul,Istanbul,2015,,42,"Adventure,Documentary",7.6,128
+tt2845786,tt5154062,6,8,S6,"Charleston, S.C.","Charleston, S.C.",2015,,42,"Adventure,Documentary",8.1,148
+tt2845786,tt5851732,6,9,S6,Prime Cuts: Season 6,Prime Cuts: Season 6,2016,,,"Adventure,Documentary",6.5,33
+tt2845786,tt5701698,7,1,S7,"Manila, Philippines","Manila, Philippines",2016,,42,"Adventure,Documentary",8.3,159
+tt2845786,tt5701702,7,2,S7,Chicago,Chicago,2016,,42,"Adventure,Documentary",7.6,127
+tt2845786,tt5738320,7,3,S7,The Greek Islands,The Greek Islands,2016,,42,"Adventure,Documentary",7.8,118
+tt2845786,tt5738322,7,4,S7,Montana,Montana,2016,,42,"Adventure,Documentary",7.8,126
+tt2845786,tt5738324,7,5,S7,"Tblisi, Georgia","Tblisi, Georgia",2016,,42,"Adventure,Documentary",7.7,101
+tt2845786,tt5738330,7,6,S7,Senegal,Senegal,2016,,42,"Adventure,Documentary",7.8,110
+tt2845786,tt5738332,7,7,S7,"Cologne, Germany","Cologne, Germany",2016,,42,"Adventure,Documentary",7.6,111
+tt2845786,tt5738334,7,8,S7,Buenos Aires,Buenos Aires,2016,,42,"Adventure,Documentary",7.3,103
+tt2845786,tt6104024,8,1,S8,Hanoi,Hanoi,2016,,42,"Adventure,Documentary",8.7,213
+tt2845786,tt6115494,8,2,S8,Nashville,Nashville,2016,,42,"Adventure,Documentary",8.2,128
+tt2845786,tt6179426,8,3,S8,Sichuan with Eric Ripert,Sichuan with Eric Ripert,2016,,42,"Adventure,Documentary",8.4,144
+tt2845786,tt6197534,8,4,S8,London,London,2016,,42,"Adventure,Documentary",7.8,181
+tt2845786,tt6241074,8,5,S8,Houston,Houston,2016,,42,"Adventure,Documentary",7.8,115
+tt2845786,tt6241314,8,6,S8,Japan with Masa,Japan with Masa,2016,,42,"Adventure,Documentary",8.6,144
+tt2845786,tt6304598,8,7,S8,Buenos Aires,Buenos Aires,2016,,42,"Adventure,Documentary",7.3,90
+tt2845786,tt6241320,8,8,S8,"Minas Gerais, Brazil","Minas Gerais, Brazil",2016,,42,"Adventure,Documentary",7.3,103
+tt2845786,tt6304602,8,9,S8,Rome,Rome,2016,,42,"Adventure,Documentary",7.8,124
+tt2845786,tt7192478,8,10,S8,Prime Cuts Season 8,Prime Cuts Season 8,2017,,,"Adventure,Documentary",6.5,34
+tt2845786,tt6947994,9,1,S9,Los Angeles,Los Angeles,2017,,42,"Adventure,Documentary",7.8,109
+tt2845786,tt6947998,9,2,S9,San Sebastian,San Sebastian,2017,,42,"Adventure,Documentary",7.8,100
+tt2845786,tt6948000,9,3,S9,Laos,Laos,2017,,43,"Adventure,Documentary",8.0,108
+tt2845786,tt6948006,9,4,S9,Queens,Queens,2017,,42,"Adventure,Documentary",7.6,102
+tt2845786,tt6948010,9,5,S9,Antarctica,Antarctica,2017,,42,"Adventure,Documentary",8.2,133
+tt2845786,tt6948018,9,6,S9,Oman,Oman,2017,,42,"Adventure,Documentary",8.0,109
+tt2845786,tt7009808,9,7,S9,Trinidad,Trinidad,2017,,42,"Adventure,Documentary",7.9,95
+tt2845786,tt7009814,9,8,S9,"Porto, Portugal","Porto, Portugal",2017,,42,"Adventure,Documentary",8.4,124
+tt2845786,tt7364218,10,1,S10,Singapore,Singapore,2017,,42,"Adventure,Documentary",8.0,110
+tt2845786,tt7364220,10,2,S10,French Alps,French Alps,2017,,42,"Adventure,Documentary",7.9,103
+tt2845786,tt7364222,10,3,S10,Lagos,Lagos,2017,,42,"Adventure,Documentary",6.7,95
+tt2845786,tt7535658,10,4,S10,Pittsburgh,Pittsburgh,2017,,42,"Adventure,Documentary",7.6,100
+tt2845786,tt7535676,10,5,S10,Sri Lanka,Sri Lanka,2017,,42,"Adventure,Documentary",7.2,89
+tt2845786,tt7535906,10,6,S10,Puerto Rico,Puerto Rico,2017,,42,"Adventure,Documentary",7.5,84
+tt2845786,tt7650138,10,7,S10,Seattle,Seattle,2017,,42,"Adventure,Documentary",7.9,134
+tt2845786,tt7650142,10,8,S10,Southern Italy: The Heel of the Boot,Southern Italy: The Heel of the Boot,2017,,42,"Adventure,Documentary",7.8,99
+tt2845786,tt10374466,10,9,S10,Prime Cuts Season 10,Prime Cuts Season 10,2018,,,"Adventure,Documentary",6.5,35
+tt2845786,tt8298702,11,1,S11,West Virginia,West Virginia,2018,,57,"Adventure,Documentary",8.1,139
+tt2845786,tt8298708,11,2,S11,Uruguay,Uruguay,2018,,42,"Adventure,Documentary",7.7,93
+tt2845786,tt8298714,11,3,S11,Newfoundland,Newfoundland,2018,,42,"Adventure,Documentary",8.6,118
+tt2845786,tt8298722,11,4,S11,Armenia,Armenia,2018,,42,"Adventure,Documentary",8.1,127
+tt2845786,tt8298732,11,5,S11,Hong Kong,Hong Kong,2018,,42,"Adventure,Documentary",8.7,130
+tt2845786,tt8410024,11,6,S11,Berlin,Berlin,2018,,42,"Adventure,Documentary",8.0,118
+tt2845786,tt8410028,11,7,S11,Cajun Mardi Gras,Cajun Mardi Gras,2018,,42,"Adventure,Documentary",7.4,92
+tt2845786,tt8410030,11,8,S11,Bhutan,Bhutan,2018,,42,"Adventure,Documentary",8.4,115
+tt2845786,tt9011936,12,1,S12,Kenya,Kenya,2018,,56,"Adventure,Documentary",8.5,133
+tt2845786,tt9011954,12,2,S12,"Asturias, Spain","Asturias, Spain",2018,,42,"Adventure,Documentary",8.7,120
+tt2845786,tt9182506,12,3,S12,Indonesia,Indonesia,2018,,42,"Adventure,Documentary",7.1,80
+tt2845786,tt9182508,12,4,S12,Tony's Impact,Tony's Impact,2018,,42,"Adventure,Documentary",7.5,78
+tt2845786,tt9182510,12,5,S12,Far West Texas,Far West Texas,2018,,42,"Adventure,Documentary",7.6,81
+tt2845786,tt9182524,12,6,S12,Under the Tarp,Under the Tarp,2018,,43,"Adventure,Documentary",7.7,70
+tt2845786,tt9182528,12,7,S12,Lower East Side,Lower East Side,2018,,57,"Adventure,Documentary",7.4,102
+tt2845786,tt26472946,,,,Puglia,Puglia,2015,,,"Adventure,Documentary",,
+tt2845786,tt7650136,,,,Jeremiah Tower,Jeremiah Tower,2017,,,"Adventure,Documentary",7.4,49

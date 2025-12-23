@@ -1,0 +1,180 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0158552,tt1037343,1,0,S1,Unaired Pilot,Unaired Pilot,1998,,30,"Drama,Fantasy,Mystery",7.3,443
+tt0158552,tt0539431,1,1,S1,Something Wicca This Way Comes,Something Wicca This Way Comes,1998,,42,"Drama,Fantasy,Mystery",8.1,1688
+tt0158552,tt0539374,1,2,S1,I've Got You Under My Skin,I've Got You Under My Skin,1998,,42,"Drama,Fantasy,Mystery",7.3,1336
+tt0158552,tt0539439,1,3,S1,Thank You for Not Morphing,Thank You for Not Morphing,1998,,42,"Drama,Fantasy,Mystery",7.1,1194
+tt0158552,tt0539351,1,4,S1,Dead Man Dating,Dead Man Dating,1998,,42,"Drama,Fantasy,Mystery",8.2,1352
+tt0158552,tt0539355,1,5,S1,Dream Sorcerer,Dream Sorcerer,1998,,42,"Drama,Fantasy,Mystery",7.3,1139
+tt0158552,tt0539462,1,6,S1,The Wedding from Hell,The Wedding from Hell,1998,,42,"Drama,Fantasy,Mystery",7.1,1188
+tt0158552,tt0539449,1,7,S1,The Fourth Sister,The Fourth Sister,1998,,42,"Drama,Fantasy,Mystery",7.2,1131
+tt0158552,tt0539461,1,8,S1,The Truth Is Out There... and It Hurts,The Truth Is Out There... and It Hurts,1998,,42,"Drama,Fantasy,Mystery",8.0,1171
+tt0158552,tt0539464,1,9,S1,The Witch Is Back,The Witch Is Back,1998,,42,"Drama,Fantasy,Mystery",8.0,1191
+tt0158552,tt0539477,1,10,S1,Wicca Envy,Wicca Envy,1999,,42,"Drama,Fantasy,Mystery",8.0,1127
+tt0158552,tt0539361,1,11,S1,Feats of Clay,Feats of Clay,1999,,42,"Drama,Fantasy,Mystery",6.9,1057
+tt0158552,tt0539463,1,12,S1,The Wendigo,The Wendigo,1999,,42,"Drama,Fantasy,Mystery",7.9,1119
+tt0158552,tt0539364,1,13,S1,From Fear to Eternity,From Fear to Eternity,1999,,42,"Drama,Fantasy,Mystery",8.1,1121
+tt0158552,tt0539421,1,14,S1,Secrets and Guys,Secrets and Guys,1999,,42,"Drama,Fantasy,Mystery",7.3,989
+tt0158552,tt0539376,1,15,S1,Is There a Woogy in the House?,Is There a Woogy in the House?,1999,,42,"Drama,Fantasy,Mystery",8.0,1084
+tt0158552,tt0539476,1,16,S1,"Which Prue Is It, Anyway?","Which Prue Is It, Anyway?",1999,,42,"Drama,Fantasy,Mystery",8.1,1060
+tt0158552,tt0539440,1,17,S1,That '70s Episode,That '70s Episode,1999,,42,"Drama,Fantasy,Mystery",8.8,1274
+tt0158552,tt0539475,1,18,S1,When Bad Warlocks Turn Good,When Bad Warlocks Turn Good,1999,,42,"Drama,Fantasy,Mystery",7.1,999
+tt0158552,tt0539405,1,19,S1,Out of Sight,Out of Sight,1999,,42,"Drama,Fantasy,Mystery",8.0,1015
+tt0158552,tt0539458,1,20,S1,The Power of Two,The Power of Two,1999,,42,"Drama,Fantasy,Mystery",7.8,972
+tt0158552,tt0539386,1,21,S1,Love Hurts,Love Hurts,1999,,42,"Drama,Fantasy,Mystery",8.3,1044
+tt0158552,tt0539356,1,22,S1,Déjà Vu All Over Again,Déjà Vu All Over Again,1999,,42,"Drama,Fantasy,Mystery",8.8,1294
+tt0158552,tt0539478,2,1,S2,Witch Trial,Witch Trial,1999,,42,"Drama,Fantasy,Mystery",7.9,1022
+tt0158552,tt0539392,2,2,S2,Morality Bites,Morality Bites,1999,,42,"Drama,Fantasy,Mystery",8.5,1323
+tt0158552,tt0539456,2,3,S2,The Painted World,The Painted World,1999,,42,"Drama,Fantasy,Mystery",8.1,996
+tt0158552,tt0539446,2,4,S2,The Devil's Music,The Devil's Music,1999,,42,"Drama,Fantasy,Mystery",7.3,911
+tt0158552,tt0539423,2,5,S2,"She's a Man, Baby, a Man!","She's a Man, Baby, a Man!",1999,,42,"Drama,Fantasy,Mystery",7.5,996
+tt0158552,tt0539441,2,6,S2,That Old Black Magic,That Old Black Magic,1999,,42,"Drama,Fantasy,Mystery",7.1,918
+tt0158552,tt0539466,2,7,S2,They're Everywhere,They're Everywhere,1999,,42,"Drama,Fantasy,Mystery",7.6,952
+tt0158552,tt0539406,2,8,S2,P3 H2O,P3 H2O,1999,,42,"Drama,Fantasy,Mystery",8.1,988
+tt0158552,tt0539394,2,9,S2,Ms. Hellfire,Ms. Hellfire,2000,,42,"Drama,Fantasy,Mystery",8.2,965
+tt0158552,tt0539367,2,10,S2,Heartbreak City,Heartbreak City,2000,,42,"Drama,Fantasy,Mystery",7.5,885
+tt0158552,tt0539413,2,11,S2,Reckless Abandon,Reckless Abandon,2000,,42,"Drama,Fantasy,Mystery",7.3,856
+tt0158552,tt0539328,2,12,S2,Awakened,Awakened,2000,,42,"Drama,Fantasy,Mystery",8.3,985
+tt0158552,tt0539325,2,13,S2,Animal Pragmatism,Animal Pragmatism,2000,,42,"Drama,Fantasy,Mystery",7.1,883
+tt0158552,tt0539407,2,14,S2,Pardon My Past,Pardon My Past,2000,,42,"Drama,Fantasy,Mystery",8.1,961
+tt0158552,tt0539365,2,15,S2,Give Me a Sign,Give Me a Sign,2000,,42,"Drama,Fantasy,Mystery",7.4,874
+tt0158552,tt0539395,2,16,S2,Murphy's Luck,Murphy's Luck,2000,,42,"Drama,Fantasy,Mystery",7.9,917
+tt0158552,tt0539370,2,17,S2,How to Make a Quilt Out of Americans,How to Make a Quilt Out of Americans,2000,,42,"Drama,Fantasy,Mystery",7.2,874
+tt0158552,tt0539347,2,18,S2,Chick Flick,Chick Flick,2000,,42,"Drama,Fantasy,Mystery",8.3,1018
+tt0158552,tt0539358,2,19,S2,Ex Libris,Ex Libris,2000,,42,"Drama,Fantasy,Mystery",8.0,882
+tt0158552,tt0539327,2,20,S2,Astral Monkey,Astral Monkey,2000,,42,"Drama,Fantasy,Mystery",8.0,899
+tt0158552,tt0539326,2,21,S2,"Apocalypse, Not","Apocalypse, Not",2000,,42,"Drama,Fantasy,Mystery",8.0,895
+tt0158552,tt0539331,2,22,S2,Be Careful What You Witch For,Be Careful What You Witch For,2000,,42,"Drama,Fantasy,Mystery",8.1,910
+tt0158552,tt0539451,3,1,S3,The Honeymoon's Over,The Honeymoon's Over,2000,,42,"Drama,Fantasy,Mystery",8.1,965
+tt0158552,tt0539389,3,2,S3,Magic Hour,Magic Hour,2000,,42,"Drama,Fantasy,Mystery",7.7,911
+tt0158552,tt0539402,3,3,S3,Once Upon a Time,Once Upon a Time,2000,,42,"Drama,Fantasy,Mystery",7.5,936
+tt0158552,tt0539323,3,4,S3,All Halliwell's Eve,All Halliwell's Eve,2000,,42,"Drama,Fantasy,Mystery",8.4,1097
+tt0158552,tt0539425,3,5,S3,Sight Unseen,Sight Unseen,2000,,42,"Drama,Fantasy,Mystery",8.1,942
+tt0158552,tt0539411,3,6,S3,Primrose Empath,Primrose Empath,2000,,42,"Drama,Fantasy,Mystery",8.2,967
+tt0158552,tt0539409,3,7,S3,Power Outage,Power Outage,2000,,42,"Drama,Fantasy,Mystery",8.3,940
+tt0158552,tt0539429,3,8,S3,Sleuthing with the Enemy,Sleuthing with the Enemy,2000,,42,"Drama,Fantasy,Mystery",8.6,982
+tt0158552,tt0539349,3,9,S3,Coyote Piper,Coyote Piper,2001,,42,"Drama,Fantasy,Mystery",8.3,951
+tt0158552,tt0539473,3,10,S3,We All Scream for Ice Cream,We All Scream for Ice Cream,2001,,42,"Drama,Fantasy,Mystery",7.5,887
+tt0158552,tt0539334,3,11,S3,Blinded by the Whitelighter,Blinded by the Whitelighter,2001,,42,"Drama,Fantasy,Mystery",8.1,913
+tt0158552,tt0539485,3,12,S3,Wrestling with Demons,Wrestling with Demons,2001,,42,"Drama,Fantasy,Mystery",7.0,896
+tt0158552,tt0539336,3,13,S3,Bride and Gloom,Bride and Gloom,2001,,42,"Drama,Fantasy,Mystery",8.2,889
+tt0158552,tt0539450,3,14,S3,"The Good, the Bad and the Cursed","The Good, the Bad and the Cursed",2001,,42,"Drama,Fantasy,Mystery",8.2,1001
+tt0158552,tt0539379,3,15,S3,Just Harried,Just Harried,2001,,42,"Drama,Fantasy,Mystery",8.3,938
+tt0158552,tt0539353,3,16,S3,Death Takes a Halliwell,Death Takes a Halliwell,2001,,42,"Drama,Fantasy,Mystery",8.0,897
+tt0158552,tt0539410,3,17,S3,Pre-Witched,Pre-Witched,2001,,42,"Drama,Fantasy,Mystery",8.1,899
+tt0158552,tt0539426,3,18,S3,Sin Francisco,Sin Francisco,2001,,42,"Drama,Fantasy,Mystery",8.4,969
+tt0158552,tt0539445,3,19,S3,The Demon Who Came in from the Cold,The Demon Who Came in from the Cold,2001,,42,"Drama,Fantasy,Mystery",7.7,829
+tt0158552,tt0539359,3,20,S3,Exit Strategy,Exit Strategy,2001,,42,"Drama,Fantasy,Mystery",8.0,844
+tt0158552,tt0539384,3,21,S3,Look Who's Barking,Look Who's Barking,2001,,42,"Drama,Fantasy,Mystery",8.2,924
+tt0158552,tt0539324,3,22,S3,All Hell Breaks Loose,All Hell Breaks Loose,2001,,42,"Drama,Fantasy,Mystery",9.1,1533
+tt0158552,tt0539341,4,1,S4,Charmed Again: Part 1,Charmed Again: Part 1,2001,,42,"Drama,Fantasy,Mystery",8.5,1068
+tt0158552,tt0539342,4,2,S4,Charmed Again: Part 2,Charmed Again: Part 2,2001,,42,"Drama,Fantasy,Mystery",8.5,934
+tt0158552,tt0539368,4,3,S4,Hell Hath No Fury,Hell Hath No Fury,2001,,42,"Drama,Fantasy,Mystery",8.3,921
+tt0158552,tt0539357,4,4,S4,Enter the Demon,Enter the Demon,2001,,42,"Drama,Fantasy,Mystery",7.8,840
+tt0158552,tt0539428,4,5,S4,Size Matters,Size Matters,2001,,42,"Drama,Fantasy,Mystery",7.8,846
+tt0158552,tt0539317,4,6,S4,A Knight to Remember,A Knight to Remember,2001,,42,"Drama,Fantasy,Mystery",7.5,812
+tt0158552,tt0539335,4,7,S4,Brain Drain,Brain Drain,2001,,42,"Drama,Fantasy,Mystery",8.3,887
+tt0158552,tt0539333,4,8,S4,Black as Cole,Black as Cole,2001,,42,"Drama,Fantasy,Mystery",8.1,812
+tt0158552,tt0539396,4,9,S4,Muse to My Ears,Muse to My Ears,2001,,42,"Drama,Fantasy,Mystery",7.5,759
+tt0158552,tt0539318,4,10,S4,A Paige from the Past,A Paige from the Past,2002,,42,"Drama,Fantasy,Mystery",8.3,861
+tt0158552,tt0539467,4,11,S4,Trial by Magic,Trial by Magic,2002,,42,"Drama,Fantasy,Mystery",7.4,773
+tt0158552,tt0539385,4,12,S4,Lost and Bound,Lost and Bound,2002,,42,"Drama,Fantasy,Mystery",7.7,789
+tt0158552,tt0539344,4,13,S4,Charmed and Dangerous,Charmed and Dangerous,2002,,42,"Drama,Fantasy,Mystery",8.7,895
+tt0158552,tt0539460,4,14,S4,The Three Faces of Phoebe,The Three Faces of Phoebe,2002,,42,"Drama,Fantasy,Mystery",8.0,790
+tt0158552,tt0539391,4,15,S4,Marry-Go-Round,Marry-Go-Round,2002,,42,"Drama,Fantasy,Mystery",8.1,793
+tt0158552,tt0539448,4,16,S4,The Fifth Halliwheel,The Fifth Halliwheel,2002,,42,"Drama,Fantasy,Mystery",7.9,794
+tt0158552,tt0539419,4,17,S4,Saving Private Leo,Saving Private Leo,2002,,42,"Drama,Fantasy,Mystery",7.8,799
+tt0158552,tt0539332,4,18,S4,Bite Me,Bite Me,2002,,42,"Drama,Fantasy,Mystery",7.9,796
+tt0158552,tt0539474,4,19,S4,We're Off to See the Wizard,We're Off to See the Wizard,2002,,42,"Drama,Fantasy,Mystery",8.3,801
+tt0158552,tt0539383,4,20,S4,Long Live the Queen,Long Live the Queen,2002,,42,"Drama,Fantasy,Mystery",8.7,896
+tt0158552,tt0539484,4,21,S4,Womb Raider,Womb Raider,2002,,42,"Drama,Fantasy,Mystery",8.3,785
+tt0158552,tt0539480,4,22,S4,Witch Way Now?,Witch Way Now?,2002,,42,"Drama,Fantasy,Mystery",8.3,821
+tt0158552,tt0539320,5,1,S5,A Witch's Tail: Part 1,A Witch's Tail: Part 1,2002,,42,"Drama,Fantasy,Mystery",8.0,842
+tt0158552,tt0539321,5,2,S5,A Witch's Tail: Part 2,A Witch's Tail: Part 2,2002,,42,"Drama,Fantasy,Mystery",8.0,793
+tt0158552,tt0539366,5,3,S5,Happily Ever After,Happily Ever After,2002,,42,"Drama,Fantasy,Mystery",8.0,807
+tt0158552,tt0539427,5,4,S5,Siren Song,Siren Song,2002,,42,"Drama,Fantasy,Mystery",8.1,797
+tt0158552,tt0539481,5,5,S5,Witches in Tights,Witches in Tights,2002,,42,"Drama,Fantasy,Mystery",7.6,796
+tt0158552,tt0539447,5,6,S5,The Eyes Have It,The Eyes Have It,2002,,42,"Drama,Fantasy,Mystery",7.7,790
+tt0158552,tt0539438,5,7,S5,Sympathy for the Demon,Sympathy for the Demon,2002,,42,"Drama,Fantasy,Mystery",8.3,777
+tt0158552,tt0539319,5,8,S5,A Witch in Time,A Witch in Time,2002,,42,"Drama,Fantasy,Mystery",8.4,791
+tt0158552,tt0539417,5,9,S5,Sam I Am,Sam I Am,2002,,42,"Drama,Fantasy,Mystery",7.9,732
+tt0158552,tt0539486,5,10,S5,Y Tu Mummy También,Y Tu Mummy También,2003,,42,"Drama,Fantasy,Mystery",7.9,781
+tt0158552,tt0539452,5,11,S5,The Importance of Being Phoebe,The Importance of Being Phoebe,2003,,42,"Drama,Fantasy,Mystery",8.1,745
+tt0158552,tt0539339,5,12,S5,Centennial Charmed,Centennial Charmed,2003,,42,"Drama,Fantasy,Mystery",8.7,909
+tt0158552,tt0539369,5,13,S5,House Call,House Call,2003,,42,"Drama,Fantasy,Mystery",7.4,672
+tt0158552,tt0539418,5,14,S5,Sand Francisco Dreamin',Sand Francisco Dreamin',2003,,42,"Drama,Fantasy,Mystery",7.5,666
+tt0158552,tt0539444,5,15,S5,The Day the Magic Died,The Day the Magic Died,2003,,42,"Drama,Fantasy,Mystery",8.5,802
+tt0158552,tt0539329,5,16,S5,Baby's First Demon,Baby's First Demon,2003,,42,"Drama,Fantasy,Mystery",7.6,636
+tt0158552,tt0539388,5,17,S5,Lucky Charmed,Lucky Charmed,2003,,42,"Drama,Fantasy,Mystery",7.1,673
+tt0158552,tt0539338,5,18,S5,Cat House,Cat House,2003,,42,"Drama,Fantasy,Mystery",7.9,760
+tt0158552,tt0539399,5,19,S5,Nymphs Just Wanna Have Fun,Nymphs Just Wanna Have Fun,2003,,42,"Drama,Fantasy,Mystery",6.9,665
+tt0158552,tt0539422,5,20,S5,Sense and Sense Ability,Sense and Sense Ability,2003,,42,"Drama,Fantasy,Mystery",8.4,830
+tt0158552,tt0539398,5,21,S5,Necromancing the Stone,Necromancing the Stone,2003,,42,"Drama,Fantasy,Mystery",7.4,643
+tt0158552,tt0539400,5,22,S5,Oh My Goddess!: Part 1,Oh My Goddess!: Part 1,2003,,42,"Drama,Fantasy,Mystery",8.0,732
+tt0158552,tt0539401,5,23,S5,Oh My Goddess!: Part 2,Oh My Goddess!: Part 2,2003,,42,"Drama,Fantasy,Mystery",8.1,706
+tt0158552,tt0539470,6,1,S6,Valhalley of the Dolls: Part 1,Valhalley of the Dolls: Part 1,2003,,42,"Drama,Fantasy,Mystery",7.4,717
+tt0158552,tt0539471,6,2,S6,Valhalley of the Dolls: Part 2,Valhalley of the Dolls: Part 2,2003,,42,"Drama,Fantasy,Mystery",7.5,684
+tt0158552,tt0539362,6,3,S6,Forget Me... Not,Forget Me... Not,2003,,42,"Drama,Fantasy,Mystery",7.9,685
+tt0158552,tt0539457,6,4,S6,The Power of Three Blondes,The Power of Three Blondes,2003,,42,"Drama,Fantasy,Mystery",7.6,764
+tt0158552,tt0539387,6,5,S6,Love's a Witch,Love's a Witch,2003,,42,"Drama,Fantasy,Mystery",7.3,664
+tt0158552,tt0539397,6,6,S6,My Three Witches,My Three Witches,2003,,42,"Drama,Fantasy,Mystery",7.5,649
+tt0158552,tt0539433,6,7,S6,Soul Survivor,Soul Survivor,2003,,42,"Drama,Fantasy,Mystery",7.1,631
+tt0158552,tt0539437,6,8,S6,Sword and the City,Sword and the City,2003,,42,"Drama,Fantasy,Mystery",7.2,649
+tt0158552,tt0539382,6,9,S6,Little Monsters,Little Monsters,2003,,42,"Drama,Fantasy,Mystery",7.5,640
+tt0158552,tt0539348,6,10,S6,Chris-Crossed,Chris-Crossed,2003,,42,"Drama,Fantasy,Mystery",8.4,822
+tt0158552,tt0539483,6,11,S6,Witchstock,Witchstock,2004,,42,"Drama,Fantasy,Mystery",7.6,696
+tt0158552,tt0539412,6,12,S6,Prince Charmed,Prince Charmed,2004,,42,"Drama,Fantasy,Mystery",7.3,638
+tt0158552,tt0539469,6,13,S6,Used Karma,Used Karma,2004,,42,"Drama,Fantasy,Mystery",6.8,633
+tt0158552,tt0539454,6,14,S6,The Legend of Sleepy Halliwell,The Legend of Sleepy Halliwell,2004,,42,"Drama,Fantasy,Mystery",7.7,691
+tt0158552,tt0539373,6,15,S6,I Dream of Phoebe,I Dream of Phoebe,2004,,42,"Drama,Fantasy,Mystery",7.9,689
+tt0158552,tt0539443,6,16,S6,The Courtship of Wyatt's Father,The Courtship of Wyatt's Father,2004,,42,"Drama,Fantasy,Mystery",8.1,707
+tt0158552,tt0539372,6,17,S6,Hyde School Reunion,Hyde School Reunion,2004,,42,"Drama,Fantasy,Mystery",7.3,650
+tt0158552,tt0539434,6,18,S6,Spin City,Spin City,2004,,42,"Drama,Fantasy,Mystery",7.4,680
+tt0158552,tt0539350,6,19,S6,Crimes & Witch Demeanors,Crimes & Witch Demeanors,2004,,42,"Drama,Fantasy,Mystery",7.3,698
+tt0158552,tt0539322,6,20,S6,A Wrong Day's Journey Into Right,A Wrong Day's Journey Into Right,2004,,42,"Drama,Fantasy,Mystery",7.2,608
+tt0158552,tt0539479,6,21,S6,Witch Wars,Witch Wars,2004,,42,"Drama,Fantasy,Mystery",7.6,670
+tt0158552,tt0539377,6,22,S6,"It's a Bad, Bad, Bad, Bad World: Part 1","It's a Bad, Bad, Bad, Bad World: Part 1",2004,,42,"Drama,Fantasy,Mystery",8.3,718
+tt0158552,tt0539378,6,23,S6,"It's a Bad, Bad, Bad, Bad World: Part 2","It's a Bad, Bad, Bad, Bad World: Part 2",2004,,42,"Drama,Fantasy,Mystery",8.5,747
+tt0158552,tt0539316,7,1,S7,A Call to Arms,A Call to Arms,2004,,42,"Drama,Fantasy,Mystery",7.3,667
+tt0158552,tt0539442,7,2,S7,The Bare Witch Project,The Bare Witch Project,2004,,42,"Drama,Fantasy,Mystery",7.3,667
+tt0158552,tt0539346,7,3,S7,Cheaper by the Coven,Cheaper by the Coven,2004,,42,"Drama,Fantasy,Mystery",7.6,655
+tt0158552,tt0539345,7,4,S7,Charrrmed!,Charrrmed!,2004,,42,"Drama,Fantasy,Mystery",7.0,626
+tt0158552,tt0539436,7,5,S7,Styx Feet Under,Styx Feet Under,2004,,42,"Drama,Fantasy,Mystery",7.9,672
+tt0158552,tt0539403,7,6,S7,Once in a Blue Moon,Once in a Blue Moon,2004,,42,"Drama,Fantasy,Mystery",7.1,615
+tt0158552,tt0539430,7,7,S7,Someone to Witch Over Me,Someone to Witch Over Me,2004,,42,"Drama,Fantasy,Mystery",7.7,630
+tt0158552,tt0539343,7,8,S7,Charmed Noir,Charmed Noir,2004,,42,"Drama,Fantasy,Mystery",8.1,717
+tt0158552,tt0539465,7,9,S7,There's Something About Leo,There's Something About Leo,2004,,42,"Drama,Fantasy,Mystery",7.9,631
+tt0158552,tt0539482,7,10,S7,Witchness Protection,Witchness Protection,2004,,42,"Drama,Fantasy,Mystery",8.4,711
+tt0158552,tt0539404,7,11,S7,Ordinary Witches,Ordinary Witches,2005,,42,"Drama,Fantasy,Mystery",7.6,597
+tt0158552,tt0539360,7,12,S7,Extreme Makeover World Edition,Extreme Makeover World Edition,2005,,42,"Drama,Fantasy,Mystery",7.9,612
+tt0158552,tt0539340,7,13,S7,Charmageddon,Charmageddon,2005,,42,"Drama,Fantasy,Mystery",8.0,675
+tt0158552,tt0539337,7,14,S7,Carpe Demon,Carpe Demon,2005,,42,"Drama,Fantasy,Mystery",7.5,616
+tt0158552,tt0539424,7,15,S7,Show Ghouls,Show Ghouls,2005,,42,"Drama,Fantasy,Mystery",7.4,631
+tt0158552,tt0539459,7,16,S7,The Seven Year Witch,The Seven Year Witch,2005,,42,"Drama,Fantasy,Mystery",8.5,813
+tt0158552,tt0539420,7,17,S7,Scry Hard,Scry Hard,2005,,42,"Drama,Fantasy,Mystery",7.7,583
+tt0158552,tt0539381,7,18,S7,Little Box of Horrors,Little Box of Horrors,2005,,42,"Drama,Fantasy,Mystery",7.4,588
+tt0158552,tt0539363,7,19,S7,Freaky Phoebe,Freaky Phoebe,2005,,42,"Drama,Fantasy,Mystery",7.4,583
+tt0158552,tt0539375,7,20,S7,Imaginary Fiends,Imaginary Fiends,2005,,42,"Drama,Fantasy,Mystery",7.9,590
+tt0158552,tt0539352,7,21,S7,Death Becomes Them,Death Becomes Them,2005,,42,"Drama,Fantasy,Mystery",7.8,586
+tt0158552,tt0539432,7,22,S7,Something Wicca This Way Goes,Something Wicca This Way Goes,2005,,42,"Drama,Fantasy,Mystery",8.7,819
+tt0158552,tt0539435,8,1,S8,Still Charmed and Kicking,Still Charmed and Kicking,2005,,42,"Drama,Fantasy,Mystery",7.4,692
+tt0158552,tt0539390,8,2,S8,Malice in Wonderland,Malice in Wonderland,2005,,42,"Drama,Fantasy,Mystery",6.5,621
+tt0158552,tt0539416,8,3,S8,"Run, Piper, Run","Run, Piper, Run",2005,,42,"Drama,Fantasy,Mystery",7.3,609
+tt0158552,tt0539354,8,4,S8,Desperate Housewitches,Desperate Housewitches,2005,,42,"Drama,Fantasy,Mystery",7.4,623
+tt0158552,tt0539415,8,5,S8,Rewitched,Rewitched,2005,,42,"Drama,Fantasy,Mystery",7.4,598
+tt0158552,tt0539380,8,6,S8,Kill Billie: Vol.1,Kill Billie: Vol.1,2005,,42,"Drama,Fantasy,Mystery",6.9,560
+tt0158552,tt0539455,8,7,S8,The Lost Picture Show,The Lost Picture Show,2005,,42,"Drama,Fantasy,Mystery",7.1,559
+tt0158552,tt0539330,8,8,S8,Battle of the Hexes,Battle of the Hexes,2005,,42,"Drama,Fantasy,Mystery",6.8,573
+tt0158552,tt0539371,8,9,S8,Hulkus Pocus,Hulkus Pocus,2005,,42,"Drama,Fantasy,Mystery",6.8,569
+tt0158552,tt0539472,8,10,S8,Vaya Con Leos,Vaya Con Leos,2005,,42,"Drama,Fantasy,Mystery",8.2,655
+tt0158552,tt0539393,8,11,S8,Mr. & Mrs. Witch,Mr. & Mrs. Witch,2006,,42,"Drama,Fantasy,Mystery",6.8,559
+tt0158552,tt0539408,8,12,S8,Payback's a Witch,Payback's a Witch,2006,,42,"Drama,Fantasy,Mystery",7.1,548
+tt0158552,tt0539414,8,13,S8,Repo Manor,Repo Manor,2006,,42,"Drama,Fantasy,Mystery",7.4,582
+tt0158552,tt0539315,8,14,S8,12 Angry Zen,12 Angry Zen,2006,,42,"Drama,Fantasy,Mystery",7.2,575
+tt0158552,tt0539453,8,15,S8,The Last Temptation of Christy,The Last Temptation of Christy,2006,,42,"Drama,Fantasy,Mystery",7.1,567
+tt0158552,tt0756430,8,16,S8,Engaged and Confused,Engaged and Confused,2006,,42,"Drama,Fantasy,Mystery",7.7,583
+tt0158552,tt0760401,8,17,S8,Generation Hex,Generation Hex,2006,,42,"Drama,Fantasy,Mystery",7.1,601
+tt0158552,tt0760402,8,18,S8,The Torn Identity,The Torn Identity,2006,,42,"Drama,Fantasy,Mystery",7.2,563
+tt0158552,tt0762605,8,19,S8,The Jung and the Restless,The Jung and the Restless,2006,,42,"Drama,Fantasy,Mystery",7.2,569
+tt0158552,tt0763133,8,20,S8,Gone with the Witches,Gone with the Witches,2006,,42,"Drama,Fantasy,Mystery",7.6,606
+tt0158552,tt0763135,8,21,S8,Kill Billie: Vol. 2,Kill Billie: Vol. 2,2006,,42,"Drama,Fantasy,Mystery",8.5,752
+tt0158552,tt0763134,8,22,S8,Forever Charmed,Forever Charmed,2006,,42,"Drama,Fantasy,Mystery",9.2,1886

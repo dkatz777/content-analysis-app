@@ -1,0 +1,98 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0096569,tt0771719,1,1,S1,Pilot,Pilot,1989,,30,"Comedy,Drama,Family",7.3,136
+tt0096569,tt0564430,1,2,S1,The Ice Queen Cometh,The Ice Queen Cometh,1989,,25,"Comedy,Drama,Family",7.4,93
+tt0096569,tt0817152,1,3,S1,A Stitch Called Wanda,A Stitch Called Wanda,1989,,30,"Comedy,Drama,Family",7.1,97
+tt0096569,tt0817156,1,4,S1,Frisky Business,Frisky Business,1989,,30,"Comedy,Drama,Family",7.2,78
+tt0096569,tt0564431,1,5,S1,The Short Goodbye,The Short Goodbye,1989,,30,"Comedy,Drama,Family",7.2,82
+tt0096569,tt0817159,1,6,S1,Simply Irresistible,Simply Irresistible,1989,,30,"Comedy,Drama,Family",7.4,72
+tt0096569,tt0564437,1,7,S1,Vinnie Video Vici,Vinnie Video Vici,1989,,30,"Comedy,Drama,Family",7.9,79
+tt0096569,tt0564384,1,8,S1,Blood and Remembrance,Blood and Remembrance,1989,,30,"Comedy,Drama,Family",7.0,65
+tt0096569,tt0564425,1,9,S1,"She Ain't Heavy, She's My Cousin","She Ain't Heavy, She's My Cousin",1989,,30,"Comedy,Drama,Family",7.2,66
+tt0096569,tt0564416,1,10,S1,My Old Man and the Sea,My Old Man and the Sea,1989,,300,"Comedy,Drama,Family",7.4,63
+tt0096569,tt0564434,1,11,S1,Tonight's the Night,Tonight's the Night,1989,,30,"Comedy,Drama,Family",7.3,63
+tt0096569,tt0564405,1,12,S1,Every Dog Has His Doogie,Every Dog Has His Doogie,1989,,30,"Comedy,Drama,Family",7.8,65
+tt0096569,tt0564398,1,13,S1,Doogie the Red-Nosed Reindeer,Doogie the Red-Nosed Reindeer,1989,,30,"Comedy,Drama,Family",7.3,61
+tt0096569,tt0564408,1,14,S1,Greed Is Good,Greed Is Good,1990,,30,"Comedy,Drama,Family",7.3,62
+tt0096569,tt0564383,1,15,S1,Attack of the Green-Eyed Monster,Attack of the Green-Eyed Monster,1990,,30,"Comedy,Drama,Family",7.0,65
+tt0096569,tt0817158,1,16,S1,It Ain't Over Till Mrs. Howser Sings,It Ain't Over Till Mrs. Howser Sings,1990,,30,"Comedy,Drama,Family",7.1,60
+tt0096569,tt0564435,1,17,S1,Tough Guys Don't Teach,Tough Guys Don't Teach,1990,,30,"Comedy,Drama,Family",7.3,66
+tt0096569,tt0817157,1,18,S1,I Never Sold Shower Heads for My Father,I Never Sold Shower Heads for My Father,1990,,30,"Comedy,Drama,Family",7.1,59
+tt0096569,tt0564399,1,19,S1,"Doogie's Awesome, Excellent Adventure","Doogie's Awesome, Excellent Adventure",1990,,30,"Comedy,Drama,Family",7.2,61
+tt0096569,tt0564436,1,20,S1,"Use a Slurpy, Go to Jail","Use a Slurpy, Go to Jail",1990,,30,"Comedy,Drama,Family",7.5,77
+tt0096569,tt0564441,1,21,S1,Whose Mid-Life Crisis Is It Anyway?,Whose Mid-Life Crisis Is It Anyway?,1990,,30,"Comedy,Drama,Family",7.3,56
+tt0096569,tt0564438,1,22,S1,Vinnie's Blind Date,Vinnie's Blind Date,1990,,30,"Comedy,Drama,Family",7.2,64
+tt0096569,tt0564381,1,23,S1,And the Winner Is...,And the Winner Is...,1990,,30,"Comedy,Drama,Family",7.0,57
+tt0096569,tt0564385,1,24,S1,Breaking Up Is Hard to Doogie,Breaking Up Is Hard to Doogie,1990,,30,"Comedy,Drama,Family",7.4,59
+tt0096569,tt0564429,1,25,S1,The Grass Ain't Always Greener,The Grass Ain't Always Greener,1990,,30,"Comedy,Drama,Family",7.3,64
+tt0096569,tt0564407,1,26,S1,"Frankly, My Dear, I Don't Give a Grand","Frankly, My Dear, I Don't Give a Grand",1990,,30,"Comedy,Drama,Family",7.3,59
+tt0096569,tt0564391,2,1,S2,Doogenstein,Doogenstein,1990,,,"Comedy,Drama,Family",7.6,59
+tt0096569,tt0819015,2,2,S2,Guess Who's Coming to Doogie's,Guess Who's Coming to Doogie's,1990,,,"Comedy,Drama,Family",7.3,56
+tt0096569,tt0564382,2,3,S2,Ask Dr. Doogie,Ask Dr. Doogie,1990,,,"Comedy,Drama,Family",7.2,56
+tt0096569,tt0564386,2,4,S2,C'est la Vinnie,C'est la Vinnie,1990,,,"Comedy,Drama,Family",7.4,51
+tt0096569,tt0564387,2,5,S2,Car Wars,Car Wars,1990,,,"Comedy,Drama,Family",7.1,53
+tt0096569,tt0564397,2,6,S2,Doogie Sings the Blues,Doogie Sings the Blues,1990,,,"Comedy,Drama,Family",7.8,62
+tt0096569,tt0564379,2,7,S2,Academia Nuts,Academia Nuts,1990,,,"Comedy,Drama,Family",7.0,54
+tt0096569,tt0564422,2,8,S2,Revenge of the Teenage Dead,Revenge of the Teenage Dead,1990,,,"Comedy,Drama,Family",7.4,55
+tt0096569,tt0564417,2,9,S2,Nautilus for Naught,Nautilus for Naught,1990,,,"Comedy,Drama,Family",6.8,59
+tt0096569,tt0819012,2,10,S2,Don't Let the Turkeys Get You Down,Don't Let the Turkeys Get You Down,1990,,30,"Comedy,Drama,Family",7.4,53
+tt0096569,tt0564419,2,11,S2,Oh Very Young,Oh Very Young,1990,,,"Comedy,Drama,Family",7.0,54
+tt0096569,tt0819020,2,12,S2,TV or Not TV,TV or Not TV,1990,,,"Comedy,Drama,Family",6.8,49
+tt0096569,tt0564378,2,13,S2,A Woman Too Far,A Woman Too Far,1990,,,"Comedy,Drama,Family",6.9,52
+tt0096569,tt0819019,2,14,S2,Presumed Guilty,Presumed Guilty,1991,,,"Comedy,Drama,Family",7.6,51
+tt0096569,tt0564433,2,15,S2,To Live and Die in Brentwood,To Live and Die in Brentwood,1991,,,"Comedy,Drama,Family",8.1,52
+tt0096569,tt0564380,2,16,S2,Air Doogie,Air Doogie,1991,,,"Comedy,Drama,Family",6.3,55
+tt0096569,tt0564377,2,17,S2,A Life in Progress,A Life in Progress,1991,,,"Comedy,Drama,Family",7.5,54
+tt0096569,tt0819017,2,18,S2,My Two Dads,My Two Dads,1991,,,"Comedy,Drama,Family",7.0,44
+tt0096569,tt0819018,2,19,S2,Nobody Expects the Spanish Inquisition,Nobody Expects the Spanish Inquisition,1991,,30,"Comedy,Drama,Family",7.1,50
+tt0096569,tt0819014,2,20,S2,Fatal Distraction,Fatal Distraction,1991,,,"Comedy,Drama,Family",7.1,62
+tt0096569,tt0564428,2,21,S2,"The Doctor, the Wife, her Son and the Job","The Doctor, the Wife, her Son and the Job",1991,,,"Comedy,Drama,Family",7.4,49
+tt0096569,tt0564420,2,22,S2,Planet of the Dateless,Planet of the Dateless,1991,,,"Comedy,Drama,Family",7.1,66
+tt0096569,tt0564400,2,23,S2,Doogie's Wager,Doogie's Wager,1991,,,"Comedy,Drama,Family",7.0,41
+tt0096569,tt0564376,2,24,S2,A Kiss Ain't Just a Kiss,A Kiss Ain't Just a Kiss,1991,,,"Comedy,Drama,Family",6.1,45
+tt0096569,tt0564388,2,25,S2,Dances with Wanda,Dances with Wanda,1991,,,"Comedy,Drama,Family",6.9,49
+tt0096569,tt0817163,3,1,S3,The Summer of '91,The Summer of '91,1991,,,"Comedy,Drama,Family",7.8,80
+tt0096569,tt0564395,3,2,S3,Doogie Has Left the Building: Part 1,Doogie Has Left the Building: Part 1,1991,,,"Comedy,Drama,Family",7.3,47
+tt0096569,tt0564396,3,3,S3,Doogie Has Left the Building: Part 2,Doogie Has Left the Building: Part 2,1991,,,"Comedy,Drama,Family",7.5,47
+tt0096569,tt0564410,3,4,S3,It's a Damm Shaman,It's a Damm Shaman,1991,,,"Comedy,Drama,Family",6.8,46
+tt0096569,tt0564427,3,5,S3,The Cheese Stands Alone,The Cheese Stands Alone,1991,,,"Comedy,Drama,Family",7.5,46
+tt0096569,tt0564412,3,6,S3,Lonesome Doog,Lonesome Doog,1991,,,"Comedy,Drama,Family",7.0,47
+tt0096569,tt0564440,3,7,S3,When Doogie Comes Marching Home,When Doogie Comes Marching Home,1991,,,"Comedy,Drama,Family",6.9,43
+tt0096569,tt0564401,3,8,S3,Doogstruck,Doogstruck,1991,,,"Comedy,Drama,Family",7.5,49
+tt0096569,tt0564423,3,9,S3,Room and Broad,Room and Broad,1991,,,"Comedy,Drama,Family",7.0,42
+tt0096569,tt0817154,3,10,S3,Doogiesomething,Doogiesomething,1991,,,"Comedy,Drama,Family",7.7,43
+tt0096569,tt0817164,3,11,S3,Truth and Consequences,Truth and Consequences,1991,,,"Comedy,Drama,Family",7.1,39
+tt0096569,tt0766720,3,12,S3,It's a Wonderful Laugh,It's a Wonderful Laugh,1991,,,"Comedy,Drama,Family",6.8,43
+tt0096569,tt0564389,3,13,S3,Dangerous Reunions,Dangerous Reunions,1992,,,"Comedy,Drama,Family",6.8,43
+tt0096569,tt0564415,3,14,S3,Mummy Dearest,Mummy Dearest,1992,,,"Comedy,Drama,Family",6.7,39
+tt0096569,tt0564403,3,15,S3,Double Doogie with Cheese,Double Doogie with Cheese,1992,,,"Comedy,Drama,Family",6.7,39
+tt0096569,tt0564432,3,16,S3,The Show Mustn't Go On,The Show Mustn't Go On,1992,,,"Comedy,Drama,Family",7.1,42
+tt0096569,tt0564409,3,17,S3,"If This Is Adulthood, I'd Rather Be in Philadelphia","If This Is Adulthood, I'd Rather Be in Philadelphia",1992,,,"Comedy,Drama,Family",7.0,35
+tt0096569,tt0564439,3,18,S3,What You See Ain't Necessarily What You Get,What You See Ain't Necessarily What You Get,1992,,,"Comedy,Drama,Family",6.8,40
+tt0096569,tt0564406,3,19,S3,"My Father, My Self","My Father, My Self",1992,,,"Comedy,Drama,Family",7.4,39
+tt0096569,tt0564404,3,20,S3,Educating Janine,Educating Janine,1992,,,"Comedy,Drama,Family",6.9,37
+tt0096569,tt0564426,3,21,S3,Sons of the Desert,Sons of the Desert,1992,,,"Comedy,Drama,Family",6.6,43
+tt0096569,tt0817161,3,22,S3,That's What Friends Are For,That's What Friends Are For,1992,,,"Comedy,Drama,Family",7.2,38
+tt0096569,tt0817160,3,23,S3,Thanks for the Memories,Thanks for the Memories,1992,,,"Comedy,Drama,Family",7.1,35
+tt0096569,tt0817153,3,24,S3,Club Medicine,Club Medicine,1992,,,"Comedy,Drama,Family",7.0,35
+tt0096569,tt0824928,4,1,S4,There's a Riot Going On,There's a Riot Going On,1992,,,"Comedy,Drama,Family",7.3,46
+tt0096569,tt0819016,4,2,S4,"Look Ma, No Pants","Look Ma, No Pants",1992,,,"Comedy,Drama,Family",6.7,41
+tt0096569,tt0564394,4,3,S4,Doogie Got a Gun,Doogie Got a Gun,1992,,,"Comedy,Drama,Family",6.7,40
+tt0096569,tt0564393,4,4,S4,Doogie Doesn't Live Here Anymore,Doogie Doesn't Live Here Anymore,1992,,,"Comedy,Drama,Family",6.4,46
+tt0096569,tt0819024,4,5,S4,The Patient in Spite of Himself,The Patient in Spite of Himself,1992,,30,"Comedy,Drama,Family",6.7,41
+tt0096569,tt0819025,4,6,S4,"To Err Is Human, to Give Up Isn't a Bad Idea","To Err Is Human, to Give Up Isn't a Bad Idea",1992,,,"Comedy,Drama,Family",6.0,43
+tt0096569,tt0564392,4,7,S4,"Doogie, Can You Hear Me?","Doogie, Can You Hear Me?",1992,,30,"Comedy,Drama,Family",7.6,65
+tt0096569,tt0564418,4,8,S4,Nothing Compares 2 U,Nothing Compares 2 U,1992,,,"Comedy,Drama,Family",6.6,60
+tt0096569,tt0564390,4,9,S4,Do the Right Thing... If You Can Figure Out What It Is,Do the Right Thing... If You Can Figure Out What It Is,1992,,,"Comedy,Drama,Family",6.7,37
+tt0096569,tt0819022,4,10,S4,The Big Sleep... Not!,The Big Sleep... Not!,1992,,,"Comedy,Drama,Family",6.3,42
+tt0096569,tt0564442,4,11,S4,Will the Real Dr. Howser Please Stand Up,Will the Real Dr. Howser Please Stand Up,1992,,,"Comedy,Drama,Family",6.8,39
+tt0096569,tt0819023,4,12,S4,The Mother of All Fishing Trips,The Mother of All Fishing Trips,1992,,,"Comedy,Drama,Family",6.6,37
+tt0096569,tt0564424,4,13,S4,Roommate with a View,Roommate with a View,1992,,30,"Comedy,Drama,Family",6.3,42
+tt0096569,tt0774807,4,14,S4,Spell It 'M-A-N',Spell It 'M-A-N',1993,,,"Comedy,Drama,Family",6.8,40
+tt0096569,tt0564411,4,15,S4,It's a Tough Job... But Why Does My Father Have to Do It?,It's a Tough Job... But Why Does My Father Have to Do It?,1993,,,"Comedy,Drama,Family",6.8,42
+tt0096569,tt0819021,4,16,S4,The Adventures of Sherlock Howser,The Adventures of Sherlock Howser,1993,,,"Comedy,Drama,Family",6.8,40
+tt0096569,tt0564414,4,17,S4,Love Means Constantly Having to Say You're Sorry,Love Means Constantly Having to Say You're Sorry,1993,,,"Comedy,Drama,Family",6.8,45
+tt0096569,tt0564421,4,18,S4,"You've Come a Long Way, Babysitter","You've Come a Long Way, Babysitter",1993,,,"Comedy,Drama,Family",7.4,40
+tt0096569,tt0564413,4,19,S4,Love Makes the World Go 'Round... or Is It Money?,Love Makes the World Go 'Round... or Is It Money?,1993,,,"Comedy,Drama,Family",6.7,45
+tt0096569,tt0564402,4,20,S4,"Dorky Housecall, M.D.","Dorky Housecall, M.D.",1993,,,"Comedy,Drama,Family",7.1,45
+tt0096569,tt0819013,4,21,S4,Eleven Angry People... and Vinnie,Eleven Angry People... and Vinnie,1993,,,"Comedy,Drama,Family",7.2,37
+tt0096569,tt0819026,4,22,S4,What Makes Doogie Run,What Makes Doogie Run,1993,,,"Comedy,Drama,Family",6.4,57

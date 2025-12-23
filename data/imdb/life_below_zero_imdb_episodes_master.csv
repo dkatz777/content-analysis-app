@@ -1,0 +1,271 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt2964642,tt3070118,1,1,S1,End of the Road,End of the Road,2013,,44,"Adventure,Documentary,Reality-TV",7.6,58
+tt2964642,tt3076960,1,2,S1,"Hunt, Barter and Steal","Hunt, Barter and Steal",2013,,44,"Adventure,Documentary,Reality-TV",7.4,45
+tt2964642,tt3070126,1,3,S1,Winters Edge,Winters Edge,2013,,44,"Adventure,Documentary,Reality-TV",7.3,45
+tt2964642,tt3070128,1,4,S1,Wolf at the Door,Wolf at the Door,2013,,44,"Adventure,Documentary,Reality-TV",7.4,40
+tt2964642,tt3076964,1,5,S1,"Blood, Sweat and Fear","Blood, Sweat and Fear",2013,,44,"Adventure,Documentary,Reality-TV",7.4,39
+tt2964642,tt3070120,1,6,S1,There Be Monsters,There Be Monsters,2013,,44,"Adventure,Documentary,Reality-TV",7.5,33
+tt2964642,tt3070098,1,7,S1,Cold Dark and Alone,Cold Dark and Alone,2013,,44,"Adventure,Documentary,Reality-TV",7.7,35
+tt2964642,tt3070090,1,8,S1,Checkmate,Checkmate,2013,,43,"Adventure,Documentary,Reality-TV",7.4,34
+tt2964642,tt3070092,1,9,S1,The Chase,The Chase,2013,,43,"Adventure,Documentary,Reality-TV",7.5,31
+tt2964642,tt3070088,1,10,S1,Hell and High Water,Hell and High Water,2013,,43,"Adventure,Documentary,Reality-TV",7.8,33
+tt2964642,tt3480592,2,1,S2,Hunt or Be Hunted,Hunt or Be Hunted,2013,,43,"Adventure,Documentary,Reality-TV",7.5,27
+tt2964642,tt3480596,2,2,S2,The Meltdown,The Meltdown,2013,,43,"Adventure,Documentary,Reality-TV",7.7,25
+tt2964642,tt3480602,2,3,S2,The Mess of Success,The Mess of Success,2013,,42,"Adventure,Documentary,Reality-TV",7.3,22
+tt2964642,tt3480604,2,4,S2,Hungry Country,Hungry Country,2013,,42,"Adventure,Documentary,Reality-TV",7.4,22
+tt2964642,tt3480610,2,5,S2,No Time to Lose,No Time to Lose,2013,,43,"Adventure,Documentary,Reality-TV",7.4,23
+tt2964642,tt3480618,2,6,S2,Long Road Home,Long Road Home,2013,,43,"Adventure,Documentary,Reality-TV",7.4,24
+tt2964642,tt3798272,3,1,S3,Winter's Warning,Winter's Warning,2014,,43,"Adventure,Documentary,Reality-TV",7.5,25
+tt2964642,tt3798276,3,2,S3,Deadly Grounds,Deadly Grounds,2014,,42,"Adventure,Documentary,Reality-TV",7.6,23
+tt2964642,tt3798278,3,3,S3,Dark Times Ahead,Dark Times Ahead,2014,,42,"Adventure,Documentary,Reality-TV",7.5,22
+tt2964642,tt3798280,3,4,S3,Calling the Wild,Calling the Wild,2014,,43,"Adventure,Documentary,Reality-TV",7.7,20
+tt2964642,tt3798284,3,5,S3,Fire and Ice,Fire and Ice,2014,,43,"Adventure,Documentary,Reality-TV",7.4,20
+tt2964642,tt3798286,3,6,S3,Thin Ice,Thin Ice,2014,,43,"Adventure,Documentary,Reality-TV",7.5,19
+tt2964642,tt4093516,3,7,S3,Return to the Wild,Return to the Wild,2014,,43,"Adventure,Documentary,Reality-TV",7.7,20
+tt2964642,tt4093510,3,8,S3,No Mercy,No Mercy,2014,,42,"Adventure,Documentary,Reality-TV",7.6,19
+tt2964642,tt4093530,3,9,S3,Breaking Point,Breaking Point,2014,,43,"Adventure,Documentary,Reality-TV",7.7,16
+tt2964642,tt4094402,3,10,S3,Search and Rescue,Search and Rescue,2014,,43,"Adventure,Documentary,Reality-TV",7.0,17
+tt2964642,tt4094422,3,11,S3,The Howling,The Howling,2014,,42,"Adventure,Documentary,Reality-TV",7.7,17
+tt2964642,tt4094428,3,12,S3,Dark Winter's End,Dark Winter's End,2014,,43,"Adventure,Documentary,Reality-TV",7.7,17
+tt2964642,tt4765228,3,13,S3,Independent by Nature,Independent by Nature,2014,,43,"Adventure,Documentary,Reality-TV",7.7,12
+tt2964642,tt3510564,3,14,S3,Through the Darkness,Through the Darkness,2014,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt4094460,4,1,S4,The Waiting Game,The Waiting Game,2014,,43,"Adventure,Documentary,Reality-TV",7.7,20
+tt2964642,tt4094462,4,2,S4,Opportunity Knocks,Opportunity Knocks,2014,,43,"Adventure,Documentary,Reality-TV",7.6,18
+tt2964642,tt4094464,4,3,S4,The Harvest,The Harvest,2014,,42,"Adventure,Documentary,Reality-TV",7.4,19
+tt2964642,tt4267276,4,4,S4,Sink or Swim,Sink or Swim,2014,,43,"Adventure,Documentary,Reality-TV",7.6,18
+tt2964642,tt4267376,4,5,S4,Ticking Clock,Ticking Clock,2014,,43,"Adventure,Documentary,Reality-TV",7.6,18
+tt2964642,tt4267412,4,6,S4,Last Minute Push,Last Minute Push,2014,,42,"Adventure,Documentary,Reality-TV",7.8,19
+tt2964642,tt4267414,4,7,S4,End of Days,End of Days,2014,,43,"Adventure,Documentary,Reality-TV",7.6,18
+tt2964642,tt4633528,5,1,S5,Ready or Not,Ready or Not,2015,,43,"Adventure,Documentary,Reality-TV",8.1,18
+tt2964642,tt4633554,5,2,S5,Armed for Winter,Armed for Winter,2015,,43,"Adventure,Documentary,Reality-TV",7.3,17
+tt2964642,tt4633562,5,3,S5,Out of Control,Out of Control,2015,,43,"Adventure,Documentary,Reality-TV",7.9,20
+tt2964642,tt4666510,5,4,S5,The Unknown,The Unknown,2015,,43,"Adventure,Documentary,Reality-TV",8.0,17
+tt2964642,tt4666518,5,5,S5,Ice Highway,Ice Highway,2015,,43,"Adventure,Documentary,Reality-TV",7.5,18
+tt2964642,tt4682550,5,6,S5,Darkness Falls,Darkness Falls,2015,,42,"Adventure,Documentary,Reality-TV",7.5,16
+tt2964642,tt4718524,5,7,S5,Alone in the Dark,Alone in the Dark,2015,,42,"Adventure,Documentary,Reality-TV",7.9,16
+tt2964642,tt4720498,5,8,S5,Emergency Cache,Emergency Cache,2015,,43,"Adventure,Documentary,Reality-TV",7.7,15
+tt2964642,tt4738394,5,9,S5,No Easy Out,No Easy Out,2015,,43,"Adventure,Documentary,Reality-TV",7.8,15
+tt2964642,tt4765412,5,10,S5,Bent and Broken,Bent and Broken,2015,,43,"Adventure,Documentary,Reality-TV",8.1,15
+tt2964642,tt4765438,5,11,S5,The Crash,The Crash,2015,,43,"Adventure,Documentary,Reality-TV",8.2,16
+tt2964642,tt4765470,5,12,S5,Aftermath,Aftermath,2015,,42,"Adventure,Documentary,Reality-TV",8.1,16
+tt2964642,tt4761956,5,13,S5,Beyond Survival,Beyond Survival,2015,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt5073170,6,1,S6,The Resurrection,The Resurrection,2015,,43,"Adventure,Documentary,Reality-TV",7.8,17
+tt2964642,tt5073454,6,2,S6,The Bottom Line,The Bottom Line,2015,,43,"Adventure,Documentary,Reality-TV",7.8,13
+tt2964642,tt5073762,6,3,S6,Running on Empty,Running on Empty,2015,,43,"Adventure,Documentary,Reality-TV",7.8,14
+tt2964642,tt5073810,6,4,S6,Red Flag,Red Flag,2015,,43,"Adventure,Documentary,Reality-TV",7.8,13
+tt2964642,tt5106170,6,5,S6,Predator Control,Predator Control,2015,,43,"Adventure,Documentary,Reality-TV",7.7,13
+tt2964642,tt5199932,6,6,S6,Divide and Conquer,Divide and Conquer,2015,,43,"Adventure,Documentary,Reality-TV",7.8,13
+tt2964642,tt5200180,6,7,S6,Under the Gun,Under the Gun,2016,,43,"Adventure,Documentary,Reality-TV",7.6,14
+tt2964642,tt5200282,6,8,S6,Lost in the Wild,Lost in the Wild,2016,,43,"Adventure,Documentary,Reality-TV",7.7,13
+tt2964642,tt5546678,7,1,S7,On the Edge,On the Edge,2016,,43,"Adventure,Documentary,Reality-TV",7.6,22
+tt2964642,tt5546712,7,2,S7,Pride and Power,Pride and Power,2016,,43,"Adventure,Documentary,Reality-TV",7.8,17
+tt2964642,tt5553718,7,3,S7,Falling Apart,Falling Apart,2016,,43,"Adventure,Documentary,Reality-TV",7.6,17
+tt2964642,tt5641614,7,4,S7,Deadly Tracks,Deadly Tracks,2016,,43,"Adventure,Documentary,Reality-TV",7.9,15
+tt2964642,tt5641616,7,5,S7,Breaking Through,Breaking Through,2016,,43,"Adventure,Documentary,Reality-TV",8.0,15
+tt2964642,tt5641618,7,6,S7,Shakedown,Shakedown,2016,,43,"Adventure,Documentary,Reality-TV",8.0,15
+tt2964642,tt5672424,7,7,S7,Ghosts of Winter,Ghosts of Winter,2016,,43,"Adventure,Documentary,Reality-TV",7.9,17
+tt2964642,tt5687864,7,8,S7,No Boundaries,No Boundaries,2016,,43,"Adventure,Documentary,Reality-TV",7.4,16
+tt2964642,tt5750220,7,9,S7,Trapped and Hunted,Trapped and Hunted,2016,,43,"Adventure,Documentary,Reality-TV",7.6,15
+tt2964642,tt5777908,7,10,S7,Winter Kill,Winter Kill,2016,,43,"Adventure,Documentary,Reality-TV",7.4,18
+tt2964642,tt5932776,7,11,S7,Sue Aikens,Sue Aikens,2016,,44,"Adventure,Documentary,Reality-TV",6.9,16
+tt2964642,tt5777912,7,12,S7,Loaded,Loaded,2016,,43,"Adventure,Documentary,Reality-TV",7.5,19
+tt2964642,tt5796228,7,13,S7,The Hailstones,The Hailstones,2016,,44,"Adventure,Documentary,Reality-TV",8.6,16
+tt2964642,tt5796226,7,14,S7,No Shortcuts,No Shortcuts,2016,,43,"Adventure,Documentary,Reality-TV",7.4,16
+tt2964642,tt5796238,7,15,S7,Glenn Villeneuve,Glenn Villeneuve,2016,,44,"Adventure,Documentary,Reality-TV",7.0,11
+tt2964642,tt6158558,8,1,S8,The Confrontation,The Confrontation,2016,,46,"Adventure,Documentary,Reality-TV",7.2,18
+tt2964642,tt6182776,8,2,S8,Blindsided,Blindsided,2016,,46,"Adventure,Documentary,Reality-TV",7.8,14
+tt2964642,tt6187910,8,3,S8,River of Rage,River of Rage,2016,,46,"Adventure,Documentary,Reality-TV",7.7,15
+tt2964642,tt6210782,8,4,S8,Head Above Water,Head Above Water,2016,,46,"Adventure,Documentary,Reality-TV",7.6,17
+tt2964642,tt6253816,8,5,S8,Against the Tide,Against the Tide,2016,,46,"Adventure,Documentary,Reality-TV",7.8,15
+tt2964642,tt6262634,8,6,S8,The Slow Grind,The Slow Grind,2016,,46,"Adventure,Documentary,Reality-TV",8.1,17
+tt2964642,tt6278240,8,7,S8,Midnight Sun,Midnight Sun,2016,,46,"Adventure,Documentary,Reality-TV",7.6,18
+tt2964642,tt6298120,8,8,S8,Higher Ground,Higher Ground,2016,,46,"Adventure,Documentary,Reality-TV",7.6,17
+tt2964642,tt6143438,8,9,S8,Tools of the Trade,Tools of the Trade,2016,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt6340842,8,10,S8,Andy Bassich,Andy Bassich,2016,,44,"Adventure,Documentary,Reality-TV",8.4,6
+tt2964642,tt6367574,8,11,S8,Renegades of the Arctic,Renegades of the Arctic,2016,,44,"Adventure,Documentary,Reality-TV",7.6,6
+tt2964642,tt6573428,9,1,S9,Unfamiliar Territory,Unfamiliar Territory,2017,,46,"Adventure,Documentary,Reality-TV",8.1,23
+tt2964642,tt7121656,9,2,S9,Howl of the Wild,Howl of the Wild,2017,,46,"Adventure,Documentary,Reality-TV",8.0,20
+tt2964642,tt7140944,9,3,S9,The 11th Hour,The 11th Hour,2017,,46,"Adventure,Documentary,Reality-TV",8.1,16
+tt2964642,tt7140950,9,4,S9,Burn the Midnight Oil,Burn the Midnight Oil,2017,,46,"Adventure,Documentary,Reality-TV",8.6,17
+tt2964642,tt7167166,9,5,S9,Arctic Super Moon,Arctic Super Moon,2017,,46,"Adventure,Documentary,Reality-TV",8.5,17
+tt2964642,tt7212644,9,6,S9,Winter's Grip,Winter's Grip,2017,,46,"Adventure,Documentary,Reality-TV",8.2,15
+tt2964642,tt7252750,9,7,S9,Shelter from the Storm,Shelter from the Storm,2017,,46,"Adventure,Documentary,Reality-TV",8.5,17
+tt2964642,tt7282308,9,8,S9,False Start,False Start,2017,,46,"Adventure,Documentary,Reality-TV",8.1,16
+tt2964642,tt7083556,9,9,S9,Seasons of Change,Seasons of Change,2017,,44,"Adventure,Documentary,Reality-TV",8.4,8
+tt2964642,tt7816528,10,1,S10,Homecoming,Homecoming,2018,,46,"Adventure,Documentary,Reality-TV",8.1,27
+tt2964642,tt7816656,10,2,S10,New Territory,New Territory,2018,,46,"Adventure,Documentary,Reality-TV",7.8,23
+tt2964642,tt7846388,10,3,S10,Facing Fears,Facing Fears,2018,,46,"Adventure,Documentary,Reality-TV",8.4,18
+tt2964642,tt7880440,10,4,S10,To Catch a King,To Catch a King,2018,,46,"Adventure,Documentary,Reality-TV",8.5,16
+tt2964642,tt7913014,10,5,S10,The Intruder,The Intruder,2018,,46,"Adventure,Documentary,Reality-TV",8.4,16
+tt2964642,tt7945766,10,6,S10,Heavy Load,Heavy Load,2018,,46,"Adventure,Documentary,Reality-TV",8.4,19
+tt2964642,tt7970506,10,7,S10,The Widowmaker,The Widowmaker,2018,,46,"Adventure,Documentary,Reality-TV",8.3,16
+tt2964642,tt8014828,10,8,S10,Close Encounter,Close Encounter,2018,,46,"Adventure,Documentary,Reality-TV",8.4,16
+tt2964642,tt8371776,10,10,S10,Hounds of the Arctic,Hounds of the Arctic,2018,,44,"Adventure,Documentary,Reality-TV",9.4,6
+tt2964642,tt8158814,10,11,S10,Cold Comfort,Cold Comfort,2018,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt8371694,10,13,S10,Queens of the North,Queens of the North,2018,,44,"Adventure,Documentary,Reality-TV",9.7,7
+tt2964642,tt8371752,10,15,S10,Give Me Shelter,Give Me Shelter,2018,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt8371688,10,17,S10,Land of Ice and Fire,Land of Ice and Fire,2018,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt8755892,11,1,S11,Changing of the Guard,Changing of the Guard,2018,,46,"Adventure,Documentary,Reality-TV",8.3,27
+tt2964642,tt8755898,11,2,S11,End of the Rope,End of the Rope,2018,,46,"Adventure,Documentary,Reality-TV",8.2,21
+tt2964642,tt8755900,11,3,S11,No Guarantees,No Guarantees,2018,,46,"Adventure,Documentary,Reality-TV",7.9,19
+tt2964642,tt8755904,11,4,S11,Arctic Harvest,Arctic Harvest,2018,,46,"Adventure,Documentary,Reality-TV",8.3,20
+tt2964642,tt8755906,11,5,S11,Home Again,Home Again,2018,,46,"Adventure,Documentary,Reality-TV",8.2,19
+tt2964642,tt8755908,11,6,S11,The Great Unknown,The Great Unknown,2018,,46,"Adventure,Documentary,Reality-TV",8.2,19
+tt2964642,tt8755910,11,7,S11,A Lesson Learned,A Lesson Learned,2018,,46,"Adventure,Documentary,Reality-TV",8.1,19
+tt2964642,tt8755912,11,8,S11,Into the Storm,Into the Storm,2018,,46,"Adventure,Documentary,Reality-TV",8.1,19
+tt2964642,tt8755918,11,9,S11,Trail of Wolves,Trail of Wolves,2018,,46,"Adventure,Documentary,Reality-TV",7.9,20
+tt2964642,tt8755920,11,10,S11,Trial by Fire,Trial by Fire,2018,,46,"Adventure,Documentary,Reality-TV",8.7,23
+tt2964642,tt8755922,11,11,S11,Window of Opportunity,Window of Opportunity,2018,,46,"Adventure,Documentary,Reality-TV",8.0,18
+tt2964642,tt8755924,11,12,S11,Winds of Change,Winds of Change,2018,,46,"Adventure,Documentary,Reality-TV",7.9,18
+tt2964642,tt8912500,11,13,S11,The Burning Man,The Burning Man,2018,,46,"Adventure,Documentary,Reality-TV",7.6,19
+tt2964642,tt8999986,11,14,S11,Open Season,Open Season,2018,,46,"Adventure,Documentary,Reality-TV",7.9,16
+tt2964642,tt9080736,11,15,S11,The Great Changeover,The Great Changeover,2018,,46,"Adventure,Documentary,Reality-TV",8.2,16
+tt2964642,tt9109102,11,16,S11,The Nightmare,The Nightmare,2018,,46,"Adventure,Documentary,Reality-TV",8.4,17
+tt2964642,tt9109112,11,17,S11,Treading Water,Treading Water,2018,,46,"Adventure,Documentary,Reality-TV",8.3,16
+tt2964642,tt9573648,11,18,S11,Highways of the Arctic,Highways of the Arctic,2018,,46,"Adventure,Documentary,Reality-TV",8.1,15
+tt2964642,tt9427996,11,19,S11,Back in the Saddle,Back in the Saddle,2018,,46,"Adventure,Documentary,Reality-TV",8.1,14
+tt2964642,tt9317824,11,20,S11,Race Against Time,Race Against Time,2018,,46,"Adventure,Documentary,Reality-TV",7.9,14
+tt2964642,tt9690046,11,21,S11,No One Fights Alone,No One Fights Alone,2018,,46,"Adventure,Documentary,Reality-TV",7.8,14
+tt2964642,tt9690496,11,22,S11,Cost of Winter,Cost of Winter,2018,,46,"Adventure,Documentary,Reality-TV",8.2,15
+tt2964642,tt11027716,12,1,S12,Winds of Change,Winds of Change,2018,,46,"Adventure,Documentary,Reality-TV",8.4,18
+tt2964642,tt11045296,12,2,S12,The Burning Man,The Burning Man,2018,,44,"Adventure,Documentary,Reality-TV",7.9,13
+tt2964642,tt11045448,12,3,S12,Open Season,Open Season,2019,,46,"Adventure,Documentary,Reality-TV",7.8,15
+tt2964642,tt11045512,12,4,S12,The Great Changeover,The Great Changeover,2019,,46,"Adventure,Documentary,Reality-TV",8.4,17
+tt2964642,tt11045570,12,5,S12,The Nightmare,The Nightmare,2019,,44,"Adventure,Documentary,Reality-TV",8.2,15
+tt2964642,tt11193126,12,6,S12,Treading Water,Treading Water,2019,,46,"Adventure,Documentary,Reality-TV",8.1,14
+tt2964642,tt11193180,12,7,S12,Highways of the Arctic,Highways of the Arctic,2019,,46,"Adventure,Documentary,Reality-TV",8.4,13
+tt2964642,tt11193254,12,8,S12,Back in the Saddle,Back in the Saddle,2019,,44,"Adventure,Documentary,Reality-TV",7.8,14
+tt2964642,tt11197102,12,9,S12,Race Against Time,Race Against Time,2019,,46,"Adventure,Documentary,Reality-TV",7.9,13
+tt2964642,tt11197330,12,10,S12,No One Fights Alone,No One Fights Alone,2019,,46,"Adventure,Documentary,Reality-TV",8.2,13
+tt2964642,tt11290540,12,11,S12,Cost of Winter,Cost of Winter,2019,,44,"Adventure,Documentary,Reality-TV",7.5,13
+tt2964642,tt11290564,12,12,S12,Winters End,Winters End,2018,,44,"Adventure,Documentary,Reality-TV",8.0,12
+tt2964642,tt11290598,12,13,S12,First Blood,First Blood,2019,,46,"Adventure,Documentary,Reality-TV",8.6,14
+tt2964642,tt11290686,12,14,S12,Shock & Awe,Shock & Awe,2019,,44,"Adventure,Documentary,Reality-TV",8.3,11
+tt2964642,tt11565194,12,15,S12,Domino Effect,Domino Effect,2019,,46,"Adventure,Documentary,Reality-TV",8.2,11
+tt2964642,tt11565192,12,16,S12,Bear Scare,Bear Scare,2020,,46,"Adventure,Documentary,Reality-TV",8.5,13
+tt2964642,tt11565188,12,17,S12,New Country,New Country,2020,,46,"Adventure,Documentary,Reality-TV",8.6,13
+tt2964642,tt11565190,12,18,S12,Beware the Wild,Beware the Wild,2020,,44,"Adventure,Documentary,Reality-TV",8.4,13
+tt2964642,tt11728408,12,19,S12,The New World,The New World,2020,,44,"Adventure,Documentary,Reality-TV",8.5,15
+tt2964642,tt13055378,13,1,S13,Adapt or Die,Adapt or Die,2019,,44,"Adventure,Documentary,Reality-TV",8.7,12
+tt2964642,tt13488302,13,2,S13,Life and Death,Life and Death,2019,,43,"Adventure,Documentary,Reality-TV",8.5,10
+tt2964642,tt13488356,13,3,S13,Taking Chances,Taking Chances,2019,,43,"Adventure,Documentary,Reality-TV",8.8,10
+tt2964642,tt13488370,13,4,S13,The Other Side,The Other Side,2019,,43,"Adventure,Documentary,Reality-TV",9.0,9
+tt2964642,tt13488408,13,5,S13,Into the Night,Into the Night,2019,,43,"Adventure,Documentary,Reality-TV",9.0,8
+tt2964642,tt13488422,13,6,S13,Bone Cold,Bone Cold,2019,,43,"Adventure,Documentary,Reality-TV",9.0,8
+tt2964642,tt13488428,13,7,S13,Man Down,Man Down,2019,,43,"Adventure,Documentary,Reality-TV",9.0,8
+tt2964642,tt13488432,13,8,S13,Blood Lines,Blood Lines,2019,,43,"Adventure,Documentary,Reality-TV",9.0,8
+tt2964642,tt26939202,13,9,S13,Arctic Discipline,Arctic Discipline,2019,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt26939201,13,10,S13,Ultimate Sacrifice,Ultimate Sacrifice,2019,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt13488440,14,1,S14,Bare Bones,Bare Bones,2019,,43,"Adventure,Documentary,Reality-TV",9.0,10
+tt2964642,tt13488444,14,2,S14,The Big Catch,The Big Catch,2019,,43,"Adventure,Documentary,Reality-TV",9.0,8
+tt2964642,tt13574340,14,3,S14,Bad Bones,Bad Bones,2019,,43,"Adventure,Documentary,Reality-TV",9.0,8
+tt2964642,tt13574344,14,4,S14,Inside Out,Inside Out,2019,,43,"Adventure,Documentary,Reality-TV",8.3,9
+tt2964642,tt13663370,14,5,S14,Past Lives,Past Lives,2020,,43,"Adventure,Documentary,Reality-TV",7.9,9
+tt2964642,tt13663416,14,6,S14,Full Circle,Full Circle,2020,,43,"Adventure,Documentary,Reality-TV",9.1,9
+tt2964642,tt13742860,14,7,S14,Sky's the Limit,Sky's the Limit,2020,,44,"Adventure,Documentary,Reality-TV",9.0,7
+tt2964642,tt13742870,14,8,S14,Dead Weight,Dead Weight,2020,,43,"Adventure,Documentary,Reality-TV",8.8,7
+tt2964642,tt13875828,14,9,S14,Second Nature,Second Nature,2021,,43,"Adventure,Documentary,Reality-TV",8.5,8
+tt2964642,tt13875848,14,10,S14,Young Guns,Young Guns,2021,,43,"Adventure,Documentary,Reality-TV",9.2,7
+tt2964642,tt13875868,14,11,S14,Lost and Found,Lost and Found,2021,,43,"Adventure,Documentary,Reality-TV",9.2,8
+tt2964642,tt14651682,15,1,S15,Brink of Water,Brink of Water,2020,,44,"Adventure,Documentary,Reality-TV",9.0,10
+tt2964642,tt14651686,15,2,S15,Life & Death,Life & Death,2020,,44,"Adventure,Documentary,Reality-TV",8.3,9
+tt2964642,tt14651692,15,3,S15,Taking Chances,Taking Chances,2020,,44,"Adventure,Documentary,Reality-TV",8.8,7
+tt2964642,tt14651698,15,4,S15,The Other Side,The Other Side,2020,,44,"Adventure,Documentary,Reality-TV",8.8,7
+tt2964642,tt26935786,15,5,S15,Into the Night,Into the Night,2020,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt14651706,15,6,S15,Bone Cold,Bone Cold,2020,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt26935802,15,7,S15,Man Down,Man Down,2020,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt26939221,15,8,S15,Blood Lines,Blood Lines,2020,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt14651708,16,1,S16,Bare Bones,Bare Bones,2020,,44,"Adventure,Documentary,Reality-TV",8.5,8
+tt2964642,tt14651712,16,2,S16,The Big Catch,The Big Catch,2020,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt26935813,16,3,S16,Bad Bones,Bad Bones,2020,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt26935817,16,4,S16,Inside Out,Inside Out,2020,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt26935823,16,5,S16,Past Lives,Past Lives,2020,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt26935824,16,6,S16,Full Circle,Full Circle,2020,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt26935825,16,7,S16,Sky's the Limit,Sky's the Limit,2020,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt26935829,16,8,S16,Dead Weight,Dead Weight,2020,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt26935830,16,9,S16,Second Nature,Second Nature,2021,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt26935831,16,10,S16,Young Guns,Young Guns,2021,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt26935836,16,11,S16,Lost and Found,Lost and Found,2021,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt15274160,17,1,S17,Winter's Surprise,Winter's Surprise,2021,,44,"Adventure,Documentary,Reality-TV",7.1,9
+tt2964642,tt15512350,17,2,S17,Breaking Trail,Breaking Trail,2021,,44,"Adventure,Documentary,Reality-TV",8.8,7
+tt2964642,tt15512360,17,3,S17,Cold Harvest,Cold Harvest,2021,,44,"Adventure,Documentary,Reality-TV",9.2,7
+tt2964642,tt15512390,17,4,S17,Cold Rage,Cold Rage,2021,,44,"Adventure,Documentary,Reality-TV",8.4,7
+tt2964642,tt15707012,17,5,S17,Creature of the Night,Creature of the Night,2021,,44,"Adventure,Documentary,Reality-TV",9.0,7
+tt2964642,tt15707020,17,6,S17,Whiteout,Whiteout,2021,,44,"Adventure,Documentary,Reality-TV",8.8,7
+tt2964642,tt15707026,17,7,S17,Fast Food,Fast Food,2021,,44,"Adventure,Documentary,Reality-TV",7.8,8
+tt2964642,tt15736516,17,8,S17,Cold Crusade,Cold Crusade,2021,,44,"Adventure,Documentary,Reality-TV",9.0,7
+tt2964642,tt16279564,17,9,S17,Winter Reigns,Winter Reigns,2021,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt16279580,17,10,S17,Bad Break,Bad Break,2021,,44,"Adventure,Documentary,Reality-TV",8.4,7
+tt2964642,tt16279596,17,11,S17,The Beast,The Beast,2021,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt16279624,18,1,S18,Swept Away,Swept Away,2021,,44,"Adventure,Documentary,Reality-TV",8.9,9
+tt2964642,tt16852562,18,2,S18,Something Out There,Something Out There,2021,,44,"Adventure,Documentary,Reality-TV",9.0,7
+tt2964642,tt16852566,18,3,S18,Raging Waters,Raging Waters,2021,,44,"Adventure,Documentary,Reality-TV",9.2,7
+tt2964642,tt16852570,18,4,S18,Open Wounds,Open Wounds,2021,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt16852558,18,5,S18,Chasing Ghosts,Chasing Ghosts,2021,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt21985340,18,6,S18,Fire in the Sky,Fire in the Sky,2021,,44,"Adventure,Documentary,Reality-TV",8.6,7
+tt2964642,tt21993316,18,7,S18,A Hunt to Remember,A Hunt to Remember,2022,,44,"Adventure,Documentary,Reality-TV",9.0,7
+tt2964642,tt21993364,18,8,S18,Rite of Passage,Rite of Passage,2022,,44,"Adventure,Documentary,Reality-TV",8.8,7
+tt2964642,tt21993440,19,1,S19,Blood on the Ground,Blood on the Ground,2022,,44,"Adventure,Documentary,Reality-TV",9.0,7
+tt2964642,tt22052110,19,2,S19,The Dead of Night,The Dead of Night,2022,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt22178704,19,3,S19,Frigid Fortitudes,Frigid Fortitudes,2022,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt22178708,19,4,S19,Shadow Dwellers,Shadow Dwellers,2022,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt22388860,19,5,S19,A Storm to Remember,A Storm to Remember,2022,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt22528628,19,6,S19,Into the Freeze,Into the Freeze,2022,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt22742248,19,7,S19,Burdens of Winter,Burdens of Winter,2022,,44,"Adventure,Documentary,Reality-TV",9.0,7
+tt2964642,tt22896076,19,8,S19,"Hard Lessons, Lasting Impressions","Hard Lessons, Lasting Impressions",2022,,44,"Adventure,Documentary,Reality-TV",9.0,7
+tt2964642,tt23077416,19,9,S19,Can't Change the Fear,Can't Change the Fear,2022,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt23392404,19,10,S19,Snared,Snared,2022,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt24121824,19,11,S19,Forbidden Lands,Forbidden Lands,2022,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt24125716,20,1,S20,Women of the North,Women of the North,2022,,44,"Adventure,Documentary,Reality-TV",9.0,8
+tt2964642,tt24131012,20,2,S20,Break Up Time is Wake Up Time,Break Up Time is Wake Up Time,2022,,44,"Adventure,Documentary,Reality-TV",9.0,7
+tt2964642,tt24126152,20,3,S20,The Burden of Possessions,The Burden of Possessions,2022,,44,"Adventure,Documentary,Reality-TV",8.8,7
+tt2964642,tt24126362,20,4,S20,Trials & Tributaries,Trials & Tributaries,2022,,44,"Adventure,Documentary,Reality-TV",9.0,7
+tt2964642,tt26929050,20,5,S20,Strange New World,Strange New World,2022,,44,"Adventure,Documentary,Reality-TV",9.0,7
+tt2964642,tt26929058,20,6,S20,A Game of Chance,A Game of Chance,2022,,44,"Adventure,Documentary,Reality-TV",9.2,7
+tt2964642,tt26929059,20,7,S20,Last Taste of Summer,Last Taste of Summer,2022,,44,"Adventure,Documentary,Reality-TV",9.0,8
+tt2964642,tt26929062,20,8,S20,The Pursuit,The Pursuit,2023,,44,"Adventure,Documentary,Reality-TV",8.9,9
+tt2964642,tt29293108,21,1,S21,Pulled from the Darkness,Pulled from the Darkness,2023,,44,"Adventure,Documentary,Reality-TV",9.0,8
+tt2964642,tt29293119,21,2,S21,Like Ghosts,Like Ghosts,2023,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt29293125,21,3,S21,On the Auroras,On the Auroras,2023,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt29293139,21,4,S21,Off the Deep End,Off the Deep End,2023,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt29337022,21,5,S21,Going in Circles,Going in Circles,2023,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt29419179,21,6,S21,From Here to There,From Here to There,2023,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt29551996,21,7,S21,The Foundation,The Foundation,2023,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt29551999,21,8,S21,The Rising Tides,The Rising Tides,2023,,44,"Adventure,Documentary,Reality-TV",9.8,8
+tt2964642,tt36303558,21,9,S21,The Silent Hunter,The Silent Hunter,2023,,,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt36303573,21,10,S21,Paving Paths,Paving Paths,2023,,,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt36303586,21,11,S21,Waking from Winter,Waking from Winter,2023,,,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt32919641,22,1,S22,Destroyer of Worlds,Destroyer of Worlds,2023,,44,"Adventure,Documentary,Reality-TV",9.3,8
+tt2964642,tt32919644,22,2,S22,Bulletproof,Bulletproof,2023,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt32919646,22,3,S22,Transitions,Transitions,2023,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt32919647,22,4,S22,The Way of the Bear,The Way of the Bear,2023,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt32919649,22,5,S22,Summer Camp,Summer Camp,2023,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt32919651,22,6,S22,Run Aground,Run Aground,2023,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt32919654,22,7,S22,Beyond the Tundra,Beyond the Tundra,2024,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt32919655,22,8,S22,Respect the Wild,Respect the Wild,2024,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt33406417,23,1,S23,Deep Dark Winter,Deep Dark Winter,2025,,44,"Adventure,Documentary,Reality-TV",9.2,8
+tt2964642,tt35603597,23,2,S23,Night Moves,Night Moves,2024,,44,"Adventure,Documentary,Reality-TV",9.2,7
+tt2964642,tt35604073,23,3,S23,School of Ice,School of Ice,2024,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35604082,23,4,S23,Creatures of Darkness,Creatures of Darkness,2024,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35604128,23,5,S23,Dog Eat Dog,Dog Eat Dog,2024,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35604527,23,6,S23,What's Up From Down,What's Up From Down,2024,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35604642,23,7,S23,Return of the Herd,Return of the Herd,2024,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35604663,23,8,S23,Night Country,Night Country,2024,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt34622171,23,9,S23,Rites of Winter,Rites of Winter,2024,,44,"Adventure,Documentary,Reality-TV",9.5,8
+tt2964642,tt34622173,23,10,S23,Tastes Like Home,Tastes Like Home,2024,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt34622172,23,11,S23,It's Never Easy,It's Never Easy,2024,,44,"Adventure,Documentary,Reality-TV",9.4,7
+tt2964642,tt35604702,23,12,S23,100 Miles From Nowhere,100 Miles From Nowhere,2025,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35604705,23,13,S23,Into the Tundra,Into the Tundra,2025,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35604708,23,14,S23,Mama's Home,Mama's Home,2025,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35619407,23,15,S23,Rising Waters,Rising Waters,2025,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35619412,23,16,S23,The Warming,The Warming,2025,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35619476,23,17,S23,"High Risk, High Reward","High Risk, High Reward",2025,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35619621,23,18,S23,The Rat Race,The Rat Race,2025,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35619662,23,19,S23,A New Reality,A New Reality,2025,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt35619669,23,20,S23,The Last Snow,The Last Snow,2025,,44,"Adventure,Documentary,Reality-TV",9.6,9
+tt2964642,tt32896406,,,,Fight to freeze,Fight to freeze,2023,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt4094456,,,,The Awakening,The Awakening,2014,,42,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt5073168,,,,Land of Extremes,Land of Extremes,2015,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt5521644,,,,Codes of Survival,Codes of Survival,2016,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt8371726,,,,Predator vs. Prey,Predator vs. Prey,2018,,44,"Adventure,Documentary,Reality-TV",,
+tt2964642,tt8371744,,,,Alone,Alone,2018,,,"Adventure,Documentary,Reality-TV",,

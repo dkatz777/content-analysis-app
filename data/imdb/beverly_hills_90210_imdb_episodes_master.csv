@@ -1,0 +1,293 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0098749,tt0125674,1,1,S1,Class of Beverly Hills,Class of Beverly Hills,1990,,94,"Drama,Romance",7.1,1117
+tt0098749,tt0522954,1,2,S1,The Green Room,The Green Room,1990,,46,"Drama,Romance",7.0,465
+tt0098749,tt0522794,1,3,S1,Every Dream Has Its Price (Tag),Every Dream Has Its Price (Tag),1990,,46,"Drama,Romance",6.7,416
+tt0098749,tt0522947,1,4,S1,The First Time,The First Time,1990,,47,"Drama,Romance",7.1,389
+tt0098749,tt0522880,1,5,S1,One on One,One on One,1990,,46,"Drama,Romance",6.7,349
+tt0098749,tt0522824,1,6,S1,Higher Education,Higher Education,1990,,47,"Drama,Romance",7.2,351
+tt0098749,tt0522886,1,7,S1,Perfect Mom,Perfect Mom,1990,,45,"Drama,Romance",7.4,373
+tt0098749,tt0522938,1,8,S1,The 17 Year Itch,The 17 Year Itch,1990,,47,"Drama,Romance",6.3,345
+tt0098749,tt0522951,1,9,S1,The Gentle Art of Listening,The Gentle Art of Listening,1990,,47,"Drama,Romance",7.3,365
+tt0098749,tt0522843,1,10,S1,Isn't It Romantic?,Isn't It Romantic?,1991,,47,"Drama,Romance",7.6,389
+tt0098749,tt0522745,1,11,S1,B.Y.O.B.,B.Y.O.B.,1991,,47,"Drama,Romance",7.4,341
+tt0098749,tt0522878,1,12,S1,One Man and a Baby,One Man and a Baby,1991,,46,"Drama,Romance",6.5,322
+tt0098749,tt0522914,1,13,S1,Slumber Party,Slumber Party,1991,,45,"Drama,Romance",7.6,394
+tt0098749,tt0522790,1,14,S1,East Side Story,East Side Story,1991,,47,"Drama,Romance",6.2,340
+tt0098749,tt0522720,1,15,S1,A Fling in Palm Springs,A Fling in Palm Springs,1991,,47,"Drama,Romance",7.2,328
+tt0098749,tt0522799,1,16,S1,Fame Is Where You Find It,Fame Is Where You Find It,1991,,45,"Drama,Romance",6.9,328
+tt0098749,tt0522926,1,17,S1,Stand (Up) and Deliver,Stand (Up) and Deliver,1991,,47,"Drama,Romance",6.4,309
+tt0098749,tt0522844,1,18,S1,It's Only a Test,It's Only a Test,1991,,47,"Drama,Romance",7.2,317
+tt0098749,tt0522742,1,19,S1,April Is the Cruelest Month,April Is the Cruelest Month,1991,,47,"Drama,Romance",6.8,332
+tt0098749,tt0522924,1,20,S1,Spring Training,Spring Training,1991,,45,"Drama,Romance",6.3,282
+tt0098749,tt0522922,1,21,S1,Spring Dance,Spring Dance,1991,,46,"Drama,Romance",7.7,369
+tt0098749,tt0522826,1,22,S1,Home Again,Home Again,1991,,46,"Drama,Romance",7.4,315
+tt0098749,tt0522749,2,1,S2,Beach Blanket Brandon,Beach Blanket Brandon,1991,,45,"Drama,Romance",7.1,299
+tt0098749,tt0522964,2,2,S2,The Party Fish,The Party Fish,1991,,46,"Drama,Romance",6.5,289
+tt0098749,tt0522932,2,3,S2,Summer Storm,Summer Storm,1991,,46,"Drama,Romance",7.1,293
+tt0098749,tt0522738,2,4,S2,Anaconda,Anaconda,1991,,45,"Drama,Romance",6.9,278
+tt0098749,tt0522889,2,5,S2,"Play It Again, David","Play It Again, David",1991,,46,"Drama,Romance",6.7,271
+tt0098749,tt0522885,2,6,S2,"Pass, Not Pass","Pass, Not Pass",1991,,45,"Drama,Romance",6.9,253
+tt0098749,tt0522758,2,7,S2,Camping Trip,Camping Trip,1991,,46,"Drama,Romance",7.4,294
+tt0098749,tt0522999,2,8,S2,Wildfire,Wildfire,1991,,44,"Drama,Romance",7.2,265
+tt0098749,tt0522743,2,9,S2,Ashes to Ashes,Ashes to Ashes,1991,,45,"Drama,Romance",6.4,326
+tt0098749,tt0522874,2,10,S2,Necessity Is a Mother,Necessity Is a Mother,1991,,45,"Drama,Romance",6.6,266
+tt0098749,tt0522850,2,11,S2,Leading from the Heart,Leading from the Heart,1991,,45,"Drama,Romance",6.8,290
+tt0098749,tt0522787,2,12,S2,Down and Out of District in Beverly Hills,Down and Out of District in Beverly Hills,1991,,45,"Drama,Romance",6.7,270
+tt0098749,tt0522817,2,13,S2,Halloween,Halloween,1991,,46,"Drama,Romance",7.3,297
+tt0098749,tt0522963,2,14,S2,The Next Fifty Years,The Next Fifty Years,1991,,46,"Drama,Romance",7.5,311
+tt0098749,tt0522986,2,15,S2,U4EA,U4EA,1991,,45,"Drama,Romance",7.6,302
+tt0098749,tt0522871,2,16,S2,My Desperate Valentine,My Desperate Valentine,1991,,46,"Drama,Romance",7.2,281
+tt0098749,tt0522764,2,17,S2,Chuckie's Back,Chuckie's Back,1991,,46,"Drama,Romance",6.9,250
+tt0098749,tt0522728,2,18,S2,A Walsh Family Christmas,A Walsh Family Christmas,1991,,68,"Drama,Romance",7.7,268
+tt0098749,tt0522803,2,19,S2,Fire and Ice,Fire and Ice,1992,,46,"Drama,Romance",6.6,265
+tt0098749,tt0522718,2,20,S2,A Competitive Edge,A Competitive Edge,1992,,46,"Drama,Romance",6.6,249
+tt0098749,tt0522795,2,21,S2,Everybody's Talking 'Bout It,Everybody's Talking 'Bout It,1992,,45,"Drama,Romance",6.8,240
+tt0098749,tt0522746,2,22,S2,Baby Makes Five,Baby Makes Five,1992,,46,"Drama,Romance",6.6,241
+tt0098749,tt0522759,2,23,S2,Cardio-Funk,Cardio-Funk,1992,,46,"Drama,Romance",6.5,221
+tt0098749,tt0522967,2,24,S2,The Pit and the Pendulum,The Pit and the Pendulum,1992,,46,"Drama,Romance",6.7,252
+tt0098749,tt0522863,2,25,S2,Meeting Mr. Pony,Meeting Mr. Pony,1992,,46,"Drama,Romance",7.2,252
+tt0098749,tt0522978,2,26,S2,Things to Do on a Rainy Day,Things to Do on a Rainy Day,1992,,46,"Drama,Romance",7.3,258
+tt0098749,tt0522864,2,27,S2,Mexican Standoff,Mexican Standoff,1992,,45,"Drama,Romance",7.3,239
+tt0098749,tt0522994,2,28,S2,Wedding Bell Blues,Wedding Bell Blues,1992,,45,"Drama,Romance",7.5,252
+tt0098749,tt0522866,3,1,S3,Misery Loves Company,Misery Loves Company,1992,,46,"Drama,Romance",7.0,237
+tt0098749,tt0522972,3,2,S3,"The Twins, the Trustee, and the Very Big Trip","The Twins, the Trustee, and the Very Big Trip",1992,,45,"Drama,Romance",7.1,233
+tt0098749,tt0522981,3,3,S3,"Too Little, Too Late/Paris 75001","Too Little, Too Late/Paris 75001",1992,,46,"Drama,Romance",6.8,230
+tt0098749,tt0522908,3,4,S3,"Sex, Lies and Volleyball/Photo Fini","Sex, Lies and Volleyball/Photo Fini",1992,,46,"Drama,Romance",6.9,221
+tt0098749,tt0522910,3,5,S3,Shooting Star/American in Paris,Shooting Star/American in Paris,1992,,46,"Drama,Romance",7.0,231
+tt0098749,tt0522760,3,6,S3,Castles in the Sand,Castles in the Sand,1992,,46,"Drama,Romance",7.0,237
+tt0098749,tt0522727,3,7,S3,Song of Myself,Song of Myself,1992,,46,"Drama,Romance",6.9,224
+tt0098749,tt0522939,3,8,S3,The Back Story,The Back Story,1992,,46,"Drama,Romance",6.9,226
+tt0098749,tt0522825,3,9,S3,Highwire,Highwire,1992,,46,"Drama,Romance",6.7,213
+tt0098749,tt0522828,3,10,S3,Home and Away,Home and Away,1992,,46,"Drama,Romance",6.5,224
+tt0098749,tt0522724,3,11,S3,A Presumption of Innocence,A Presumption of Innocence,1992,,46,"Drama,Romance",6.9,231
+tt0098749,tt0522780,3,12,S3,Destiny Rides Again,Destiny Rides Again,1992,,45,"Drama,Romance",7.3,227
+tt0098749,tt0522897,3,13,S3,Rebel with a Cause,Rebel with a Cause,1992,,45,"Drama,Romance",7.1,229
+tt0098749,tt0522998,3,14,S3,Wild Horses,Wild Horses,1992,,45,"Drama,Romance",6.5,230
+tt0098749,tt0522955,3,15,S3,The Kindness of Strangers,The Kindness of Strangers,1992,,46,"Drama,Romance",6.7,219
+tt0098749,tt0522845,3,16,S3,It's a Totally Happening Life,It's a Totally Happening Life,1992,,45,"Drama,Romance",6.1,260
+tt0098749,tt0522950,3,17,S3,The Game Is Chicken,The Game Is Chicken,1993,,46,"Drama,Romance",6.9,230
+tt0098749,tt0522865,3,18,S3,Midlife... Now What?,Midlife... Now What?,1993,,46,"Drama,Romance",6.8,213
+tt0098749,tt0522748,3,19,S3,Back in the High Life Again,Back in the High Life Again,1993,,45,"Drama,Romance",7.4,217
+tt0098749,tt0522884,3,20,S3,Parental Guidance Recommended,Parental Guidance Recommended,1993,,45,"Drama,Romance",7.0,204
+tt0098749,tt0522777,3,21,S3,Dead End,Dead End,1993,,46,"Drama,Romance",7.5,212
+tt0098749,tt0522941,3,22,S3,The Child Is Father to the Man,The Child Is Father to the Man,1993,,45,"Drama,Romance",7.4,220
+tt0098749,tt0522788,3,23,S3,Duke's Bad Boy,Duke's Bad Boy,1993,,46,"Drama,Romance",6.9,202
+tt0098749,tt0522887,3,24,S3,Perfectly Perfect,Perfectly Perfect,1993,,46,"Drama,Romance",7.2,210
+tt0098749,tt0522905,3,25,S3,Senior Poll,Senior Poll,1993,,46,"Drama,Romance",7.0,209
+tt0098749,tt0522909,3,26,S3,She Came in Through the Bathroom Window,She Came in Through the Bathroom Window,1993,,60,"Drama,Romance",6.8,229
+tt0098749,tt0522722,3,27,S3,A Night to Remember,A Night to Remember,1993,,43,"Drama,Romance",7.5,220
+tt0098749,tt0522918,3,28,S3,Something in the Air,Something in the Air,1993,,46,"Drama,Romance",7.4,233
+tt0098749,tt0522769,3,29,S3,Commencement: Part 1,Commencement: Part 1,1993,,93,"Drama,Romance",7.2,215
+tt0098749,tt0522770,3,30,S3,Commencement: Part 2,Commencement: Part 2,1993,,93,"Drama,Romance",7.6,250
+tt0098749,tt0522917,4,1,S4,"So Long, Farewell, Auf Wiedersehen, Goodbye","So Long, Farewell, Auf Wiedersehen, Goodbye",1993,,46,"Drama,Romance",7.0,206
+tt0098749,tt0522953,4,2,S4,The Girl from New York City,The Girl from New York City,1993,,46,"Drama,Romance",6.9,196
+tt0098749,tt0522958,4,3,S4,The Little Fish,The Little Fish,1993,,45,"Drama,Romance",7.1,204
+tt0098749,tt0522815,4,4,S4,Greek to Me,Greek to Me,1993,,42,"Drama,Romance",6.7,197
+tt0098749,tt0522893,4,5,S4,Radio Daze,Radio Daze,1993,,46,"Drama,Romance",6.9,190
+tt0098749,tt0522930,4,6,S4,Strangers in the Night,Strangers in the Night,1993,,45,"Drama,Romance",6.9,195
+tt0098749,tt0522868,4,7,S4,Moving Targets,Moving Targets,1993,,45,"Drama,Romance",6.8,193
+tt0098749,tt0522985,4,8,S4,Twenty Years Ago Today,Twenty Years Ago Today,1993,,46,"Drama,Romance",7.2,204
+tt0098749,tt0522881,4,9,S4,Otherwise Engaged,Otherwise Engaged,1993,,44,"Drama,Romance",6.9,184
+tt0098749,tt0522739,4,10,S4,And Did It... My Way,And Did It... My Way,1993,,45,"Drama,Romance",7.2,201
+tt0098749,tt0522936,4,11,S4,Take Back the Night,Take Back the Night,1993,,45,"Drama,Romance",7.3,213
+tt0098749,tt0522892,4,12,S4,Radar Love,Radar Love,1993,,45,"Drama,Romance",7.2,206
+tt0098749,tt0522792,4,13,S4,Emily,Emily,1993,,45,"Drama,Romance",6.8,201
+tt0098749,tt0523000,4,14,S4,Windstruck,Windstruck,1993,,45,"Drama,Romance",6.6,190
+tt0098749,tt0522919,4,15,S4,Somewhere in the World It's Christmas,Somewhere in the World It's Christmas,1993,,43,"Drama,Romance",6.6,179
+tt0098749,tt0522774,4,16,S4,Crunch Time,Crunch Time,1994,,45,"Drama,Romance",6.9,192
+tt0098749,tt0522976,4,17,S4,Thicker Than Water,Thicker Than Water,1994,,45,"Drama,Romance",6.9,188
+tt0098749,tt0522820,4,18,S4,Heartbreaker,Heartbreaker,1994,,45,"Drama,Romance",6.9,186
+tt0098749,tt0522956,4,19,S4,The Labors of Love,The Labors of Love,1994,,45,"Drama,Romance",6.5,192
+tt0098749,tt0522904,4,20,S4,Scared Very Straight,Scared Very Straight,1994,,45,"Drama,Romance",7.1,201
+tt0098749,tt0522730,4,21,S4,Addicted to Love,Addicted to Love,1994,,44,"Drama,Romance",7.3,195
+tt0098749,tt0522761,4,22,S4,Change Partners,Change Partners,1994,,44,"Drama,Romance",7.3,200
+tt0098749,tt0522723,4,23,S4,A Pig Is a Boy Is a Dog,A Pig Is a Boy Is a Dog,1994,,44,"Drama,Romance",6.7,192
+tt0098749,tt0522775,4,24,S4,Cuffs and Links,Cuffs and Links,1994,,45,"Drama,Romance",6.8,193
+tt0098749,tt0522971,4,25,S4,The Time Has Come Today,The Time Has Come Today,1994,,44,"Drama,Romance",6.8,236
+tt0098749,tt0522752,4,26,S4,Blind Spot,Blind Spot,1994,,46,"Drama,Romance",6.8,193
+tt0098749,tt0522782,4,27,S4,Divas,Divas,1994,,45,"Drama,Romance",7.1,194
+tt0098749,tt0522729,4,28,S4,Acting Out,Acting Out,1994,,46,"Drama,Romance",6.9,185
+tt0098749,tt0522983,4,29,S4,Truth and Consequences,Truth and Consequences,1994,,45,"Drama,Romance",6.9,192
+tt0098749,tt0522992,4,30,S4,Vital Signs,Vital Signs,1994,,45,"Drama,Romance",6.6,188
+tt0098749,tt0522869,4,31,S4,Mr. Walsh Goes to Washington,Mr. Walsh Goes to Washington,1994,,88,"Drama,Romance",7.5,220
+tt0098749,tt0522995,5,1,S5,What I Did on My Summer Vacation and Other Stories,What I Did on My Summer Vacation and Other Stories,1994,,45,"Drama,Romance",7.2,198
+tt0098749,tt0522987,5,2,S5,Under the Influence,Under the Influence,1994,,45,"Drama,Romance",7.0,184
+tt0098749,tt0522717,5,3,S5,A Clean Slate,A Clean Slate,1994,,45,"Drama,Romance",7.1,187
+tt0098749,tt0522853,5,4,S5,Life after Death,Life after Death,1994,,45,"Drama,Romance",7.0,179
+tt0098749,tt0522894,5,5,S5,Rave On,Rave On,1994,,44,"Drama,Romance",7.2,180
+tt0098749,tt0522829,5,6,S5,Homecoming,Homecoming,1994,,44,"Drama,Romance",6.8,183
+tt0098749,tt0522997,5,7,S5,Who's Zoomin' Who?,Who's Zoomin' Who?,1994,,45,"Drama,Romance",7.1,179
+tt0098749,tt0522977,5,8,S5,Things That Go Bang in the Night,Things That Go Bang in the Night,1994,,44,"Drama,Romance",7.3,179
+tt0098749,tt0522842,5,9,S5,Intervention,Intervention,1994,,45,"Drama,Romance",7.4,176
+tt0098749,tt0522942,5,10,S5,The Dreams of Dylan McKay,The Dreams of Dylan McKay,1994,,44,"Drama,Romance",6.6,198
+tt0098749,tt0522818,5,11,S5,Hate Is Just a Four Letter Word,Hate Is Just a Four Letter Word,1994,,45,"Drama,Romance",6.3,184
+tt0098749,tt0522902,5,12,S5,Rock of Ages,Rock of Ages,1994,,42,"Drama,Romance",6.7,167
+tt0098749,tt0522990,5,13,S5,Up in Flames,Up in Flames,1994,,44,"Drama,Romance",7.5,195
+tt0098749,tt0522841,5,14,S5,Injustice for All,Injustice for All,1994,,45,"Drama,Romance",7.2,182
+tt0098749,tt0522763,5,15,S5,Christmas Comes This Time Each Year,Christmas Comes This Time Each Year,1994,,43,"Drama,Romance",6.9,177
+tt0098749,tt0522907,5,16,S5,Sentenced to Life,Sentenced to Life,1995,,43,"Drama,Romance",7.2,190
+tt0098749,tt0522934,5,17,S5,Sweating It Out,Sweating It Out,1995,,42,"Drama,Romance",7.0,177
+tt0098749,tt0522819,5,18,S5,Hazardous to Your Health,Hazardous to Your Health,1995,,44,"Drama,Romance",7.7,204
+tt0098749,tt0522854,5,19,S5,Little Monsters,Little Monsters,1995,,40,"Drama,Romance",7.1,174
+tt0098749,tt0523004,5,20,S5,You Gotta Have Heart,You Gotta Have Heart,1995,,41,"Drama,Romance",6.8,160
+tt0098749,tt0522928,5,21,S5,Stormy Weather,Stormy Weather,1995,,44,"Drama,Romance",7.2,170
+tt0098749,tt0522737,5,22,S5,Alone at the Top,Alone at the Top,1995,,41,"Drama,Romance",7.2,170
+tt0098749,tt0522858,5,23,S5,Love Hurts,Love Hurts,1995,,41,"Drama,Romance",7.5,181
+tt0098749,tt0522989,5,24,S5,Unreal World,Unreal World,1995,,45,"Drama,Romance",7.0,182
+tt0098749,tt0522786,5,25,S5,Double Jeopardy,Double Jeopardy,1995,,45,"Drama,Romance",6.7,153
+tt0098749,tt0522726,5,26,S5,A Song for My Mother,A Song for My Mother,1995,,41,"Drama,Romance",7.0,175
+tt0098749,tt0522925,5,27,S5,Squash It,Squash It,1995,,44,"Drama,Romance",6.5,168
+tt0098749,tt0522812,5,28,S5,Girls on the Side,Girls on the Side,1995,,44,"Drama,Romance",6.9,167
+tt0098749,tt0522968,5,29,S5,The Real McCoy,The Real McCoy,1995,,45,"Drama,Romance",5.2,199
+tt0098749,tt0522822,5,30,S5,"Hello Life, Goodbye Beverly Hills","Hello Life, Goodbye Beverly Hills",1995,,44,"Drama,Romance",7.7,197
+tt0098749,tt0522882,5,31,S5,P.S. I Love You: Part 1,P.S. I Love You: Part 1,1995,,85,"Drama,Romance",7.2,172
+tt0098749,tt0522883,5,32,S5,P.S. I Love You: Part 2,P.S. I Love You: Part 2,1995,,85,"Drama,Romance",7.5,174
+tt0098749,tt0522827,6,1,S6,Home Is Where the Tart Is,Home Is Where the Tart Is,1995,,50,"Drama,Romance",7.0,169
+tt0098749,tt0522757,6,2,S6,Buffalo Gals,Buffalo Gals,1995,,42,"Drama,Romance",6.9,150
+tt0098749,tt0522870,6,3,S6,Must Be a Guy Thing,Must Be a Guy Thing,1995,,45,"Drama,Romance",6.9,149
+tt0098749,tt0522796,6,4,S6,Everything's Coming Up Roses,Everything's Coming Up Roses,1995,,44,"Drama,Romance",7.0,158
+tt0098749,tt0522860,6,5,S6,Lover's Leap,Lover's Leap,1995,,45,"Drama,Romance",7.0,162
+tt0098749,tt0522920,6,6,S6,Speechless,Speechless,1995,,45,"Drama,Romance",7.6,169
+tt0098749,tt0522991,6,7,S6,Violated,Violated,1995,,45,"Drama,Romance",7.5,157
+tt0098749,tt0522816,6,8,S6,"Gypsies, Cramps and Fleas","Gypsies, Cramps and Fleas",1995,,43,"Drama,Romance",7.1,169
+tt0098749,tt0522789,6,9,S6,Earthquake Weather,Earthquake Weather,1995,,45,"Drama,Romance",7.2,159
+tt0098749,tt0522879,6,10,S6,One Wedding and a Funeral,One Wedding and a Funeral,1995,,45,"Drama,Romance",8.4,285
+tt0098749,tt0522877,6,11,S6,Offensive Interference,Offensive Interference,1995,,45,"Drama,Romance",6.6,152
+tt0098749,tt0522755,6,12,S6,Breast Side Up,Breast Side Up,1995,,44,"Drama,Romance",6.8,153
+tt0098749,tt0522772,6,13,S6,Courting,Courting,1995,,44,"Drama,Romance",6.9,157
+tt0098749,tt0522807,6,14,S6,Fortunate Son,Fortunate Son,1995,,45,"Drama,Romance",6.2,163
+tt0098749,tt0522741,6,15,S6,Angels We Have Heard on High,Angels We Have Heard on High,1995,,44,"Drama,Romance",6.8,152
+tt0098749,tt0522984,6,16,S6,Turn Back the Clock,Turn Back the Clock,1996,,45,"Drama,Romance",7.0,148
+tt0098749,tt0522798,6,17,S6,"Fade In, Fade Out","Fade In, Fade Out",1996,,44,"Drama,Romance",6.6,164
+tt0098749,tt0522916,6,18,S6,Snowbound,Snowbound,1996,,45,"Drama,Romance",6.8,159
+tt0098749,tt0522873,6,19,S6,Nancy's Choice,Nancy's Choice,1996,,45,"Drama,Romance",6.9,155
+tt0098749,tt0522805,6,20,S6,Flying,Flying,1996,,44,"Drama,Romance",7.0,150
+tt0098749,tt0522751,6,21,S6,Bleeding Hearts,Bleeding Hearts,1996,,44,"Drama,Romance",7.5,161
+tt0098749,tt0522734,6,22,S6,All This and Mary Too,All This and Mary Too,1996,,44,"Drama,Romance",6.6,154
+tt0098749,tt0522851,6,23,S6,Leap of Faith,Leap of Faith,1996,,45,"Drama,Romance",6.8,157
+tt0098749,tt0522768,6,24,S6,"Coming Out, Getting Out, Going Out","Coming Out, Getting Out, Going Out",1996,,44,"Drama,Romance",6.6,161
+tt0098749,tt0522915,6,25,S6,Smashed,Smashed,1996,,44,"Drama,Romance",6.8,149
+tt0098749,tt0522804,6,26,S6,Flirting with Disaster,Flirting with Disaster,1996,,44,"Drama,Romance",6.5,159
+tt0098749,tt0522931,6,27,S6,Strike the Match,Strike the Match,1996,,44,"Drama,Romance",6.9,138
+tt0098749,tt0522940,6,28,S6,The Big Hurt,The Big Hurt,1996,,44,"Drama,Romance",6.9,136
+tt0098749,tt0522979,6,29,S6,Ticket to Ride,Ticket to Ride,1996,,44,"Drama,Romance",6.6,142
+tt0098749,tt0522895,6,30,S6,Ray of Hope,Ray of Hope,1996,,42,"Drama,Romance",7.0,149
+tt0098749,tt0523006,6,31,S6,You Say It's Your Birthday: Part 1,You Say It's Your Birthday: Part 1,1996,,60,"Drama,Romance",7.2,138
+tt0098749,tt0523007,6,32,S6,You Say It's Your Birthday: Part 2,You Say It's Your Birthday: Part 2,1996,,89,"Drama,Romance",7.0,144
+tt0098749,tt0522899,7,1,S7,Remember the Alamo,Remember the Alamo,1996,,44,"Drama,Romance",6.5,162
+tt0098749,tt0522823,7,2,S7,Here We Go Again,Here We Go Again,1996,,44,"Drama,Romance",6.3,137
+tt0098749,tt0522721,7,3,S7,A Mate for Life,A Mate for Life,1996,,45,"Drama,Romance",6.5,149
+tt0098749,tt0522781,7,4,S7,Disappearing Act,Disappearing Act,1996,,44,"Drama,Romance",6.6,147
+tt0098749,tt0522890,7,5,S7,Pledging My Love,Pledging My Love,1996,,45,"Drama,Romance",6.6,134
+tt0098749,tt0522830,7,6,S7,Housewarming,Housewarming,1996,,43,"Drama,Romance",6.8,137
+tt0098749,tt0522801,7,7,S7,Fearless,Fearless,1996,,43,"Drama,Romance",6.7,143
+tt0098749,tt0522970,7,8,S7,The Things We Do for Love,The Things We Do for Love,1996,,44,"Drama,Romance",6.8,142
+tt0098749,tt0522856,7,9,S7,Loser Take All,Loser Take All,1996,,44,"Drama,Romance",6.7,142
+tt0098749,tt0522857,7,10,S7,Lost in Las Vegas,Lost in Las Vegas,1996,,43,"Drama,Romance",6.7,133
+tt0098749,tt0522839,7,11,S7,If I Had a Hammer,If I Had a Hammer,1996,,44,"Drama,Romance",6.6,140
+tt0098749,tt0522847,7,12,S7,Judgement Day,Judgement Day,1996,,45,"Drama,Romance",7.2,144
+tt0098749,tt0522811,7,13,S7,Gift Wrapped,Gift Wrapped,1996,,44,"Drama,Romance",6.8,127
+tt0098749,tt0522846,7,14,S7,Jobbed,Jobbed,1997,,44,"Drama,Romance",6.4,130
+tt0098749,tt0522888,7,15,S7,Phantom of CU,Phantom of CU,1997,,44,"Drama,Romance",6.6,128
+tt0098749,tt0522988,7,16,S7,Unnecessary Roughness,Unnecessary Roughness,1997,,44,"Drama,Romance",6.4,141
+tt0098749,tt0522797,7,17,S7,Face-Off,Face-Off,1997,,44,"Drama,Romance",6.6,140
+tt0098749,tt0522993,7,18,S7,We Interrupt This Program,We Interrupt This Program,1997,,44,"Drama,Romance",7.3,141
+tt0098749,tt0522872,7,19,S7,My Funny Valentine,My Funny Valentine,1997,,42,"Drama,Romance",6.8,128
+tt0098749,tt0523001,7,20,S7,With This Ring,With This Ring,1997,,44,"Drama,Romance",7.2,154
+tt0098749,tt0522929,7,21,S7,Straight Shooter,Straight Shooter,1997,,44,"Drama,Romance",6.7,130
+tt0098749,tt0522725,7,22,S7,A Ripe Young Age,A Ripe Young Age,1997,,44,"Drama,Romance",6.2,137
+tt0098749,tt0522927,7,23,S7,Storm Warning,Storm Warning,1997,,44,"Drama,Romance",6.6,127
+tt0098749,tt0522921,7,24,S7,Spring Breakdown,Spring Breakdown,1997,,42,"Drama,Romance",6.6,127
+tt0098749,tt0522821,7,25,S7,Heaven Scent,Heaven Scent,1997,,44,"Drama,Romance",6.7,136
+tt0098749,tt0522959,7,26,S7,The Long Goodbye,The Long Goodbye,1997,,44,"Drama,Romance",6.9,125
+tt0098749,tt0522832,7,27,S7,I Only Have Eyes for You,I Only Have Eyes for You,1997,,44,"Drama,Romance",6.5,124
+tt0098749,tt0522733,7,28,S7,All That Jazz,All That Jazz,1997,,44,"Drama,Romance",6.2,131
+tt0098749,tt0522867,7,29,S7,Mother's Day,Mother's Day,1997,,42,"Drama,Romance",6.7,131
+tt0098749,tt0522906,7,30,S7,Senior Week,Senior Week,1997,,44,"Drama,Romance",6.5,127
+tt0098749,tt0522813,7,31,S7,Graduation Day: Part 1,Graduation Day: Part 1,1997,,90,"Drama,Romance",6.7,125
+tt0098749,tt0522814,7,32,S7,Graduation Day: Part 2,Graduation Day: Part 2,1997,,90,"Drama,Romance",7.2,132
+tt0098749,tt0522735,8,1,S8,Aloha Beverly Hills: Part 1,Aloha Beverly Hills: Part 1,1997,,91,"Drama,Romance",6.5,132
+tt0098749,tt0522736,8,2,S8,Aloha Beverly Hills: Part 2,Aloha Beverly Hills: Part 2,1997,,91,"Drama,Romance",7.0,130
+tt0098749,tt0522806,8,3,S8,Forgive and Forget,Forgive and Forget,1997,,44,"Drama,Romance",6.4,146
+tt0098749,tt0522973,8,4,S8,The Way We Weren't,The Way We Weren't,1997,,44,"Drama,Romance",6.5,136
+tt0098749,tt0522767,8,5,S8,Coming Home,Coming Home,1997,,44,"Drama,Romance",6.5,132
+tt0098749,tt0522969,8,6,S8,The Right Thing,The Right Thing,1997,,44,"Drama,Romance",6.4,133
+tt0098749,tt0522891,8,7,S8,Pride and Prejudice,Pride and Prejudice,1997,,43,"Drama,Romance",6.5,130
+tt0098749,tt0522980,8,8,S8,Toil and Trouble,Toil and Trouble,1997,,44,"Drama,Romance",6.0,129
+tt0098749,tt0522810,8,9,S8,"Friends, Lovers and Children","Friends, Lovers and Children",1997,,45,"Drama,Romance",6.4,135
+tt0098749,tt0522762,8,10,S8,Child of the Night,Child of the Night,1997,,44,"Drama,Romance",6.7,129
+tt0098749,tt0522778,8,11,S8,Deadline,Deadline,1997,,45,"Drama,Romance",6.8,131
+tt0098749,tt0522809,8,12,S8,Friends in Deed,Friends in Deed,1997,,44,"Drama,Romance",6.4,130
+tt0098749,tt0522766,8,13,S8,Comic Relief,Comic Relief,1997,,44,"Drama,Romance",6.2,135
+tt0098749,tt0522903,8,14,S8,Santa Knows,Santa Knows,1997,,45,"Drama,Romance",6.6,147
+tt0098749,tt0522896,8,15,S8,Ready or Not,Ready or Not,1998,,43,"Drama,Romance",6.5,139
+tt0098749,tt0522840,8,16,S8,Illegal Tender,Illegal Tender,1998,,43,"Drama,Romance",6.7,131
+tt0098749,tt0522944,8,17,S8,The Elephant's Father,The Elephant's Father,1998,,44,"Drama,Romance",6.6,129
+tt0098749,tt0522898,8,18,S8,Rebound,Rebound,1998,,43,"Drama,Romance",6.6,127
+tt0098749,tt0522773,8,19,S8,Crimes and Misdemeanors,Crimes and Misdemeanors,1998,,45,"Drama,Romance",6.7,117
+tt0098749,tt0522776,8,20,S8,Cupid's Arrow,Cupid's Arrow,1998,,45,"Drama,Romance",6.8,123
+tt0098749,tt0522952,8,21,S8,The Girl Who Cried Wolf,The Girl Who Cried Wolf,1998,,44,"Drama,Romance",7.2,128
+tt0098749,tt0522848,8,22,S8,Law and Disorder,Law and Disorder,1998,,43,"Drama,Romance",7.3,128
+tt0098749,tt0522861,8,23,S8,Making Amends,Making Amends,1998,,45,"Drama,Romance",6.5,143
+tt0098749,tt0522962,8,24,S8,The Nature of Nurture,The Nature of Nurture,1998,,44,"Drama,Romance",6.3,147
+tt0098749,tt0522744,8,25,S8,Aunt Bea's Pickles,Aunt Bea's Pickles,1998,,45,"Drama,Romance",6.5,124
+tt0098749,tt0522732,8,26,S8,All That Glitters,All That Glitters,1998,,45,"Drama,Romance",6.8,129
+tt0098749,tt0522900,8,27,S8,Reunion,Reunion,1998,,44,"Drama,Romance",7.2,129
+tt0098749,tt0522912,8,28,S8,Skin Deep,Skin Deep,1998,,44,"Drama,Romance",6.6,129
+tt0098749,tt0522901,8,29,S8,Ricochet,Ricochet,1998,,45,"Drama,Romance",6.5,129
+tt0098749,tt0522949,8,30,S8,The Fundamental Things Apply,The Fundamental Things Apply,1998,,44,"Drama,Romance",6.7,118
+tt0098749,tt0522974,8,31,S8,The Wedding: Part 1,The Wedding: Part 1,1998,,91,"Drama,Romance",6.8,127
+tt0098749,tt0522975,8,32,S8,The Wedding: Part 2,The Wedding: Part 2,1998,,91,"Drama,Romance",6.7,117
+tt0098749,tt0522961,9,1,S9,The Morning After,The Morning After,1998,,42,"Drama,Romance",6.5,128
+tt0098749,tt0522756,9,2,S9,Budget Cuts,Budget Cuts,1998,,44,"Drama,Romance",6.6,124
+tt0098749,tt0522779,9,3,S9,Dealer's Choice,Dealer's Choice,1998,,44,"Drama,Romance",6.6,127
+tt0098749,tt0522785,9,4,S9,"Don't Ask, Don't Tell","Don't Ask, Don't Tell",1998,,44,"Drama,Romance",6.3,124
+tt0098749,tt0522754,9,5,S9,Brandon Leaves,Brandon Leaves,1998,,44,"Drama,Romance",6.9,133
+tt0098749,tt0522771,9,6,S9,Confession,Confession,1998,,44,"Drama,Romance",6.8,126
+tt0098749,tt0523005,9,7,S9,"You Say Goodbye, I Say Hello","You Say Goodbye, I Say Hello",1998,,44,"Drama,Romance",7.2,142
+tt0098749,tt0522835,9,8,S9,I'm Back Because,I'm Back Because,1998,,44,"Drama,Romance",6.9,124
+tt0098749,tt0522948,9,9,S9,The Following Options,The Following Options,1998,,44,"Drama,Romance",6.4,124
+tt0098749,tt0522862,9,10,S9,Marathon Man,Marathon Man,1998,,43,"Drama,Romance",6.3,119
+tt0098749,tt0522831,9,11,S9,How to Be the Jerk Women Love,How to Be the Jerk Women Love,1999,,44,"Drama,Romance",6.1,117
+tt0098749,tt0522982,9,12,S9,Trials and Tribulations,Trials and Tribulations,1999,,44,"Drama,Romance",6.2,116
+tt0098749,tt0523002,9,13,S9,Withdrawal,Withdrawal,1999,,44,"Drama,Romance",6.4,116
+tt0098749,tt0522837,9,14,S9,I'm Married,I'm Married,1999,,44,"Drama,Romance",6.1,115
+tt0098749,tt0522750,9,15,S9,Beheading St. Valentine,Beheading St. Valentine,1999,,42,"Drama,Romance",6.0,112
+tt0098749,tt0522933,9,16,S9,Survival Skills,Survival Skills,1999,,44,"Drama,Romance",6.2,118
+tt0098749,tt0522913,9,17,S9,Slipping Away,Slipping Away,1999,,44,"Drama,Romance",6.0,116
+tt0098749,tt0522753,9,18,S9,Bobbi Dearest,Bobbi Dearest,1999,,44,"Drama,Romance",6.1,120
+tt0098749,tt0522957,9,19,S9,The Leprechaun,The Leprechaun,1999,,44,"Drama,Romance",6.0,122
+tt0098749,tt0522808,9,20,S9,Fortune Cookie,Fortune Cookie,1999,,45,"Drama,Romance",6.3,118
+tt0098749,tt0522833,9,21,S9,I Wanna Reach Right Out and Grab Ya,I Wanna Reach Right Out and Grab Ya,1999,,45,"Drama,Romance",6.3,121
+tt0098749,tt0522855,9,22,S9,Local Hero,Local Hero,1999,,45,"Drama,Romance",5.9,127
+tt0098749,tt0522945,9,23,S9,The End of the World as We Know It,The End of the World as We Know It,1999,,44,"Drama,Romance",6.1,123
+tt0098749,tt0522784,9,24,S9,Dog's Best Friend,Dog's Best Friend,1999,,44,"Drama,Romance",6.8,126
+tt0098749,tt0522731,9,25,S9,Agony,Agony,1999,,44,"Drama,Romance",6.6,121
+tt0098749,tt0522937,9,26,S9,That's the Guy,That's the Guy,1999,,42,"Drama,Romance",7.2,127
+tt0098749,tt0522966,10,1,S10,The Phantom Menace,The Phantom Menace,1999,,43,"Drama,Romance",6.6,130
+tt0098749,tt0522852,10,2,S10,Let's Eat Cake,Let's Eat Cake,1999,,43,"Drama,Romance",6.5,118
+tt0098749,tt0523003,10,3,S10,You Better Work,You Better Work,1999,,43,"Drama,Romance",6.2,116
+tt0098749,tt0522719,10,4,S10,A Fine Mess,A Fine Mess,1999,,42,"Drama,Romance",6.3,123
+tt0098749,tt0522960,10,5,S10,The Loo-Ouch,The Loo-Ouch,1999,,44,"Drama,Romance",6.7,126
+tt0098749,tt0522716,10,6,S10,80's Night,80's Night,1999,,43,"Drama,Romance",6.5,123
+tt0098749,tt0522849,10,7,S10,Laying Pipe,Laying Pipe,1999,,43,"Drama,Romance",6.4,118
+tt0098749,tt0522747,10,8,S10,"Baby, You Can Drive My Car","Baby, You Can Drive My Car",1999,,44,"Drama,Romance",6.6,129
+tt0098749,tt0522800,10,9,S10,Family Tree,Family Tree,1999,,44,"Drama,Romance",6.1,119
+tt0098749,tt0522996,10,10,S10,What's in a Name,What's in a Name,1999,,44,"Drama,Romance",6.1,111
+tt0098749,tt0522911,10,11,S10,Sibling Revelry,Sibling Revelry,1999,,43,"Drama,Romance",6.3,114
+tt0098749,tt0522875,10,12,S10,Nine Yolks Whipped Lightly,Nine Yolks Whipped Lightly,1999,,43,"Drama,Romance",6.1,110
+tt0098749,tt0522935,10,13,S10,Tainted Love,Tainted Love,2000,,43,"Drama,Romance",6.0,113
+tt0098749,tt0522838,10,14,S10,I'm Using You 'Cause I Like You,I'm Using You 'Cause I Like You,2000,,43,"Drama,Romance",6.4,114
+tt0098749,tt0522802,10,15,S10,Fertile Ground,Fertile Ground,2000,,43,"Drama,Romance",6.3,117
+tt0098749,tt0522946,10,16,S10,The Final Proof,The Final Proof,2000,,44,"Drama,Romance",6.2,125
+tt0098749,tt0522783,10,17,S10,Doc Martin,Doc Martin,2000,,42,"Drama,Romance",6.2,116
+tt0098749,tt0522791,10,18,S10,Eddie Waitkus,Eddie Waitkus,2000,,43,"Drama,Romance",6.5,114
+tt0098749,tt0522834,10,19,S10,I Will Be Your Father Figure,I Will Be Your Father Figure,2000,,44,"Drama,Romance",6.5,125
+tt0098749,tt0522793,10,20,S10,Ever Heard the One About the Exploding Father?,Ever Heard the One About the Exploding Father?,2000,,43,"Drama,Romance",6.1,118
+tt0098749,tt0522923,10,21,S10,Spring Fever,Spring Fever,2000,,44,"Drama,Romance",6.3,110
+tt0098749,tt0522943,10,22,S10,The Easter Bunny,The Easter Bunny,2000,,42,"Drama,Romance",6.0,118
+tt0098749,tt0522740,10,23,S10,And Don't Forget to Give Me Back My Black T-Shirt,And Don't Forget to Give Me Back My Black T-Shirt,2000,,43,"Drama,Romance",6.4,114
+tt0098749,tt0522859,10,24,S10,Love Is Blind,Love Is Blind,2000,,43,"Drama,Romance",6.0,118
+tt0098749,tt0522836,10,25,S10,I'm Happy for You... Really,I'm Happy for You... Really,2000,,43,"Drama,Romance",6.5,113
+tt0098749,tt0522965,10,26,S10,The Penultimate,The Penultimate,2000,,43,"Drama,Romance",6.6,126
+tt0098749,tt0522876,10,27,S10,Ode to Joy,Ode to Joy,2000,,44,"Drama,Romance",7.3,190

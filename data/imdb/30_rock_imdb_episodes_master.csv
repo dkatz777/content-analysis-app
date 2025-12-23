@@ -1,0 +1,140 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0496424,tt1527242,1,0,S1,Unaired Pilot,Unaired Pilot,2006,,24,Comedy,7.5,162
+tt0496424,tt0849809,1,1,S1,Pilot,Pilot,2006,,22,Comedy,7.2,2052
+tt0496424,tt0883001,1,2,S1,The Aftermath,The Aftermath,2006,,30,Comedy,7.5,1738
+tt0496424,tt0865981,1,3,S1,Blind Date,Blind Date,2006,,22,Comedy,7.8,1701
+tt0496424,tt0883000,1,4,S1,Jack the Writer,Jack the Writer,2006,,22,Comedy,7.4,1556
+tt0496424,tt0882999,1,5,S1,Jack-Tor,Jack-Tor,2006,,28,Comedy,8.0,1581
+tt0496424,tt0910580,1,6,S1,Jack Meets Dennis,Jack Meets Dennis,2006,,22,Comedy,7.6,1460
+tt0496424,tt0876931,1,7,S1,Tracy Does Conan,Tracy Does Conan,2006,,22,Comedy,8.2,1639
+tt0496424,tt0905647,1,8,S1,The Break-Up,The Break-Up,2006,,22,Comedy,7.7,1402
+tt0496424,tt0931394,1,9,S1,The Baby Show,The Baby Show,2007,,22,Comedy,7.8,1383
+tt0496424,tt0915758,1,10,S1,The Rural Juror,The Rural Juror,2007,,22,Comedy,7.9,1429
+tt0496424,tt0920916,1,11,S1,The Head and the Hair,The Head and the Hair,2007,,22,Comedy,8.1,1413
+tt0496424,tt0909393,1,12,S1,Black Tie,Black Tie,2007,,22,Comedy,8.5,1720
+tt0496424,tt0944245,1,13,S1,Up All Night,Up All Night,2007,,22,Comedy,7.9,1350
+tt0496424,tt0892439,1,14,S1,The C Word,The C Word,2007,,22,Comedy,7.7,1314
+tt0496424,tt0944244,1,15,S1,Hard Ball,Hard Ball,2007,,22,Comedy,8.3,1374
+tt0496424,tt0971260,1,16,S1,The Source Awards,The Source Awards,2007,,22,Comedy,7.7,1354
+tt0496424,tt0974983,1,17,S1,The Fighting Irish,The Fighting Irish,2007,,22,Comedy,7.8,1344
+tt0496424,tt0971259,1,18,S1,Fireworks,Fireworks,2007,,27,Comedy,8.1,1301
+tt0496424,tt1001596,1,19,S1,Corporate Crush,Corporate Crush,2007,,22,Comedy,7.7,1238
+tt0496424,tt1001595,1,20,S1,Cleveland,Cleveland,2007,,22,Comedy,8.0,1295
+tt0496424,tt1001571,1,21,S1,Hiatus,Hiatus,2007,,22,Comedy,8.1,1274
+tt0496424,tt1001572,2,1,S2,SeinfeldVision,SeinfeldVision,2007,,22,Comedy,8.2,1433
+tt0496424,tt1001584,2,2,S2,Jack Gets in the Game,Jack Gets in the Game,2007,,22,Comedy,7.9,1251
+tt0496424,tt1001588,2,3,S2,The Collection,The Collection,2007,,22,Comedy,7.7,1213
+tt0496424,tt1001589,2,4,S2,Rosemary's Baby,Rosemary's Baby,2007,,22,Comedy,8.1,1371
+tt0496424,tt1001590,2,5,S2,Greenzo,Greenzo,2007,,21,Comedy,8.2,1353
+tt0496424,tt1001591,2,6,S2,Somebody to Love,Somebody to Love,2007,,21,Comedy,8.0,1230
+tt0496424,tt1001592,2,7,S2,Cougars,Cougars,2007,,21,Comedy,7.9,1219
+tt0496424,tt1001593,2,8,S2,Secrets and Lies,Secrets and Lies,2007,,22,Comedy,7.7,1148
+tt0496424,tt1001594,2,9,S2,Ludachristmas,Ludachristmas,2007,,30,Comedy,8.1,1243
+tt0496424,tt1001574,2,10,S2,Episode 210,Episode 210,2008,,30,Comedy,7.9,1256
+tt0496424,tt1001575,2,11,S2,MILF Island,MILF Island,2008,,22,Comedy,8.3,1325
+tt0496424,tt1001576,2,12,S2,Subway Hero,Subway Hero,2008,,22,Comedy,7.6,1131
+tt0496424,tt1001577,2,13,S2,Succession,Succession,2008,,22,Comedy,8.3,1218
+tt0496424,tt1001578,2,14,S2,Sandwich Day,Sandwich Day,2008,,30,Comedy,8.0,1179
+tt0496424,tt1001579,2,15,S2,Cooter,Cooter,2008,,24,Comedy,8.3,1217
+tt0496424,tt1236458,3,1,S3,Do-Over,Do-Over,2008,,22,Comedy,8.1,1231
+tt0496424,tt1248341,3,2,S3,Believe in the Stars,Believe in the Stars,2008,,22,Comedy,8.4,1226
+tt0496424,tt1248345,3,3,S3,The One with the Cast of 'Night Court',The One with the Cast of 'Night Court',2008,,22,Comedy,7.9,1261
+tt0496424,tt1248346,3,4,S3,Gavin Volure,Gavin Volure,2008,,22,Comedy,8.0,1184
+tt0496424,tt1248347,3,5,S3,Reunion,Reunion,2008,,30,Comedy,8.5,1297
+tt0496424,tt1248348,3,6,S3,Christmas Special,Christmas Special,2008,,21,Comedy,7.7,1110
+tt0496424,tt1248349,3,7,S3,Señor Macho Solo,Señor Macho Solo,2009,,30,Comedy,8.0,1120
+tt0496424,tt1248350,3,8,S3,Flu Shot,Flu Shot,2009,,30,Comedy,7.7,1054
+tt0496424,tt1248351,3,9,S3,Retreat to Move Forward,Retreat to Move Forward,2009,,22,Comedy,7.9,1070
+tt0496424,tt1248331,3,10,S3,Generalissimo,Generalissimo,2009,,30,Comedy,8.5,1262
+tt0496424,tt1248332,3,11,S3,St. Valentine's Day,St. Valentine's Day,2009,,30,Comedy,8.2,1177
+tt0496424,tt1248333,3,12,S3,Larry King,Larry King,2009,,30,Comedy,8.0,1072
+tt0496424,tt1248334,3,13,S3,"Goodbye, My Friend","Goodbye, My Friend",2009,,22,Comedy,8.0,1079
+tt0496424,tt1248335,3,14,S3,The Funcooker,The Funcooker,2009,,22,Comedy,8.3,1124
+tt0496424,tt1248336,3,15,S3,The Bubble,The Bubble,2009,,22,Comedy,8.1,1062
+tt0496424,tt1248337,3,16,S3,"Apollo, Apollo","Apollo, Apollo",2009,,30,Comedy,8.4,1118
+tt0496424,tt1248338,3,17,S3,Cutbacks,Cutbacks,2009,,22,Comedy,7.6,994
+tt0496424,tt1248339,3,18,S3,Jackie Jormp-Jomp,Jackie Jormp-Jomp,2009,,21,Comedy,7.9,1015
+tt0496424,tt1248340,3,19,S3,The Ones,The Ones,2009,,30,Comedy,7.9,999
+tt0496424,tt1248342,3,20,S3,The Natural Order,The Natural Order,2009,,22,Comedy,7.8,973
+tt0496424,tt1248343,3,21,S3,Mamma Mia,Mamma Mia,2009,,30,Comedy,8.0,1013
+tt0496424,tt1248344,3,22,S3,Kidney Now!,Kidney Now!,2009,,22,Comedy,8.6,1288
+tt0496424,tt1490049,4,1,S4,Season 4,Season 4,2009,,22,Comedy,7.7,1019
+tt0496424,tt1505446,4,2,S4,Into the Crevasse,Into the Crevasse,2009,,22,Comedy,7.7,1022
+tt0496424,tt1509289,4,3,S4,Stone Mountain,Stone Mountain,2009,,30,Comedy,7.7,1007
+tt0496424,tt1510992,4,4,S4,Audition Day,Audition Day,2009,,30,Comedy,7.9,975
+tt0496424,tt1528318,4,5,S4,The Problem Solvers,The Problem Solvers,2009,,30,Comedy,7.9,975
+tt0496424,tt1528319,4,6,S4,Sun Tea,Sun Tea,2009,,22,Comedy,7.7,952
+tt0496424,tt1528320,4,7,S4,Dealbreakers Talk Show #0001,Dealbreakers Talk Show #0001,2009,,22,Comedy,8.1,1037
+tt0496424,tt1540153,4,8,S4,Secret Santa,Secret Santa,2009,,30,Comedy,8.0,995
+tt0496424,tt1564387,4,9,S4,Klaus and Greta,Klaus and Greta,2010,,30,Comedy,8.3,1014
+tt0496424,tt1574398,4,10,S4,Black Light Attack!,Black Light Attack!,2010,,30,Comedy,7.9,948
+tt0496424,tt1574399,4,11,S4,Winter Madness,Winter Madness,2010,,30,Comedy,7.4,935
+tt0496424,tt1590351,4,12,S4,Verna,Verna,2010,,30,Comedy,7.6,937
+tt0496424,tt1590350,4,13,S4,Anna Howard Shaw Day,Anna Howard Shaw Day,2010,,30,Comedy,8.5,1067
+tt0496424,tt1612622,4,14,S4,Future Husband,Future Husband,2010,,22,Comedy,7.7,894
+tt0496424,tt1609184,4,15,S4,"Don Geiss, America and Hope","Don Geiss, America and Hope",2010,,22,Comedy,7.9,905
+tt0496424,tt1619911,4,16,S4,Floyd,Floyd,2010,,30,Comedy,7.8,890
+tt0496424,tt1635824,4,17,S4,Lee Marvin vs. Derek Jeter,Lee Marvin vs. Derek Jeter,2010,,22,Comedy,7.8,894
+tt0496424,tt1635823,4,18,S4,Khonani,Khonani,2010,,30,Comedy,7.4,882
+tt0496424,tt1635822,4,19,S4,Argus,Argus,2010,,30,Comedy,7.6,875
+tt0496424,tt1642674,4,20,S4,The Moms,The Moms,2010,,30,Comedy,7.8,927
+tt0496424,tt1642672,4,21,S4,Emmanuelle Goes to Dinosaur Land,Emmanuelle Goes to Dinosaur Land,2010,,22,Comedy,8.1,927
+tt0496424,tt1642673,4,22,S4,I Do Do,I Do Do,2010,,30,Comedy,8.5,1014
+tt0496424,tt1635806,5,1,S5,The Fabian Strategy,The Fabian Strategy,2010,,30,Comedy,7.9,953
+tt0496424,tt1635814,5,2,S5,"When It Rains, It Pours","When It Rains, It Pours",2010,,22,Comedy,8.2,965
+tt0496424,tt1635815,5,3,S5,Let's Stay Together,Let's Stay Together,2010,,30,Comedy,7.7,885
+tt0496424,tt1635816,5,4,S5,Live Show,Live Show,2010,,24,Comedy,8.6,1358
+tt0496424,tt1635817,5,5,S5,Reaganing,Reaganing,2010,,30,Comedy,8.1,942
+tt0496424,tt1635818,5,6,S5,Gentleman's Intermission,Gentleman's Intermission,2010,,30,Comedy,7.8,877
+tt0496424,tt1635819,5,7,S5,Brooklyn Without Limits,Brooklyn Without Limits,2010,,30,Comedy,7.9,915
+tt0496424,tt1635820,5,8,S5,College,College,2010,,30,Comedy,7.8,872
+tt0496424,tt1635821,5,9,S5,Chain Reaction of Mental Anguish,Chain Reaction of Mental Anguish,2010,,30,Comedy,7.6,865
+tt0496424,tt1635807,5,10,S5,Christmas Attack Zone,Christmas Attack Zone,2010,,22,Comedy,7.9,823
+tt0496424,tt1635808,5,11,S5,Mrs. Donaghy,Mrs. Donaghy,2011,,22,Comedy,8.2,916
+tt0496424,tt1635809,5,12,S5,Operation Righteous Cowboy Lightning,Operation Righteous Cowboy Lightning,2011,,22,Comedy,8.3,987
+tt0496424,tt1635810,5,13,S5,¡Qué Sorpresa!,¡Qué Sorpresa!,2011,,21,Comedy,7.9,872
+tt0496424,tt1635811,5,14,S5,Double-Edged Sword,Double-Edged Sword,2011,,21,Comedy,8.3,980
+tt0496424,tt1635812,5,15,S5,It's Never Too Late for Now,It's Never Too Late for Now,2011,,21,Comedy,8.2,943
+tt0496424,tt1635813,5,16,S5,TGS Hates Women,TGS Hates Women,2011,,21,Comedy,8.2,1056
+tt0496424,tt1842553,5,17,S5,Queen of Jordan,Queen of Jordan,2011,,21,Comedy,7.5,1151
+tt0496424,tt1842554,5,18,S5,Plan B,Plan B,2011,,22,Comedy,7.8,836
+tt0496424,tt1842555,5,19,S5,I Heart Connecticut,I Heart Connecticut,2011,,30,Comedy,7.6,810
+tt0496424,tt1842556,5,20,S5,100: Part 1,100: Part 1,2011,,60,Comedy,8.0,891
+tt0496424,tt2382106,5,21,S5,100: Part 2,100: Part 2,2011,,22,Comedy,8.4,776
+tt0496424,tt1842558,5,22,S5,Everything Sunny All the Time Always,Everything Sunny All the Time Always,2011,,30,Comedy,7.8,865
+tt0496424,tt1868106,5,23,S5,Respawn,Respawn,2011,,30,Comedy,7.6,817
+tt0496424,tt2150579,6,1,S6,Dance Like Nobody's Watching,Dance Like Nobody's Watching,2012,,23,Comedy,7.9,889
+tt0496424,tt2158899,6,2,S6,Idiots Are People Two!,Idiots Are People Two!,2012,,22,Comedy,7.8,826
+tt0496424,tt2179303,6,3,S6,Idiots Are People Three!,Idiots Are People Three!,2012,,22,Comedy,7.9,808
+tt0496424,tt2191917,6,4,S6,The Ballad of Kenneth Parcell,The Ballad of Kenneth Parcell,2012,,21,Comedy,7.7,818
+tt0496424,tt2191919,6,5,S6,Today You Are a Man,Today You Are a Man,2012,,22,Comedy,7.8,787
+tt0496424,tt2105091,6,6,S6,"Hey, Baby, What's Wrong?: Part 1","Hey, Baby, What's Wrong?: Part 1",2012,,43,Comedy,7.7,808
+tt0496424,tt2372246,6,7,S6,"Hey, Baby, What's Wrong?: Part 2","Hey, Baby, What's Wrong?: Part 2",2012,,22,Comedy,7.9,690
+tt0496424,tt2235831,6,8,S6,The Tuxedo Begins,The Tuxedo Begins,2012,,22,Comedy,8.4,1004
+tt0496424,tt2239013,6,9,S6,Leap Day,Leap Day,2012,,22,Comedy,8.1,960
+tt0496424,tt2239015,6,10,S6,Alexis Goodlooking and the Case of the Missing Whisky,Alexis Goodlooking and the Case of the Missing Whisky,2012,,22,Comedy,7.6,768
+tt0496424,tt2247157,6,11,S6,Standards and Practices,Standards and Practices,2012,,22,Comedy,7.9,826
+tt0496424,tt2268675,6,12,S6,St. Patrick's Day,St. Patrick's Day,2012,,22,Comedy,7.6,784
+tt0496424,tt2288183,6,13,S6,Grandmentor,Grandmentor,2012,,22,Comedy,7.4,762
+tt0496424,tt2301311,6,14,S6,Kidnapped by Danger,Kidnapped by Danger,2012,,22,Comedy,8.3,887
+tt0496424,tt2306893,6,15,S6,The Shower Principle,The Shower Principle,2012,,22,Comedy,7.4,723
+tt0496424,tt2318791,6,16,S6,Nothing Left to Lose,Nothing Left to Lose,2012,,22,Comedy,7.5,725
+tt0496424,tt2327679,6,17,S6,Meet the Woggels!,Meet the Woggels!,2012,,22,Comedy,7.5,755
+tt0496424,tt2336545,6,18,S6,Murphy Brown Lied to Us,Murphy Brown Lied to Us,2012,,22,Comedy,7.7,756
+tt0496424,tt2336547,6,19,S6,Live from Studio 6H,Live from Studio 6H,2012,,24,Comedy,8.6,1036
+tt0496424,tt2361603,6,20,S6,Queen of Jordan 2: The Mystery of the Phantom Pooper,Queen of Jordan 2: The Mystery of the Phantom Pooper,2012,,22,Comedy,7.2,870
+tt0496424,tt2372467,6,21,S6,The Return of Avery Jessup,The Return of Avery Jessup,2012,,22,Comedy,7.6,723
+tt0496424,tt2396785,6,22,S6,What Will Happen to the Gang Next Year?,What Will Happen to the Gang Next Year?,2012,,22,Comedy,7.8,757
+tt0496424,tt2224126,7,1,S7,The Beginning of the End,The Beginning of the End,2012,,21,Comedy,7.6,779
+tt0496424,tt2407860,7,2,S7,Governor Dunston,Governor Dunston,2012,,22,Comedy,7.6,786
+tt0496424,tt2424854,7,3,S7,Stride of Pride,Stride of Pride,2012,,21,Comedy,7.7,753
+tt0496424,tt2439868,7,4,S7,Unwindulax,Unwindulax,2012,,21,Comedy,7.8,777
+tt0496424,tt2445808,7,5,S7,There's No I in America,There's No I in America,2012,,21,Comedy,7.5,735
+tt0496424,tt2487140,7,6,S7,Aunt Phatso vs. Jack Donaghy,Aunt Phatso vs. Jack Donaghy,2012,,21,Comedy,7.5,722
+tt0496424,tt2514464,7,7,S7,"Mazel Tov, Dummies!","Mazel Tov, Dummies!",2012,,21,Comedy,8.2,766
+tt0496424,tt2539360,7,8,S7,My Whole Life Is Thunder,My Whole Life Is Thunder,2012,,22,Comedy,7.9,765
+tt0496424,tt2587572,7,9,S7,Game Over,Game Over,2013,,21,Comedy,8.3,802
+tt0496424,tt2569748,7,10,S7,Florida,Florida,2013,,21,Comedy,7.9,717
+tt0496424,tt2627896,7,11,S7,A Goon's Deed in a Weary World,A Goon's Deed in a Weary World,2013,,21,Comedy,8.3,783
+tt0496424,tt2646974,7,12,S7,Hogcock!,Hogcock!,2013,,42,Comedy,8.9,1230
+tt0496424,tt31239981,7,13,S7,Last Lunch,Last Lunch,2013,,20,Comedy,9.0,124

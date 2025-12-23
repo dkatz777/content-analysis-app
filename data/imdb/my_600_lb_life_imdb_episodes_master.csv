@@ -1,0 +1,186 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt2152112,tt2189868,1,1,S1,Melissa's Story,Melissa's Story,2012,,44,Reality-TV,7.2,77
+tt2152112,tt4325678,1,2,S1,Melissa's Story Part 2,Melissa's Story Part 2,2012,,43,Reality-TV,7.2,42
+tt2152112,tt2187340,1,3,S1,Donald's Story,Donald's Story,2012,,44,Reality-TV,6.2,37
+tt2152112,tt2182416,1,4,S1,Henry's Story,Henry's Story,2012,,44,Reality-TV,7.2,40
+tt2152112,tt2243022,1,5,S1,Ashley's Story,Ashley's Story,2012,,44,Reality-TV,6.4,44
+tt2152112,tt2216252,1,6,S1,Where Are They Now?,Where Are They Now?,2012,,85,Reality-TV,6.7,31
+tt2152112,tt3465690,2,1,S2,Zsalynn's Story,Zsalynn's Story,2014,,43,Reality-TV,7.0,68
+tt2152112,tt3480028,2,2,S2,Olivia's Story,Olivia's Story,2014,,43,Reality-TV,7.3,60
+tt2152112,tt3480414,2,3,S2,Penny's Story,Penny's Story,2014,,44,Reality-TV,5.3,69
+tt2152112,tt3480424,2,4,S2,Chuck's Story,Chuck's Story,2014,,44,Reality-TV,7.1,61
+tt2152112,tt3480436,2,5,S2,Christina's Story,Christina's Story,2014,,44,Reality-TV,6.6,62
+tt2152112,tt3480534,2,6,S2,Paula's Story,Paula's Story,2014,,43,Reality-TV,6.4,53
+tt2152112,tt3480542,2,7,S2,James' Story,James' Story,2014,,43,Reality-TV,6.9,48
+tt2152112,tt3485408,2,8,S2,Tara's Story,Tara's Story,2014,,44,Reality-TV,6.9,50
+tt2152112,tt4337342,3,1,S3,Zsalynn and Christina,Zsalynn and Christina,2015,,42,Reality-TV,6.7,18
+tt2152112,tt4353360,3,2,S3,Olivia and James,Olivia and James,2015,,42,Reality-TV,6.7,17
+tt2152112,tt4373954,3,3,S3,Penny and Tara,Penny and Tara,2015,,42,Reality-TV,6.3,17
+tt2152112,tt4396242,3,4,S3,Chuck and Paula,Chuck and Paula,2015,,41,Reality-TV,6.5,17
+tt2152112,tt4401908,3,5,S3,Amber's Story,Amber's Story,2015,,42,Reality-TV,7.2,47
+tt2152112,tt4418768,3,6,S3,Susan's Story,Susan's Story,2015,,42,Reality-TV,6.9,42
+tt2152112,tt4437248,3,7,S3,Pauline's Story,Pauline's Story,2015,,43,Reality-TV,5.6,49
+tt2152112,tt4456874,3,8,S3,Bettie Jo's Story,Bettie Jo's Story,2015,,43,Reality-TV,6.1,48
+tt2152112,tt4473392,3,9,S3,Angel's Story,Angel's Story,2015,,42,Reality-TV,6.4,37
+tt2152112,tt4503002,3,10,S3,Joe's Story,Joe's Story,2015,,42,Reality-TV,6.4,43
+tt2152112,tt4514664,3,11,S3,Laura's Story,Laura's Story,2015,,43,Reality-TV,6.2,41
+tt2152112,tt4531366,3,12,S3,Charity's Story,Charity's Story,2015,,43,Reality-TV,6.5,42
+tt2152112,tt5358406,3,13,S3,Chay's Story,Chay's Story,2015,,42,Reality-TV,6.5,39
+tt2152112,tt5358410,3,14,S3,Marla's Story,Marla's Story,2015,,42,Reality-TV,5.4,45
+tt2152112,tt5301986,4,1,S4,Nikki's Story,Nikki's Story,2016,,42,Reality-TV,7.0,50
+tt2152112,tt5358394,4,2,S4,Brittani's Story,Brittani's Story,2016,,42,Reality-TV,6.6,42
+tt2152112,tt5358398,4,3,S4,Chad's Story,Chad's Story,2016,,42,Reality-TV,6.4,45
+tt2152112,tt5358400,4,4,S4,June's Story,June's Story,2016,,42,Reality-TV,6.0,40
+tt2152112,tt5451652,4,5,S4,Dottie's Story,Dottie's Story,2016,,42,Reality-TV,6.3,38
+tt2152112,tt5451662,4,6,S4,Gideon's Story,Gideon's Story,2016,,42,Reality-TV,6.6,42
+tt2152112,tt5458108,4,7,S4,Ashley D.'s Story,Ashley D.'s Story,2016,,42,Reality-TV,6.4,47
+tt2152112,tt5476210,4,8,S4,Teretha's Story,Teretha's Story,2016,,42,Reality-TV,6.3,40
+tt2152112,tt5497570,4,9,S4,Randy's Story,Randy's Story,2016,,42,Reality-TV,6.5,37
+tt2152112,tt5516796,4,10,S4,Milla's Story,Milla's Story,2016,,42,Reality-TV,6.7,38
+tt2152112,tt5537350,4,11,S4,Sean's Story,Sean's Story,2016,,42,Reality-TV,6.6,42
+tt2152112,tt5578060,4,12,S4,Lupe's Story,Lupe's Story,2016,,85,Reality-TV,6.1,46
+tt2152112,tt5578784,4,13,S4,Melissa and Ashley,Melissa and Ashley,2016,,42,Reality-TV,6.3,19
+tt2152112,tt5595004,4,14,S4,Christina and Paula,Christina and Paula,2016,,42,Reality-TV,7.1,18
+tt2152112,tt5636708,4,15,S4,Zsalynn and Olivia,Zsalynn and Olivia,2016,,42,Reality-TV,6.5,18
+tt2152112,tt5639546,4,16,S4,Bettie Jo and Susan,Bettie Jo and Susan,2016,,42,Reality-TV,6.4,17
+tt2152112,tt5656024,4,17,S4,Joe,Joe,2016,,44,Reality-TV,6.9,21
+tt2152112,tt5689656,4,18,S4,Angel and Charity,Angel and Charity,2016,,42,Reality-TV,6.0,15
+tt2152112,tt5697712,4,19,S4,Laura and Marla,Laura and Marla,2016,,42,Reality-TV,5.7,16
+tt2152112,tt5714578,4,20,S4,Chay and Pauline,Chay and Pauline,2016,,85,Reality-TV,6.5,20
+tt2152112,tt6390414,5,1,S5,Brandi and Kandi's Story,Brandi and Kandi's Story,2017,,85,Reality-TV,7.5,49
+tt2152112,tt6392246,5,2,S5,Ashley R's Story,Ashley R's Story,2017,,85,Reality-TV,6.8,38
+tt2152112,tt6417728,5,3,S5,Cynthia's Story,Cynthia's Story,2017,,85,Reality-TV,6.0,33
+tt2152112,tt6422040,5,4,S5,Kirsten's Story,Kirsten's Story,2017,,85,Reality-TV,5.4,36
+tt2152112,tt6467322,5,5,S5,Doug's Story,Doug's Story,2017,,85,Reality-TV,6.1,37
+tt2152112,tt6467326,5,6,S5,Erica's Story,Erica's Story,2017,,85,Reality-TV,6.0,42
+tt2152112,tt6498782,5,7,S5,Diana's Story,Diana's Story,2017,,85,Reality-TV,5.7,35
+tt2152112,tt6540972,5,8,S5,Michael's Story,Michael's Story,2017,,85,Reality-TV,6.0,28
+tt2152112,tt6594644,5,9,S5,Nicole's Story,Nicole's Story,2017,,85,Reality-TV,5.7,33
+tt2152112,tt6594650,5,10,S5,Tanisha's Story,Tanisha's Story,2017,,85,Reality-TV,4.8,29
+tt2152112,tt6622830,5,11,S5,James K's Story,James K's Story,2017,,85,Reality-TV,5.9,51
+tt2152112,tt6672998,5,12,S5,Tracey's Story,Tracey's Story,2017,,85,Reality-TV,5.9,28
+tt2152112,tt6684950,5,13,S5,Steven and Justin's Story Part 1,Steven and Justin's Story Part 1,2017,,85,Reality-TV,6.0,54
+tt2152112,tt6684958,5,14,S5,Steven and Justin's Story Part 2,Steven and Justin's Story Part 2,2017,,85,Reality-TV,6.3,51
+tt2152112,tt6716264,5,15,S5,Lupe & Ashley D.,Lupe & Ashley D.,2017,,85,Reality-TV,6.2,14
+tt2152112,tt6773962,5,16,S5,Brittani & Sean,Brittani & Sean,2017,,85,Reality-TV,5.8,12
+tt2152112,tt6773970,5,17,S5,Teretha & Chad,Teretha & Chad,2017,,85,Reality-TV,5.9,11
+tt2152112,tt6836190,5,18,S5,Nikki,Nikki,2017,,85,Reality-TV,6.6,14
+tt2152112,tt6825380,5,19,S5,Dottie & June,Dottie & June,2017,,85,Reality-TV,6.2,10
+tt2152112,tt6875186,5,20,S5,Mila & Charity,Mila & Charity,2017,,85,Reality-TV,5.7,12
+tt2152112,tt6937554,5,21,S5,Joe W. & Pauline,Joe W. & Pauline,2017,,85,Reality-TV,5.6,12
+tt2152112,tt6941738,5,22,S5,Laura & Chay,Laura & Chay,2017,,85,Reality-TV,5.6,15
+tt2152112,tt7830982,6,1,S6,Rena & Lee's Story,Rena & Lee's Story,2018,,85,Reality-TV,6.4,35
+tt2152112,tt7830986,6,2,S6,Janine's Story,Janine's Story,2018,,85,Reality-TV,5.8,28
+tt2152112,tt7942992,6,3,S6,Alicia's Story,Alicia's Story,2018,,85,Reality-TV,6.5,31
+tt2152112,tt7955102,6,4,S6,Liz's Story,Liz's Story,2018,,85,Reality-TV,6.1,29
+tt2152112,tt7981540,6,5,S6,Karina's Story,Karina's Story,2018,,85,Reality-TV,6.4,29
+tt2152112,tt8016154,6,6,S6,James B.'s Story,James B.'s Story,2018,,85,Reality-TV,6.2,22
+tt2152112,tt8054646,6,7,S6,Lisa's Story,Lisa's Story,2018,,85,Reality-TV,5.1,27
+tt2152112,tt8077750,6,8,S6,Robert's Story,Robert's Story,2018,,85,Reality-TV,7.3,41
+tt2152112,tt8171412,6,9,S6,Tammy Lynn's Story,Tammy Lynn's Story,2018,,85,Reality-TV,6.5,24
+tt2152112,tt8146446,6,10,S6,Benji & David's Story,Benji & David's Story,2018,,85,Reality-TV,7.5,30
+tt2152112,tt8171392,6,11,S6,Renee's Story,Renee's Story,2018,,85,Reality-TV,5.4,24
+tt2152112,tt8215812,6,12,S6,Sarah's Story,Sarah's Story,2018,,85,Reality-TV,6.6,25
+tt2152112,tt8215818,6,13,S6,Schenee's Story,Schenee's Story,2018,,85,Reality-TV,5.8,34
+tt2152112,tt8268820,6,14,S6,Jennifer & Marissa's Story,Jennifer & Marissa's Story,2018,,85,Reality-TV,6.4,22
+tt2152112,tt8418914,6,15,S6,One Ton Family: Part 1,One Ton Family: Part 1,2018,,85,Reality-TV,6.2,25
+tt2152112,tt8418936,6,16,S6,One Ton Family: Part 2,One Ton Family: Part 2,2018,,85,Reality-TV,6.8,23
+tt2152112,tt9553146,7,1,S7,Octavia's Story,Octavia's Story,2019,,83,Reality-TV,5.8,28
+tt2152112,tt9553156,7,2,S7,Brianne's Story,Brianne's Story,2019,,85,Reality-TV,6.5,31
+tt2152112,tt9614526,7,3,S7,Robin's Story,Robin's Story,2019,,85,Reality-TV,6.0,26
+tt2152112,tt9657752,7,4,S7,Justin's Story,Justin's Story,2019,,85,Reality-TV,7.5,43
+tt2152112,tt9657760,7,5,S7,Holly's Story,Holly's Story,2019,,85,Reality-TV,5.9,26
+tt2152112,tt8404120,7,6,S7,Lacey's Story,Lacey's Story,2019,,85,Reality-TV,5.7,23
+tt2152112,tt9752340,7,7,S7,Brandon's Story,Brandon's Story,2019,,85,Reality-TV,7.0,28
+tt2152112,tt9816806,7,8,S7,Maja's Story,Maja's Story,2019,,85,Reality-TV,6.0,25
+tt2152112,tt9826842,7,9,S7,Tiffany's Story,Tiffany's Story,2019,,85,Reality-TV,6.5,24
+tt2152112,tt9916576,7,10,S7,Destinee's Story,Destinee's Story,2019,,85,Reality-TV,5.7,26
+tt2152112,tt10036094,7,11,S7,Jeanne's Story,Jeanne's Story,2019,,85,Reality-TV,6.2,30
+tt2152112,tt10036164,7,12,S7,Aaron's Story,Aaron's Story,2019,,85,Reality-TV,6.2,22
+tt2152112,tt10055990,7,13,S7,Kelly's Story,Kelly's Story,2019,,85,Reality-TV,7.2,23
+tt2152112,tt10128338,7,14,S7,Annjeanette's Story,Annjeanette's Story,2019,,85,Reality-TV,6.4,22
+tt2152112,tt10166776,7,15,S7,Angela's Story,Angela's Story,2019,,85,Reality-TV,5.5,25
+tt2152112,tt10166780,7,16,S7,LaShanta's Story,LaShanta's Story,2019,,85,Reality-TV,6.6,18
+tt2152112,tt10246104,7,17,S7,Cillas' Story,Cillas' Story,2019,,85,Reality-TV,7.2,19
+tt2152112,tt10246112,7,18,S7,Mercedes' Story,Mercedes' Story,2019,,85,Reality-TV,4.8,17
+tt2152112,tt10273652,7,19,S7,Angela J's Story,Angela J's Story,2019,,85,Reality-TV,5.5,28
+tt2152112,tt10352676,7,20,S7,Vianey & Allen's Story,Vianey & Allen's Story,2019,,85,Reality-TV,7.2,21
+tt2152112,tt10352822,7,21,S7,The Assanti Brothers,The Assanti Brothers,2019,,85,Reality-TV,7.2,16
+tt2152112,tt10402394,7,22,S7,Janine,Janine,2019,,,Reality-TV,6.8,11
+tt2152112,tt10476978,7,23,S7,Lee & Rena & Sarah,Lee & Rena & Sarah,2019,,85,Reality-TV,7.2,13
+tt2152112,tt10476966,7,24,S7,Sean,Sean,2019,,85,Reality-TV,7.6,20
+tt2152112,tt11248228,7,25,S7,Jennifer & Marissa & Liz,Jennifer & Marissa & Liz,2019,,85,Reality-TV,6.3,9
+tt2152112,tt11248230,7,26,S7,Milla,Milla,2019,,,Reality-TV,6.8,7
+tt2152112,tt11248234,7,27,S7,"June, Chad & Pauline","June, Chad & Pauline",2019,,,Reality-TV,5.8,8
+tt2152112,tt11534826,8,1,S8,John & Lonnie's Story,John & Lonnie's Story,2020,,85,Reality-TV,6.9,29
+tt2152112,tt11587156,8,2,S8,Lindsey's Story,Lindsey's Story,2020,,85,Reality-TV,6.4,21
+tt2152112,tt11621898,8,3,S8,Bethany's Story,Bethany's Story,2020,,85,Reality-TV,6.2,23
+tt2152112,tt11622610,8,4,S8,J.T.'s Story,J.T.'s Story,2020,,85,Reality-TV,7.1,32
+tt2152112,tt11718748,8,5,S8,Gina's Story,Gina's Story,2020,,85,Reality-TV,5.3,32
+tt2152112,tt11744672,8,6,S8,Travis's Story,Travis's Story,2020,,,Reality-TV,6.7,22
+tt2152112,tt11808284,8,7,S8,Joyce's Story,Joyce's Story,2020,,85,Reality-TV,5.9,25
+tt2152112,tt11835248,8,8,S8,Carlton & Shantel's Story,Carlton & Shantel's Story,2020,,85,Reality-TV,6.8,23
+tt2152112,tt11982846,8,9,S8,Seana's Story,Seana's Story,2020,,85,Reality-TV,5.2,20
+tt2152112,tt11982864,8,10,S8,Ashley B.'s Story,Ashley B.'s Story,2020,,85,Reality-TV,5.6,18
+tt2152112,tt11982880,8,11,S8,Tommy's Story,Tommy's Story,2020,,85,Reality-TV,6.4,19
+tt2152112,tt11987092,8,12,S8,Coliesa's Story,Coliesa's Story,2020,,85,Reality-TV,6.4,17
+tt2152112,tt11987094,8,13,S8,Dominic's Story,Dominic's Story,2020,,85,Reality-TV,5.9,19
+tt2152112,tt11987098,8,14,S8,Megan's Story,Megan's Story,2020,,,Reality-TV,4.8,21
+tt2152112,tt12104618,8,15,S8,Ashley T.'s Story,Ashley T.'s Story,2020,,,Reality-TV,4.0,25
+tt2152112,tt12104682,8,16,S8,Leneatha's Story,Leneatha's Story,2020,,,Reality-TV,4.8,20
+tt2152112,tt12105012,8,17,S8,David & Benji & Erica,David & Benji & Erica,2020,,,Reality-TV,5.5,9
+tt2152112,tt12105016,8,18,S8,Alicia & Pauline,Alicia & Pauline,2020,,,Reality-TV,6.1,9
+tt2152112,tt12199980,8,19,S8,Dottie & Cynthia,Dottie & Cynthia,2020,,85,Reality-TV,5.1,8
+tt2152112,tt12199982,8,20,S8,Charity & Charly & Teretha,Charity & Charly & Teretha,2020,,,Reality-TV,5.1,8
+tt2152112,tt13218506,8,21,S8,The One-Ton Family,The One-Ton Family,2020,,,Reality-TV,7.1,9
+tt2152112,tt13218508,8,22,S8,Steven and Justin Assanti: The Final Chapter,Steven and Justin Assanti: The Final Chapter,2020,,,Reality-TV,6.9,9
+tt2152112,tt13689438,9,1,S9,Samantha's Story,Samantha's Story,2020,,85,Reality-TV,6.2,35
+tt2152112,tt13749124,9,2,S9,Thederick's Story,Thederick's Story,2021,,85,Reality-TV,6.6,27
+tt2152112,tt13797186,9,3,S9,Carrie's Story,Carrie's Story,2021,,,Reality-TV,5.9,19
+tt2152112,tt13845580,9,4,S9,Cindy's Story,Cindy's Story,2021,,85,Reality-TV,5.5,33
+tt2152112,tt13889842,9,5,S9,Melissa M's Story,Melissa M's Story,2021,,85,Reality-TV,6.2,19
+tt2152112,tt13933752,9,6,S9,Kenae's Journey,Kenae's Journey,2021,,85,Reality-TV,5.9,18
+tt2152112,tt13981118,9,7,S9,Krystal's Journey,Krystal's Journey,2021,,,Reality-TV,6.0,22
+tt2152112,tt14034854,9,8,S9,Isaac's Journey,Isaac's Journey,2021,,85,Reality-TV,6.7,21
+tt2152112,tt14081376,9,9,S9,Michael's Journey,Michael's Journey,2021,,85,Reality-TV,6.4,23
+tt2152112,tt14126170,9,10,S9,Shannon's Journey,Shannon's Journey,2021,,,Reality-TV,6.1,19
+tt2152112,tt14173502,9,11,S9,Irene's Journey,Irene's Journey,2021,,,Reality-TV,6.5,15
+tt2152112,tt14218804,9,12,S9,Tammy's Journey,Tammy's Journey,2021,,,Reality-TV,6.7,15
+tt2152112,tt14270124,9,13,S9,Chrystal's Journey,Chrystal's Journey,2021,,,Reality-TV,5.6,17
+tt2152112,tt15364796,10,1,S10,Nathan's Journey,Nathan's Journey,2021,,,Reality-TV,5.6,23
+tt2152112,tt15845804,10,2,S10,Julian's Story,Julian's Story,2021,,,Reality-TV,5.9,21
+tt2152112,tt16021356,10,3,S10,Bianca's Journey,Bianca's Journey,2021,,,Reality-TV,6.4,18
+tt2152112,tt16151314,10,4,S10,Mike's Journey,Mike's Journey,2021,,,Reality-TV,6.5,17
+tt2152112,tt16303268,10,5,S10,Lacey's Journey,Lacey's Journey,2021,,,Reality-TV,7.3,45
+tt2152112,tt16303278,10,6,S10,Paul's Journey,Paul's Journey,2021,,,Reality-TV,6.8,14
+tt2152112,tt16303282,10,7,S10,Ryan's Journey,Ryan's Journey,2021,,,Reality-TV,5.7,25
+tt2152112,tt16440742,10,8,S10,James B's Journey,James B's Journey,2021,,,Reality-TV,6.1,21
+tt2152112,tt16589442,10,9,S10,Lucas' Journey,Lucas' Journey,2021,,,Reality-TV,6.9,21
+tt2152112,tt16748320,10,10,S10,Margaret's Journey,Margaret's Journey,2022,,,Reality-TV,6.6,19
+tt2152112,tt16951352,10,11,S10,Ontreon's Journey,Ontreon's Journey,2022,,,Reality-TV,5.4,18
+tt2152112,tt16951354,10,12,S10,Dolly's Journey,Dolly's Journey,2022,,,Reality-TV,6.4,26
+tt2152112,tt17218960,10,13,S10,Larry's Journey,Larry's Journey,2022,,,Reality-TV,6.2,22
+tt2152112,tt17497700,10,14,S10,Lisa's Journey,Lisa's Journey,2022,,,Reality-TV,5.1,28
+tt2152112,tt17664518,10,15,S10,David's Journey,David's Journey,2022,,,Reality-TV,7.3,27
+tt2152112,tt23646230,11,1,S11,Geno and Nico's Journey,Geno and Nico's Journey,2023,,,Reality-TV,7.2,14
+tt2152112,tt26598889,11,2,S11,Latonya's Journey,Latonya's Journey,2023,,,Reality-TV,7.1,14
+tt2152112,tt26598890,11,3,S11,Wess' Journey,Wess' Journey,2023,,,Reality-TV,6.6,14
+tt2152112,tt26746392,11,4,S11,Syreeta's Journey,Syreeta's Journey,2023,,,Reality-TV,6.5,10
+tt2152112,tt26746408,11,5,S11,Mark's Journey,Mark's Journey,2023,,,Reality-TV,5.9,9
+tt2152112,tt26966710,11,6,S11,Stephanie's Journey,Stephanie's Journey,2023,,,Reality-TV,7.0,8
+tt2152112,tt27078222,11,7,S11,Chris P's Journey,Chris P's Journey,2023,,,Reality-TV,7.7,15
+tt2152112,tt27078223,11,8,S11,Patrick's Journey,Patrick's Journey,2023,,,Reality-TV,6.4,10
+tt2152112,tt30318142,12,1,S12,Krystal S.' Journey,Krystal S.' Journey,2024,,85,Reality-TV,5.7,15
+tt2152112,tt31170444,12,2,S12,William's Journey,William's Journey,2024,,,Reality-TV,6.9,11
+tt2152112,tt31170445,12,3,S12,Delana's Journey,Delana's Journey,2024,,,Reality-TV,5.2,12
+tt2152112,tt31170446,12,4,S12,Abi's Journey,Abi's Journey,2024,,,Reality-TV,6.0,9
+tt2152112,tt31170447,12,5,S12,Rose's Journey,Rose's Journey,2024,,,Reality-TV,6.2,10
+tt2152112,tt31170448,12,6,S12,Shakyia's Journey,Shakyia's Journey,2024,,,Reality-TV,5.2,13
+tt2152112,tt31170449,12,7,S12,Charles' Journey,Charles' Journey,2024,,93,Reality-TV,5.8,15
+tt2152112,tt35261877,13,1,S13,Jonathan's Journey,Jonathan's Journey,2025,,,Reality-TV,6.4,13
+tt2152112,tt35261948,13,2,S13,Krystal A's Journey,Krystal A's Journey,2025,,,Reality-TV,6.5,11
+tt2152112,tt35261951,13,3,S13,Karen's Journey,Karen's Journey,2025,,,Reality-TV,3.2,16
+tt2152112,tt35261956,13,4,S13,Gary's Journey,Gary's Journey,2025,,,Reality-TV,2.7,8
+tt2152112,tt35261965,13,5,S13,Jacky's Journey,Jacky's Journey,2025,,,Reality-TV,5.9,8
+tt2152112,tt35527335,13,6,S13,Deshaun's Journey,Deshaun's Journey,2025,,,Reality-TV,2.1,16
+tt2152112,tt35674220,13,7,S13,Juan's Journey,Juan's Journey,2025,,,Reality-TV,6.2,7

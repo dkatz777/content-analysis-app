@@ -1,0 +1,101 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt1119644,tt1248537,1,1,S1,Pilot,Pilot,2008,,82,"Drama,Mystery,Sci-Fi",8.1,5234
+tt1119644,tt1248542,1,2,S1,The Same Old Story,The Same Old Story,2008,,51,"Drama,Mystery,Sci-Fi",7.6,3768
+tt1119644,tt1248543,1,3,S1,The Ghost Network,The Ghost Network,2008,,49,"Drama,Mystery,Sci-Fi",7.7,3406
+tt1119644,tt1248544,1,4,S1,The Arrival,The Arrival,2008,,47,"Drama,Mystery,Sci-Fi",8.1,3355
+tt1119644,tt1248545,1,5,S1,Power Hungry,Power Hungry,2008,,47,"Drama,Mystery,Sci-Fi",7.4,3066
+tt1119644,tt1248546,1,6,S1,The Cure,The Cure,2008,,65,"Drama,Mystery,Sci-Fi",7.6,2956
+tt1119644,tt1248547,1,7,S1,In Which We Meet Mr. Jones,In Which We Meet Mr. Jones,2008,,60,"Drama,Mystery,Sci-Fi",7.9,2980
+tt1119644,tt1248548,1,8,S1,The Equation,The Equation,2008,,47,"Drama,Mystery,Sci-Fi",7.8,2879
+tt1119644,tt1248549,1,9,S1,The Dreamscape,The Dreamscape,2008,,49,"Drama,Mystery,Sci-Fi",7.8,2763
+tt1119644,tt1248538,1,10,S1,Safe,Safe,2008,,65,"Drama,Mystery,Sci-Fi",8.5,2872
+tt1119644,tt1248539,1,11,S1,Bound,Bound,2009,,65,"Drama,Mystery,Sci-Fi",8.3,2789
+tt1119644,tt1248540,1,12,S1,The No-Brainer,The No-Brainer,2009,,52,"Drama,Mystery,Sci-Fi",7.5,2713
+tt1119644,tt1248541,1,13,S1,The Transformation,The Transformation,2009,,62,"Drama,Mystery,Sci-Fi",8.1,2720
+tt1119644,tt1352058,1,14,S1,Ability,Ability,2009,,51,"Drama,Mystery,Sci-Fi",8.6,2842
+tt1119644,tt1371600,1,15,S1,Inner Child,Inner Child,2009,,59,"Drama,Mystery,Sci-Fi",8.1,2845
+tt1119644,tt1375588,1,16,S1,Unleashed,Unleashed,2009,,57,"Drama,Mystery,Sci-Fi",7.6,2688
+tt1119644,tt1380404,1,17,S1,Bad Dreams,Bad Dreams,2009,,58,"Drama,Mystery,Sci-Fi",8.4,2781
+tt1119644,tt1390443,1,18,S1,Midnight,Midnight,2009,,57,"Drama,Mystery,Sci-Fi",7.8,2603
+tt1119644,tt1400654,1,19,S1,The Road Not Taken,The Road Not Taken,2009,,48,"Drama,Mystery,Sci-Fi",8.6,2735
+tt1119644,tt1400652,1,20,S1,There's More Than One of Everything,There's More Than One of Everything,2009,,48,"Drama,Mystery,Sci-Fi",9.1,3322
+tt1119644,tt1458249,2,1,S2,A New Day in the Old Town,A New Day in the Old Town,2009,,44,"Drama,Mystery,Sci-Fi",8.4,2929
+tt1119644,tt1461321,2,2,S2,Night of Desirable Objects,Night of Desirable Objects,2009,,44,"Drama,Mystery,Sci-Fi",7.6,2499
+tt1119644,tt1478012,2,3,S2,Fracture,Fracture,2009,,44,"Drama,Mystery,Sci-Fi",7.8,2438
+tt1119644,tt1478013,2,4,S2,Momentum Deferred,Momentum Deferred,2009,,44,"Drama,Mystery,Sci-Fi",8.6,2606
+tt1119644,tt1498335,2,5,S2,Dream Logic,Dream Logic,2009,,42,"Drama,Mystery,Sci-Fi",7.6,2376
+tt1119644,tt1494949,2,6,S2,Earthling,Earthling,2009,,43,"Drama,Mystery,Sci-Fi",7.6,2384
+tt1119644,tt1504316,2,7,S2,Of Human Action,Of Human Action,2009,,44,"Drama,Mystery,Sci-Fi",7.8,2362
+tt1119644,tt1504315,2,8,S2,August,August,2009,,43,"Drama,Mystery,Sci-Fi",8.8,2768
+tt1119644,tt1537549,2,9,S2,Snakehead,Snakehead,2009,,42,"Drama,Mystery,Sci-Fi",7.7,2325
+tt1119644,tt1537548,2,10,S2,Grey Matters,Grey Matters,2009,,43,"Drama,Mystery,Sci-Fi",8.7,2532
+tt1119644,tt1537132,2,11,S2,Unearthed,Unearthed,2010,,43,"Drama,Mystery,Sci-Fi",7.0,2474
+tt1119644,tt1537133,2,12,S2,Johari Window,Johari Window,2010,,42,"Drama,Mystery,Sci-Fi",7.6,2385
+tt1119644,tt1537134,2,13,S2,What Lies Below,What Lies Below,2010,,44,"Drama,Mystery,Sci-Fi",8.1,2426
+tt1119644,tt1537135,2,14,S2,The Bishop Revival,The Bishop Revival,2010,,44,"Drama,Mystery,Sci-Fi",8.1,2407
+tt1119644,tt1537136,2,15,S2,Jacksonville,Jacksonville,2010,,44,"Drama,Mystery,Sci-Fi",8.9,2861
+tt1119644,tt1537137,2,16,S2,Peter,Peter,2010,,44,"Drama,Mystery,Sci-Fi",9.4,4218
+tt1119644,tt1537138,2,17,S2,Olivia. In the Lab. With the Revolver,Olivia. In the Lab. With the Revolver,2010,,44,"Drama,Mystery,Sci-Fi",8.0,2355
+tt1119644,tt1537139,2,18,S2,White Tulip,White Tulip,2010,,44,"Drama,Mystery,Sci-Fi",9.2,3926
+tt1119644,tt1595401,2,19,S2,The Man from the Other Side,The Man from the Other Side,2010,,44,"Drama,Mystery,Sci-Fi",8.6,2443
+tt1119644,tt1595402,2,20,S2,Brown Betty,Brown Betty,2010,,44,"Drama,Mystery,Sci-Fi",6.8,3282
+tt1119644,tt1616753,2,21,S2,Northwest Passage,Northwest Passage,2010,,44,"Drama,Mystery,Sci-Fi",8.3,2490
+tt1119644,tt1616754,2,22,S2,Over There: Part 1,Over There: Part 1,2010,,44,"Drama,Mystery,Sci-Fi",8.9,2720
+tt1119644,tt1634617,2,23,S2,Over There: Part 2,Over There: Part 2,2010,,43,"Drama,Mystery,Sci-Fi",9.2,3025
+tt1119644,tt1635941,3,1,S3,Olivia,Olivia,2010,,43,"Drama,Mystery,Sci-Fi",8.6,2579
+tt1119644,tt1635952,3,2,S3,The Box,The Box,2010,,43,"Drama,Mystery,Sci-Fi",8.0,2244
+tt1119644,tt1635956,3,3,S3,The Plateau,The Plateau,2010,,43,"Drama,Mystery,Sci-Fi",8.5,2426
+tt1119644,tt1635957,3,4,S3,Do Shapeshifters Dream of Electric Sheep?,Do Shapeshifters Dream of Electric Sheep?,2010,,43,"Drama,Mystery,Sci-Fi",8.3,2245
+tt1119644,tt1635958,3,5,S3,Amber 31422,Amber 31422,2010,,42,"Drama,Mystery,Sci-Fi",8.1,2272
+tt1119644,tt1635959,3,6,S3,6955 kHz,6955 kHz,2010,,43,"Drama,Mystery,Sci-Fi",8.1,2206
+tt1119644,tt1635960,3,7,S3,The Abducted,The Abducted,2010,,42,"Drama,Mystery,Sci-Fi",8.6,2235
+tt1119644,tt1635961,3,8,S3,Entrada,Entrada,2010,,43,"Drama,Mystery,Sci-Fi",9.0,2503
+tt1119644,tt1635962,3,9,S3,Marionette,Marionette,2010,,60,"Drama,Mystery,Sci-Fi",8.1,2288
+tt1119644,tt1635942,3,10,S3,The Firefly,The Firefly,2011,,43,"Drama,Mystery,Sci-Fi",8.4,2255
+tt1119644,tt1635943,3,11,S3,Reciprocity,Reciprocity,2011,,43,"Drama,Mystery,Sci-Fi",7.9,2077
+tt1119644,tt1635944,3,12,S3,Concentrate and Ask Again,Concentrate and Ask Again,2011,,43,"Drama,Mystery,Sci-Fi",8.0,2118
+tt1119644,tt1635945,3,13,S3,Immortality,Immortality,2011,,44,"Drama,Mystery,Sci-Fi",7.8,2136
+tt1119644,tt1635946,3,14,S3,6B,6B,2011,,44,"Drama,Mystery,Sci-Fi",8.2,2227
+tt1119644,tt1635947,3,15,S3,Subject 13,Subject 13,2011,,44,"Drama,Mystery,Sci-Fi",8.4,2363
+tt1119644,tt1635948,3,16,S3,Os,Os,2011,,44,"Drama,Mystery,Sci-Fi",8.0,2141
+tt1119644,tt1635949,3,17,S3,Stowaway,Stowaway,2011,,60,"Drama,Mystery,Sci-Fi",7.9,2177
+tt1119644,tt1635950,3,18,S3,Bloodline,Bloodline,2011,,60,"Drama,Mystery,Sci-Fi",8.1,2129
+tt1119644,tt1635951,3,19,S3,Lysergic Acid Diethylamide,Lysergic Acid Diethylamide,2011,,60,"Drama,Mystery,Sci-Fi",8.6,2705
+tt1119644,tt1635953,3,20,S3,6:02 AM EST,6:02 AM EST,2011,,60,"Drama,Mystery,Sci-Fi",8.3,2070
+tt1119644,tt1635954,3,21,S3,The Last Sam Weiss,The Last Sam Weiss,2011,,60,"Drama,Mystery,Sci-Fi",8.7,2213
+tt1119644,tt1635955,3,22,S3,The Day We Died,The Day We Died,2011,,60,"Drama,Mystery,Sci-Fi",9.0,2864
+tt1119644,tt1942299,4,1,S4,Neither Here Nor There,Neither Here Nor There,2011,,44,"Drama,Mystery,Sci-Fi",7.9,2527
+tt1119644,tt1974629,4,2,S4,One Night in October,One Night in October,2011,,43,"Drama,Mystery,Sci-Fi",8.1,2170
+tt1119644,tt1998676,4,3,S4,Alone in the World,Alone in the World,2011,,43,"Drama,Mystery,Sci-Fi",7.7,2035
+tt1119644,tt2032721,4,4,S4,Subject 9,Subject 9,2011,,44,"Drama,Mystery,Sci-Fi",8.1,2172
+tt1119644,tt2032722,4,5,S4,Novation,Novation,2011,,44,"Drama,Mystery,Sci-Fi",8.0,2097
+tt1119644,tt2032723,4,6,S4,And Those We've Left Behind,And Those We've Left Behind,2011,,45,"Drama,Mystery,Sci-Fi",8.6,2272
+tt1119644,tt2032724,4,7,S4,Wallflower,Wallflower,2011,,43,"Drama,Mystery,Sci-Fi",7.6,1968
+tt1119644,tt2080688,4,8,S4,Back to Where You've Never Been,Back to Where You've Never Been,2012,,44,"Drama,Mystery,Sci-Fi",8.5,2152
+tt1119644,tt2097487,4,9,S4,Enemy of My Enemy,Enemy of My Enemy,2012,,43,"Drama,Mystery,Sci-Fi",8.5,2102
+tt1119644,tt2097485,4,10,S4,Forced Perspective,Forced Perspective,2012,,44,"Drama,Mystery,Sci-Fi",7.9,2073
+tt1119644,tt2097486,4,11,S4,Making Angels,Making Angels,2012,,44,"Drama,Mystery,Sci-Fi",8.1,2057
+tt1119644,tt2125858,4,12,S4,Welcome to Westfield,Welcome to Westfield,2012,,44,"Drama,Mystery,Sci-Fi",8.6,2312
+tt1119644,tt2125859,4,13,S4,A Better Human Being,A Better Human Being,2012,,44,"Drama,Mystery,Sci-Fi",7.9,2039
+tt1119644,tt2142215,4,14,S4,The End of All Things,The End of All Things,2012,,44,"Drama,Mystery,Sci-Fi",8.7,2208
+tt1119644,tt2166857,4,15,S4,A Short Story About Love,A Short Story About Love,2012,,44,"Drama,Mystery,Sci-Fi",8.0,2257
+tt1119644,tt2201537,4,16,S4,Nothing As It Seems,Nothing As It Seems,2012,,44,"Drama,Mystery,Sci-Fi",7.8,1982
+tt1119644,tt2201539,4,17,S4,Everything in Its Right Place,Everything in Its Right Place,2012,,43,"Drama,Mystery,Sci-Fi",8.1,1968
+tt1119644,tt2208523,4,18,S4,The Consultant,The Consultant,2012,,43,"Drama,Mystery,Sci-Fi",8.0,1901
+tt1119644,tt2208525,4,19,S4,Letters of Transit,Letters of Transit,2012,,43,"Drama,Mystery,Sci-Fi",8.9,3116
+tt1119644,tt2208527,4,20,S4,Worlds Apart,Worlds Apart,2012,,44,"Drama,Mystery,Sci-Fi",8.5,2065
+tt1119644,tt2208529,4,21,S4,Brave New World: Part 1,Brave New World: Part 1,2012,,44,"Drama,Mystery,Sci-Fi",8.4,2119
+tt1119644,tt2208531,4,22,S4,Brave New World: Part 2,Brave New World: Part 2,2012,,44,"Drama,Mystery,Sci-Fi",8.6,2327
+tt1119644,tt2383819,5,1,S5,Transilience Thought Unifier Model-11,Transilience Thought Unifier Model-11,2012,,43,"Drama,Mystery,Sci-Fi",8.1,2402
+tt1119644,tt2222882,5,2,S5,In Absentia,In Absentia,2012,,42,"Drama,Mystery,Sci-Fi",8.0,1916
+tt1119644,tt2352398,5,3,S5,The Recordist,The Recordist,2012,,41,"Drama,Mystery,Sci-Fi",7.7,1967
+tt1119644,tt2385734,5,4,S5,The Bullet That Saved the World,The Bullet That Saved the World,2012,,42,"Drama,Mystery,Sci-Fi",8.6,2191
+tt1119644,tt2385736,5,5,S5,An Origin Story,An Origin Story,2012,,42,"Drama,Mystery,Sci-Fi",8.3,1957
+tt1119644,tt2385738,5,6,S5,Through the Looking Glass and What Walter Found There,Through the Looking Glass and What Walter Found There,2012,,42,"Drama,Mystery,Sci-Fi",8.6,2012
+tt1119644,tt2411938,5,7,S5,Five-Twenty-Ten,Five-Twenty-Ten,2012,,42,"Drama,Mystery,Sci-Fi",8.4,1918
+tt1119644,tt2411942,5,8,S5,The Human Kind,The Human Kind,2012,,42,"Drama,Mystery,Sci-Fi",8.2,1921
+tt1119644,tt2411940,5,9,S5,Black Blotter,Black Blotter,2012,,42,"Drama,Mystery,Sci-Fi",8.2,2003
+tt1119644,tt2411944,5,10,S5,Anomaly XB-6783746,Anomaly XB-6783746,2012,,42,"Drama,Mystery,Sci-Fi",8.9,2130
+tt1119644,tt2411948,5,11,S5,The Boy Must Live,The Boy Must Live,2013,,42,"Drama,Mystery,Sci-Fi",8.6,1976
+tt1119644,tt2411946,5,12,S5,Liberty,Liberty,2013,,43,"Drama,Mystery,Sci-Fi",8.9,2202
+tt1119644,tt2411954,5,13,S5,An Enemy of Fate,An Enemy of Fate,2013,,43,"Drama,Mystery,Sci-Fi",9.3,4001

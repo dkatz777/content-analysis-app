@@ -21,6 +21,22 @@ from scripts.merge_shows_csvs import merge_for_show, DATA_DIR
 from scripts.videos_ignore import load_ignore_list, append_ignores_for_show, filter_master_for_show
 from scripts.channel_annotations import load_channel_annotations, upsert_channel_annotations
 
+from typing import Optional
+IMDB_DIR = DATA_DIR / "imdb"
+
+@st.cache_data(show_spinner=False)
+def load_shows_index() -> pd.DataFrame:
+    p = DATA_DIR / "shows_index.csv"
+    if not p.exists():
+        return pd.DataFrame()
+    return pd.read_csv(p, low_memory=False)
+
+@st.cache_data(show_spinner=False)
+def load_imdb_episodes(slug: str) -> pd.DataFrame:
+    p = IMDB_DIR / f"{slug}_imdb_episodes_master.csv"
+    if not p.exists():
+        return pd.DataFrame()
+    return pd.read_csv(p, low_memory=False)
 
 
 def get_youtube_api_key() -> str | None:
@@ -539,8 +555,127 @@ def render_ignore_panel(df: pd.DataFrame, slug: str) -> None:
                 st.error(f"Error while applying ignore selections: {e}")
 
 
+def render_home_list_view():
+    st.subheader("Library (List)")
+
+    def _safe_str(v) -> str:
+        if v is None:
+            return ""
+        try:
+            if pd.isna(v):
+                return ""
+        except Exception:
+            pass
+        return str(v).strip()
+
+    idx = load_shows_index()
+    if idx.empty:
+        st.warning("data/shows_index.csv not found or empty. Run scripts/build_shows_index.py.")
+        return
+
+    # Required columns
+    if "slug" not in idx.columns:
+        st.error("shows_index.csv must include a 'slug' column.")
+        return
+
+    # Normalize and pick the fields you asked for
+    df = idx.copy()
+
+    # Title preference
+    if "show_title" not in df.columns:
+        df["show_title"] = df["slug"]
+
+    # Numeric fields (tolerate missing)
+    for c in ["yt_total_views", "ugc_pct", "imdb_weighted_avg_rating", "imdb_avg_rating"]:
+        if c in df.columns:
+            df[c] = pd.to_numeric(df[c], errors="coerce")
+
+    # Choose IMDb rating column
+    imdb_col = "imdb_weighted_avg_rating" if "imdb_weighted_avg_rating" in df.columns else (
+        "imdb_avg_rating" if "imdb_avg_rating" in df.columns else None
+    )
+
+    # Only keep the columns we want to show
+    show_cols = {
+        "show_title": "Show Title",
+        "yt_total_views": "YouTube Views",
+        "ugc_pct": "% UGC",
+        "studio": "Studio",
+    }
+    if imdb_col:
+        show_cols[imdb_col] = "IMDb Rating"
+
+    for col in show_cols.keys():
+        if col not in df.columns:
+            df[col] = pd.NA
+
+    # Sort defaults: views desc if present, else title
+    if "yt_total_views" in df.columns:
+        df = df.sort_values("yt_total_views", ascending=False, na_position="last")
+    else:
+        df = df.sort_values("show_title", ascending=True, na_position="last")
+
+    # Render a clean table-like layout with clickable title buttons
+    header = st.columns([4, 2, 1.2, 2, 1.5])
+    header[0].markdown("**Show Title**")
+    header[1].markdown("**YouTube Views**")
+    header[2].markdown("**% UGC**")
+    header[3].markdown("**Studio**")
+    header[4].markdown("**IMDb Rating**")
+
+    st.divider()
+
+    # Limit rows for performance, add a slider if you want
+    max_rows = min(len(df), 200)
+    for i in range(max_rows):
+        row = df.iloc[i]
+        slug = str(row["slug"])
+
+        studio = _safe_str(row.get("studio"))
+        title_raw = row.get("show_title")
+        title = _safe_str(title_raw) or slug
+
+
+        views = row.get("yt_total_views", pd.NA)
+        views_num = pd.to_numeric(views, errors="coerce")
+        views_str = f"{int(views_num):,}" if pd.notna(views_num) else ""
+
+
+        ugc = row.get("ugc_pct", pd.NA)
+        ugc_num = pd.to_numeric(ugc, errors="coerce")
+        ugc_str = f"{ugc_num:.0f}%" if pd.notna(ugc_num) else ""
+
+        imdb_val = row.get(imdb_col, pd.NA) if imdb_col else pd.NA
+        imdb_str = f"{imdb_val:.2f}" if pd.notna(imdb_val) else ""
+
+        cols = st.columns([4, 2, 1.2, 2, 1.5])
+
+        # Clickable title that opens the show page
+        if cols[0].button(title, key=f"open_{slug}_{i}"):
+            master_path = DATA_DIR / f"{slug}_master.csv"
+            if not master_path.exists():
+                st.error(f"Missing YouTube master: {master_path}")
+                return
+            df_saved = pd.read_csv(master_path, low_memory=False)
+            open_show(title, slug, df_saved)
+
+        cols[1].write(views_str)
+        cols[2].write(ugc_str)
+        cols[3].write(studio)
+        cols[4].write(imdb_str)
+
+
+
 def render_home(library):
-    st.title("YouTube TV Show Analysis")
+    st.title("Content Analysis App")
+
+    view_mode = st.radio(
+        "View",
+        ["Browse", "List"],
+        horizontal=True,
+        key="home_view_mode",
+)
+
 
     st.markdown("Select an existing show or run a new search.")
 
@@ -569,7 +704,7 @@ def render_home(library):
             )
             existing = next(item for item in library if item["slug"] == slug)
             df_saved = load_show_df(existing["path"])
-            open_show(existing["display_name"], show["slug"], df_saved)
+            open_show(existing["display_name"], existing["slug"], df_saved)
         else:
             with st.spinner("Querying YouTube API and writing snapshot..."):
                 try:
@@ -596,32 +731,39 @@ def render_home(library):
             else:
                 st.warning("No results found for that search.")
 
-    # 2. Library view
-    st.subheader("Existing shows")
+    # 2. Library view (shows_index.csv)
+    st.subheader("Library")
 
-    if not library:
-        st.info("No shows in the library yet. Use the form above to run a new search.")
+    if view_mode == "Browse":
+        # ... your current browse/grid code stays here unchanged ...
+        if not library:
+                st.info("No shows in the library yet. Use the form above to run a new search.")
+        else:
+            cols = st.columns(3)
+            for idx, show in enumerate(library):
+                col = cols[idx % 3]
+                with col:
+                    # Show key art if we have it
+                    if show.get("image_path"):
+                        st.image(
+                            show["image_path"],
+                            width=250,
+                        )
+
+                    # Title as the clickable element that opens the show page
+                    if st.button(
+                        show["display_name"],
+                        key=f"open_{show['slug']}",
+                    ):
+                        df_saved = load_show_df(show["path"])
+                        open_show(show["display_name"], show["slug"], df_saved)
+
+        st.markdown("---")        
+
     else:
-        cols = st.columns(3)
-        for idx, show in enumerate(library):
-            col = cols[idx % 3]
-            with col:
-                # Show key art if we have it
-                if show.get("image_path"):
-                    st.image(
-                        show["image_path"],
-                        width=250,
-                    )
+        render_home_list_view()
 
-                # Title as the clickable element that opens the show page
-                if st.button(
-                    show["display_name"],
-                    key=f"open_{show['slug']}",
-                ):
-                    df_saved = load_show_df(show["path"])
-                    open_show(show["display_name"], show["slug"], df_saved)
 
-    st.markdown("---")
 
 
 def render_show_page():
@@ -706,14 +848,59 @@ def render_show_page():
                         st.error(f"Error merging snapshot into master: {e}")
 
 
-    # Ignore panel for marking videos as non show content
-    render_ignore_panel(df, slug)
+    tab_yt, tab_imdb = st.tabs(["YouTube", "IMDb"])
 
-    # Load channel annotations once
-    channel_annotations = load_channel_annotations()
+    with tab_yt:
+        render_ignore_panel(df, slug)
 
-    # Show the dashboard with UGC logic
-    show_dashboard(df, label, slug=slug, channel_annotations=channel_annotations)
+        channel_annotations = load_channel_annotations()
+        show_dashboard(df, label, slug=slug, channel_annotations=channel_annotations)
+
+    with tab_imdb:
+        imdb_df = load_imdb_episodes(slug)
+        if imdb_df.empty:
+            st.info("No IMDb episode master found for this show yet.")
+            st.caption(f"Expected: data/imdb/{slug}_imdb_episodes_master.csv")
+        else:
+            st.subheader("IMDb episodes")
+
+            # Normalize numeric fields if present
+            for c in ["season_number", "episode_number", "imdb_rating", "imdb_votes"]:
+                if c in imdb_df.columns:
+                    imdb_df[c] = pd.to_numeric(imdb_df[c], errors="coerce")
+
+            # Season filter
+            if "season_number" in imdb_df.columns:
+                seasons = sorted([int(x) for x in imdb_df["season_number"].dropna().unique()])
+                season_choice = st.selectbox("Season", ["All"] + seasons, key=f"imdb_season_{slug}")
+                view = imdb_df if season_choice == "All" else imdb_df[imdb_df["season_number"] == season_choice]
+            else:
+                view = imdb_df
+
+            # Simple rollups
+            cols = st.columns(4)
+            if "imdb_rating" in view.columns:
+                avg = view["imdb_rating"].dropna().mean()
+                cols[0].metric("Avg rating", f"{avg:.2f}" if pd.notna(avg) else "n/a")
+            if "imdb_votes" in view.columns:
+                votes = int(view["imdb_votes"].dropna().sum()) if len(view) else 0
+                cols[1].metric("Total votes", f"{votes:,}")
+            cols[2].metric("Episodes", f"{len(view):,}")
+
+            # Display table
+            display_cols = [c for c in [
+                "season_number",
+                "episode_number",
+                "episode_title",
+                "imdb_rating",
+                "imdb_votes",
+            ] if c in view.columns]
+
+            if set(["season_number", "episode_number"]).issubset(view.columns):
+                view = view.sort_values(["season_number", "episode_number"], na_position="last")
+
+            st.dataframe(view[display_cols], width="stretch", hide_index=True)
+
 
 
 # Simple router

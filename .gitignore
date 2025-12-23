@@ -6,3 +6,11 @@ __pycache__/
 
 # Streamlit local config
 .streamlit/secrets.toml
+
+# IMDb raw datasets (source dumps)
+data/imdb/*.tsv.gz
+data/imdb/*.tsv
+
+# Optional: any downloaded archives
+data/imdb/*.zip
+data/imdb/*.tar.gz

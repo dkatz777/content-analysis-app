@@ -1,0 +1,246 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0460627,tt0529893,1,1,S1,Pilot,Pilot,2005,,42,"Crime,Drama,Mystery",7.6,2307
+tt0460627,tt0529897,1,2,S1,The Man in the SUV,The Man in the SUV,2005,,42,"Crime,Drama,Mystery",7.3,1792
+tt0460627,tt0529892,1,3,S1,A Boy in a Tree,A Boy in a Tree,2005,,42,"Crime,Drama,Mystery",7.5,1688
+tt0460627,tt0529895,1,4,S1,The Man in the Bear,The Man in the Bear,2005,,42,"Crime,Drama,Mystery",7.8,1691
+tt0460627,tt0529891,1,5,S1,A Boy in a Bush,A Boy in a Bush,2005,,43,"Crime,Drama,Mystery",7.8,1644
+tt0460627,tt0529898,1,6,S1,The Man in the Wall,The Man in the Wall,2005,,42,"Crime,Drama,Mystery",7.3,1546
+tt0460627,tt0529899,1,7,S1,The Man on Death Row,The Man on Death Row,2005,,43,"Crime,Drama,Mystery",8.1,1637
+tt0460627,tt0529894,1,8,S1,The Girl in the Fridge,The Girl in the Fridge,2005,,43,"Crime,Drama,Mystery",7.9,1574
+tt0460627,tt0529896,1,9,S1,The Man in the Fallout Shelter,The Man in the Fallout Shelter,2005,,43,"Crime,Drama,Mystery",8.7,2059
+tt0460627,tt0529901,1,10,S1,The Woman at the Airport,The Woman at the Airport,2006,,42,"Crime,Drama,Mystery",7.5,1473
+tt0460627,tt0758574,1,11,S1,The Woman in the Car,The Woman in the Car,2006,,43,"Crime,Drama,Mystery",7.7,1448
+tt0460627,tt0529900,1,12,S1,The Superhero in the Alley,The Superhero in the Alley,2006,,41,"Crime,Drama,Mystery",7.7,1625
+tt0460627,tt0529902,1,13,S1,The Woman in the Garden,The Woman in the Garden,2006,,42,"Crime,Drama,Mystery",7.5,1383
+tt0460627,tt0760338,1,14,S1,The Man on the Fairway,The Man on the Fairway,2006,,42,"Crime,Drama,Mystery",7.5,1352
+tt0460627,tt0768979,1,15,S1,Two Bodies in the Lab,Two Bodies in the Lab,2006,,43,"Crime,Drama,Mystery",8.4,1750
+tt0460627,tt0529903,1,16,S1,The Woman in the Tunnel,The Woman in the Tunnel,2006,,43,"Crime,Drama,Mystery",7.6,1364
+tt0460627,tt0775946,1,17,S1,The Skull in the Desert,The Skull in the Desert,2006,,43,"Crime,Drama,Mystery",7.6,1445
+tt0460627,tt0776221,1,18,S1,The Man with the Bone,The Man with the Bone,2006,,42,"Crime,Drama,Mystery",7.5,1371
+tt0460627,tt0793707,1,19,S1,The Man in the Morgue,The Man in the Morgue,2006,,42,"Crime,Drama,Mystery",8.0,1547
+tt0460627,tt0793706,1,20,S1,The Graft in the Girl,The Graft in the Girl,2006,,42,"Crime,Drama,Mystery",8.2,1504
+tt0460627,tt0795800,1,21,S1,The Soldier on the Grave,The Soldier on the Grave,2006,,43,"Crime,Drama,Mystery",7.6,1413
+tt0460627,tt0793708,1,22,S1,The Woman in Limbo,The Woman in Limbo,2006,,42,"Crime,Drama,Mystery",8.7,1678
+tt0460627,tt0849846,2,1,S2,The Titan on the Track,The Titan on the Track,2006,,42,"Crime,Drama,Mystery",7.5,1350
+tt0460627,tt0849845,2,2,S2,Mother and Child in the Bay,Mother and Child in the Bay,2006,,42,"Crime,Drama,Mystery",7.7,1314
+tt0460627,tt0838473,2,3,S2,The Boy in the Shroud,The Boy in the Shroud,2006,,42,"Crime,Drama,Mystery",7.7,1355
+tt0460627,tt0838474,2,4,S2,The Blonde in the Game,The Blonde in the Game,2006,,42,"Crime,Drama,Mystery",8.1,1375
+tt0460627,tt0847233,2,5,S2,The Truth in the Lye,The Truth in the Lye,2006,,42,"Crime,Drama,Mystery",7.6,1284
+tt0460627,tt0849844,2,6,S2,The Girl in Suite 2103,The Girl in Suite 2103,2006,,42,"Crime,Drama,Mystery",7.5,1235
+tt0460627,tt0861893,2,7,S2,The Girl with the Curl,The Girl with the Curl,2006,,42,"Crime,Drama,Mystery",7.7,1351
+tt0460627,tt0869544,2,8,S2,The Woman in the Sand,The Woman in the Sand,2006,,42,"Crime,Drama,Mystery",7.9,1396
+tt0460627,tt0879450,2,9,S2,Aliens in a Spaceship,Aliens in a Spaceship,2006,,42,"Crime,Drama,Mystery",9.3,2631
+tt0460627,tt0901048,2,10,S2,The Headless Witch in the Woods,The Headless Witch in the Woods,2006,,42,"Crime,Drama,Mystery",7.7,1345
+tt0460627,tt0915947,2,11,S2,Judas on a Pole,Judas on a Pole,2006,,42,"Crime,Drama,Mystery",8.6,1595
+tt0460627,tt0913487,2,12,S2,The Man in the Cell,The Man in the Cell,2007,,42,"Crime,Drama,Mystery",8.6,1487
+tt0460627,tt0924531,2,13,S2,The Girl in the Gator,The Girl in the Gator,2007,,42,"Crime,Drama,Mystery",7.7,1302
+tt0460627,tt0934031,2,14,S2,The Man in the Mansion,The Man in the Mansion,2007,,42,"Crime,Drama,Mystery",7.7,1272
+tt0460627,tt0934029,2,15,S2,The Bodies in the Book,The Bodies in the Book,2007,,42,"Crime,Drama,Mystery",8.0,1266
+tt0460627,tt0934030,2,16,S2,The Boneless Bride in the River,The Boneless Bride in the River,2007,,42,"Crime,Drama,Mystery",7.3,1218
+tt0460627,tt0988238,2,17,S2,The Priest in the Churchyard,The Priest in the Churchyard,2007,,42,"Crime,Drama,Mystery",7.7,1245
+tt0460627,tt0961763,2,18,S2,The Killer in the Concrete,The Killer in the Concrete,2007,,42,"Crime,Drama,Mystery",7.9,1265
+tt0460627,tt0970986,2,19,S2,Spaceman in a Crater,Spaceman in a Crater,2007,,41,"Crime,Drama,Mystery",7.6,1182
+tt0460627,tt0988236,2,20,S2,The Glowing Bones in 'The Old Stone House',The Glowing Bones in 'The Old Stone House',2007,,42,"Crime,Drama,Mystery",7.7,1225
+tt0460627,tt0988237,2,21,S2,Stargazer in a Puddle,Stargazer in a Puddle,2007,,42,"Crime,Drama,Mystery",8.1,1348
+tt0460627,tt1111136,3,1,S3,The Widow's Son in the Windshield,The Widow's Son in the Windshield,2007,,42,"Crime,Drama,Mystery",7.9,1311
+tt0460627,tt1112968,3,2,S3,Soccer Mom in the Mini-Van,Soccer Mom in the Mini-Van,2007,,42,"Crime,Drama,Mystery",7.5,1235
+tt0460627,tt1119864,3,3,S3,Death in the Saddle,Death in the Saddle,2007,,42,"Crime,Drama,Mystery",7.2,1218
+tt0460627,tt1119865,3,4,S3,The Secret in the Soil,The Secret in the Soil,2007,,42,"Crime,Drama,Mystery",7.5,1184
+tt0460627,tt1117421,3,5,S3,Mummy in the Maze,Mummy in the Maze,2007,,42,"Crime,Drama,Mystery",8.2,1419
+tt0460627,tt1121255,3,6,S3,Intern in the Incinerator,Intern in the Incinerator,2007,,42,"Crime,Drama,Mystery",7.7,1165
+tt0460627,tt1116231,3,7,S3,Boy in the Time Capsule,Boy in the Time Capsule,2007,,42,"Crime,Drama,Mystery",7.7,1185
+tt0460627,tt1129501,3,8,S3,The Knight on the Grid,The Knight on the Grid,2007,,42,"Crime,Drama,Mystery",8.2,1256
+tt0460627,tt1143231,3,9,S3,The Santa in the Slush,The Santa in the Slush,2007,,42,"Crime,Drama,Mystery",8.4,1513
+tt0460627,tt1145324,3,10,S3,The Man in the Mud,The Man in the Mud,2008,,42,"Crime,Drama,Mystery",7.5,1147
+tt0460627,tt0960237,3,11,S3,Player Under Pressure,Player Under Pressure,2008,,42,"Crime,Drama,Mystery",7.5,1181
+tt0460627,tt1136080,3,12,S3,The Baby in the Bough,The Baby in the Bough,2008,,42,"Crime,Drama,Mystery",8.0,1304
+tt0460627,tt1219423,3,13,S3,The Verdict in the Story,The Verdict in the Story,2008,,42,"Crime,Drama,Mystery",8.5,1424
+tt0460627,tt1174774,3,14,S3,The Wannabe in the Weeds,The Wannabe in the Weeds,2008,,42,"Crime,Drama,Mystery",8.5,1512
+tt0460627,tt1219422,3,15,S3,The Pain in the Heart,The Pain in the Heart,2008,,42,"Crime,Drama,Mystery",8.3,1695
+tt0460627,tt1248433,4,1,S4,The Yanks in the U.K.: Parts 1 and 2,The Yanks in the U.K.: Parts 1 and 2,2008,,120,"Crime,Drama,Mystery",7.5,1482
+tt0460627,tt1248444,4,3,S4,The Man in the Outhouse,The Man in the Outhouse,2008,,44,"Crime,Drama,Mystery",7.4,1157
+tt0460627,tt1248449,4,4,S4,The Finger in the Nest,The Finger in the Nest,2008,,43,"Crime,Drama,Mystery",7.7,1202
+tt0460627,tt1248451,4,5,S4,The Perfect Pieces in the Purple Pond,The Perfect Pieces in the Purple Pond,2008,,44,"Crime,Drama,Mystery",8.1,1265
+tt0460627,tt1248450,4,6,S4,The Crank in the Shaft,The Crank in the Shaft,2008,,60,"Crime,Drama,Mystery",7.3,1131
+tt0460627,tt1285434,4,7,S4,The He in the She,The He in the She,2008,,43,"Crime,Drama,Mystery",7.6,1285
+tt0460627,tt1248434,4,8,S4,The Skull in the Sculpture,The Skull in the Sculpture,2008,,44,"Crime,Drama,Mystery",7.4,1198
+tt0460627,tt1248453,4,9,S4,The Con Man in the Meth Lab,The Con Man in the Meth Lab,2008,,43,"Crime,Drama,Mystery",7.7,1195
+tt0460627,tt1248454,4,10,S4,The Passenger in the Oven,The Passenger in the Oven,2008,,60,"Crime,Drama,Mystery",8.2,1327
+tt0460627,tt1248452,4,11,S4,The Bone That Blew,The Bone That Blew,2008,,60,"Crime,Drama,Mystery",7.5,1124
+tt0460627,tt1248435,4,12,S4,Double Trouble in the Panhandle,Double Trouble in the Panhandle,2009,,44,"Crime,Drama,Mystery",8.2,1411
+tt0460627,tt1248436,4,13,S4,Fire in the Ice,Fire in the Ice,2009,,44,"Crime,Drama,Mystery",7.6,1255
+tt0460627,tt1248437,4,14,S4,The Hero in the Hold,The Hero in the Hold,2009,,44,"Crime,Drama,Mystery",8.7,1682
+tt0460627,tt1359122,4,15,S4,The Princess and the Pear,The Princess and the Pear,2009,,55,"Crime,Drama,Mystery",7.7,1195
+tt0460627,tt1248439,4,16,S4,The Bones That Foam,The Bones That Foam,2009,,60,"Crime,Drama,Mystery",7.6,1177
+tt0460627,tt1248440,4,17,S4,The Salt in the Wounds,The Salt in the Wounds,2009,,55,"Crime,Drama,Mystery",7.5,1169
+tt0460627,tt1248441,4,18,S4,The Doctor in the Den,The Doctor in the Den,2009,,55,"Crime,Drama,Mystery",7.7,1176
+tt0460627,tt1248443,4,19,S4,The Science in the Physicist,The Science in the Physicist,2009,,44,"Crime,Drama,Mystery",7.7,1160
+tt0460627,tt1412815,4,20,S4,The Cinderella in the Cardboard,The Cinderella in the Cardboard,2009,,55,"Crime,Drama,Mystery",7.5,1110
+tt0460627,tt1248445,4,21,S4,Mayhem on a Cross,Mayhem on a Cross,2009,,55,"Crime,Drama,Mystery",8.0,1417
+tt0460627,tt1248446,4,22,S4,The Double Death of the Dearly Departed,The Double Death of the Dearly Departed,2009,,55,"Crime,Drama,Mystery",8.5,1540
+tt0460627,tt1248447,4,23,S4,The Girl in the Mask,The Girl in the Mask,2009,,43,"Crime,Drama,Mystery",7.7,1252
+tt0460627,tt1404848,4,24,S4,The Beaver in the Otter,The Beaver in the Otter,2009,,55,"Crime,Drama,Mystery",7.3,1111
+tt0460627,tt1404446,4,25,S4,The Critic in the Cabernet,The Critic in the Cabernet,2009,,55,"Crime,Drama,Mystery",8.1,1321
+tt0460627,tt1404849,4,26,S4,The End in the Beginning,The End in the Beginning,2009,,55,"Crime,Drama,Mystery",7.7,1798
+tt0460627,tt1475714,5,1,S5,Harbingers in a Fountain,Harbingers in a Fountain,2009,,44,"Crime,Drama,Mystery",8.0,1325
+tt0460627,tt1475715,5,2,S5,The Bond in the Boot,The Bond in the Boot,2009,,44,"Crime,Drama,Mystery",7.9,1204
+tt0460627,tt1490096,5,3,S5,The Plain in the Prodigy,The Plain in the Prodigy,2009,,60,"Crime,Drama,Mystery",7.8,1232
+tt0460627,tt1497909,5,4,S5,The Beautiful Day in the Neighborhood,The Beautiful Day in the Neighborhood,2009,,43,"Crime,Drama,Mystery",7.6,1145
+tt0460627,tt1501846,5,5,S5,A Night at the Bones Museum,A Night at the Bones Museum,2009,,60,"Crime,Drama,Mystery",7.9,1160
+tt0460627,tt1519716,5,6,S5,The Tough Man in the Tender Chicken,The Tough Man in the Tender Chicken,2009,,60,"Crime,Drama,Mystery",7.3,1077
+tt0460627,tt1514274,5,7,S5,The Dwarf in the Dirt,The Dwarf in the Dirt,2009,,60,"Crime,Drama,Mystery",7.7,1148
+tt0460627,tt1524955,5,8,S5,The Foot in the Foreclosure,The Foot in the Foreclosure,2009,,60,"Crime,Drama,Mystery",7.8,1122
+tt0460627,tt1514861,5,9,S5,The Gamer in the Grease,The Gamer in the Grease,2009,,60,"Crime,Drama,Mystery",7.5,1125
+tt0460627,tt1541172,5,10,S5,The Goop on the Girl,The Goop on the Girl,2009,,60,"Crime,Drama,Mystery",8.1,1350
+tt0460627,tt1546520,5,11,S5,The X in the File,The X in the File,2010,,60,"Crime,Drama,Mystery",7.8,1130
+tt0460627,tt1545336,5,12,S5,The Proof in the Pudding,The Proof in the Pudding,2010,,60,"Crime,Drama,Mystery",8.5,1381
+tt0460627,tt1554582,5,13,S5,The Dentist in the Ditch,The Dentist in the Ditch,2010,,60,"Crime,Drama,Mystery",7.4,1047
+tt0460627,tt1563051,5,14,S5,The Devil in the Details,The Devil in the Details,2010,,60,"Crime,Drama,Mystery",7.7,1089
+tt0460627,tt1583432,5,15,S5,The Bones on the Blue Line,The Bones on the Blue Line,2010,,44,"Crime,Drama,Mystery",7.8,1075
+tt0460627,tt1581698,5,16,S5,The Parts in the Sum of the Whole,The Parts in the Sum of the Whole,2010,,60,"Crime,Drama,Mystery",8.8,1740
+tt0460627,tt1611261,5,17,S5,The Death of the Queen Bee,The Death of the Queen Bee,2010,,60,"Crime,Drama,Mystery",8.3,1272
+tt0460627,tt1610568,5,18,S5,The Predator in the Pool,The Predator in the Pool,2010,,60,"Crime,Drama,Mystery",7.5,1067
+tt0460627,tt1613224,5,19,S5,The Rocker in the Rinse Cycle,The Rocker in the Rinse Cycle,2010,,60,"Crime,Drama,Mystery",7.3,1088
+tt0460627,tt1613910,5,20,S5,The Witch in the Wardrobe,The Witch in the Wardrobe,2010,,60,"Crime,Drama,Mystery",8.0,1226
+tt0460627,tt1613909,5,21,S5,The Boy with the Answer,The Boy with the Answer,2010,,60,"Crime,Drama,Mystery",8.5,1258
+tt0460627,tt1613908,5,22,S5,The Beginning in the End,The Beginning in the End,2010,,60,"Crime,Drama,Mystery",8.2,1190
+tt0460627,tt1628104,6,1,S6,The Mastodon in the Room,The Mastodon in the Room,2010,,60,"Crime,Drama,Mystery",8.1,1236
+tt0460627,tt1628115,6,2,S6,The Couple in the Cave,The Couple in the Cave,2010,,60,"Crime,Drama,Mystery",7.4,1061
+tt0460627,tt1628119,6,3,S6,The Maggots in the Meathead,The Maggots in the Meathead,2010,,60,"Crime,Drama,Mystery",7.4,1127
+tt0460627,tt1628120,6,4,S6,The Body and the Bounty,The Body and the Bounty,2010,,60,"Crime,Drama,Mystery",7.8,1135
+tt0460627,tt1628121,6,5,S6,The Bones That Weren't,The Bones That Weren't,2010,,44,"Crime,Drama,Mystery",7.5,1058
+tt0460627,tt1628122,6,6,S6,The Shallow in the Deep,The Shallow in the Deep,2010,,60,"Crime,Drama,Mystery",7.9,1079
+tt0460627,tt1628123,6,7,S6,The Babe in the Bar,The Babe in the Bar,2010,,60,"Crime,Drama,Mystery",7.4,1006
+tt0460627,tt1628125,6,8,S6,The Twisted Bones in the Melted Truck,The Twisted Bones in the Melted Truck,2010,,60,"Crime,Drama,Mystery",7.4,1005
+tt0460627,tt1628124,6,9,S6,The Doctor in the Photo,The Doctor in the Photo,2010,,60,"Crime,Drama,Mystery",8.8,1852
+tt0460627,tt1628106,6,10,S6,The Body in the Bag,The Body in the Bag,2011,,42,"Crime,Drama,Mystery",7.5,1010
+tt0460627,tt1628105,6,11,S6,The Bullet in the Brain,The Bullet in the Brain,2011,,43,"Crime,Drama,Mystery",8.5,1257
+tt0460627,tt1628107,6,12,S6,The Sin in the Sisterhood,The Sin in the Sisterhood,2011,,44,"Crime,Drama,Mystery",7.3,984
+tt0460627,tt1628108,6,13,S6,The Daredevil in the Mold,The Daredevil in the Mold,2011,,44,"Crime,Drama,Mystery",7.6,1075
+tt0460627,tt1628109,6,14,S6,The Bikini in the Soup,The Bikini in the Soup,2011,,60,"Crime,Drama,Mystery",7.6,1026
+tt0460627,tt1628110,6,15,S6,The Killer in the Crosshairs,The Killer in the Crosshairs,2011,,60,"Crime,Drama,Mystery",7.8,1092
+tt0460627,tt1628111,6,16,S6,The Blackout in the Blizzard,The Blackout in the Blizzard,2011,,60,"Crime,Drama,Mystery",8.3,1231
+tt0460627,tt1628113,6,17,S6,The Feet on the Beach,The Feet on the Beach,2011,,60,"Crime,Drama,Mystery",7.6,1051
+tt0460627,tt1628114,6,18,S6,The Truth in the Myth,The Truth in the Myth,2011,,60,"Crime,Drama,Mystery",7.4,1021
+tt0460627,tt1628112,6,19,S6,The Finder,The Finder,2011,,44,"Crime,Drama,Mystery",7.4,1725
+tt0460627,tt1628116,6,20,S6,The Pinocchio in the Planter,The Pinocchio in the Planter,2011,,60,"Crime,Drama,Mystery",7.3,966
+tt0460627,tt1628117,6,21,S6,The Signs in the Silence,The Signs in the Silence,2011,,60,"Crime,Drama,Mystery",8.8,1545
+tt0460627,tt1628118,6,22,S6,The Hole in the Heart,The Hole in the Heart,2011,,60,"Crime,Drama,Mystery",9.1,2069
+tt0460627,tt1868269,6,23,S6,The Change in the Game,The Change in the Game,2011,,60,"Crime,Drama,Mystery",8.5,1618
+tt0460627,tt2039481,7,1,S7,The Memories in the Shallow Grave,The Memories in the Shallow Grave,2011,,44,"Crime,Drama,Mystery",7.9,1340
+tt0460627,tt2014516,7,2,S7,The Hot Dog in the Competition,The Hot Dog in the Competition,2011,,44,"Crime,Drama,Mystery",7.8,1138
+tt0460627,tt2063058,7,3,S7,The Prince in the Plastic,The Prince in the Plastic,2011,,44,"Crime,Drama,Mystery",7.7,1028
+tt0460627,tt2061925,7,4,S7,The Male in the Mail,The Male in the Mail,2011,,44,"Crime,Drama,Mystery",7.8,1075
+tt0460627,tt2078861,7,5,S7,The Twist in the Twister,The Twist in the Twister,2011,,44,"Crime,Drama,Mystery",7.6,1061
+tt0460627,tt2076424,7,6,S7,The Crack in the Code,The Crack in the Code,2012,,44,"Crime,Drama,Mystery",8.5,1334
+tt0460627,tt2155499,7,7,S7,The Prisoner in the Pipe,The Prisoner in the Pipe,2012,,44,"Crime,Drama,Mystery",7.8,1291
+tt0460627,tt2196275,7,8,S7,The Bump in the Road,The Bump in the Road,2012,,44,"Crime,Drama,Mystery",7.7,1017
+tt0460627,tt2211463,7,9,S7,The Don't in the Do,The Don't in the Do,2012,,44,"Crime,Drama,Mystery",7.5,955
+tt0460627,tt2211465,7,10,S7,The Warrior in the Wuss,The Warrior in the Wuss,2012,,44,"Crime,Drama,Mystery",7.5,934
+tt0460627,tt2258933,7,11,S7,The Family in the Feud,The Family in the Feud,2012,,44,"Crime,Drama,Mystery",7.5,957
+tt0460627,tt2307089,7,12,S7,The Suit on the Set,The Suit on the Set,2012,,44,"Crime,Drama,Mystery",7.9,1089
+tt0460627,tt2356057,7,13,S7,The Past in the Present,The Past in the Present,2012,,44,"Crime,Drama,Mystery",8.7,1317
+tt0460627,tt2358220,8,1,S8,The Future in the Past,The Future in the Past,2012,,44,"Crime,Drama,Mystery",8.5,1297
+tt0460627,tt2301429,8,2,S8,The Partners in the Divorce,The Partners in the Divorce,2012,,43,"Crime,Drama,Mystery",7.6,1059
+tt0460627,tt2400583,8,3,S8,The Gunk in the Garage,The Gunk in the Garage,2012,,44,"Crime,Drama,Mystery",7.9,1053
+tt0460627,tt2419832,8,4,S8,The Tiger in the Tale,The Tiger in the Tale,2012,,44,"Crime,Drama,Mystery",7.4,993
+tt0460627,tt2479498,8,5,S8,The Method in the Madness,The Method in the Madness,2012,,44,"Crime,Drama,Mystery",7.5,952
+tt0460627,tt2420052,8,6,S8,The Patriot in Purgatory,The Patriot in Purgatory,2012,,44,"Crime,Drama,Mystery",8.9,2015
+tt0460627,tt2483088,8,7,S8,The Bod in the Pod,The Bod in the Pod,2012,,44,"Crime,Drama,Mystery",7.6,980
+tt0460627,tt2519132,8,8,S8,The But in the Joke,The But in the Joke,2012,,44,"Crime,Drama,Mystery",7.5,966
+tt0460627,tt2524404,8,9,S8,The Ghost in the Machine,The Ghost in the Machine,2012,,43,"Crime,Drama,Mystery",6.8,1631
+tt0460627,tt2421754,8,10,S8,The Diamond in the Rough,The Diamond in the Rough,2013,,44,"Crime,Drama,Mystery",7.0,1049
+tt0460627,tt2438680,8,11,S8,The Archaeologist in the Cocoon,The Archaeologist in the Cocoon,2013,,44,"Crime,Drama,Mystery",7.6,961
+tt0460627,tt2586810,8,12,S8,The Corpse on the Canopy,The Corpse on the Canopy,2013,,44,"Crime,Drama,Mystery",8.5,1183
+tt0460627,tt2639530,8,13,S8,The Twist in the Plot,The Twist in the Plot,2013,,44,"Crime,Drama,Mystery",7.3,894
+tt0460627,tt2634294,8,14,S8,The Doll in the Derby,The Doll in the Derby,2013,,46,"Crime,Drama,Mystery",7.4,921
+tt0460627,tt2567564,8,15,S8,The Shot in the Dark,The Shot in the Dark,2013,,44,"Crime,Drama,Mystery",7.8,1162
+tt0460627,tt2558974,8,16,S8,The Friend in Need,The Friend in Need,2013,,42,"Crime,Drama,Mystery",7.7,922
+tt0460627,tt2711922,8,17,S8,The Fact in the Fiction,The Fact in the Fiction,2013,,43,"Crime,Drama,Mystery",7.4,895
+tt0460627,tt2661372,8,18,S8,The Survivor in the Soap,The Survivor in the Soap,2013,,41,"Crime,Drama,Mystery",7.6,901
+tt0460627,tt2739322,8,19,S8,The Doom in the Gloom,The Doom in the Gloom,2013,,44,"Crime,Drama,Mystery",7.4,853
+tt0460627,tt2700198,8,20,S8,The Blood from the Stones,The Blood from the Stones,2013,,44,"Crime,Drama,Mystery",7.4,883
+tt0460627,tt2735252,8,21,S8,The Maiden in the Mushrooms,The Maiden in the Mushrooms,2013,,45,"Crime,Drama,Mystery",7.2,885
+tt0460627,tt2751226,8,22,S8,The Party in the Pants,The Party in the Pants,2013,,44,"Crime,Drama,Mystery",7.3,895
+tt0460627,tt2790012,8,23,S8,The Pathos in the Pathogens,The Pathos in the Pathogens,2013,,43,"Crime,Drama,Mystery",8.3,1046
+tt0460627,tt2861656,8,24,S8,The Secret in the Siege,The Secret in the Siege,2013,,44,"Crime,Drama,Mystery",7.8,1047
+tt0460627,tt2811788,9,1,S9,The Secrets in the Proposal,The Secrets in the Proposal,2013,,44,"Crime,Drama,Mystery",7.7,1095
+tt0460627,tt3177170,9,2,S9,The Cheat in the Retreat,The Cheat in the Retreat,2013,,43,"Crime,Drama,Mystery",7.6,933
+tt0460627,tt3199272,9,3,S9,El Carnicero en el Coche,El Carnicero en el Coche,2013,,43,"Crime,Drama,Mystery",7.5,878
+tt0460627,tt3171294,9,4,S9,The Sense in the Sacrifice,The Sense in the Sacrifice,2013,,44,"Crime,Drama,Mystery",8.2,1088
+tt0460627,tt3205976,9,5,S9,The Lady on the List,The Lady on the List,2013,,43,"Crime,Drama,Mystery",7.5,846
+tt0460627,tt3205980,9,6,S9,The Woman in White,The Woman in White,2013,,44,"Crime,Drama,Mystery",8.5,1225
+tt0460627,tt3205978,9,7,S9,The Nazi on the Honeymoon,The Nazi on the Honeymoon,2013,,44,"Crime,Drama,Mystery",7.4,982
+tt0460627,tt3305378,9,8,S9,The Dude in the Dam,The Dude in the Dam,2013,,44,"Crime,Drama,Mystery",7.3,844
+tt0460627,tt3313168,9,9,S9,The Fury in the Jury,The Fury in the Jury,2013,,44,"Crime,Drama,Mystery",7.7,869
+tt0460627,tt3313172,9,10,S9,The Mystery in the Meat,The Mystery in the Meat,2013,,43,"Crime,Drama,Mystery",7.6,886
+tt0460627,tt3344846,9,11,S9,The Spark in the Park,The Spark in the Park,2013,,44,"Crime,Drama,Mystery",7.8,1010
+tt0460627,tt3394974,9,12,S9,The Ghost in the Killer,The Ghost in the Killer,2014,,43,"Crime,Drama,Mystery",7.6,843
+tt0460627,tt3394976,9,13,S9,Big in the Philippines,Big in the Philippines,2014,,41,"Crime,Drama,Mystery",8.2,1001
+tt0460627,tt3394978,9,14,S9,The Master in the Slop,The Master in the Slop,2014,,43,"Crime,Drama,Mystery",7.7,862
+tt0460627,tt3463484,9,15,S9,The Heiress in the Hill,The Heiress in the Hill,2014,,44,"Crime,Drama,Mystery",7.7,810
+tt0460627,tt3463488,9,16,S9,The Source in the Sludge,The Source in the Sludge,2014,,43,"Crime,Drama,Mystery",7.6,803
+tt0460627,tt3463482,9,17,S9,The Repo Man in the Septic Tank,The Repo Man in the Septic Tank,2014,,43,"Crime,Drama,Mystery",7.3,809
+tt0460627,tt3547454,9,18,S9,The Carrot in the Kudzu,The Carrot in the Kudzu,2014,,41,"Crime,Drama,Mystery",7.0,782
+tt0460627,tt3621474,9,19,S9,The Turn in the Urn,The Turn in the Urn,2014,,40,"Crime,Drama,Mystery",7.4,791
+tt0460627,tt3618696,9,20,S9,The High in the Low,The High in the Low,2014,,41,"Crime,Drama,Mystery",7.6,789
+tt0460627,tt3624046,9,21,S9,The Cold in the Case,The Cold in the Case,2014,,41,"Crime,Drama,Mystery",7.3,760
+tt0460627,tt3638382,9,22,S9,The Nail in the Coffin,The Nail in the Coffin,2014,,43,"Crime,Drama,Mystery",7.8,798
+tt0460627,tt3638386,9,23,S9,The Drama in the Queen,The Drama in the Queen,2014,,42,"Crime,Drama,Mystery",7.6,811
+tt0460627,tt3638400,9,24,S9,The Recluse in the Recliner,The Recluse in the Recliner,2014,,43,"Crime,Drama,Mystery",8.9,1187
+tt0460627,tt3502166,10,1,S10,The Conspiracy in the Corpse,The Conspiracy in the Corpse,2014,,44,"Crime,Drama,Mystery",8.6,1287
+tt0460627,tt4065580,10,2,S10,The Lance to the Heart,The Lance to the Heart,2014,,44,"Crime,Drama,Mystery",8.3,1005
+tt0460627,tt3959538,10,3,S10,The Purging of the Pundit,The Purging of the Pundit,2014,,44,"Crime,Drama,Mystery",7.1,869
+tt0460627,tt4067704,10,4,S10,The Geek in the Guck,The Geek in the Guck,2014,,45,"Crime,Drama,Mystery",7.4,802
+tt0460627,tt4012676,10,5,S10,The Corpse at the Convention,The Corpse at the Convention,2014,,44,"Crime,Drama,Mystery",7.8,807
+tt0460627,tt4071580,10,6,S10,The Lost Love in the Foreign Land,The Lost Love in the Foreign Land,2014,,44,"Crime,Drama,Mystery",7.6,823
+tt0460627,tt4049256,10,7,S10,The Money Maker on the Merry-Go-Round,The Money Maker on the Merry-Go-Round,2014,,44,"Crime,Drama,Mystery",7.2,778
+tt0460627,tt4184670,10,8,S10,The Puzzler in the Pit,The Puzzler in the Pit,2014,,43,"Crime,Drama,Mystery",7.5,817
+tt0460627,tt4132602,10,9,S10,The Mutilation of the Master Manipulator,The Mutilation of the Master Manipulator,2014,,44,"Crime,Drama,Mystery",7.3,793
+tt0460627,tt4157792,10,10,S10,The 200th in the 10th,The 200th in the 10th,2014,,43,"Crime,Drama,Mystery",7.6,1394
+tt0460627,tt4325410,10,11,S10,The Psychic in the Soup,The Psychic in the Soup,2015,,43,"Crime,Drama,Mystery",7.2,805
+tt0460627,tt4430104,10,12,S10,The Teacher in the Books,The Teacher in the Books,2015,,44,"Crime,Drama,Mystery",7.5,758
+tt0460627,tt4295582,10,13,S10,The Baker in the Bits,The Baker in the Bits,2015,,42,"Crime,Drama,Mystery",7.2,732
+tt0460627,tt4361160,10,14,S10,The Putter in the Rough,The Putter in the Rough,2015,,42,"Crime,Drama,Mystery",7.2,722
+tt0460627,tt4335142,10,15,S10,The Eye in the Sky,The Eye in the Sky,2015,,43,"Crime,Drama,Mystery",7.5,752
+tt0460627,tt4425314,10,16,S10,The Big Beef at the Royal Diner,The Big Beef at the Royal Diner,2015,,44,"Crime,Drama,Mystery",7.2,712
+tt0460627,tt4441688,10,17,S10,The Lost in the Found,The Lost in the Found,2015,,42,"Crime,Drama,Mystery",7.6,746
+tt0460627,tt4559180,10,18,S10,The Verdict in the Victims,The Verdict in the Victims,2015,,42,"Crime,Drama,Mystery",7.7,722
+tt0460627,tt4489154,10,19,S10,The Murder in the Middle East,The Murder in the Middle East,2015,,43,"Crime,Drama,Mystery",7.5,754
+tt0460627,tt4517556,10,20,S10,The Woman in the Whirlpool,The Woman in the Whirlpool,2015,,44,"Crime,Drama,Mystery",7.3,707
+tt0460627,tt4534080,10,21,S10,The Life in the Light,The Life in the Light,2015,,43,"Crime,Drama,Mystery",7.4,690
+tt0460627,tt4692712,10,22,S10,The Next in the Last,The Next in the Last,2015,,43,"Crime,Drama,Mystery",7.8,765
+tt0460627,tt4670876,11,1,S11,The Loyalty in the Lie,The Loyalty in the Lie,2015,,46,"Crime,Drama,Mystery",8.1,868
+tt0460627,tt4952458,11,2,S11,The Brother in the Basement,The Brother in the Basement,2015,,44,"Crime,Drama,Mystery",8.0,768
+tt0460627,tt4991088,11,3,S11,The Donor in the Drink,The Donor in the Drink,2015,,44,"Crime,Drama,Mystery",7.4,691
+tt0460627,tt5062338,11,4,S11,The Carpals in the Coy-Wolves,The Carpals in the Coy-Wolves,2015,,45,"Crime,Drama,Mystery",7.7,728
+tt0460627,tt4921524,11,5,S11,The Resurrection in the Remains,The Resurrection in the Remains,2015,,44,"Crime,Drama,Mystery",7.4,866
+tt0460627,tt5081920,11,6,S11,The Senator in the Street Sweeper,The Senator in the Street Sweeper,2015,,44,"Crime,Drama,Mystery",7.5,695
+tt0460627,tt5168234,11,7,S11,The Promise in the Palace,The Promise in the Palace,2015,,43,"Crime,Drama,Mystery",7.3,666
+tt0460627,tt5168236,11,8,S11,High Treason in the Holiday Season,High Treason in the Holiday Season,2015,,44,"Crime,Drama,Mystery",7.5,709
+tt0460627,tt5168242,11,9,S11,The Cowboy in the Contest,The Cowboy in the Contest,2015,,46,"Crime,Drama,Mystery",7.8,736
+tt0460627,tt5168246,11,10,S11,The Doom in the Boom,The Doom in the Boom,2015,,46,"Crime,Drama,Mystery",8.5,808
+tt0460627,tt5245076,11,11,S11,The Death in the Defense,The Death in the Defense,2016,,44,"Crime,Drama,Mystery",7.6,662
+tt0460627,tt5323696,11,12,S11,The Murder of the Meninist,The Murder of the Meninist,2016,,45,"Crime,Drama,Mystery",6.9,761
+tt0460627,tt5323700,11,13,S11,The Monster in the Closet,The Monster in the Closet,2016,,45,"Crime,Drama,Mystery",8.3,731
+tt0460627,tt5323708,11,14,S11,The Last Shot at a Second Chance,The Last Shot at a Second Chance,2016,,44,"Crime,Drama,Mystery",7.7,658
+tt0460627,tt5375250,11,15,S11,The Fight in the Fixer,The Fight in the Fixer,2016,,45,"Crime,Drama,Mystery",7.6,642
+tt0460627,tt5376902,11,16,S11,The Strike in the Chord,The Strike in the Chord,2016,,44,"Crime,Drama,Mystery",7.1,766
+tt0460627,tt5481192,11,17,S11,The Secret in the Service,The Secret in the Service,2016,,44,"Crime,Drama,Mystery",7.8,651
+tt0460627,tt5526440,11,18,S11,The Movie in the Making,The Movie in the Making,2016,,44,"Crime,Drama,Mystery",7.8,810
+tt0460627,tt5526444,11,19,S11,The Head in the Abutment,The Head in the Abutment,2016,,43,"Crime,Drama,Mystery",7.6,636
+tt0460627,tt5526446,11,20,S11,The Stiff in the Cliff,The Stiff in the Cliff,2016,,44,"Crime,Drama,Mystery",7.8,637
+tt0460627,tt5526448,11,21,S11,The Jewel in the Crown,The Jewel in the Crown,2016,,44,"Crime,Drama,Mystery",7.7,629
+tt0460627,tt5526040,11,22,S11,The Nightmare in the Nightmare,The Nightmare in the Nightmare,2016,,45,"Crime,Drama,Mystery",8.9,948
+tt0460627,tt5499982,12,1,S12,The Hope in the Horror,The Hope in the Horror,2017,,43,"Crime,Drama,Mystery",8.3,823
+tt0460627,tt5521846,12,2,S12,The Brain in the Bot,The Brain in the Bot,2017,,43,"Crime,Drama,Mystery",7.5,676
+tt0460627,tt5521848,12,3,S12,The New Tricks in the Old Dogs,The New Tricks in the Old Dogs,2017,,44,"Crime,Drama,Mystery",7.5,676
+tt0460627,tt5524568,12,4,S12,The Price for the Past,The Price for the Past,2017,,43,"Crime,Drama,Mystery",7.9,667
+tt0460627,tt5524572,12,5,S12,The Tutor in the Tussle,The Tutor in the Tussle,2017,,42,"Crime,Drama,Mystery",7.4,631
+tt0460627,tt5524576,12,6,S12,The Flaw in the Saw,The Flaw in the Saw,2017,,41,"Crime,Drama,Mystery",7.4,643
+tt0460627,tt5524574,12,7,S12,The Scare in the Score,The Scare in the Score,2017,,43,"Crime,Drama,Mystery",8.0,687
+tt0460627,tt5524578,12,8,S12,The Grief and the Girl,The Grief and the Girl,2017,,44,"Crime,Drama,Mystery",7.6,659
+tt0460627,tt5524586,12,9,S12,The Steal in the Wheels,The Steal in the Wheels,2017,,44,"Crime,Drama,Mystery",7.3,687
+tt0460627,tt5524588,12,10,S12,The Radioactive Panthers in the Party,The Radioactive Panthers in the Party,2017,,43,"Crime,Drama,Mystery",7.2,634
+tt0460627,tt5524590,12,11,S12,The Day in the Life,The Day in the Life,2017,,44,"Crime,Drama,Mystery",8.5,795
+tt0460627,tt5502886,12,12,S12,The Final Chapter: The End in the End,The End in the End,2017,,44,"Crime,Drama,Mystery",8.3,1010

@@ -1,0 +1,358 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt1561755,tt1645218,1,1,S1,Human Flesh,Human Flesh,2011,,21,"Animation,Comedy",7.7,2426
+tt1561755,tt1646300,1,2,S1,Crawl Space,Crawl Space,2011,,30,"Animation,Comedy",8.1,2147
+tt1561755,tt1645219,1,3,S1,Sacred Cow,Sacred Cow,2011,,22,"Animation,Comedy",7.5,1868
+tt1561755,tt1645220,1,4,S1,Sexy Dance Fighting,Sexy Dance Fighting,2011,,22,"Animation,Comedy",7.4,1776
+tt1561755,tt1841032,1,5,S1,Hamburger Dinner Theater,Hamburger Dinner Theater,2011,,22,"Animation,Comedy",7.5,1734
+tt1561755,tt1854660,1,6,S1,"Sheesh! Cab, Bob?","Sheesh! Cab, Bob?",2011,,22,"Animation,Comedy",8.3,1953
+tt1561755,tt1854659,1,7,S1,Bed & Breakfast,Bed & Breakfast,2011,,30,"Animation,Comedy",7.6,1617
+tt1561755,tt1857991,1,8,S1,Art Crawl,Art Crawl,2011,,30,"Animation,Comedy",7.9,1700
+tt1561755,tt1857992,1,9,S1,Spaghetti Western and Meatballs,Spaghetti Western and Meatballs,2011,,22,"Animation,Comedy",7.6,1536
+tt1561755,tt1876671,1,10,S1,Burger War,Burger War,2011,,30,"Animation,Comedy",7.7,1482
+tt1561755,tt1905230,1,11,S1,Weekend at Mort's,Weekend at Mort's,2011,,22,"Animation,Comedy",8.0,1542
+tt1561755,tt1919433,1,12,S1,Lobsterfest,Lobsterfest,2011,,30,"Animation,Comedy",7.6,1463
+tt1561755,tt1928417,1,13,S1,Torpedo,Torpedo,2011,,30,"Animation,Comedy",7.6,1468
+tt1561755,tt2273811,2,1,S2,The Belchies,The Belchies,2012,,22,"Animation,Comedy",8.3,1622
+tt1561755,tt2020389,2,2,S2,Bob Day Afternoon,Bob Day Afternoon,2012,,22,"Animation,Comedy",8.6,1861
+tt1561755,tt2303131,2,3,S2,Synchronized Swimming,Synchronized Swimming,2012,,22,"Animation,Comedy",7.4,1432
+tt1561755,tt2317497,2,4,S2,Burgerboss,Burgerboss,2012,,22,"Animation,Comedy",8.2,1561
+tt1561755,tt2340209,2,5,S2,Food Truckin',Food Truckin',2012,,22,"Animation,Comedy",7.8,1451
+tt1561755,tt2366089,2,6,S2,Dr. Yap,Dr. Yap,2012,,22,"Animation,Comedy",7.5,1406
+tt1561755,tt2376081,2,7,S2,Moody Foodie,Moody Foodie,2012,,22,"Animation,Comedy",7.7,1387
+tt1561755,tt2386531,2,8,S2,Bad Tina,Bad Tina,2012,,22,"Animation,Comedy",7.9,1465
+tt1561755,tt2394175,2,9,S2,Beefsquatch,Beefsquatch,2012,,22,"Animation,Comedy",7.7,1403
+tt1561755,tt2393284,3,1,S3,Ear-Sy Rider,Ear-Sy Rider,2012,,22,"Animation,Comedy",8.2,1487
+tt1561755,tt2393286,3,2,S3,Full Bars,Full Bars,2012,,22,"Animation,Comedy",8.3,1503
+tt1561755,tt2483074,3,3,S3,Bob Fires the Kids,Bob Fires the Kids,2012,,22,"Animation,Comedy",8.0,1466
+tt1561755,tt2483078,3,4,S3,Mutiny on the Windbreaker,Mutiny on the Windbreaker,2012,,22,"Animation,Comedy",7.5,1376
+tt1561755,tt2483080,3,5,S3,An Indecent Thanksgiving Proposal,An Indecent Thanksgiving Proposal,2012,,22,"Animation,Comedy",8.2,1457
+tt1561755,tt2511944,3,6,S3,The Deepening,The Deepening,2012,,22,"Animation,Comedy",7.8,1326
+tt1561755,tt2524708,3,7,S3,Tina-Rannosaurus Wrecks,Tina-Rannosaurus Wrecks,2012,,22,"Animation,Comedy",8.3,1522
+tt1561755,tt2531550,3,8,S3,The Unbearable Like-Likeness of Gene,The Unbearable Like-Likeness of Gene,2012,,22,"Animation,Comedy",7.7,1292
+tt1561755,tt2531554,3,9,S3,Bob Rest Ye Merry Gentle-Mannequins,Bob Rest Ye Merry Gentle-Mannequins,2012,,22,"Animation,Comedy",7.8,1353
+tt1561755,tt2579964,3,10,S3,Mother Daughter Laser Razor,Mother Daughter Laser Razor,2013,,22,"Animation,Comedy",8.0,1352
+tt1561755,tt2605340,3,11,S3,Nude Beach,Nude Beach,2013,,24,"Animation,Comedy",7.5,1311
+tt1561755,tt2615854,3,12,S3,Broadcast Wagstaff School News,Broadcast Wagstaff School News,2013,,22,"Animation,Comedy",8.5,1520
+tt1561755,tt2661986,3,13,S3,My Fuzzy Valentine,My Fuzzy Valentine,2013,,22,"Animation,Comedy",7.5,1208
+tt1561755,tt2677612,3,14,S3,Lindapendent Woman,Lindapendent Woman,2013,,22,"Animation,Comedy",7.8,1243
+tt1561755,tt2708068,3,15,S3,O.T.: The Outside Toilet,O.T.: The Outside Toilet,2013,,22,"Animation,Comedy",8.2,1383
+tt1561755,tt2733872,3,16,S3,Topsy,Topsy,2013,,22,"Animation,Comedy",8.5,1509
+tt1561755,tt2735282,3,17,S3,Two for Tina,Two for Tina,2013,,22,"Animation,Comedy",7.9,1262
+tt1561755,tt2735284,3,18,S3,It Snakes a Village,It Snakes a Village,2013,,22,"Animation,Comedy",7.7,1227
+tt1561755,tt2795748,3,19,S3,Family Fracas,Family Fracas,2013,,22,"Animation,Comedy",7.3,1281
+tt1561755,tt2835026,3,20,S3,The Kids Run the Restaurant,The Kids Run the Restaurant,2013,,22,"Animation,Comedy",8.1,1248
+tt1561755,tt2835028,3,21,S3,Boyz 4 Now,Boyz 4 Now,2013,,22,"Animation,Comedy",8.5,1511
+tt1561755,tt2835032,3,22,S3,Carpe Museum,Carpe Museum,2013,,22,"Animation,Comedy",8.2,1315
+tt1561755,tt2835034,3,23,S3,The Unnatural,The Unnatural,2013,,22,"Animation,Comedy",7.5,1208
+tt1561755,tt2531556,4,1,S4,A River Runs Through Bob,A River Runs Through Bob,2013,,21,"Animation,Comedy",7.8,1289
+tt1561755,tt3211834,4,2,S4,Fort Night,Fort Night,2013,,22,"Animation,Comedy",8.3,1329
+tt1561755,tt3280380,4,3,S4,Seaplane!,Seaplane!,2013,,22,"Animation,Comedy",7.7,1235
+tt1561755,tt3304836,4,4,S4,My Big Fat Greek Bob,My Big Fat Greek Bob,2013,,24,"Animation,Comedy",7.5,1183
+tt1561755,tt3304838,4,5,S4,Turkey in a Can,Turkey in a Can,2013,,22,"Animation,Comedy",8.4,1379
+tt1561755,tt3341538,4,6,S4,Purple Rain-Union,Purple Rain-Union,2013,,21,"Animation,Comedy",7.5,1148
+tt1561755,tt3344302,4,7,S4,Bob and Deliver,Bob and Deliver,2013,,22,"Animation,Comedy",8.2,1193
+tt1561755,tt3379840,4,8,S4,Christmas in the Car,Christmas in the Car,2013,,22,"Animation,Comedy",8.2,1383
+tt1561755,tt3406076,4,9,S4,Slumber Party,Slumber Party,2014,,22,"Animation,Comedy",8.2,1232
+tt1561755,tt3422500,4,10,S4,Presto-Tina-o,Presto-Tina-o,2014,,21,"Animation,Comedy",7.3,1044
+tt1561755,tt3457742,4,11,S4,"Easy Com-mercial, Easy Go-mercial","Easy Com-mercial, Easy Go-mercial",2014,,21,"Animation,Comedy",7.5,1041
+tt1561755,tt3550794,4,12,S4,The Frond Files,The Frond Files,2014,,21,"Animation,Comedy",8.0,1181
+tt1561755,tt3560292,4,13,S4,Mazel Tina,Mazel Tina,2014,,21,"Animation,Comedy",8.1,1162
+tt1561755,tt3577570,4,14,S4,Uncle Teddy,Uncle Teddy,2014,,21,"Animation,Comedy",8.0,1071
+tt1561755,tt3634392,4,15,S4,The Kids Rob a Train,The Kids Rob a Train,2014,,22,"Animation,Comedy",8.1,1144
+tt1561755,tt3620196,4,16,S4,I Get Psychic Out of You,I Get Psychic Out of You,2014,,21,"Animation,Comedy",7.4,1020
+tt1561755,tt3636224,4,17,S4,The Equestranauts,The Equestranauts,2014,,22,"Animation,Comedy",8.1,1178
+tt1561755,tt3653426,4,18,S4,Ambergris,Ambergris,2014,,21,"Animation,Comedy",7.3,1013
+tt1561755,tt3674020,4,19,S4,The Kids Run Away,The Kids Run Away,2014,,22,"Animation,Comedy",8.3,1116
+tt1561755,tt3686090,4,20,S4,Gene It On,Gene It On,2014,,21,"Animation,Comedy",7.4,1008
+tt1561755,tt3686084,4,21,S4,Wharf Horse (or How Bob Saves/Destroys the Town - Part I),Wharf Horse (or How Bob Saves/Destroys the Town - Part I),2014,,21,"Animation,Comedy",8.1,1121
+tt1561755,tt3686092,4,22,S4,World Wharf II: The Wharfening (or How Bob Saves/Destroys the Town - Part II),World Wharf II: The Wharfening (or How Bob Saves/Destroys the Town - Part II),2014,,21,"Animation,Comedy",8.4,1148
+tt1561755,tt3918318,5,1,S5,"Work Hard or Die Trying, Girl","Work Hard or Die Trying, Girl",2014,,24,"Animation,Comedy",8.2,1268
+tt1561755,tt4166422,5,2,S5,Tina and the Real Ghost,Tina and the Real Ghost,2014,,22,"Animation,Comedy",7.8,1056
+tt1561755,tt4193272,5,3,S5,Friends with Burger-fits,Friends with Burger-fits,2014,,22,"Animation,Comedy",7.6,983
+tt1561755,tt4166424,5,4,S5,Dawn of the Peck,Dawn of the Peck,2014,,22,"Animation,Comedy",8.4,1276
+tt1561755,tt4237506,5,5,S5,Best Burger,Best Burger,2014,,21,"Animation,Comedy",8.0,1033
+tt1561755,tt4226904,5,6,S5,Father of the Bob,Father of the Bob,2014,,21,"Animation,Comedy",7.8,1061
+tt1561755,tt4278370,5,7,S5,Tina Tailor Soldier Spy,Tina Tailor Soldier Spy,2014,,22,"Animation,Comedy",7.7,960
+tt1561755,tt4285094,5,8,S5,Midday Run,Midday Run,2015,,22,"Animation,Comedy",7.6,949
+tt1561755,tt4346964,5,9,S5,Speakeasy Rider,Speakeasy Rider,2015,,21,"Animation,Comedy",7.7,955
+tt1561755,tt4370928,5,10,S5,Late Afternoon in the Garden of Bob and Louise,Late Afternoon in the Garden of Bob and Louise,2015,,22,"Animation,Comedy",7.8,994
+tt1561755,tt4370950,5,11,S5,Can't Buy Me Math,Can't Buy Me Math,2015,,22,"Animation,Comedy",7.9,952
+tt1561755,tt4393148,5,12,S5,The Millie-churian Candiate,The Millie-churian Candiate,2015,,22,"Animation,Comedy",8.2,1011
+tt1561755,tt4432866,5,13,S5,The Gayle Tales,The Gayle Tales,2015,,22,"Animation,Comedy",7.8,1019
+tt1561755,tt4454882,5,14,S5,L'il Hard Dad,L'il Hard Dad,2015,,22,"Animation,Comedy",7.5,935
+tt1561755,tt4469004,5,15,S5,Adventures in Chinchilla-sitting,Adventures in Chinchilla-sitting,2015,,22,"Animation,Comedy",7.5,952
+tt1561755,tt4483572,5,16,S5,The Runway Club,The Runway Club,2015,,22,"Animation,Comedy",7.8,953
+tt1561755,tt4570998,5,17,S5,Itty Bitty Ditty Committee,Itty Bitty Ditty Committee,2015,,22,"Animation,Comedy",7.6,918
+tt1561755,tt4576552,5,18,S5,"Eat, Spray, Linda","Eat, Spray, Linda",2015,,22,"Animation,Comedy",8.4,1099
+tt1561755,tt4622310,5,19,S5,Housetrap,Housetrap,2015,,23,"Animation,Comedy",8.7,1259
+tt1561755,tt4622318,5,20,S5,Hawk & Chick,Hawk & Chick,2015,,21,"Animation,Comedy",8.4,1131
+tt1561755,tt4622328,5,21,S5,The Oeder Games,The Oeder Games,2015,,21,"Animation,Comedy",8.7,1231
+tt1561755,tt4806434,6,1,S6,Sliding Bobs,Sliding Bobs,2015,,24,"Animation,Comedy",7.8,976
+tt1561755,tt5043080,6,2,S6,The Land Ship,The Land Ship,2015,,22,"Animation,Comedy",7.6,907
+tt1561755,tt5062580,6,3,S6,The Hauntening,The Hauntening,2015,,22,"Animation,Comedy",9.1,1778
+tt1561755,tt5124542,6,4,S6,Gayle Makin' Bob Sled,Gayle Makin' Bob Sled,2015,,21,"Animation,Comedy",7.6,1009
+tt1561755,tt5147222,6,5,S6,Nice-Capades,Nice-Capades,2015,,21,"Animation,Comedy",7.5,917
+tt1561755,tt5204516,6,6,S6,"The Cook, the Steve, the Gayle, & Her Lover","The Cook, the Steve, the Gayle, & Her Lover",2016,,22,"Animation,Comedy",7.8,921
+tt1561755,tt5352800,6,7,S6,The Gene and Courtney Show,The Gene and Courtney Show,2016,,21,"Animation,Comedy",7.6,870
+tt1561755,tt5461660,6,8,S6,Sexy Dance Healing,Sexy Dance Healing,2016,,21,"Animation,Comedy",7.6,875
+tt1561755,tt5527708,6,9,S6,Sacred Couch,Sacred Couch,2016,,21,"Animation,Comedy",7.2,944
+tt1561755,tt5509096,6,10,S6,Lice Things Are Lice,Lice Things Are Lice,2016,,21,"Animation,Comedy",7.6,886
+tt1561755,tt5555436,6,11,S6,House of 1000 Bounces,House of 1000 Bounces,2016,,22,"Animation,Comedy",7.7,863
+tt1561755,tt5587988,6,12,S6,Stand by Gene,Stand by Gene,2016,,22,"Animation,Comedy",8.3,932
+tt1561755,tt5587990,6,13,S6,Wag the Hog,Wag the Hog,2016,,22,"Animation,Comedy",7.5,832
+tt1561755,tt5606452,6,14,S6,The Hormone-iums,The Hormone-iums,2016,,21,"Animation,Comedy",7.5,818
+tt1561755,tt5623906,6,15,S6,Pro Tiki/Con Tiki,Pro Tiki/Con Tiki,2016,,22,"Animation,Comedy",7.4,853
+tt1561755,tt5662168,6,16,S6,Bye Bye Boo Boo,Bye Bye Boo Boo,2016,,22,"Animation,Comedy",7.5,828
+tt1561755,tt5662170,6,17,S6,The Horse Rider-er,The Horse Rider-er,2016,,23,"Animation,Comedy",7.8,874
+tt1561755,tt5662172,6,18,S6,Secret Admiral-irer,Secret Admiral-irer,2016,,22,"Animation,Comedy",7.8,856
+tt1561755,tt5662174,6,19,S6,"Glued, Where's My Bob?","Glued, Where's My Bob?",2016,,22,"Animation,Comedy",9.0,1492
+tt1561755,tt5096560,7,1,S7,Flu-ouise,Flu-ouise,2016,,23,"Animation,Comedy",8.1,1178
+tt1561755,tt6104384,7,2,S7,Sea Me Now,Sea Me Now,2016,,21,"Animation,Comedy",7.8,931
+tt1561755,tt6114346,7,3,S7,Teen-a-Witch,Teen-a-Witch,2016,,21,"Animation,Comedy",7.6,928
+tt1561755,tt6146960,7,4,S7,"They Serve Horses, Don't They?","They Serve Horses, Don't They?",2016,,21,"Animation,Comedy",7.6,883
+tt1561755,tt6190702,7,5,S7,"Larger Brother, Where Fart Thou?","Larger Brother, Where Fart Thou?",2016,,21,"Animation,Comedy",8.1,933
+tt1561755,tt6190772,7,6,S7,The Quirk-ducers,The Quirk-ducers,2016,,21,"Animation,Comedy",8.0,918
+tt1561755,tt6213826,7,7,S7,The Last Gingerbread House on the Left,The Last Gingerbread House on the Left,2016,,21,"Animation,Comedy",8.2,1001
+tt1561755,tt6119178,7,8,S7,Ex Mach Tina,Ex Mach Tina,2017,,21,"Animation,Comedy",7.9,909
+tt1561755,tt6405378,7,9,S7,Bob Actually,Bob Actually,2017,,22,"Animation,Comedy",8.5,1117
+tt1561755,tt6467848,7,10,S7,There's No Business Like Mr. Business Business,There's No Business Like Mr. Business Business,2017,,21,"Animation,Comedy",7.5,849
+tt1561755,tt6545324,7,11,S7,A Few 'Gurt Men,A Few 'Gurt Men,2017,,21,"Animation,Comedy",8.2,889
+tt1561755,tt6540330,7,12,S7,Like Gene for Chocolate,Like Gene for Chocolate,2017,,21,"Animation,Comedy",7.5,810
+tt1561755,tt6570836,7,13,S7,The Grand Mama-Pest Hotel,The Grand Mama-Pest Hotel,2017,,21,"Animation,Comedy",7.4,823
+tt1561755,tt6597072,7,14,S7,Aquaticism,Aquaticism,2017,,21,"Animation,Comedy",7.6,839
+tt1561755,tt6597076,7,15,S7,Ain't Miss Debatin',Ain't Miss Debatin',2017,,21,"Animation,Comedy",7.9,847
+tt1561755,tt6631398,7,16,S7,Eggs for Days,Eggs for Days,2017,,21,"Animation,Comedy",8.2,878
+tt1561755,tt6715452,7,17,S7,Zero Larp Thirty,Zero Larp Thirty,2017,,21,"Animation,Comedy",7.7,830
+tt1561755,tt6733190,7,18,S7,The Laser-inth,The Laser-inth,2017,,21,"Animation,Comedy",8.2,884
+tt1561755,tt6733194,7,19,S7,Thelma & Louise Except Thelma Is Linda,Thelma & Louise Except Thelma Is Linda,2017,,21,"Animation,Comedy",8.2,826
+tt1561755,tt6733202,7,20,S7,"Mom, Lies and Videotapes","Mom, Lies and Videotapes",2017,,21,"Animation,Comedy",7.8,812
+tt1561755,tt6733206,7,21,S7,Paraders of the Lost Float,Paraders of the Lost Float,2017,,21,"Animation,Comedy",7.6,811
+tt1561755,tt6733212,7,22,S7,Into the Mild,Into the Mild,2017,,21,"Animation,Comedy",7.6,788
+tt1561755,tt6993092,8,1,S8,Brunchsquatch,Brunchsquatch,2017,,22,"Animation,Comedy",7.9,1295
+tt1561755,tt7437468,8,2,S8,The Silence of the Louise,The Silence of the Louise,2017,,21,"Animation,Comedy",8.1,925
+tt1561755,tt7437454,8,3,S8,The Wolf of Wharf Street,The Wolf of Wharf Street,2017,,22,"Animation,Comedy",8.0,916
+tt1561755,tt7542490,8,4,S8,Sit Me Baby One More Time,Sit Me Baby One More Time,2017,,22,"Animation,Comedy",7.8,844
+tt1561755,tt7585872,8,5,S8,Thanks-hoarding,Thanks-hoarding,2017,,22,"Animation,Comedy",7.8,851
+tt1561755,tt7635808,8,6,S8,The Bleakening,The Bleakening,2017,,45,"Animation,Comedy",8.4,1158
+tt1561755,tt7733366,8,7,S8,V for Valentine-detta,V for Valentine-detta,2018,,22,"Animation,Comedy",8.3,993
+tt1561755,tt7852806,8,8,S8,Y Tu Ga-Ga Tambien,Y Tu Ga-Ga Tambien,2018,,21,"Animation,Comedy",7.6,795
+tt1561755,tt8045718,8,9,S8,The Secret Ceramics Room of Secrets,The Secret Ceramics Room of Secrets,2018,,21,"Animation,Comedy",7.7,751
+tt1561755,tt8075308,8,10,S8,Sleeping with the Frenemy,Sleeping with the Frenemy,2018,,22,"Animation,Comedy",7.5,743
+tt1561755,tt8110994,8,11,S8,The Hurt Soccer,The Hurt Soccer,2018,,22,"Animation,Comedy",8.0,820
+tt1561755,tt8174214,8,12,S8,Cheer Up Sleepy Gene,Cheer Up Sleepy Gene,2018,,21,"Animation,Comedy",7.6,758
+tt1561755,tt8254030,8,13,S8,The Trouble with Doubles,The Trouble with Doubles,2018,,21,"Animation,Comedy",7.9,782
+tt1561755,tt8254032,8,14,S8,Go Tina on the Mountain,Go Tina on the Mountain,2018,,22,"Animation,Comedy",7.7,736
+tt1561755,tt8012166,8,15,S8,"Are You There Bob? It's Me, Birthday","Are You There Bob? It's Me, Birthday",2018,,22,"Animation,Comedy",7.7,736
+tt1561755,tt8259880,8,16,S8,Boywatch,Boywatch,2018,,22,"Animation,Comedy",7.3,730
+tt1561755,tt8259884,8,17,S8,As I Walk Through the Alley of the Shadow of Ramps,As I Walk Through the Alley of the Shadow of Ramps,2018,,21,"Animation,Comedy",7.7,754
+tt1561755,tt8259896,8,18,S8,Mo Mommy Mo Problems,Mo Mommy Mo Problems,2018,,22,"Animation,Comedy",7.7,728
+tt1561755,tt8259898,8,19,S8,Mission Impos-Slug-Ble,Mission Impos-Slug-Ble,2018,,22,"Animation,Comedy",7.5,725
+tt1561755,tt8259902,8,20,S8,"Something Old, Something New, Something Bob Caters for You","Something Old, Something New, Something Bob Caters for You",2018,,22,"Animation,Comedy",8.2,830
+tt1561755,tt8407530,9,1,S9,Just One of the Boyz 4 Now for Now,Just One of the Boyz 4 Now for Now,2018,,22,"Animation,Comedy",7.6,1058
+tt1561755,tt8651752,9,2,S9,The Taking of Funtime One Two Three,The Taking of Funtime One Two Three,2018,,22,"Animation,Comedy",8.5,968
+tt1561755,tt8651754,9,3,S9,Tweentrepreneurs,Tweentrepreneurs,2018,,22,"Animation,Comedy",7.7,787
+tt1561755,tt8651756,9,4,S9,Nightmare on Ocean Avenue Street,Nightmare on Ocean Avenue Street,2018,,22,"Animation,Comedy",8.1,849
+tt1561755,tt8651758,9,5,S9,Live and Let Fly,Live and Let Fly,2018,,22,"Animation,Comedy",7.3,741
+tt1561755,tt8651762,9,6,S9,Bobby Driver,Bobby Driver,2018,,22,"Animation,Comedy",8.1,853
+tt1561755,tt8651764,9,7,S9,I Bob Your Pardon,I Bob Your Pardon,2018,,22,"Animation,Comedy",7.6,754
+tt1561755,tt8651766,9,8,S9,Roller? I Hardly Know Her!,Roller? I Hardly Know Her!,2018,,22,"Animation,Comedy",7.3,719
+tt1561755,tt8651768,9,9,S9,UFO No You Didn't,UFO No You Didn't,2018,,22,"Animation,Comedy",7.3,726
+tt1561755,tt8651770,9,10,S9,Better Off Sled,Better Off Sled,2018,,22,"Animation,Comedy",8.1,805
+tt1561755,tt9413680,9,11,S9,"Lorenzo's Oil? No, Linda's","Lorenzo's Oil? No, Linda's",2019,,22,"Animation,Comedy",7.5,738
+tt1561755,tt9402196,9,12,S9,The Helen Hunt,The Helen Hunt,2019,,22,"Animation,Comedy",7.9,788
+tt1561755,tt9413706,9,13,S9,"Bed, Bob & Beyond","Bed, Bob & Beyond",2019,,21,"Animation,Comedy",7.2,827
+tt1561755,tt9413734,9,14,S9,Every Which Way But Goose,Every Which Way But Goose,2019,,22,"Animation,Comedy",7.4,716
+tt1561755,tt9413736,9,15,S9,The Fresh Princ-ipal,The Fresh Princ-ipal,2019,,22,"Animation,Comedy",8.1,757
+tt1561755,tt9667904,9,16,S9,Roamin' Bob-iday,Roamin' Bob-iday,2019,,22,"Animation,Comedy",8.0,807
+tt1561755,tt9667920,9,17,S9,What About Blob?,What About Blob?,2019,,21,"Animation,Comedy",7.3,692
+tt1561755,tt9667930,9,18,S9,"If You Love It So Much, Why Don't You Marionette?","If You Love It So Much, Why Don't You Marionette?",2019,,22,"Animation,Comedy",7.2,719
+tt1561755,tt9667942,9,19,S9,"Long Time Listener, First Time Bob","Long Time Listener, First Time Bob",2019,,22,"Animation,Comedy",7.2,685
+tt1561755,tt10093054,9,20,S9,The Gene Mile,The Gene Mile,2019,,22,"Animation,Comedy",7.7,680
+tt1561755,tt10093058,9,21,S9,P.T.A It Ain't So,P.T.A It Ain't So,2019,,22,"Animation,Comedy",7.3,669
+tt1561755,tt10093064,9,22,S9,Yes Without My Zeke,Yes Without My Zeke,2019,,22,"Animation,Comedy",7.5,670
+tt1561755,tt9771048,10,1,S10,The Ring (But Not Scary),The Ring (But Not Scary),2019,,21,"Animation,Comedy",8.2,881
+tt1561755,tt10680742,10,2,S10,Boys Just Wanna Have Fungus,Boys Just Wanna Have Fungus,2019,,21,"Animation,Comedy",7.6,755
+tt1561755,tt10750116,10,3,S10,"Motor, She Boat","Motor, She Boat",2019,,21,"Animation,Comedy",7.3,712
+tt1561755,tt10750120,10,4,S10,Pig Trouble in Little Tina,Pig Trouble in Little Tina,2019,,22,"Animation,Comedy",7.3,785
+tt1561755,tt11096572,10,5,S10,Legends of the Mall,Legends of the Mall,2019,,22,"Animation,Comedy",7.7,733
+tt1561755,tt10769006,10,6,S10,The Hawkening: Look Who's Hawking Now,The Hawkening: Look Who's Hawking Now,2019,,21,"Animation,Comedy",7.2,674
+tt1561755,tt10779038,10,7,S10,Land of the Loft,Land of the Loft,2019,,21,"Animation,Comedy",7.7,717
+tt1561755,tt10779028,10,8,S10,Now We're Not Cooking with Gas,Now We're Not Cooking with Gas,2019,,22,"Animation,Comedy",8.1,754
+tt1561755,tt11254406,10,9,S10,All That Gene,All That Gene,2019,,22,"Animation,Comedy",6.8,747
+tt1561755,tt11282118,10,10,S10,Have Yourself a Maily Linda Christmas,Have Yourself a Maily Linda Christmas,2019,,21,"Animation,Comedy",7.6,713
+tt1561755,tt11282120,10,11,S10,Drumforgiven,Drumforgiven,2020,,22,"Animation,Comedy",7.2,668
+tt1561755,tt11282122,10,12,S10,A Fish Called Tina,A Fish Called Tina,2020,,22,"Animation,Comedy",7.3,672
+tt1561755,tt11282128,10,13,S10,Three Girls and a Little Wharfy,Three Girls and a Little Wharfy,2020,,21,"Animation,Comedy",7.4,664
+tt1561755,tt11282132,10,14,S10,Wag the Song,Wag the Song,2020,,21,"Animation,Comedy",7.2,634
+tt1561755,tt11282138,10,15,S10,Flat-Top O' the Morning to Ya,Flat-Top O' the Morning to Ya,2020,,21,"Animation,Comedy",7.2,626
+tt1561755,tt11282144,10,16,S10,Yurty Rotten Scoundrels,Yurty Rotten Scoundrels,2020,,21,"Animation,Comedy",7.0,675
+tt1561755,tt11282148,10,17,S10,Just the Trip,Just the Trip,2020,,21,"Animation,Comedy",7.6,673
+tt1561755,tt11976590,10,18,S10,Tappy Tappy Tappy Tap Tap Tap,Tappy Tappy Tappy Tap Tap Tap,2020,,22,"Animation,Comedy",7.1,615
+tt1561755,tt11976610,10,19,S10,The Handyman Can,The Handyman Can,2020,,21,"Animation,Comedy",7.2,657
+tt1561755,tt11976654,10,20,S10,Poops!... I Didn't Do It Again,Poops!... I Didn't Do It Again,2020,,21,"Animation,Comedy",7.9,721
+tt1561755,tt11976698,10,21,S10,Local She-ro,Local She-ro,2020,,21,"Animation,Comedy",6.9,652
+tt1561755,tt11976736,10,22,S10,Prank You for Being a Friend,Prank You for Being a Friend,2020,,21,"Animation,Comedy",7.6,642
+tt1561755,tt11754086,11,1,S11,Dream a Little Bob of Bob,Dream a Little Bob of Bob,2020,,21,"Animation,Comedy",7.6,785
+tt1561755,tt13056198,11,2,S11,Worms of In-Rear-Ment,Worms of In-Rear-Ment,2020,,22,"Animation,Comedy",7.3,761
+tt1561755,tt13154390,11,3,S11,Copa-Bob-Bana,Copa-Bob-Bana,2020,,22,"Animation,Comedy",7.4,656
+tt1561755,tt13154408,11,4,S11,Heartbreak Hotel-oween,Heartbreak Hotel-oween,2020,,22,"Animation,Comedy",7.5,711
+tt1561755,tt13236022,11,5,S11,Fast Time Capsules at Wagstaff School,Fast Time Capsules at Wagstaff School,2020,,21,"Animation,Comedy",7.2,648
+tt1561755,tt13285628,11,6,S11,"Bob Belcher and the Terrible, Horrible, No Good, Very Bad Kids","Bob Belcher and the Terrible, Horrible, No Good, Very Bad Kids",2020,,21,"Animation,Comedy",8.1,731
+tt1561755,tt13369744,11,7,S11,Diarrhea of a Poopy Kid,Diarrhea of a Poopy Kid,2020,,21,"Animation,Comedy",7.4,710
+tt1561755,tt13404582,11,8,S11,The Terminalator II: Terminals of Endearment,The Terminalator II: Terminals of Endearment,2020,,21,"Animation,Comedy",7.8,708
+tt1561755,tt13445148,11,9,S11,Mommy Boy,Mommy Boy,2020,,22,"Animation,Comedy",6.9,702
+tt1561755,tt13502578,11,10,S11,Yachty or Nice,Yachty or Nice,2020,,,"Animation,Comedy",7.6,666
+tt1561755,tt13670956,11,11,S11,Romancing the Beef,Romancing the Beef,2021,,,"Animation,Comedy",8.0,692
+tt1561755,tt13671532,11,12,S11,"Die Card, or Card Trying","Die Card, or Card Trying",2021,,,"Animation,Comedy",7.8,696
+tt1561755,tt13671536,11,13,S11,An Incon-wheelie-ent Truth,An Incon-wheelie-ent Truth,2021,,22,"Animation,Comedy",7.6,637
+tt1561755,tt13671538,11,14,S11,Mr. Lonely Farts,Mr. Lonely Farts,2021,,,"Animation,Comedy",7.4,651
+tt1561755,tt14139504,11,15,S11,Sheshank Redumption,Sheshank Redumption,2021,,,"Animation,Comedy",7.6,624
+tt1561755,tt14140060,11,16,S11,Y Tu Tina También,Y Tu Tina También,2021,,,"Animation,Comedy",7.6,653
+tt1561755,tt14140100,11,17,S11,Fingers-Loose,Fingers-Loose,2021,,,"Animation,Comedy",7.4,678
+tt1561755,tt14316804,11,18,S11,Some Kind of Fender Benderful,Some Kind of Fender Benderful,2021,,,"Animation,Comedy",6.9,655
+tt1561755,tt14408910,11,19,S11,Bridge Over Troubled Rudy,Bridge Over Troubled Rudy,2021,,,"Animation,Comedy",7.2,565
+tt1561755,tt14534486,11,20,S11,Steal Magazine-olias,Steal Magazine-olias,2021,,,"Animation,Comedy",7.3,561
+tt1561755,tt14408924,11,21,S11,Tell Me Dumb Thing Good,Tell Me Dumb Thing Good,2021,,,"Animation,Comedy",6.9,567
+tt1561755,tt14408892,11,22,S11,Vampire Disco Death Dance,Vampire Disco Death Dance,2021,,,"Animation,Comedy",7.6,636
+tt1561755,tt13154522,12,1,S12,Manic Pixie Crap Show,Manic Pixie Crap Show,2021,,,"Animation,Comedy",7.5,692
+tt1561755,tt14630416,12,2,S12,Crystal Mess,Crystal Mess,2021,,,"Animation,Comedy",7.3,609
+tt1561755,tt15393594,12,3,S12,The Pumpkinening,The Pumpkinening,2021,,,"Animation,Comedy",7.5,660
+tt1561755,tt15493860,12,4,S12,Driving Big Dummy,Driving Big Dummy,2021,,,"Animation,Comedy",7.8,660
+tt1561755,tt15534592,12,5,S12,Seven-tween Again,Seven-tween Again,2021,,,"Animation,Comedy",7.2,605
+tt1561755,tt15705472,12,6,S12,"Beach, Please","Beach, Please",2021,,,"Animation,Comedy",7.5,647
+tt1561755,tt15730798,12,7,S12,Loft in Bedslation,Loft in Bedslation,2021,,,"Animation,Comedy",7.6,620
+tt1561755,tt15800520,12,8,S12,Stuck in the Kitchen with You,Stuck in the Kitchen with You,2021,,,"Animation,Comedy",7.7,612
+tt1561755,tt15844528,12,9,S12,FOMO You Didn't,FOMO You Didn't,2021,,,"Animation,Comedy",7.0,567
+tt1561755,tt16091568,12,10,S12,Gene's Christmas Break,Gene's Christmas Break,2021,,,"Animation,Comedy",7.3,626
+tt1561755,tt16450480,12,11,S12,Touch of Eval(uations),Touch of Eval(uations),2022,,,"Animation,Comedy",7.8,611
+tt1561755,tt17058476,12,12,S12,Ferry on My Wayward Bob and Linda,Ferry on My Wayward Bob and Linda,2022,,,"Animation,Comedy",7.4,594
+tt1561755,tt18226944,12,13,S12,Frigate Me Knot,Frigate Me Knot,2022,,,"Animation,Comedy",7.4,568
+tt1561755,tt18270570,12,14,S12,Video Killed the Gene-io Star,Video Killed the Gene-io Star,2022,,,"Animation,Comedy",6.9,588
+tt1561755,tt18334500,12,15,S12,Ancient Misbehavin,Ancient Misbehavin,2022,,,"Animation,Comedy",7.6,589
+tt1561755,tt18394900,12,16,S12,Interview with a Pop-pop-pire,Interview with a Pop-pop-pire,2022,,,"Animation,Comedy",6.8,592
+tt1561755,tt18815212,12,17,S12,The Spider House Rules,The Spider House Rules,2022,,,"Animation,Comedy",7.2,543
+tt1561755,tt19268050,12,18,S12,Clear and Present Ginger,Clear and Present Ginger,2022,,,"Animation,Comedy",7.1,542
+tt1561755,tt19268154,12,19,S12,A-Sprout a Boy,A-Sprout a Boy,2022,,,"Animation,Comedy",6.9,539
+tt1561755,tt19268168,12,20,S12,Sauce Side Story,Sauce Side Story,2022,,,"Animation,Comedy",7.4,546
+tt1561755,tt19268192,12,21,S12,Some Like It Bot Part 1: Eighth Grade Runner,Some Like It Bot Part 1: Eighth Grade Runner,2022,,,"Animation,Comedy",8.3,745
+tt1561755,tt19268216,12,22,S12,Some Like It Bot Part 2: Judge-bot Day,Some Like It Bot Part 2: Judge-bot Day,2022,,,"Animation,Comedy",7.7,632
+tt1561755,tt13154524,13,1,S13,"To Bob, or Not to Bob","To Bob, or Not to Bob",2022,,,"Animation,Comedy",7.2,653
+tt1561755,tt22037754,13,2,S13,The Reeky Lake Show,The Reeky Lake Show,2022,,,"Animation,Comedy",7.5,672
+tt1561755,tt22053394,13,3,S13,What About Job?,What About Job?,2022,,22,"Animation,Comedy",7.4,637
+tt1561755,tt22246546,13,4,S13,Comet-y of Errors,Comet-y of Errors,2022,,,"Animation,Comedy",7.5,615
+tt1561755,tt22464980,13,5,S13,So You Stink You Can Dance,So You Stink You Can Dance,2022,,,"Animation,Comedy",6.9,601
+tt1561755,tt22505414,13,6,S13,Apple Gore-chard! (But Not Gory),Apple Gore-chard! (But Not Gory),2022,,,"Animation,Comedy",7.2,646
+tt1561755,tt22689224,13,7,S13,Ready Player Gene,Ready Player Gene,2022,,,"Animation,Comedy",6.8,630
+tt1561755,tt23055074,13,8,S13,Putts-giving,Putts-giving,2022,,,"Animation,Comedy",7.1,623
+tt1561755,tt23649562,13,9,S13,Show Mama from the Grave,Show Mama from the Grave,2022,,,"Animation,Comedy",8.3,840
+tt1561755,tt23708680,13,10,S13,The Plight Before Christmas,The Plight Before Christmas,2022,,21,"Animation,Comedy",9.6,3215
+tt1561755,tt24176418,13,11,S13,Cheaty Cheaty Bang Bang,Cheaty Cheaty Bang Bang,2023,,,"Animation,Comedy",7.4,585
+tt1561755,tt25828582,13,12,S13,Oh Row You Didn't,Oh Row You Didn't,2023,,,"Animation,Comedy",7.2,559
+tt1561755,tt26591158,13,13,S13,Stop! Or My Mom Will Sleuth!,Stop! Or My Mom Will Sleuth!,2023,,,"Animation,Comedy",7.4,552
+tt1561755,tt26672092,13,14,S13,These Boots Are Made for Stalking,These Boots Are Made for Stalking,2023,,,"Animation,Comedy",7.6,639
+tt1561755,tt26862538,13,15,S13,The Show (And Tell) Must Go On,The Show (And Tell) Must Go On,2023,,,"Animation,Comedy",7.3,557
+tt1561755,tt27003615,13,16,S13,What a (April) Fool Believes,What a (April) Fool Believes,2023,,,"Animation,Comedy",8.1,626
+tt1561755,tt27003633,13,17,S13,Crows Encounters of the Bird Kind,Crows Encounters of the Bird Kind,2023,,,"Animation,Comedy",7.4,538
+tt1561755,tt27263244,13,18,S13,Gift Card or Buy Trying,Gift Card or Buy Trying,2023,,,"Animation,Comedy",7.2,548
+tt1561755,tt27422384,13,19,S13,Crab-solutely Fabulous,Crab-solutely Fabulous,2023,,,"Animation,Comedy",6.7,577
+tt1561755,tt27425603,13,20,S13,Radio No You Didn't,Radio No You Didn't,2023,,,"Animation,Comedy",7.9,706
+tt1561755,tt27440176,13,21,S13,Mother Author Laser Pointer,Mother Author Laser Pointer,2023,,,"Animation,Comedy",6.8,591
+tt1561755,tt27440179,13,22,S13,Amelia,Amelia,2023,,,"Animation,Comedy",9.0,1380
+tt1561755,tt26457875,14,1,S14,Fight at the Not Okay Chore-ral,Fight at the Not Okay Chore-ral,2023,,22,"Animation,Comedy",6.8,691
+tt1561755,tt29141866,14,2,S14,The Amazing Rudy,The Amazing Rudy,2023,,21,"Animation,Comedy",9.1,1711
+tt1561755,tt29379938,14,3,S14,The Pickleorette,The Pickleorette,2023,,,"Animation,Comedy",7.3,605
+tt1561755,tt29379944,14,4,S14,Running Down a Gene,Running Down a Gene,2023,,21,"Animation,Comedy",7.1,571
+tt1561755,tt29387714,14,5,S14,Bully-ieve It or Not,Bully-ieve It or Not,2023,,,"Animation,Comedy",7.3,599
+tt1561755,tt29622450,14,6,S14,Escape from Which Island?,Escape from Which Island?,2023,,,"Animation,Comedy",7.5,603
+tt1561755,tt29732135,14,7,S14,The (Raccoon) King and I,The (Raccoon) King and I,2023,,,"Animation,Comedy",7.1,551
+tt1561755,tt29865867,14,8,S14,"Wharf, Me Worry?","Wharf, Me Worry?",2023,,,"Animation,Comedy",7.2,522
+tt1561755,tt30028400,14,9,S14,Fraud of the Dead: Zombie-Docu-Pocalypse,Fraud of the Dead: Zombie-Docu-Pocalypse,2023,,,"Animation,Comedy",8.0,678
+tt1561755,tt29804427,14,10,S14,The Nightmare 2 Days Before Christmas,The Nightmare 2 Days Before Christmas,2023,,,"Animation,Comedy",7.7,559
+tt1561755,tt30129655,14,11,S14,Mission Impossi-Bob,Mission Impossi-Bob,2024,,22,"Animation,Comedy",7.5,542
+tt1561755,tt31450468,14,12,S14,Jade in the Shade,Jade in the Shade,2024,,22,"Animation,Comedy",7.8,468
+tt1561755,tt32143987,14,13,S14,Butt Sweat and Fears,Butt Sweat and Fears,2024,,21,"Animation,Comedy",7.6,468
+tt1561755,tt32952069,14,14,S14,The Big Stieblitzki,The Big Stieblitzki,2024,,,"Animation,Comedy",7.6,404
+tt1561755,tt32952110,14,15,S14,The Right Tough Stuff,The Right Tough Stuff,2024,,,"Animation,Comedy",7.7,400
+tt1561755,tt32952214,14,16,S14,To Catch a Beef,To Catch a Beef,2024,,,"Animation,Comedy",7.8,411
+tt1561755,tt26457876,15,1,S15,The Tina Table: The Tables Have Tina-ed,The Tina Table: The Tables Have Tina-ed,2024,,,"Animation,Comedy",7.5,463
+tt1561755,tt33482013,15,2,S15,Saving Favorite Drive-In,Saving Favorite Drive-In,2024,,,"Animation,Comedy",8.0,494
+tt1561755,tt33621285,15,3,S15,Colon-ly the Dronely,Colon-ly the Dronely,2024,,,"Animation,Comedy",7.7,458
+tt1561755,tt33848067,15,4,S15,For Whom the Doll Toes,For Whom the Doll Toes,2024,,,"Animation,Comedy",8.0,514
+tt1561755,tt34207632,15,5,S15,Don't Stop Be-Cheesin,Don't Stop Be-Cheesin,2024,,,"Animation,Comedy",7.7,441
+tt1561755,tt34357665,15,6,S15,Hope N' Mic Night,Hope N' Mic Night,2024,,,"Animation,Comedy",8.3,595
+tt1561755,tt34512189,15,7,S15,Boogie Days,Boogie Days,2024,,,"Animation,Comedy",7.4,396
+tt1561755,tt34730473,15,8,S15,"They Slug Horses, Don't They?","They Slug Horses, Don't They?",2024,,,"Animation,Comedy",8.5,700
+tt1561755,tt34791042,15,9,S15,Dog Christmas Day After Afternoon,Dog Christmas Day After Afternoon,2024,,,"Animation,Comedy",8.1,434
+tt1561755,tt34984702,15,10,S15,Advice Things Are Ad-nice,Advice Things Are Ad-nice,2024,,,"Animation,Comedy",7.4,370
+tt1561755,tt36684224,15,11,S15,Mr. Fischoeder's Opus,Mr. Fischoeder's Opus,2025,,,"Animation,Comedy",7.7,342
+tt1561755,tt36861477,15,12,S15,Like a Candle in the Gym,Like a Candle in the Gym,2025,,,"Animation,Comedy",7.3,313
+tt1561755,tt36980689,15,13,S15,Snackface,Snackface,2025,,,"Animation,Comedy",7.7,302
+tt1561755,tt36980733,15,14,S15,The Place Beyond the Pinecones,The Place Beyond the Pinecones,2025,,,"Animation,Comedy",7.5,319
+tt1561755,tt36981015,15,15,S15,The Lost City of Atlantic,The Lost City of Atlantic,2025,,,"Animation,Comedy",8.2,368
+tt1561755,tt37338247,15,16,S15,The Shell Game,The Shell Game,2025,,,"Animation,Comedy",7.3,291
+tt1561755,tt37338459,15,17,S15,Wild Steal-ions,Wild Steal-ions,2025,,,"Animation,Comedy",7.2,302
+tt1561755,tt37468577,15,18,S15,"Don't Worry, Be Hoopy","Don't Worry, Be Hoopy",2025,,,"Animation,Comedy",7.4,286
+tt1561755,tt37543506,15,19,S15,The Dead Bo-ats Society,The Dead Bo-ats Society,2025,,,"Animation,Comedy",7.7,261
+tt1561755,tt37543509,15,20,S15,Dad-urday Kite Fever,Dad-urday Kite Fever,2025,,,"Animation,Comedy",7.5,262
+tt1561755,tt37592952,15,21,S15,Mr. Safebody,Mr. Safebody,2025,,,"Animation,Comedy",7.2,235
+tt1561755,tt37599389,15,22,S15,Insomnibob,Insomnibob,2025,,,"Animation,Comedy",8.1,289
+tt1561755,tt36431668,16,1,S16,Grand Pre-Pre-Pre-Opening,Grand Pre-Pre-Pre-Opening,2025,,,"Animation,Comedy",9.3,510
+tt1561755,tt36431657,16,2,S16,Til Death Do Us Art,Til Death Do Us Art,2025,,,"Animation,Comedy",7.5,241
+tt1561755,tt36431661,16,3,S16,The Twinnening,The Twinnening,2025,,,"Animation,Comedy",7.9,245
+tt1561755,tt36431659,16,4,S16,The Skids in the Hall,The Skids in the Hall,2025,,,"Animation,Comedy",7.6,206
+tt1561755,tt36431666,16,5,S16,The Secret Guardin',The Secret Guardin',2025,,,"Animation,Comedy",8.0,185
+tt1561755,tt36431670,16,6,S16,Get Her to the Zeke,Get Her to the Zeke,2025,,,"Animation,Comedy",7.6,169
+tt1561755,tt36431658,16,7,S16,Tube for Tina,Tube for Tina,2025,,,"Animation,Comedy",7.6,150
+tt1561755,tt36431665,16,8,S16,Les Lizárdables,Les Lizárdables,2025,,,"Animation,Comedy",7.7,113
+tt1561755,tt36431669,16,9,S16,It's a Stunterful Life,It's a Stunterful Life,2025,,,"Animation,Comedy",8.4,77
+tt1561755,tt36431662,16,10,S16,Heist Things Are Heist,Heist Things Are Heist,2025,,,"Animation,Comedy",,
+tt1561755,tt36431664,16,11,S16,Episode #16.11,Episode #16.11,,,,"Animation,Comedy",,
+tt1561755,tt36431667,16,12,S16,Episode #16.12,Episode #16.12,,,,"Animation,Comedy",,
+tt1561755,tt36431663,16,13,S16,Episode #16.13,Episode #16.13,,,,"Animation,Comedy",,
+tt1561755,tt36431671,16,14,S16,Episode #16.14,Episode #16.14,,,,"Animation,Comedy",,
+tt1561755,tt36431660,16,15,S16,Episode #16.15,Episode #16.15,,,,"Animation,Comedy",,
+tt1561755,tt36431935,17,1,S17,Episode #17.1,Episode #17.1,,,,"Animation,Comedy",,
+tt1561755,tt36431939,17,2,S17,Episode #17.2,Episode #17.2,,,,"Animation,Comedy",,
+tt1561755,tt36431937,17,3,S17,Episode #17.3,Episode #17.3,,,,"Animation,Comedy",,
+tt1561755,tt36431943,17,4,S17,Episode #17.4,Episode #17.4,,,,"Animation,Comedy",,
+tt1561755,tt36431930,17,5,S17,Episode #17.5,Episode #17.5,,,,"Animation,Comedy",,
+tt1561755,tt36431936,17,6,S17,Episode #17.6,Episode #17.6,,,,"Animation,Comedy",,
+tt1561755,tt36431931,17,7,S17,Episode #17.7,Episode #17.7,,,,"Animation,Comedy",,
+tt1561755,tt36431938,17,8,S17,Episode #17.8,Episode #17.8,,,,"Animation,Comedy",,
+tt1561755,tt36431934,17,9,S17,Episode #17.9,Episode #17.9,,,,"Animation,Comedy",,
+tt1561755,tt36431932,17,10,S17,Episode #17.10,Episode #17.10,,,,"Animation,Comedy",,
+tt1561755,tt36431941,17,11,S17,Episode #17.11,Episode #17.11,,,,"Animation,Comedy",,
+tt1561755,tt36431942,17,12,S17,Episode #17.12,Episode #17.12,,,,"Animation,Comedy",,
+tt1561755,tt36431940,17,13,S17,Episode #17.13,Episode #17.13,,,,"Animation,Comedy",,
+tt1561755,tt36431944,17,14,S17,Episode #17.14,Episode #17.14,,,,"Animation,Comedy",,
+tt1561755,tt36431933,17,15,S17,Episode #17.15,Episode #17.15,,,,"Animation,Comedy",,
+tt1561755,tt36431962,18,1,S18,Episode #18.1,Episode #18.1,,,,"Animation,Comedy",,
+tt1561755,tt36431953,18,2,S18,Episode #18.2,Episode #18.2,,,,"Animation,Comedy",,
+tt1561755,tt36431954,18,3,S18,Episode #18.3,Episode #18.3,,,,"Animation,Comedy",,
+tt1561755,tt36431965,18,4,S18,Episode #18.4,Episode #18.4,,,,"Animation,Comedy",,
+tt1561755,tt36431955,18,5,S18,Episode #18.5,Episode #18.5,,,,"Animation,Comedy",,
+tt1561755,tt36431961,18,6,S18,Episode #18.6,Episode #18.6,,,,"Animation,Comedy",,
+tt1561755,tt36431951,18,7,S18,Episode #18.7,Episode #18.7,,,,"Animation,Comedy",,
+tt1561755,tt36431952,18,8,S18,Episode #18.8,Episode #18.8,,,,"Animation,Comedy",,
+tt1561755,tt36431960,18,9,S18,Episode #18.9,Episode #18.9,,,,"Animation,Comedy",,
+tt1561755,tt36431959,18,10,S18,Episode #18.10,Episode #18.10,,,,"Animation,Comedy",,
+tt1561755,tt36431958,18,11,S18,Episode #18.11,Episode #18.11,,,,"Animation,Comedy",,
+tt1561755,tt36431957,18,12,S18,Episode #18.12,Episode #18.12,,,,"Animation,Comedy",,
+tt1561755,tt36431963,18,13,S18,Episode #18.13,Episode #18.13,,,,"Animation,Comedy",,
+tt1561755,tt36431956,18,14,S18,Episode #18.14,Episode #18.14,,,,"Animation,Comedy",,
+tt1561755,tt36431964,18,15,S18,Episode #18.15,Episode #18.15,,,,"Animation,Comedy",,
+tt1561755,tt36431976,19,1,S19,Episode #19.1,Episode #19.1,,,,"Animation,Comedy",,
+tt1561755,tt36431973,19,2,S19,Episode #19.2,Episode #19.2,,,,"Animation,Comedy",,
+tt1561755,tt36431977,19,3,S19,Episode #19.3,Episode #19.3,,,,"Animation,Comedy",,
+tt1561755,tt36431982,19,4,S19,Episode #19.4,Episode #19.4,,,,"Animation,Comedy",,
+tt1561755,tt36431981,19,5,S19,Episode #19.5,Episode #19.5,,,,"Animation,Comedy",,
+tt1561755,tt36431971,19,6,S19,Episode #19.6,Episode #19.6,,,,"Animation,Comedy",,
+tt1561755,tt36431972,19,7,S19,Episode #19.7,Episode #19.7,,,,"Animation,Comedy",,
+tt1561755,tt36431984,19,8,S19,Episode #19.8,Episode #19.8,,,,"Animation,Comedy",,
+tt1561755,tt36431974,19,9,S19,Episode #19.9,Episode #19.9,,,,"Animation,Comedy",,
+tt1561755,tt36431985,19,10,S19,Episode #19.10,Episode #19.10,,,,"Animation,Comedy",,
+tt1561755,tt36431979,19,11,S19,Episode #19.11,Episode #19.11,,,,"Animation,Comedy",,
+tt1561755,tt36431983,19,12,S19,Episode #19.12,Episode #19.12,,,,"Animation,Comedy",,
+tt1561755,tt36431975,19,13,S19,Episode #19.13,Episode #19.13,,,,"Animation,Comedy",,
+tt1561755,tt36431978,19,14,S19,Episode #19.14,Episode #19.14,,,,"Animation,Comedy",,
+tt1561755,tt36431980,19,15,S19,Episode #19.15,Episode #19.15,,,,"Animation,Comedy",,

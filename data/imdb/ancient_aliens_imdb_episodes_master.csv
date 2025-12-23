@@ -1,0 +1,282 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt1643266,tt1418108,1,0,S1,"Chariots, Gods and Beyond","Chariots, Gods and Beyond",2009,,120,"Fantasy,History,Sci-Fi",7.6,729
+tt1643266,tt1646277,1,1,S1,The Evidence,The Evidence,2010,,89,"Fantasy,History,Sci-Fi",7.5,359
+tt1643266,tt1646280,1,2,S1,The Visitors,The Visitors,2010,,89,"Fantasy,History,Sci-Fi",7.4,301
+tt1643266,tt1646278,1,3,S1,The Mission,The Mission,2010,,87,"Fantasy,History,Sci-Fi",7.3,280
+tt1643266,tt1646276,1,4,S1,Closer Encounters,Closer Encounters,2010,,88,"Fantasy,History,Sci-Fi",7.4,279
+tt1643266,tt1646279,1,5,S1,The Return,The Return,2010,,89,"Fantasy,History,Sci-Fi",7.4,258
+tt1643266,tt1748473,2,1,S2,Mysterious Places,Mysterious Places,2010,,44,"Fantasy,History,Sci-Fi",7.3,288
+tt1643266,tt1764793,2,2,S2,Gods and Aliens,Gods and Aliens,2010,,45,"Fantasy,History,Sci-Fi",7.2,268
+tt1643266,tt1776385,2,3,S2,Underwater Worlds,Underwater Worlds,2010,,44,"Fantasy,History,Sci-Fi",7.6,261
+tt1643266,tt1784799,2,4,S2,Underground Aliens,Underground Aliens,2010,,44,"Fantasy,History,Sci-Fi",7.3,258
+tt1643266,tt1784798,2,5,S2,Aliens and the Third Reich,Aliens and the Third Reich,2010,,45,"Fantasy,History,Sci-Fi",7.4,268
+tt1643266,tt1788498,2,6,S2,Alien Tech,Alien Tech,2010,,43,"Fantasy,History,Sci-Fi",7.2,230
+tt1643266,tt1798317,2,7,S2,Angels and Aliens,Angels and Aliens,2010,,45,"Fantasy,History,Sci-Fi",6.9,232
+tt1643266,tt1798318,2,8,S2,Unexplained Structures,Unexplained Structures,2010,,43,"Fantasy,History,Sci-Fi",7.5,242
+tt1643266,tt1805629,2,9,S2,Alien Devastations,Alien Devastations,2010,,45,"Fantasy,History,Sci-Fi",7.1,216
+tt1643266,tt1805630,2,10,S2,Alien Contacts,Alien Contacts,2010,,45,"Fantasy,History,Sci-Fi",7.1,222
+tt1643266,tt1993487,3,1,S3,Aliens and the Old West,Aliens and the Old West,2011,,45,"Fantasy,History,Sci-Fi",7.0,225
+tt1643266,tt2000023,3,2,S3,Aliens and Monsters,Aliens and Monsters,2011,,44,"Fantasy,History,Sci-Fi",6.9,211
+tt1643266,tt2030549,3,3,S3,Aliens and Sacred Places,Aliens and Sacred Places,2011,,45,"Fantasy,History,Sci-Fi",7.0,202
+tt1643266,tt2012690,3,4,S3,Aliens and Temples of Gold,Aliens and Temples of Gold,2011,,45,"Fantasy,History,Sci-Fi",7.2,192
+tt1643266,tt2030548,3,5,S3,Aliens and Mysterious Rituals,Aliens and Mysterious Rituals,2011,,45,"Fantasy,History,Sci-Fi",6.8,187
+tt1643266,tt2028670,3,6,S3,Aliens and Ancient Engineers,Aliens and Ancient Engineers,2011,,44,"Fantasy,History,Sci-Fi",7.7,205
+tt1643266,tt2036542,3,7,S3,"Aliens, Plagues and Epidemics","Aliens, Plagues and Epidemics",2011,,45,"Fantasy,History,Sci-Fi",7.0,193
+tt1643266,tt2060670,3,8,S3,Aliens and Lost Worlds,Aliens and Lost Worlds,2011,,45,"Fantasy,History,Sci-Fi",7.2,192
+tt1643266,tt2053594,3,9,S3,Aliens and Deadly Weapons,Aliens and Deadly Weapons,2011,,45,"Fantasy,History,Sci-Fi",6.7,186
+tt1643266,tt2065067,3,10,S3,Aliens and Evil Places,Aliens and Evil Places,2011,,45,"Fantasy,History,Sci-Fi",7.3,193
+tt1643266,tt2065068,3,11,S3,Aliens and the Founding Fathers,Aliens and the Founding Fathers,2011,,45,"Fantasy,History,Sci-Fi",6.3,194
+tt1643266,tt2065066,3,12,S3,Aliens and Deadly Cults,Aliens and Deadly Cults,2011,,44,"Fantasy,History,Sci-Fi",6.3,184
+tt1643266,tt2065069,3,13,S3,Aliens and the Secret Code,Aliens and the Secret Code,2011,,45,"Fantasy,History,Sci-Fi",6.9,177
+tt1643266,tt2065070,3,14,S3,Aliens and the Undead,Aliens and the Undead,2011,,45,"Fantasy,History,Sci-Fi",5.9,179
+tt1643266,tt2124206,3,15,S3,"Aliens, Gods and Heroes","Aliens, Gods and Heroes",2011,,45,"Fantasy,History,Sci-Fi",6.7,165
+tt1643266,tt2108685,3,16,S3,Aliens and the Creation of Man,Aliens and the Creation of Man,2011,,45,"Fantasy,History,Sci-Fi",7.0,184
+tt1643266,tt2224659,4,1,S4,The Mayan Conspiracy,The Mayan Conspiracy,2012,,44,"Fantasy,History,Sci-Fi",7.4,202
+tt1643266,tt2224657,4,2,S4,The Doomsday Prophecies,The Doomsday Prophecies,2012,,45,"Fantasy,History,Sci-Fi",7.2,177
+tt1643266,tt2241801,4,3,S4,The Greys,The Greys,2012,,45,"Fantasy,History,Sci-Fi",7.2,178
+tt1643266,tt2256945,4,4,S4,Aliens and Mega-Disasters,Aliens and Mega-Disasters,2012,,45,"Fantasy,History,Sci-Fi",6.7,167
+tt1643266,tt2271909,4,5,S4,The NASA Connection,The NASA Connection,2012,,45,"Fantasy,History,Sci-Fi",7.6,178
+tt1643266,tt2288271,4,6,S4,Mystery of Puma Punku,Mystery of Puma Punku,2012,,45,"Fantasy,History,Sci-Fi",7.9,205
+tt1643266,tt2301379,4,7,S4,Aliens and Bigfoot,Aliens and Bigfoot,2012,,44,"Fantasy,History,Sci-Fi",6.3,172
+tt1643266,tt2351617,4,8,S4,The Da Vinci Conspiracy,The Da Vinci Conspiracy,2012,,45,"Fantasy,History,Sci-Fi",7.3,188
+tt1643266,tt2338519,4,9,S4,The Time Travelers,The Time Travelers,2012,,45,"Fantasy,History,Sci-Fi",7.1,166
+tt1643266,tt2372607,4,10,S4,Aliens and Dinosaurs,Aliens and Dinosaurs,2012,,45,"Fantasy,History,Sci-Fi",6.6,171
+tt1643266,tt2165302,5,1,S5,Secrets of the Pyramids,Secrets of the Pyramids,2012,,44,"Fantasy,History,Sci-Fi",7.1,185
+tt1643266,tt2253658,5,2,S5,Aliens and Cover-Ups,Aliens and Cover-Ups,2012,,45,"Fantasy,History,Sci-Fi",6.8,161
+tt1643266,tt2632402,5,3,S5,Alien Power Plants,Alien Power Plants,2013,,45,"Fantasy,History,Sci-Fi",7.0,157
+tt1643266,tt2603732,5,4,S5,Destination Orion,Destination Orion,2013,,44,"Fantasy,History,Sci-Fi",6.8,154
+tt1643266,tt2616200,5,5,S5,The Einstein Factor,The Einstein Factor,2013,,44,"Fantasy,History,Sci-Fi",6.7,160
+tt1643266,tt5995716,5,6,S5,Secrets of the Tombs,Secrets of the Tombs,2013,,44,"Fantasy,History,Sci-Fi",6.8,106
+tt1643266,tt2792792,5,7,S5,Prophets and Prophecies,Prophets and Prophecies,2013,,44,"Fantasy,History,Sci-Fi",6.6,150
+tt1643266,tt2802024,5,8,S5,Beyond Nazca,Beyond Nazca,2013,,44,"Fantasy,History,Sci-Fi",6.8,153
+tt1643266,tt2702010,5,9,S5,Strange Abductions,Strange Abductions,2013,,44,"Fantasy,History,Sci-Fi",6.8,146
+tt1643266,tt2796066,5,10,S5,The Von Däniken Legacy,The Von Däniken Legacy,2013,,45,"Fantasy,History,Sci-Fi",7.2,151
+tt1643266,tt2831124,5,11,S5,The Viking Gods,The Viking Gods,2013,,45,"Fantasy,History,Sci-Fi",6.9,150
+tt1643266,tt2827754,5,12,S5,The Monoliths,The Monoliths,2013,,45,"Fantasy,History,Sci-Fi",6.9,145
+tt1643266,tt3230918,6,1,S6,The Power of Three,The Power of Three,2013,,44,"Fantasy,History,Sci-Fi",6.7,156
+tt1643266,tt3213756,6,2,S6,The Crystal Skulls,The Crystal Skulls,2013,,45,"Fantasy,History,Sci-Fi",6.2,160
+tt1643266,tt3270832,6,3,S6,The Anunnaki Connection,The Anunnaki Connection,2013,,44,"Fantasy,History,Sci-Fi",7.2,161
+tt1643266,tt3281456,6,4,S6,Magic of the Gods,Magic of the Gods,2013,,45,"Fantasy,History,Sci-Fi",6.4,137
+tt1643266,tt3296598,6,5,S6,The Satan Conspiracy,The Satan Conspiracy,2013,,45,"Fantasy,History,Sci-Fi",6.2,145
+tt1643266,tt3312154,6,6,S6,Alien Operations,Alien Operations,2013,,44,"Fantasy,History,Sci-Fi",6.4,133
+tt1643266,tt3306992,6,7,S6,"Emperors, Kings and Pharaohs","Emperors, Kings and Pharaohs",2013,,44,"Fantasy,History,Sci-Fi",6.4,134
+tt1643266,tt3338974,6,8,S6,Mysterious Relics,Mysterious Relics,2013,,44,"Fantasy,History,Sci-Fi",6.5,125
+tt1643266,tt3346514,6,9,S6,Aliens and Forbidden Islands,Aliens and Forbidden Islands,2013,,44,"Fantasy,History,Sci-Fi",7.0,135
+tt1643266,tt3374512,6,10,S6,Aliens and the Lost Ark,Aliens and the Lost Ark,2013,,44,"Fantasy,History,Sci-Fi",7.0,138
+tt1643266,tt3374514,6,11,S6,Aliens and Mysterious Mountains,Aliens and Mysterious Mountains,2013,,44,"Fantasy,History,Sci-Fi",6.6,132
+tt1643266,tt3501750,7,1,S7,Aliens and Stargates,Aliens and Stargates,2014,,44,"Fantasy,History,Sci-Fi",6.9,125
+tt1643266,tt3463456,7,2,S7,Aliens in America,Aliens in America,2014,,45,"Fantasy,History,Sci-Fi",6.7,125
+tt1643266,tt3495370,7,3,S7,The Star Children,The Star Children,2014,,45,"Fantasy,History,Sci-Fi",6.4,131
+tt1643266,tt3510122,7,4,S7,Treasures of the Gods,Treasures of the Gods,2014,,45,"Fantasy,History,Sci-Fi",6.8,124
+tt1643266,tt3524950,7,5,S7,Aliens and the Red Planet,Aliens and the Red Planet,2014,,45,"Fantasy,History,Sci-Fi",7.1,126
+tt1643266,tt3542890,7,6,S7,The Shamans,The Shamans,2014,,44,"Fantasy,History,Sci-Fi",6.4,118
+tt1643266,tt3558716,7,7,S7,Aliens and Insects,Aliens and Insects,2014,,44,"Fantasy,History,Sci-Fi",6.7,119
+tt1643266,tt3573654,7,8,S7,Alien Breeders,Alien Breeders,2014,,44,"Fantasy,History,Sci-Fi",6.9,119
+tt1643266,tt3921372,8,1,S8,Alien Transports,Alien Transports,2014,,43,"Fantasy,History,Sci-Fi",6.8,118
+tt1643266,tt3921374,8,2,S8,Mysterious Structures,Mysterious Structures,2014,,43,"Fantasy,History,Sci-Fi",7.1,120
+tt1643266,tt3921380,8,3,S8,Mysterious Devices,Mysterious Devices,2014,,43,"Fantasy,History,Sci-Fi",6.7,112
+tt1643266,tt3921390,8,4,S8,Faces of the Gods,Faces of the Gods,2014,,43,"Fantasy,History,Sci-Fi",6.3,110
+tt1643266,tt3868156,8,5,S8,The Reptilians,The Reptilians,2014,,43,"Fantasy,History,Sci-Fi",6.6,139
+tt1643266,tt3886306,8,6,S8,The Tesla Experiment,The Tesla Experiment,2014,,44,"Fantasy,History,Sci-Fi",7.7,164
+tt1643266,tt3900672,8,7,S8,The God Particle,The God Particle,2014,,43,"Fantasy,History,Sci-Fi",6.8,133
+tt1643266,tt3921384,8,8,S8,Alien Encounters,Alien Encounters,2014,,44,"Fantasy,History,Sci-Fi",7.0,115
+tt1643266,tt3921386,8,9,S8,Aliens and Superheroes,Aliens and Superheroes,2014,,44,"Fantasy,History,Sci-Fi",6.5,130
+tt1643266,tt4744106,9,1,S9,Forbidden Caves,Forbidden Caves,2014,,43,"Fantasy,History,Sci-Fi",7.2,117
+tt1643266,tt4148614,9,2,S9,Mysteries of the Sphinx,Mysteries of the Sphinx,2014,,43,"Fantasy,History,Sci-Fi",7.5,127
+tt1643266,tt4165950,9,3,S9,Aliens Among Us,Aliens Among Us,2014,,43,"Fantasy,History,Sci-Fi",6.9,118
+tt1643266,tt4415268,9,4,S9,The Genius Factor,The Genius Factor,2014,,43,"Fantasy,History,Sci-Fi",7.1,118
+tt1643266,tt4415274,9,5,S9,Secrets of the Mummies,Secrets of the Mummies,2014,,43,"Fantasy,History,Sci-Fi",6.9,114
+tt1643266,tt4221646,9,6,S9,Alien Resurrections,Alien Resurrections,2014,,43,"Fantasy,History,Sci-Fi",6.9,106
+tt1643266,tt4744114,9,7,S9,Alien Messages,Alien Messages,2014,,43,"Fantasy,History,Sci-Fi",7.1,116
+tt1643266,tt4261390,9,8,S9,The Great Flood,The Great Flood,2014,,43,"Fantasy,History,Sci-Fi",7.4,116
+tt1643266,tt4562134,9,9,S9,Aliens and the Civil War,Aliens and the Civil War,2015,,44,"Fantasy,History,Sci-Fi",6.4,111
+tt1643266,tt4744120,9,10,S9,Hidden Pyramids,Hidden Pyramids,2015,,43,"Fantasy,History,Sci-Fi",7.4,109
+tt1643266,tt4298906,9,11,S9,The Vanishings,The Vanishings,2015,,43,"Fantasy,History,Sci-Fi",7.4,115
+tt1643266,tt4619044,9,12,S9,The Alien Agenda,The Alien Agenda,2015,,44,"Fantasy,History,Sci-Fi",7.5,113
+tt1643266,tt4865474,10,1,S10,Aliens B.C.,Aliens B.C.,2015,,43,"Fantasy,History,Sci-Fi",7.5,132
+tt1643266,tt4913690,10,2,S10,NASA's Secret Agenda,NASA's Secret Agenda,2015,,43,"Fantasy,History,Sci-Fi",7.4,127
+tt1643266,tt4887752,10,3,S10,Aliens and Robots,Aliens and Robots,2015,,43,"Fantasy,History,Sci-Fi",7.0,120
+tt1643266,tt4909874,10,4,S10,Dark Forces,Dark Forces,2015,,44,"Fantasy,History,Sci-Fi",6.9,119
+tt1643266,tt4929188,10,5,S10,The Alien Evolution,The Alien Evolution,2015,,43,"Fantasy,History,Sci-Fi",7.1,117
+tt1643266,tt4946556,10,6,S10,The Other Earth,The Other Earth,2015,,43,"Fantasy,History,Sci-Fi",7.4,117
+tt1643266,tt4964354,10,7,S10,Creatures of the Deep,Creatures of the Deep,2015,,43,"Fantasy,History,Sci-Fi",6.6,118
+tt1643266,tt5004680,10,8,S10,Circles from the Sky,Circles from the Sky,2015,,43,"Fantasy,History,Sci-Fi",7.6,124
+tt1643266,tt5024780,10,9,S10,The Alien Wars,The Alien Wars,2015,,43,"Fantasy,History,Sci-Fi",7.3,115
+tt1643266,tt7349878,10,10,S10,The Forbidden Zones,The Forbidden Zones,2015,,43,"Fantasy,History,Sci-Fi",6.7,91
+tt1643266,tt5660732,11,1,S11,Pyramids of Antarctica,Pyramids of Antarctica,2016,,43,"Fantasy,History,Sci-Fi",7.9,147
+tt1643266,tt5679862,11,2,S11,Destination Mars,Destination Mars,2016,,43,"Fantasy,History,Sci-Fi",7.8,136
+tt1643266,tt5704184,11,3,S11,The Next Humans,The Next Humans,2016,,42,"Fantasy,History,Sci-Fi",7.4,112
+tt1643266,tt5830542,11,4,S11,The New Evidence,The New Evidence,2016,,43,"Fantasy,History,Sci-Fi",7.5,111
+tt1643266,tt5764298,11,5,S11,The Visionaries,The Visionaries,2016,,43,"Fantasy,History,Sci-Fi",7.1,112
+tt1643266,tt5805998,11,6,S11,Decoding the Cosmic Egg,Decoding the Cosmic Egg,2016,,43,"Fantasy,History,Sci-Fi",6.9,103
+tt1643266,tt5805996,11,7,S11,The Wisdom Keepers,The Wisdom Keepers,2016,,42,"Fantasy,History,Sci-Fi",7.4,107
+tt1643266,tt5837770,11,8,S11,The Mysterious Nine,The Mysterious Nine,2016,,42,"Fantasy,History,Sci-Fi",7.3,114
+tt1643266,tt5888906,11,9,S11,The Hidden Empire,The Hidden Empire,2016,,42,"Fantasy,History,Sci-Fi",7.1,98
+tt1643266,tt5872080,11,10,S11,The Prototypes,The Prototypes,2016,,43,"Fantasy,History,Sci-Fi",7.2,106
+tt1643266,tt5889356,11,11,S11,Space Station Moon,Space Station Moon,2016,,43,"Fantasy,History,Sci-Fi",7.8,137
+tt1643266,tt5962332,11,12,S11,Russia's Secret Files,Russia's Secret Files,2016,,43,"Fantasy,History,Sci-Fi",7.4,112
+tt1643266,tt5986072,11,13,S11,Beyond Roswell,Beyond Roswell,2016,,43,"Fantasy,History,Sci-Fi",7.2,105
+tt1643266,tt5964040,11,14,S11,The Returned,The Returned,2016,,43,"Fantasy,History,Sci-Fi",7.5,117
+tt1643266,tt5985986,11,15,S11,Shiva the Destroyer,Shiva the Destroyer,2016,,43,"Fantasy,History,Sci-Fi",7.5,124
+tt1643266,tt6837330,12,1,S12,The Alien Hunters,The Alien Hunters,2017,,42,"Fantasy,History,Sci-Fi",7.2,90
+tt1643266,tt6846706,12,2,S12,Forged by the Gods,Forged by the Gods,2017,,43,"Fantasy,History,Sci-Fi",7.5,115
+tt1643266,tt6846714,12,3,S12,The Mystery of Rudloe Manor,The Mystery of Rudloe Manor,2017,,42,"Fantasy,History,Sci-Fi",7.3,119
+tt1643266,tt6913466,12,4,S12,The Alien Architects,The Alien Architects,2017,,43,"Fantasy,History,Sci-Fi",8.0,118
+tt1643266,tt6945750,12,5,S12,The Pharaohs' Curse,The Pharaohs' Curse,2017,,43,"Fantasy,History,Sci-Fi",7.2,112
+tt1643266,tt6970362,12,6,S12,The Science Wars,The Science Wars,2017,,43,"Fantasy,History,Sci-Fi",7.8,115
+tt1643266,tt6998828,12,7,S12,City of the Gods,City of the Gods,2017,,42,"Fantasy,History,Sci-Fi",7.6,113
+tt1643266,tt7027186,12,8,S12,The Alien Frequency,The Alien Frequency,2017,,42,"Fantasy,History,Sci-Fi",7.5,111
+tt1643266,tt7130410,12,9,S12,The Majestic Twelve,The Majestic Twelve,2017,,42,"Fantasy,History,Sci-Fi",7.8,123
+tt1643266,tt7185450,12,10,S12,The Akashic Record,The Akashic Record,2017,,42,"Fantasy,History,Sci-Fi",7.4,102
+tt1643266,tt7248348,12,11,S12,Voices of the Gods,Voices of the Gods,2017,,42,"Fantasy,History,Sci-Fi",7.3,94
+tt1643266,tt7250190,12,12,S12,The Animal Agenda,The Animal Agenda,2017,,42,"Fantasy,History,Sci-Fi",6.7,88
+tt1643266,tt7250192,12,13,S12,The Replicants,The Replicants,2017,,42,"Fantasy,History,Sci-Fi",7.0,97
+tt1643266,tt7250194,12,14,S12,A Spaceship Made of Stone,A Spaceship Made of Stone,2017,,42,"Fantasy,History,Sci-Fi",7.0,100
+tt1643266,tt7349266,12,15,S12,The Alien Disks,The Alien Disks,2017,,42,"Fantasy,History,Sci-Fi",7.0,95
+tt1643266,tt7410250,12,16,S12,Return to Gobekli Tepe,Return to Gobekli Tepe,2017,,42,"Fantasy,History,Sci-Fi",7.5,104
+tt1643266,tt8346728,13,1,S13,The UFO Conspiracy,The UFO Conspiracy,2018,,85,"Fantasy,History,Sci-Fi",7.6,139
+tt1643266,tt8346896,13,2,S13,Da Vinci's Forbidden Codes,Da Vinci's Forbidden Codes,2018,,42,"Fantasy,History,Sci-Fi",7.2,117
+tt1643266,tt8346898,13,3,S13,The Alien Protocols,The Alien Protocols,2018,,42,"Fantasy,History,Sci-Fi",7.2,104
+tt1643266,tt8439158,13,4,S13,Earth's Black Holes,Earth's Black Holes,2018,,42,"Fantasy,History,Sci-Fi",7.4,105
+tt1643266,tt8479900,13,5,S13,The Desert Codes,The Desert Codes,2018,,42,"Fantasy,History,Sci-Fi",7.3,91
+tt1643266,tt8567162,13,6,S13,Area 52,Area 52,2018,,42,"Fantasy,History,Sci-Fi",7.3,98
+tt1643266,tt8750648,13,7,S13,Earth Station Egypt,Earth Station Egypt,2018,,84,"Fantasy,History,Sci-Fi",7.6,106
+tt1643266,tt8764612,13,8,S13,Island of the Giants,Island of the Giants,2018,,42,"Fantasy,History,Sci-Fi",7.2,97
+tt1643266,tt8764614,13,9,S13,The Taken,The Taken,2018,,42,"Fantasy,History,Sci-Fi",7.2,88
+tt1643266,tt8825242,13,10,S13,The Sentinels,The Sentinels,2018,,42,"Fantasy,History,Sci-Fi",7.2,96
+tt1643266,tt8866172,13,11,S13,Russia Declassified,Russia Declassified,2018,,42,"Fantasy,History,Sci-Fi",7.2,96
+tt1643266,tt8905788,13,12,S13,They Came from the Sky,They Came from the Sky,2018,,42,"Fantasy,History,Sci-Fi",7.0,91
+tt1643266,tt8937624,13,13,S13,The Artificial Human,The Artificial Human,2018,,84,"Fantasy,History,Sci-Fi",6.7,88
+tt1643266,tt9559854,13,14,S13,The Alien Phenomenon,The Alien Phenomenon,2019,,84,"Fantasy,History,Sci-Fi",7.4,92
+tt1643266,tt9690906,13,15,S13,Return to Mars,Return to Mars,2019,,84,"Fantasy,History,Sci-Fi",6.9,86
+tt1643266,tt10454582,14,1,S14,Return to Antarctica,Return to Antarctica,2019,,42,"Fantasy,History,Sci-Fi",7.9,126
+tt1643266,tt10454650,14,2,S14,The Badlands Guardian,The Badlands Guardian,2019,,42,"Fantasy,History,Sci-Fi",6.5,106
+tt1643266,tt10489052,14,3,S14,Element 115,Element 115,2019,,42,"Fantasy,History,Sci-Fi",7.7,136
+tt1643266,tt10525560,14,4,S14,The Star Gods of Sirius,The Star Gods of Sirius,2019,,42,"Fantasy,History,Sci-Fi",7.3,100
+tt1643266,tt10594490,14,5,S14,They Came from the Sea,They Came from the Sea,2019,,42,"Fantasy,History,Sci-Fi",7.6,102
+tt1643266,tt10594498,14,6,S14,Secrets of the Maya,Secrets of the Maya,2019,,42,"Fantasy,History,Sci-Fi",7.5,127
+tt1643266,tt10666424,14,7,S14,The Druid Connection,The Druid Connection,2019,,42,"Fantasy,History,Sci-Fi",7.0,96
+tt1643266,tt10746794,14,8,S14,The Reptilian Agenda,The Reptilian Agenda,2019,,42,"Fantasy,History,Sci-Fi",7.0,97
+tt1643266,tt10746800,14,9,S14,The Alien Infection,The Alien Infection,2019,,42,"Fantasy,History,Sci-Fi",7.2,97
+tt1643266,tt10774556,14,10,S14,Project Hybrid,Project Hybrid,2019,,42,"Fantasy,History,Sci-Fi",6.9,85
+tt1643266,tt10779146,14,11,S14,The Trans-Dimensionals,The Trans-Dimensionals,2019,,42,"Fantasy,History,Sci-Fi",6.9,88
+tt1643266,tt10857174,14,12,S14,Islands of Fire,Islands of Fire,2019,,42,"Fantasy,History,Sci-Fi",7.7,103
+tt1643266,tt10900360,14,13,S14,The Constellation Code,The Constellation Code,2019,,42,"Fantasy,History,Sci-Fi",6.2,84
+tt1643266,tt10926644,14,14,S14,The Nuclear Agenda,The Nuclear Agenda,2019,,42,"Fantasy,History,Sci-Fi",7.1,86
+tt1643266,tt11053326,14,15,S14,The Alien Mountain,The Alien Mountain,2019,,42,"Fantasy,History,Sci-Fi",6.7,89
+tt1643266,tt11102970,14,16,S14,The Alien Brain,The Alien Brain,2019,,42,"Fantasy,History,Sci-Fi",6.8,92
+tt1643266,tt11142984,14,17,S14,The Secrets of Stonehenge,The Secrets of Stonehenge,2019,,42,"Fantasy,History,Sci-Fi",6.9,89
+tt1643266,tt11291748,14,18,S14,Food of the Gods,Food of the Gods,2019,,42,"Fantasy,History,Sci-Fi",6.5,80
+tt1643266,tt11291754,14,19,S14,Human Hieroglyphs,Human Hieroglyphs,2019,,42,"Fantasy,History,Sci-Fi",6.6,79
+tt1643266,tt11291758,14,20,S14,The Storming of Area 51,The Storming of Area 51,2019,,42,"Fantasy,History,Sci-Fi",7.2,94
+tt1643266,tt11465506,14,21,S14,Countdown to Disclosure,Countdown to Disclosure,2019,,42,"Fantasy,History,Sci-Fi",7.1,82
+tt1643266,tt11465508,14,22,S14,Secrets of the Exoplanets,Secrets of the Exoplanets,2019,,42,"Fantasy,History,Sci-Fi",7.3,78
+tt1643266,tt11601804,15,1,S15,The Mystery of Nan Madol,The Mystery of Nan Madol,2020,,42,"Fantasy,History,Sci-Fi",7.9,140
+tt1643266,tt11755184,15,2,S15,The Relics of Roswell,The Relics of Roswell,2020,,42,"Fantasy,History,Sci-Fi",7.0,97
+tt1643266,tt11759616,15,3,S15,Destination Chile,Destination Chile,2020,,42,"Fantasy,History,Sci-Fi",7.7,100
+tt1643266,tt11814470,15,4,S15,The Real Men in Black,The Real Men in Black,2020,,,"Fantasy,History,Sci-Fi",6.8,73
+tt1643266,tt11840912,15,5,S15,The Mystery of the Stone Giants,The Mystery of the Stone Giants,2020,,42,"Fantasy,History,Sci-Fi",7.0,86
+tt1643266,tt11910268,15,6,S15,The World Before Time,The World Before Time,2020,,42,"Fantasy,History,Sci-Fi",7.8,98
+tt1643266,tt11946308,15,7,S15,They Came from The Pleiades,They Came from The Pleiades,2020,,43,"Fantasy,History,Sci-Fi",7.2,84
+tt1643266,tt12071596,15,8,S15,The Immortality Machine,The Immortality Machine,2020,,42,"Fantasy,History,Sci-Fi",6.7,81
+tt1643266,tt12071602,15,9,S15,The Shapeshifters,The Shapeshifters,2020,,42,"Fantasy,History,Sci-Fi",6.6,65
+tt1643266,tt12053740,15,10,S15,The Mystery of Skinwalker Ranch,The Mystery of Skinwalker Ranch,2020,,42,"Fantasy,History,Sci-Fi",7.4,89
+tt1643266,tt12127182,15,11,S15,The Ultimate Guide to UFOs,The Ultimate Guide to UFOs,2020,,42,"Fantasy,History,Sci-Fi",7.2,83
+tt1643266,tt12127180,15,12,S15,Aliens and the Presidents,Aliens and the Presidents,2020,,42,"Fantasy,History,Sci-Fi",7.1,86
+tt1643266,tt13352024,16,1,S16,The Divine Number,The Divine Number,2020,,42,"Fantasy,History,Sci-Fi",7.3,94
+tt1643266,tt13486082,16,2,S16,The Lost Kingdom,The Lost Kingdom,2020,,42,"Fantasy,History,Sci-Fi",7.4,89
+tt1643266,tt13575446,16,3,S16,The Galactic Keyhole,The Galactic Keyhole,2020,,42,"Fantasy,History,Sci-Fi",7.4,86
+tt1643266,tt13550372,16,4,S16,Giants of the Mediterranean,Giants of the Mediterranean,2020,,42,"Fantasy,History,Sci-Fi",7.4,82
+tt1643266,tt13484774,16,5,S16,The Forbidden Bible,The Forbidden Bible,2020,,42,"Fantasy,History,Sci-Fi",7.8,82
+tt1643266,tt13854274,16,6,S16,William Shatner Meets Ancient Aliens,William Shatner Meets Ancient Aliens,2021,,82,"Fantasy,History,Sci-Fi",8.0,125
+tt1643266,tt13854276,16,7,S16,Impossible Artifacts,Impossible Artifacts,2021,,42,"Fantasy,History,Sci-Fi",8.0,97
+tt1643266,tt13854278,16,8,S16,The Space Travelers,The Space Travelers,2021,,41,"Fantasy,History,Sci-Fi",6.9,69
+tt1643266,tt14132638,16,9,S16,The UFO Pioneers,The UFO Pioneers,2021,,41,"Fantasy,History,Sci-Fi",7.2,68
+tt1643266,tt14240418,16,10,S16,The Harmonic Code,The Harmonic Code,2021,,41,"Fantasy,History,Sci-Fi",7.7,78
+tt1643266,tt14473348,16,14,S16,The Alien Shape,The Alien Shape,2021,,,"Fantasy,History,Sci-Fi",9.0,9
+tt1643266,tt14240440,17,1,S17,The Lost City of Peru,The Lost City of Peru,2021,,41,"Fantasy,History,Sci-Fi",7.2,76
+tt1643266,tt15191872,17,2,S17,Top Ten Mysterious Sites,Top Ten Mysterious Sites,2021,,42,"Fantasy,History,Sci-Fi",7.2,75
+tt1643266,tt15191878,17,3,S17,Top Ten Alien Cover-Ups,Top Ten Alien Cover-Ups,2021,,41,"Fantasy,History,Sci-Fi",6.7,65
+tt1643266,tt14240428,17,4,S17,The Mystery of Mount Shasta,The Mystery of Mount Shasta,2021,,41,"Fantasy,History,Sci-Fi",6.9,65
+tt1643266,tt14240446,17,5,S17,The Human Experiment,The Human Experiment,2021,,41,"Fantasy,History,Sci-Fi",7.2,62
+tt1643266,tt15532882,17,6,S17,Top Ten Alien Encounters,Top Ten Alien Encounters,2021,,42,"Fantasy,History,Sci-Fi",7.0,55
+tt1643266,tt15599766,17,7,S17,Top Ten Alien Artifacts,Top Ten Alien Artifacts,2021,,41,"Fantasy,History,Sci-Fi",7.1,60
+tt1643266,tt16995558,18,1,S18,The Disclosure Event,The Disclosure Event,2022,,42,"Fantasy,History,Sci-Fi",7.5,98
+tt1643266,tt17007800,18,2,S18,Mystery of the Standing Stones,Mystery of the Standing Stones,2022,,42,"Fantasy,History,Sci-Fi",7.1,78
+tt1643266,tt17075000,18,3,S18,Beneath the Sacred Temples,Beneath the Sacred Temples,2022,,42,"Fantasy,History,Sci-Fi",7.2,81
+tt1643266,tt17075010,18,4,S18,The World on Alert,The World on Alert,2022,,42,"Fantasy,History,Sci-Fi",7.3,81
+tt1643266,tt17633512,18,5,S18,Recovering The Ark Of The Covenant,Recovering The Ark Of The Covenant,2022,,42,"Fantasy,History,Sci-Fi",7.0,77
+tt1643266,tt17633518,18,6,S18,Secrets Of The Star Ancestors,Secrets Of The Star Ancestors,2022,,42,"Fantasy,History,Sci-Fi",7.3,71
+tt1643266,tt17633522,18,7,S18,Alien Air Force,Alien Air Force,2022,,42,"Fantasy,History,Sci-Fi",7.0,70
+tt1643266,tt18328464,18,8,S18,The Shadow People,The Shadow People,2022,,42,"Fantasy,History,Sci-Fi",6.8,69
+tt1643266,tt18453544,18,9,S18,Decoding the Dragon Gods,Decoding the Dragon Gods,2022,,42,"Fantasy,History,Sci-Fi",6.8,69
+tt1643266,tt18748568,18,10,S18,The Time Benders,The Time Benders,2022,,42,"Fantasy,History,Sci-Fi",7.3,72
+tt1643266,tt21232288,18,11,S18,Incredible Structures,Incredible Structures,2022,,41,"Fantasy,History,Sci-Fi",6.8,62
+tt1643266,tt21232304,18,12,S18,Extraordinary Encounters,Extraordinary Encounters,2022,,42,"Fantasy,History,Sci-Fi",6.3,58
+tt1643266,tt21356000,18,13,S18,Decoding the Alien Glyphs,Decoding the Alien Glyphs,2022,,42,"Fantasy,History,Sci-Fi",6.3,60
+tt1643266,tt21600450,18,14,S18,The UFO Investigations,The UFO Investigations,2022,,42,"Fantasy,History,Sci-Fi",6.6,54
+tt1643266,tt21600452,18,15,S18,Mysterious Artifacts,Mysterious Artifacts,2022,,41,"Fantasy,History,Sci-Fi",6.5,55
+tt1643266,tt21742124,18,16,S18,Evidence of Alien Life,Evidence of Alien Life,2022,,42,"Fantasy,History,Sci-Fi",6.7,55
+tt1643266,tt21835302,18,17,S18,The Shining Ones,The Shining Ones,2022,,42,"Fantasy,History,Sci-Fi",6.9,61
+tt1643266,tt21871846,18,18,S18,The Journey to Immortality,The Journey to Immortality,2022,,42,"Fantasy,History,Sci-Fi",7.4,63
+tt1643266,tt22005264,18,19,S18,Secrets of Inner Earth,Secrets of Inner Earth,2022,,42,"Fantasy,History,Sci-Fi",7.0,62
+tt1643266,tt22054582,18,20,S18,Return of the Egyptian Gods,Return of the Egyptian Gods,2022,,42,"Fantasy,History,Sci-Fi",8.0,70
+tt1643266,tt25379730,19,1,S19,The Hotspot Connection,The Hotspot Connection,2023,,42,"Fantasy,History,Sci-Fi",7.6,72
+tt1643266,tt25798388,19,2,S19,The Crop Circle Code,The Crop Circle Code,2023,,42,"Fantasy,History,Sci-Fi",7.8,73
+tt1643266,tt26315067,19,3,S19,Mystery of the Lost Civilization,Mystery of the Lost Civilization,2023,,42,"Fantasy,History,Sci-Fi",8.1,76
+tt1643266,tt26537739,19,4,S19,The Power of the Obelisks,The Power of the Obelisks,2023,,42,"Fantasy,History,Sci-Fi",7.8,69
+tt1643266,tt26672753,19,5,S19,The MUFON Files,The MUFON Files,2023,,42,"Fantasy,History,Sci-Fi",7.2,74
+tt1643266,tt26731663,19,6,S19,Cosmic Impacts,Cosmic Impacts,2023,,43,"Fantasy,History,Sci-Fi",7.4,63
+tt1643266,tt26772069,19,7,S19,Close Encounters of the Fifth Kind,Close Encounters of the Fifth Kind,2023,,42,"Fantasy,History,Sci-Fi",7.7,69
+tt1643266,tt26901551,19,8,S19,The Mysteries of Alaska,The Mysteries of Alaska,2023,,42,"Fantasy,History,Sci-Fi",7.5,68
+tt1643266,tt27042624,19,9,S19,Aliens in our Airspace,Aliens in our Airspace,2023,,42,"Fantasy,History,Sci-Fi",8.0,64
+tt1643266,tt27133303,19,10,S19,The Giants of Malta,The Giants of Malta,2023,,42,"Fantasy,History,Sci-Fi",7.9,69
+tt1643266,tt28108713,19,11,S19,The Top Ten Pyramid Sites,The Top Ten Pyramid Sites,2023,,41,"Fantasy,History,Sci-Fi",7.9,66
+tt1643266,tt28268416,19,12,S19,The Top Ten Mysterious Devices,The Top Ten Mysterious Devices,2023,,42,"Fantasy,History,Sci-Fi",7.5,59
+tt1643266,tt28314930,19,13,S19,The Top Ten Mysterious Islands,The Top Ten Mysterious Islands,2023,,42,"Fantasy,History,Sci-Fi",7.6,51
+tt1643266,tt28314939,19,14,S19,The Top Ten Alien Craft,The Top Ten Alien Craft,2023,,42,"Fantasy,History,Sci-Fi",7.7,50
+tt1643266,tt28475519,19,15,S19,Edgar Cayce: The Sleeping Prophet,Edgar Cayce: The Sleeping Prophet,2023,,42,"Fantasy,History,Sci-Fi",8.2,59
+tt1643266,tt28475536,19,16,S19,The Gods of Greece,The Gods of Greece,2023,,42,"Fantasy,History,Sci-Fi",7.8,57
+tt1643266,tt28475545,19,17,S19,The New UFO Hunters,The New UFO Hunters,2023,,42,"Fantasy,History,Sci-Fi",7.9,49
+tt1643266,tt28475575,19,18,S19,Power of the Talisman,Power of the Talisman,2023,,42,"Fantasy,History,Sci-Fi",7.6,49
+tt1643266,tt28883080,19,19,S19,The Top Ten Mysteries of the Deep,The Top Ten Mysteries of the Deep,2023,,42,"Fantasy,History,Sci-Fi",7.8,46
+tt1643266,tt29080929,19,20,S19,The Top Ten Alien Petroglyphs,The Top Ten Alien Petroglyphs,2023,,41,"Fantasy,History,Sci-Fi",7.6,44
+tt1643266,tt30468706,20,1,S20,The Top Ten Alien Influencers,The Top Ten Alien Influencers,2024,,42,"Fantasy,History,Sci-Fi",7.4,53
+tt1643266,tt30827542,20,2,S20,The Top Ten Extraordinary Creatures,The Top Ten Extraordinary Creatures,2024,,42,"Fantasy,History,Sci-Fi",6.6,44
+tt1643266,tt30956184,20,3,S20,The Top Ten Hidden Alien Bases,The Top Ten Hidden Alien Bases,2024,,42,"Fantasy,History,Sci-Fi",7.5,55
+tt1643266,tt31147106,20,4,S20,The Top Ten Scariest Encounters,The Top Ten Scariest Encounters,2024,,42,"Fantasy,History,Sci-Fi",7.6,41
+tt1643266,tt31157059,20,5,S20,The Top Ten Alien Codes,The Top Ten Alien Codes,2024,,42,"Fantasy,History,Sci-Fi",7.5,50
+tt1643266,tt31236743,20,6,S20,The Top Ten Alien Disasters,The Top Ten Alien Disasters,2024,,42,"Fantasy,History,Sci-Fi",7.2,46
+tt1643266,tt31450082,20,7,S20,Secrets of the Sumerians,Secrets of the Sumerians,2024,,42,"Fantasy,History,Sci-Fi",8.0,58
+tt1643266,tt31492562,20,8,S20,The UFO Superhighway,The UFO Superhighway,2024,,42,"Fantasy,History,Sci-Fi",7.5,50
+tt1643266,tt31598105,20,9,S20,Mysteries of Scotland,Mysteries of Scotland,2024,,42,"Fantasy,History,Sci-Fi",7.7,49
+tt1643266,tt31710884,20,10,S20,Mystery of the Stone Spheres,Mystery of the Stone Spheres,2024,,42,"Fantasy,History,Sci-Fi",7.8,48
+tt1643266,tt32748389,20,11,S20,Mysteries of the Maya,Mysteries of the Maya,2024,,42,"Fantasy,History,Sci-Fi",8.6,43
+tt1643266,tt32792644,20,12,S20,Unlocking the Stargates,Unlocking the Stargates,2024,,42,"Fantasy,History,Sci-Fi",7.9,44
+tt1643266,tt32842898,20,13,S20,The Whistleblowers,The Whistleblowers,2024,,42,"Fantasy,History,Sci-Fi",8.0,41
+tt1643266,tt32879471,20,14,S20,The Search for Extraterrestrial Intelligence,The Search for Extraterrestrial Intelligence,2024,,42,"Fantasy,History,Sci-Fi",8.1,38
+tt1643266,tt33057682,20,15,S20,Jacques Vallée: UFO Pioneer,Jacques Vallée: UFO Pioneer,2024,,42,"Fantasy,History,Sci-Fi",8.1,43
+tt1643266,tt33083356,20,16,S20,The Teachers,The Teachers,2024,,42,"Fantasy,History,Sci-Fi",8.0,39
+tt1643266,tt33164261,20,17,S20,Egypt's Giant Tombs,Egypt's Giant Tombs,2024,,42,"Fantasy,History,Sci-Fi",8.5,35
+tt1643266,tt33164273,20,18,S20,The Linda Moulton Howe Files,The Linda Moulton Howe Files,2024,,42,"Fantasy,History,Sci-Fi",8.5,41
+tt1643266,tt33297615,20,19,S20,The Chosen,The Chosen,2024,,42,"Fantasy,History,Sci-Fi",7.9,35
+tt1643266,tt33342172,20,20,S20,Resurrecting Puma Punku,Resurrecting Puma Punku,2024,,42,"Fantasy,History,Sci-Fi",8.7,37
+tt1643266,tt35304878,21,1,S21,The Top Ten Extraordinary Discoveries,The Top Ten Extraordinary Discoveries,2025,,41,"Fantasy,History,Sci-Fi",7.4,28
+tt1643266,tt35677339,21,2,S21,The Top Ten Mysterious Monoliths,The Top Ten Mysterious Monoliths,2025,,42,"Fantasy,History,Sci-Fi",7.5,25
+tt1643266,tt35710956,21,3,S21,The Top Ten UFO Crashes,The Top Ten UFO Crashes,2025,,42,"Fantasy,History,Sci-Fi",7.7,25
+tt1643266,tt35853076,21,4,S21,The Top Ten Unexplained Technologies,The Top Ten Unexplained Technologies,2025,,42,"Fantasy,History,Sci-Fi",8.1,24
+tt1643266,tt35884938,21,5,S21,The Top Ten Secret Projects,The Top Ten Secret Projects,2025,,41,"Fantasy,History,Sci-Fi",7.3,24
+tt1643266,tt35955104,21,6,S21,The Top Ten Mysterious Mountains,The Top Ten Mysterious Mountains,2025,,42,"Fantasy,History,Sci-Fi",7.5,25
+tt1643266,tt36077718,21,7,S21,Mysteries of the Aztecs,Mysteries of the Aztecs,2025,,42,"Fantasy,History,Sci-Fi",8.9,25
+tt1643266,tt36169395,21,8,S21,The Glowing Orb Phenomenon,The Glowing Orb Phenomenon,2025,,42,"Fantasy,History,Sci-Fi",8.1,22
+tt1643266,tt37976085,21,9,S21,The Legacy of J. Allen Hynek,The Legacy of J. Allen Hynek,2025,,42,"Fantasy,History,Sci-Fi",7.9,29
+tt1643266,tt37976090,21,10,S21,The Volcano Factor,The Volcano Factor,2025,,42,"Fantasy,History,Sci-Fi",8.2,29
+tt1643266,tt38132659,21,11,S21,The Birdman Mystery,The Birdman Mystery,2025,,42,"Fantasy,History,Sci-Fi",8.1,27
+tt1643266,tt38132665,21,12,S21,The Abduction Files,The Abduction Files,2025,,42,"Fantasy,History,Sci-Fi",8.2,25
+tt1643266,tt38497667,21,13,S21,The Giants,The Giants,2025,,42,"Fantasy,History,Sci-Fi",7.9,21
+tt1643266,tt38515951,21,14,S21,Aliens in Our Midst,Aliens in Our Midst,2025,,42,"Fantasy,History,Sci-Fi",7.7,19
+tt1643266,tt38643616,21,15,S21,Britain's UFO Files,Britain's UFO Files,2025,,42,"Fantasy,History,Sci-Fi",8.3,17
+tt1643266,tt38643819,21,16,S21,Mysteries of the Norse Gods,Mysteries of the Norse Gods,2025,,42,"Fantasy,History,Sci-Fi",8.4,16
+tt1643266,tt38866764,21,17,S21,Secrets of Japan,Secrets of Japan,2025,,42,"Fantasy,History,Sci-Fi",7.8,15
+tt1643266,tt38873777,21,18,S21,Skulls of the Gods,Skulls of the Gods,2025,,,"Fantasy,History,Sci-Fi",,
+tt1643266,tt38873779,21,19,S21,Islands of the Gods,Islands of the Gods,2025,,,"Fantasy,History,Sci-Fi",,

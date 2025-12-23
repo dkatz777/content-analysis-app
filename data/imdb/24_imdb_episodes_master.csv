@@ -1,0 +1,193 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0285331,tt0502165,1,1,S1,12:00 a.m.-1:00 a.m.,12:00 a.m.-1:00 a.m.,2001,,60,"Action,Crime,Drama",8.2,3535
+tt0285331,tt0502167,1,2,S1,1:00 a.m.-2:00 a.m.,1:00 a.m.-2:00 a.m.,2001,,43,"Action,Crime,Drama",8.2,2668
+tt0285331,tt0502169,1,3,S1,2:00 a.m.-3:00 a.m.,2:00 a.m.-3:00 a.m.,2001,,41,"Action,Crime,Drama",8.1,2481
+tt0285331,tt0502171,1,4,S1,3:00 a.m.-4:00 a.m.,3:00 a.m.-4:00 a.m.,2001,,40,"Action,Crime,Drama",8.1,2351
+tt0285331,tt0502173,1,5,S1,4:00 a.m.-5:00 a.m.,4:00 a.m.-5:00 a.m.,2001,,41,"Action,Crime,Drama",8.1,2241
+tt0285331,tt0502175,1,6,S1,5:00 a.m.-6:00 a.m.,5:00 a.m.-6:00 a.m.,2001,,42,"Action,Crime,Drama",8.4,2266
+tt0285331,tt0502177,1,7,S1,6:00 a.m.-7:00 a.m.,6:00 a.m.-7:00 a.m.,2002,,41,"Action,Crime,Drama",8.4,2241
+tt0285331,tt0502179,1,8,S1,7:00 a.m.-8:00 a.m.,7:00 a.m.-8:00 a.m.,2002,,40,"Action,Crime,Drama",8.6,2197
+tt0285331,tt0502181,1,9,S1,8:00 a.m.-9:00 a.m.,8:00 a.m.-9:00 a.m.,2002,,43,"Action,Crime,Drama",8.3,2130
+tt0285331,tt0502183,1,10,S1,9:00 a.m.-10:00 a.m.,9:00 a.m.-10:00 a.m.,2002,,42,"Action,Crime,Drama",8.1,2215
+tt0285331,tt0502161,1,11,S1,10:00 a.m.-11:00 a.m.,10:00 a.m.-11:00 a.m.,2002,,44,"Action,Crime,Drama",8.4,2085
+tt0285331,tt0502163,1,12,S1,11:00 a.m.-12:00 p.m.,11:00 a.m.-12:00 p.m.,2002,,40,"Action,Crime,Drama",8.6,2094
+tt0285331,tt0502166,1,13,S1,12:00 p.m.-1:00 p.m.,12:00 p.m.-1:00 p.m.,2002,,43,"Action,Crime,Drama",8.4,2038
+tt0285331,tt0502168,1,14,S1,1:00 p.m.-2:00 p.m.,1:00 p.m.-2:00 p.m.,2002,,43,"Action,Crime,Drama",8.0,1988
+tt0285331,tt0502170,1,15,S1,2:00 p.m.-3:00 p.m.,2:00 p.m.-3:00 p.m.,2002,,42,"Action,Crime,Drama",8.0,1996
+tt0285331,tt0502172,1,16,S1,3:00 p.m.-4:00 p.m.,3:00 p.m.-4:00 p.m.,2002,,41,"Action,Crime,Drama",7.9,1992
+tt0285331,tt0502174,1,17,S1,4:00 p.m.-5:00 p.m.,4:00 p.m.-5:00 p.m.,2002,,41,"Action,Crime,Drama",8.0,1964
+tt0285331,tt0502176,1,18,S1,5:00 p.m.-6:00 p.m.,5:00 p.m.-6:00 p.m.,2002,,41,"Action,Crime,Drama",7.9,1918
+tt0285331,tt0502178,1,19,S1,6:00 p.m.-7:00 p.m.,6:00 p.m.-7:00 p.m.,2002,,41,"Action,Crime,Drama",8.2,1925
+tt0285331,tt0502180,1,20,S1,7:00 p.m.-8:00 p.m.,7:00 p.m.-8:00 p.m.,2002,,42,"Action,Crime,Drama",8.5,1943
+tt0285331,tt0502182,1,21,S1,8:00 p.m.-9:00 p.m.,8:00 p.m.-9:00 p.m.,2002,,42,"Action,Crime,Drama",8.1,1897
+tt0285331,tt0502184,1,22,S1,9:00 p.m.-10:00 p.m.,9:00 p.m.-10:00 p.m.,2002,,44,"Action,Crime,Drama",8.2,1896
+tt0285331,tt0502162,1,23,S1,10:00 p.m.-11:00 p.m.,10:00 p.m.-11:00 p.m.,2002,,42,"Action,Crime,Drama",8.8,2081
+tt0285331,tt0502164,1,24,S1,11:00 p.m.-12:00 a.m.,11:00 p.m.-12:00 a.m.,2002,,42,"Action,Crime,Drama",9.3,2887
+tt0285331,tt0502205,2,1,S2,Day 2: 8:00 a.m.-9:00 a.m.,Day 2: 8:00 a.m.-9:00 a.m.,2002,,52,"Action,Crime,Drama",8.2,2028
+tt0285331,tt0502207,2,2,S2,Day 2: 9:00 a.m.-10:00 a.m.,Day 2: 9:00 a.m.-10:00 a.m.,2002,,44,"Action,Crime,Drama",8.0,1763
+tt0285331,tt0502185,2,3,S2,Day 2: 10:00 a.m.-11:00 a.m.,Day 2: 10:00 a.m.-11:00 a.m.,2002,,44,"Action,Crime,Drama",8.6,1772
+tt0285331,tt0502187,2,4,S2,Day 2: 11:00 a.m.-12:00 p.m.,Day 2: 11:00 a.m.-12:00 p.m.,2002,,45,"Action,Crime,Drama",8.5,1721
+tt0285331,tt0502190,2,5,S2,Day 2: 12:00 p.m.-1:00 p.m.,Day 2: 12:00 p.m.-1:00 p.m.,2002,,45,"Action,Crime,Drama",8.1,1685
+tt0285331,tt0502192,2,6,S2,Day 2: 1:00 p.m.-2:00 p.m.,Day 2: 1:00 p.m.-2:00 p.m.,2002,,45,"Action,Crime,Drama",8.2,1676
+tt0285331,tt0502194,2,7,S2,Day 2: 2:00 p.m.-3:00 p.m.,Day 2: 2:00 p.m.-3:00 p.m.,2002,,45,"Action,Crime,Drama",8.5,1698
+tt0285331,tt0502196,2,8,S2,Day 2: 3:00 p.m.-4:00 p.m.,Day 2: 3:00 p.m.-4:00 p.m.,2002,,44,"Action,Crime,Drama",8.3,1662
+tt0285331,tt0502198,2,9,S2,Day 2: 4:00 p.m.-5:00 p.m.,Day 2: 4:00 p.m.-5:00 p.m.,2003,,44,"Action,Crime,Drama",8.7,1713
+tt0285331,tt0502200,2,10,S2,Day 2: 5:00 p.m.-6:00 p.m.,Day 2: 5:00 p.m.-6:00 p.m.,2003,,44,"Action,Crime,Drama",8.7,1683
+tt0285331,tt0502202,2,11,S2,Day 2: 6:00 p.m.-7:00 p.m.,Day 2: 6:00 p.m.-7:00 p.m.,2003,,43,"Action,Crime,Drama",8.3,1649
+tt0285331,tt0502204,2,12,S2,Day 2: 7:00 p.m.-8:00 p.m.,Day 2: 7:00 p.m.-8:00 p.m.,2003,,43,"Action,Crime,Drama",8.6,1689
+tt0285331,tt0502206,2,13,S2,Day 2: 8:00 p.m.-9:00 p.m.,Day 2: 8:00 p.m.-9:00 p.m.,2003,,43,"Action,Crime,Drama",8.3,1644
+tt0285331,tt0502208,2,14,S2,Day 2: 9:00 p.m.-10:00 p.m.,Day 2: 9:00 p.m.-10:00 p.m.,2003,,45,"Action,Crime,Drama",8.4,1644
+tt0285331,tt0502186,2,15,S2,Day 2: 10:00 p.m.-11:00 p.m.,Day 2: 10:00 p.m.-11:00 p.m.,2003,,45,"Action,Crime,Drama",9.1,2145
+tt0285331,tt0502188,2,16,S2,Day 2: 11:00 p.m.-12:00 a.m.,Day 2: 11:00 p.m.-12:00 a.m.,2003,,44,"Action,Crime,Drama",8.3,1636
+tt0285331,tt0502189,2,17,S2,Day 2: 12:00 a.m.-1:00 a.m.,Day 2: 12:00 a.m.-1:00 a.m.,2003,,45,"Action,Crime,Drama",8.0,1595
+tt0285331,tt0502191,2,18,S2,Day 2: 1:00 a.m.-2:00 a.m.,Day 2: 1:00 a.m.-2:00 a.m.,2003,,45,"Action,Crime,Drama",8.4,1619
+tt0285331,tt0502193,2,19,S2,Day 2: 2:00 a.m.-3:00 a.m.,Day 2: 2:00 a.m.-3:00 a.m.,2003,,44,"Action,Crime,Drama",8.3,1632
+tt0285331,tt0502195,2,20,S2,Day 2: 3:00 a.m.-4:00 a.m.,Day 2: 3:00 a.m.-4:00 a.m.,2003,,44,"Action,Crime,Drama",8.5,1636
+tt0285331,tt0502197,2,21,S2,Day 2: 4:00 a.m.-5:00 a.m.,Day 2: 4:00 a.m.-5:00 a.m.,2003,,45,"Action,Crime,Drama",8.6,1634
+tt0285331,tt0502199,2,22,S2,Day 2: 5:00 a.m.-6:00 a.m.,Day 2: 5:00 a.m.-6:00 a.m.,2003,,45,"Action,Crime,Drama",8.6,1611
+tt0285331,tt0502201,2,23,S2,Day 2: 6:00 a.m.-7:00 a.m.,Day 2: 6:00 a.m.-7:00 a.m.,2003,,44,"Action,Crime,Drama",8.6,1634
+tt0285331,tt0502203,2,24,S2,Day 2: 7:00 a.m.-8:00 a.m.,Day 2: 7:00 a.m.-8:00 a.m.,2003,,44,"Action,Crime,Drama",9.0,1973
+tt0285331,tt0502216,3,1,S3,Day 3: 1:00 p.m.-2:00 p.m.,Day 3: 1:00 p.m.-2:00 p.m.,2003,,60,"Action,Crime,Drama",7.9,1758
+tt0285331,tt0502218,3,2,S3,Day 3: 2:00 p.m.-3:00 p.m.,Day 3: 2:00 p.m.-3:00 p.m.,2003,,45,"Action,Crime,Drama",7.9,1548
+tt0285331,tt0502220,3,3,S3,Day 3: 3:00 p.m.-4:00 p.m.,Day 3: 3:00 p.m.-4:00 p.m.,2003,,44,"Action,Crime,Drama",8.3,1526
+tt0285331,tt0502222,3,4,S3,Day 3: 4:00 p.m.-5:00 p.m.,Day 3: 4:00 p.m.-5:00 p.m.,2003,,44,"Action,Crime,Drama",8.3,1528
+tt0285331,tt0502224,3,5,S3,Day 3: 5:00 p.m.-6:00 p.m.,Day 3: 5:00 p.m.-6:00 p.m.,2003,,44,"Action,Crime,Drama",8.3,1501
+tt0285331,tt0502226,3,6,S3,Day 3: 6:00 p.m.-7:00 p.m.,Day 3: 6:00 p.m.-7:00 p.m.,2003,,44,"Action,Crime,Drama",8.2,1488
+tt0285331,tt0502228,3,7,S3,Day 3: 7:00 p.m.-8:00 p.m.,Day 3: 7:00 p.m.-8:00 p.m.,2003,,43,"Action,Crime,Drama",8.6,1520
+tt0285331,tt0502230,3,8,S3,Day 3: 8:00 p.m.-9:00 p.m.,Day 3: 8:00 p.m.-9:00 p.m.,2003,,44,"Action,Crime,Drama",8.3,1469
+tt0285331,tt0502232,3,9,S3,Day 3: 9:00 p.m.-10:00 p.m.,Day 3: 9:00 p.m.-10:00 p.m.,2004,,45,"Action,Crime,Drama",8.1,1458
+tt0285331,tt0502210,3,10,S3,Day 3: 10:00 p.m.-11:00 p.m.,Day 3: 10:00 p.m.-11:00 p.m.,2004,,45,"Action,Crime,Drama",8.3,1458
+tt0285331,tt0502212,3,11,S3,Day 3: 11:00 p.m.-12:00 a.m.,Day 3: 11:00 p.m.-12:00 a.m.,2004,,44,"Action,Crime,Drama",8.2,1440
+tt0285331,tt0502213,3,12,S3,Day 3: 12:00 a.m.-1:00 a.m.,Day 3: 12:00 a.m.-1:00 a.m.,2004,,45,"Action,Crime,Drama",8.5,1454
+tt0285331,tt0502215,3,13,S3,Day 3: 1:00 a.m.-2:00 a.m.,Day 3: 1:00 a.m.-2:00 a.m.,2004,,45,"Action,Crime,Drama",8.4,1454
+tt0285331,tt0502217,3,14,S3,Day 3: 2:00 a.m.-3:00 a.m.,Day 3: 2:00 a.m.-3:00 a.m.,2004,,44,"Action,Crime,Drama",8.7,1517
+tt0285331,tt0502219,3,15,S3,Day 3: 3:00 a.m.-4:00 a.m.,Day 3: 3:00 a.m.-4:00 a.m.,2004,,44,"Action,Crime,Drama",8.4,1445
+tt0285331,tt0502221,3,16,S3,Day 3: 4:00 a.m.-5:00 a.m.,Day 3: 4:00 a.m.-5:00 a.m.,2004,,44,"Action,Crime,Drama",8.6,1471
+tt0285331,tt0502223,3,17,S3,Day 3: 5:00 a.m.-6:00 a.m.,Day 3: 5:00 a.m.-6:00 a.m.,2004,,45,"Action,Crime,Drama",8.6,1458
+tt0285331,tt0502225,3,18,S3,Day 3: 6:00 a.m.-7:00 a.m.,Day 3: 6:00 a.m.-7:00 a.m.,2004,,44,"Action,Crime,Drama",9.1,1849
+tt0285331,tt0502227,3,19,S3,Day 3: 7:00 a.m.-8:00 a.m.,Day 3: 7:00 a.m.-8:00 a.m.,2004,,45,"Action,Crime,Drama",8.4,1434
+tt0285331,tt0502229,3,20,S3,Day 3: 8:00 a.m.-9:00 a.m.,Day 3: 8:00 a.m.-9:00 a.m.,2004,,45,"Action,Crime,Drama",8.4,1406
+tt0285331,tt0502231,3,21,S3,Day 3: 9:00 a.m.-10:00 a.m.,Day 3: 9:00 a.m.-10:00 a.m.,2004,,44,"Action,Crime,Drama",8.4,1428
+tt0285331,tt0502209,3,22,S3,Day 3: 10:00 a.m.-11:00 a.m.,Day 3: 10:00 a.m.-11:00 a.m.,2004,,42,"Action,Crime,Drama",8.8,1497
+tt0285331,tt0502211,3,23,S3,Day 3: 11:00 a.m.-12:00 p.m.,Day 3: 11:00 a.m.-12:00 p.m.,2004,,43,"Action,Crime,Drama",8.7,1471
+tt0285331,tt0502214,3,24,S3,Day 3: 12:00 p.m.-1:00 p.m.,Day 3: 12:00 p.m.-1:00 p.m.,2004,,42,"Action,Crime,Drama",8.9,1648
+tt0285331,tt0502251,4,1,S4,Day 4: 7:00 a.m.-8:00 a.m.,Day 4: 7:00 a.m.-8:00 a.m.,2005,,42,"Action,Crime,Drama",8.3,1603
+tt0285331,tt0502253,4,2,S4,Day 4: 8:00 a.m.-9:00 a.m.,Day 4: 8:00 a.m.-9:00 a.m.,2005,,60,"Action,Crime,Drama",8.0,1427
+tt0285331,tt0502255,4,3,S4,Day 4: 9:00 a.m.-10:00 a.m.,Day 4: 9:00 a.m.-10:00 a.m.,2005,,60,"Action,Crime,Drama",8.0,1387
+tt0285331,tt0502233,4,4,S4,Day 4: 10:00 a.m.-11:00 a.m.,Day 4: 10:00 a.m.-11:00 a.m.,2005,,42,"Action,Crime,Drama",8.1,1395
+tt0285331,tt0502235,4,5,S4,Day 4: 11:00 a.m.-12:00 p.m.,Day 4: 11:00 a.m.-12:00 p.m.,2005,,44,"Action,Crime,Drama",8.1,1380
+tt0285331,tt0502238,4,6,S4,Day 4: 12:00 p.m.-1:00 p.m.,Day 4: 12:00 p.m.-1:00 p.m.,2005,,42,"Action,Crime,Drama",8.6,1407
+tt0285331,tt0502240,4,7,S4,Day 4: 1:00 p.m.-2:00 p.m.,Day 4: 1:00 p.m.-2:00 p.m.,2005,,42,"Action,Crime,Drama",8.4,1360
+tt0285331,tt0502242,4,8,S4,Day 4: 2:00 p.m.-3:00 p.m.,Day 4: 2:00 p.m.-3:00 p.m.,2005,,42,"Action,Crime,Drama",8.4,1362
+tt0285331,tt0502244,4,9,S4,Day 4: 3:00 p.m.-4:00 p.m.,Day 4: 3:00 p.m.-4:00 p.m.,2005,,42,"Action,Crime,Drama",8.2,1326
+tt0285331,tt0502246,4,10,S4,Day 4: 4:00 p.m.-5:00 p.m.,Day 4: 4:00 p.m.-5:00 p.m.,2005,,42,"Action,Crime,Drama",8.0,1329
+tt0285331,tt0502248,4,11,S4,Day 4: 5:00 p.m.-6:00 p.m.,Day 4: 5:00 p.m.-6:00 p.m.,2005,,42,"Action,Crime,Drama",8.4,1331
+tt0285331,tt0502250,4,12,S4,Day 4: 6:00 p.m.-7:00 p.m.,Day 4: 6:00 p.m.-7:00 p.m.,2005,,42,"Action,Crime,Drama",8.2,1346
+tt0285331,tt0502252,4,13,S4,Day 4: 7:00 p.m.-8:00 p.m.,Day 4: 7:00 p.m.-8:00 p.m.,2005,,42,"Action,Crime,Drama",8.3,1335
+tt0285331,tt0502254,4,14,S4,Day 4: 8:00 p.m.-9:00 p.m.,Day 4: 8:00 p.m.-9:00 p.m.,2005,,42,"Action,Crime,Drama",8.1,1334
+tt0285331,tt0502256,4,15,S4,Day 4: 9:00 p.m.-10:00 p.m.,Day 4: 9:00 p.m.-10:00 p.m.,2005,,41,"Action,Crime,Drama",7.9,1332
+tt0285331,tt0502234,4,16,S4,Day 4: 10:00 p.m.-11:00 p.m.,Day 4: 10:00 p.m.-11:00 p.m.,2005,,42,"Action,Crime,Drama",8.7,1398
+tt0285331,tt0502236,4,17,S4,Day 4: 11:00 p.m.-12:00 a.m.,Day 4: 11:00 p.m.-12:00 a.m.,2005,,42,"Action,Crime,Drama",8.4,1362
+tt0285331,tt0502237,4,18,S4,Day 4: 12:00 a.m.-1:00 a.m.,Day 4: 12:00 a.m.-1:00 a.m.,2005,,42,"Action,Crime,Drama",8.1,1329
+tt0285331,tt0502239,4,19,S4,Day 4: 1:00 a.m.-2:00 a.m.,Day 4: 1:00 a.m.-2:00 a.m.,2005,,42,"Action,Crime,Drama",8.6,1390
+tt0285331,tt0502241,4,20,S4,Day 4: 2:00 a.m.-3:00 a.m.,Day 4: 2:00 a.m.-3:00 a.m.,2005,,42,"Action,Crime,Drama",8.8,1470
+tt0285331,tt0502243,4,21,S4,Day 4: 3:00 a.m.-4:00 a.m.,Day 4: 3:00 a.m.-4:00 a.m.,2005,,42,"Action,Crime,Drama",8.3,1332
+tt0285331,tt0502245,4,22,S4,Day 4: 4:00 a.m.-5:00 a.m.,Day 4: 4:00 a.m.-5:00 a.m.,2005,,42,"Action,Crime,Drama",8.4,1361
+tt0285331,tt0502247,4,23,S4,Day 4: 5:00 a.m.-6:00 a.m.,Day 4: 5:00 a.m.-6:00 a.m.,2005,,42,"Action,Crime,Drama",8.8,1441
+tt0285331,tt0502249,4,24,S4,Day 4: 6:00 a.m.-7:00 a.m.,Day 4: 6:00 a.m.-7:00 a.m.,2005,,42,"Action,Crime,Drama",9.0,1609
+tt0285331,tt0502266,5,1,S5,Day 5: 7:00 a.m.-8:00 a.m.,Day 5: 7:00 a.m.-8:00 a.m.,2006,,42,"Action,Crime,Drama",9.1,1925
+tt0285331,tt0502268,5,2,S5,Day 5: 8:00 a.m.-9:00 a.m.,Day 5: 8:00 a.m.-9:00 a.m.,2006,,43,"Action,Crime,Drama",8.7,1472
+tt0285331,tt0502270,5,3,S5,Day 5: 9:00 a.m.-10:00 a.m.,Day 5: 9:00 a.m.-10:00 a.m.,2006,,42,"Action,Crime,Drama",8.6,1425
+tt0285331,tt0502257,5,4,S5,Day 5: 10:00 a.m.-11:00 a.m.,Day 5: 10:00 a.m.-11:00 a.m.,2006,,42,"Action,Crime,Drama",8.6,1440
+tt0285331,tt0502258,5,5,S5,Day 5: 11:00 a.m.-12:00 p.m.,Day 5: 11:00 a.m.-12:00 p.m.,2006,,45,"Action,Crime,Drama",8.6,1408
+tt0285331,tt0502259,5,6,S5,Day 5: 12:00 p.m.-1:00 p.m.,Day 5: 12:00 p.m.-1:00 p.m.,2006,,45,"Action,Crime,Drama",8.7,1408
+tt0285331,tt0502260,5,7,S5,Day 5: 1:00 p.m.-2:00 p.m.,Day 5: 1:00 p.m.-2:00 p.m.,2006,,44,"Action,Crime,Drama",8.1,1390
+tt0285331,tt0502261,5,8,S5,Day 5: 2:00 p.m.-3:00 p.m.,Day 5: 2:00 p.m.-3:00 p.m.,2006,,45,"Action,Crime,Drama",8.3,1374
+tt0285331,tt0502262,5,9,S5,Day 5: 3:00 p.m.-4:00 p.m.,Day 5: 3:00 p.m.-4:00 p.m.,2006,,44,"Action,Crime,Drama",8.2,1361
+tt0285331,tt0502263,5,10,S5,Day 5: 4:00 p.m.-5:00 p.m.,Day 5: 4:00 p.m.-5:00 p.m.,2006,,45,"Action,Crime,Drama",8.8,1379
+tt0285331,tt0502264,5,11,S5,Day 5: 5:00 p.m.-6:00 p.m.,Day 5: 5:00 p.m.-6:00 p.m.,2006,,44,"Action,Crime,Drama",8.5,1379
+tt0285331,tt0502265,5,12,S5,Day 5: 6:00 p.m.-7:00 p.m.,Day 5: 6:00 p.m.-7:00 p.m.,2006,,44,"Action,Crime,Drama",9.1,1629
+tt0285331,tt0502267,5,13,S5,Day 5: 7:00 p.m.-8:00 p.m.,Day 5: 7:00 p.m.-8:00 p.m.,2006,,45,"Action,Crime,Drama",8.8,1508
+tt0285331,tt0502269,5,14,S5,Day 5: 8:00 p.m.-9:00 p.m.,Day 5: 8:00 p.m.-9:00 p.m.,2006,,45,"Action,Crime,Drama",8.3,1366
+tt0285331,tt0763117,5,15,S5,Day 5: 9:00 p.m.-10:00 p.m.,Day 5: 9:00 p.m.-10:00 p.m.,2006,,42,"Action,Crime,Drama",8.7,1386
+tt0285331,tt0760415,5,16,S5,Day 5: 10:00 p.m.-11:00 p.m.,Day 5: 10:00 p.m.-11:00 p.m.,2006,,41,"Action,Crime,Drama",8.6,1362
+tt0285331,tt0782170,5,17,S5,Day 5: 11:00 p.m.-12:00 a.m.,Day 5: 11:00 p.m.-12:00 a.m.,2006,,42,"Action,Crime,Drama",8.5,1346
+tt0285331,tt0782171,5,18,S5,Day 5: 12:00 a.m.-1:00 a.m.,Day 5: 12:00 a.m.-1:00 a.m.,2006,,42,"Action,Crime,Drama",8.5,1329
+tt0285331,tt0769779,5,19,S5,Day 5: 1:00 a.m.-2:00 a.m.,Day 5: 1:00 a.m.-2:00 a.m.,2006,,42,"Action,Crime,Drama",8.4,1313
+tt0285331,tt0769780,5,20,S5,Day 5: 2:00 a.m.-3:00 a.m.,Day 5: 2:00 a.m.-3:00 a.m.,2006,,42,"Action,Crime,Drama",8.5,1333
+tt0285331,tt0784081,5,21,S5,Day 5: 3:00 a.m.-4:00 a.m.,Day 5: 3:00 a.m.-4:00 a.m.,2006,,42,"Action,Crime,Drama",8.5,1341
+tt0285331,tt0796377,5,22,S5,Day 5: 4:00 a.m.-5:00 a.m.,Day 5: 4:00 a.m.-5:00 a.m.,2006,,42,"Action,Crime,Drama",8.2,1333
+tt0285331,tt0801845,5,23,S5,Day 5: 5:00 a.m.-6:00 a.m.,Day 5: 5:00 a.m.-6:00 a.m.,2006,,42,"Action,Crime,Drama",8.7,1383
+tt0285331,tt0807484,5,24,S5,Day 5: 6:00 a.m.-7:00 a.m.,Day 5: 6:00 a.m.-7:00 a.m.,2006,,42,"Action,Crime,Drama",9.1,1724
+tt0285331,tt0865980,6,1,S6,Day 6: 6:00 a.m.-7:00 a.m.,Day 6: 6:00 a.m.-7:00 a.m.,2007,,43,"Action,Crime,Drama",8.3,1616
+tt0285331,tt0925315,6,2,S6,Day 6: 7:00 a.m.-8:00 a.m.,Day 6: 7:00 a.m.-8:00 a.m.,2007,,44,"Action,Crime,Drama",8.3,1421
+tt0285331,tt0933400,6,3,S6,Day 6: 8:00 a.m.-9:00 a.m.,Day 6: 8:00 a.m.-9:00 a.m.,2007,,44,"Action,Crime,Drama",8.0,1361
+tt0285331,tt0933401,6,4,S6,Day 6: 9:00 a.m.-10:00 a.m.,Day 6: 9:00 a.m.-10:00 a.m.,2007,,44,"Action,Crime,Drama",8.9,1625
+tt0285331,tt0933901,6,5,S6,Day 6: 10:00 a.m.-11:00 a.m.,Day 6: 10:00 a.m.-11:00 a.m.,2007,,44,"Action,Crime,Drama",8.0,1368
+tt0285331,tt0933903,6,6,S6,Day 6: 11:00 a.m.-12:00 p.m.,Day 6: 11:00 a.m.-12:00 p.m.,2007,,44,"Action,Crime,Drama",7.8,1315
+tt0285331,tt0933906,6,7,S6,Day 6: 12:00 p.m.-1:00 p.m.,Day 6: 12:00 p.m.-1:00 p.m.,2007,,45,"Action,Crime,Drama",8.1,1303
+tt0285331,tt0933908,6,8,S6,Day 6: 1:00 p.m.-2:00 p.m.,Day 6: 1:00 p.m.-2:00 p.m.,2007,,45,"Action,Crime,Drama",8.0,1275
+tt0285331,tt0933910,6,9,S6,Day 6: 2:00 p.m.-3:00 p.m.,Day 6: 2:00 p.m.-3:00 p.m.,2007,,41,"Action,Crime,Drama",8.0,1266
+tt0285331,tt0933912,6,10,S6,Day 6: 3:00 p.m.-4:00 p.m.,Day 6: 3:00 p.m.-4:00 p.m.,2007,,44,"Action,Crime,Drama",8.0,1280
+tt0285331,tt0933914,6,11,S6,Day 6: 4:00 p.m.-5:00 p.m.,Day 6: 4:00 p.m.-5:00 p.m.,2007,,43,"Action,Crime,Drama",7.9,1287
+tt0285331,tt0933916,6,12,S6,Day 6: 5:00 p.m.-6:00 p.m.,Day 6: 5:00 p.m.-6:00 p.m.,2007,,44,"Action,Crime,Drama",8.0,1274
+tt0285331,tt0933917,6,13,S6,Day 6: 6:00 p.m.-7:00 p.m.,Day 6: 6:00 p.m.-7:00 p.m.,2007,,43,"Action,Crime,Drama",8.1,1279
+tt0285331,tt0933918,6,14,S6,Day 6: 7:00 p.m.-8:00 p.m.,Day 6: 7:00 p.m.-8:00 p.m.,2007,,43,"Action,Crime,Drama",7.9,1266
+tt0285331,tt0933919,6,15,S6,Day 6: 8:00 p.m.-9:00 p.m.,Day 6: 8:00 p.m.-9:00 p.m.,2007,,43,"Action,Crime,Drama",7.9,1270
+tt0285331,tt0933920,6,16,S6,Day 6: 9:00 p.m.-10:00 p.m.,Day 6: 9:00 p.m.-10:00 p.m.,2007,,43,"Action,Crime,Drama",8.0,1275
+tt0285331,tt0933902,6,17,S6,Day 6: 10:00 p.m.-11:00 p.m.,Day 6: 10:00 p.m.-11:00 p.m.,2007,,43,"Action,Crime,Drama",8.7,1428
+tt0285331,tt0933904,6,18,S6,Day 6: 11:00 p.m.-12:00 a.m.,Day 6: 11:00 p.m.-12:00 a.m.,2007,,43,"Action,Crime,Drama",7.8,1253
+tt0285331,tt0933905,6,19,S6,Day 6: 12:00 a.m.-1:00 a.m.,Day 6: 12:00 a.m.-1:00 a.m.,2007,,43,"Action,Crime,Drama",7.7,1245
+tt0285331,tt0933907,6,20,S6,Day 6: 1:00 a.m.-2:00 a.m.,Day 6: 1:00 a.m.-2:00 a.m.,2007,,43,"Action,Crime,Drama",7.7,1273
+tt0285331,tt0933909,6,21,S6,Day 6: 2:00 a.m.-3:00 a.m.,Day 6: 2:00 a.m.-3:00 a.m.,2007,,43,"Action,Crime,Drama",8.2,1289
+tt0285331,tt0933911,6,22,S6,Day 6: 3:00 a.m.-4:00 a.m.,Day 6: 3:00 a.m.-4:00 a.m.,2007,,43,"Action,Crime,Drama",7.9,1252
+tt0285331,tt0933913,6,23,S6,Day 6: 4:00 a.m.-5:00 a.m.,Day 6: 4:00 a.m.-5:00 a.m.,2007,,43,"Action,Crime,Drama",7.9,1296
+tt0285331,tt0933915,6,24,S6,Day 6: 5:00 a.m.-6:00 a.m.,Day 6: 5:00 a.m.-6:00 a.m.,2007,,43,"Action,Crime,Drama",8.2,1486
+tt0285331,tt1091235,7,1,S7,Day 7: 8:00 a.m.-9:00 a.m.,Day 7: 8:00 a.m.-9:00 a.m.,2009,,46,"Action,Crime,Drama",8.2,1589
+tt0285331,tt1091246,7,2,S7,Day 7: 9:00 a.m.-10:00 a.m.,Day 7: 9:00 a.m.-10:00 a.m.,2009,,42,"Action,Crime,Drama",8.1,1337
+tt0285331,tt1091252,7,3,S7,Day 7: 10:00 a.m.-11:00 a.m.,Day 7: 10:00 a.m.-11:00 a.m.,2009,,44,"Action,Crime,Drama",8.7,1373
+tt0285331,tt1091253,7,4,S7,Day 7: 11:00 a.m.-12:00 p.m.,Day 7: 11:00 a.m.-12:00 p.m.,2009,,44,"Action,Crime,Drama",8.1,1299
+tt0285331,tt1091254,7,5,S7,Day 7: 12:00 p.m.-1:00 p.m.,Day 7: 12:00 p.m.-1:00 p.m.,2009,,44,"Action,Crime,Drama",8.2,1278
+tt0285331,tt1334623,7,6,S7,Day 7: 1:00 p.m.-2:00 p.m.,Day 7: 1:00 p.m.-2:00 p.m.,2009,,43,"Action,Crime,Drama",8.1,1235
+tt0285331,tt1091255,7,7,S7,Day 7: 2:00 p.m.-3:00 p.m.,Day 7: 2:00 p.m.-3:00 p.m.,2009,,42,"Action,Crime,Drama",8.1,1231
+tt0285331,tt1091256,7,8,S7,Day 7: 3:00 p.m.-4:00 p.m.,Day 7: 3:00 p.m.-4:00 p.m.,2009,,42,"Action,Crime,Drama",8.2,1210
+tt0285331,tt1091257,7,9,S7,Day 7: 4:00 p.m.-5:00 p.m.,Day 7: 4:00 p.m.-5:00 p.m.,2009,,43,"Action,Crime,Drama",8.1,1215
+tt0285331,tt1091258,7,10,S7,Day 7: 5:00 p.m.-6:00 p.m.,Day 7: 5:00 p.m.-6:00 p.m.,2009,,43,"Action,Crime,Drama",8.4,1246
+tt0285331,tt1091236,7,11,S7,Day 7: 6:00 p.m.-7:00 p.m.,Day 7: 6:00 p.m.-7:00 p.m.,2009,,42,"Action,Crime,Drama",8.2,1237
+tt0285331,tt1091237,7,12,S7,Day 7: 7:00 p.m.-8:00 p.m.,Day 7: 7:00 p.m.-8:00 p.m.,2009,,43,"Action,Crime,Drama",8.8,1387
+tt0285331,tt1091238,7,13,S7,Day 7: 8:00 p.m.-9:00 p.m.,Day 7: 8:00 p.m.-9:00 p.m.,2009,,43,"Action,Crime,Drama",8.6,1275
+tt0285331,tt1091239,7,14,S7,Day 7: 9:00 p.m.-10:00 p.m.,Day 7: 9:00 p.m.-10:00 p.m.,2009,,43,"Action,Crime,Drama",8.4,1225
+tt0285331,tt1091241,7,15,S7,Day 7: 10:00 p.m.-11:00 p.m.,Day 7: 10:00 p.m.-11:00 p.m.,2009,,42,"Action,Crime,Drama",8.1,1188
+tt0285331,tt1091242,7,16,S7,Day 7: 11:00 p.m.-12:00 a.m.,Day 7: 11:00 p.m.-12:00 a.m.,2009,,42,"Action,Crime,Drama",8.1,1197
+tt0285331,tt1091243,7,17,S7,Day 7: 12:00 a.m.-1:00 a.m.,Day 7: 12:00 a.m.-1:00 a.m.,2009,,43,"Action,Crime,Drama",8.0,1180
+tt0285331,tt1091244,7,18,S7,Day 7: 1:00 a.m.-2:00 a.m.,Day 7: 1:00 a.m.-2:00 a.m.,2009,,42,"Action,Crime,Drama",8.5,1259
+tt0285331,tt1091245,7,19,S7,Day 7: 2:00 a.m.-3:00 a.m.,Day 7: 2:00 a.m.-3:00 a.m.,2009,,42,"Action,Crime,Drama",8.1,1187
+tt0285331,tt1091247,7,20,S7,Day 7: 3:00 a.m.-4:00 a.m.,Day 7: 3:00 a.m.-4:00 a.m.,2009,,43,"Action,Crime,Drama",7.9,1208
+tt0285331,tt1091248,7,21,S7,Day 7: 4:00 a.m.-5:00 a.m.,Day 7: 4:00 a.m.-5:00 a.m.,2009,,44,"Action,Crime,Drama",7.8,1186
+tt0285331,tt1091249,7,22,S7,Day 7: 5:00 a.m.-6:00 a.m.,Day 7: 5:00 a.m.-6:00 a.m.,2009,,43,"Action,Crime,Drama",8.0,1196
+tt0285331,tt1091250,7,23,S7,Day 7: 6:00 a.m.-7:00 a.m.,Day 7: 6:00 a.m.-7:00 a.m.,2009,,44,"Action,Crime,Drama",8.3,1225
+tt0285331,tt1091251,7,24,S7,Day 7: 7:00 a.m.-8:00 a.m.,Day 7: 7:00 a.m.-8:00 a.m.,2009,,45,"Action,Crime,Drama",8.6,1408
+tt0285331,tt1448781,8,1,S8,Day 8: 4:00 p.m.-5:00 p.m.,Day 8: 4:00 p.m.-5:00 p.m.,2010,,42,"Action,Crime,Drama",8.0,1547
+tt0285331,tt1452307,8,2,S8,Day 8: 5:00 p.m.-6:00 p.m.,Day 8: 5:00 p.m.-6:00 p.m.,2010,,44,"Action,Crime,Drama",7.8,1285
+tt0285331,tt1452308,8,3,S8,Day 8: 6:00 p.m.-7:00 p.m.,Day 8: 6:00 p.m.-7:00 p.m.,2010,,41,"Action,Crime,Drama",8.1,1240
+tt0285331,tt1452309,8,4,S8,Day 8: 7:00 p.m.-8:00 p.m.,Day 8: 7:00 p.m.-8:00 p.m.,2010,,45,"Action,Crime,Drama",8.0,1240
+tt0285331,tt1455275,8,5,S8,Day 8: 8:00 p.m.-9:00 p.m.,Day 8: 8:00 p.m.-9:00 p.m.,2010,,44,"Action,Crime,Drama",7.8,1225
+tt0285331,tt1456663,8,6,S8,Day 8: 9:00 p.m.-10:00 p.m.,Day 8: 9:00 p.m.-10:00 p.m.,2010,,44,"Action,Crime,Drama",7.7,1204
+tt0285331,tt1461703,8,7,S8,Day 8: 10:00 p.m.-11:00 p.m.,Day 8: 10:00 p.m.-11:00 p.m.,2010,,44,"Action,Crime,Drama",7.8,1178
+tt0285331,tt1463805,8,8,S8,Day 8: 11:00 p.m.-12:00 a.m.,Day 8: 11:00 p.m.-12:00 a.m.,2010,,44,"Action,Crime,Drama",7.9,1163
+tt0285331,tt1463806,8,9,S8,Day 8: 12:00 a.m.-1:00 a.m.,Day 8: 12:00 a.m.-1:00 a.m.,2010,,43,"Action,Crime,Drama",7.6,1187
+tt0285331,tt1463808,8,10,S8,Day 8: 1:00 a.m.-2:00 a.m.,Day 8: 1:00 a.m.-2:00 a.m.,2010,,44,"Action,Crime,Drama",7.7,1162
+tt0285331,tt1463810,8,11,S8,Day 8: 2:00 a.m.-3:00 a.m.,Day 8: 2:00 a.m.-3:00 a.m.,2010,,43,"Action,Crime,Drama",8.0,1178
+tt0285331,tt1463812,8,12,S8,Day 8: 3:00 a.m.-4:00 a.m.,Day 8: 3:00 a.m.-4:00 a.m.,2010,,43,"Action,Crime,Drama",8.4,1215
+tt0285331,tt1463814,8,13,S8,Day 8: 4:00 a.m.-5:00 a.m.,Day 8: 4:00 a.m.-5:00 a.m.,2010,,43,"Action,Crime,Drama",8.0,1169
+tt0285331,tt1463815,8,14,S8,Day 8: 5:00 a.m.-6:00 a.m.,Day 8: 5:00 a.m.-6:00 a.m.,2010,,42,"Action,Crime,Drama",8.1,1153
+tt0285331,tt1463816,8,15,S8,Day 8: 6:00 a.m.-7:00 a.m.,Day 8: 6:00 a.m.-7:00 a.m.,2010,,42,"Action,Crime,Drama",8.3,1156
+tt0285331,tt1463817,8,16,S8,Day 8: 7:00 a.m.-8:00 a.m.,Day 8: 7:00 a.m.-8:00 a.m.,2010,,44,"Action,Crime,Drama",8.8,1300
+tt0285331,tt1463818,8,17,S8,Day 8: 8:00 a.m.-9:00 a.m.,Day 8: 8:00 a.m.-9:00 a.m.,2010,,44,"Action,Crime,Drama",8.6,1261
+tt0285331,tt1463819,8,18,S8,Day 8: 9:00 a.m.-10:00 a.m.,Day 8: 9:00 a.m.-10:00 a.m.,2010,,43,"Action,Crime,Drama",8.2,1182
+tt0285331,tt1463803,8,19,S8,Day 8: 10:00 a.m.-11:00 a.m.,Day 8: 10:00 a.m.-11:00 a.m.,2010,,43,"Action,Crime,Drama",7.9,1183
+tt0285331,tt1463804,8,20,S8,Day 8: 11:00 a.m.-12:00 p.m.,Day 8: 11:00 a.m.-12:00 p.m.,2010,,43,"Action,Crime,Drama",8.5,1219
+tt0285331,tt1463807,8,21,S8,Day 8: 12:00 p.m.-1:00 p.m.,Day 8: 12:00 p.m.-1:00 p.m.,2010,,44,"Action,Crime,Drama",8.7,1267
+tt0285331,tt1463809,8,22,S8,Day 8: 1:00 p.m.-2:00 p.m.,Day 8: 1:00 p.m.-2:00 p.m.,2010,,43,"Action,Crime,Drama",9.0,1443
+tt0285331,tt1463811,8,23,S8,Day 8: 2:00 p.m.-3:00 p.m.,Day 8: 2:00 p.m.-3:00 p.m.,2010,,43,"Action,Crime,Drama",8.9,1335
+tt0285331,tt1463813,8,24,S8,Day 8: 3:00 p.m.-4:00 p.m.,Day 8: 3:00 p.m.-4:00 p.m.,2010,,46,"Action,Crime,Drama",9.0,1888

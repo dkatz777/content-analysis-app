@@ -1,0 +1,144 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt4803766,tt4847892,1,1,S1,And So It Begins,And So It Begins,2015,,44,"Documentary,Game-Show,Reality-TV",7.4,205
+tt4803766,tt4847898,1,2,S1,Of Wolf and Man,Of Wolf and Man,2015,,43,"Documentary,Game-Show,Reality-TV",7.6,165
+tt4803766,tt4847902,1,3,S1,The Talons of Fear,The Talons of Fear,2015,,43,"Documentary,Game-Show,Reality-TV",7.5,151
+tt4803766,tt4847908,1,4,S1,Stalked,Stalked,2015,,44,"Documentary,Game-Show,Reality-TV",7.6,153
+tt4803766,tt4865852,1,5,S1,Winds of Hell,Winds of Hell,2015,,44,"Documentary,Game-Show,Reality-TV",7.6,147
+tt4803766,tt4870218,1,6,S1,Rain of Terror,Rain of Terror,2015,,44,"Documentary,Game-Show,Reality-TV",7.6,146
+tt4803766,tt4922376,1,7,S1,The Hunger,The Hunger,2015,,44,"Documentary,Game-Show,Reality-TV",7.6,143
+tt4803766,tt4922394,1,8,S1,The Freeze,The Freeze,2015,,44,"Documentary,Game-Show,Reality-TV",7.6,145
+tt4803766,tt4944372,1,9,S1,Brokedown Palace,Brokedown Palace,2015,,44,"Documentary,Game-Show,Reality-TV",7.5,139
+tt4803766,tt4944384,1,10,S1,Triumph,Triumph,2015,,44,"Documentary,Game-Show,Reality-TV",8.2,151
+tt4803766,tt4944376,1,11,S1,After the Rescue,After the Rescue,2015,,41,"Documentary,Game-Show,Reality-TV",7.1,113
+tt4803766,tt5640794,2,0,S2,Making the Cut,Making the Cut,2016,,41,"Documentary,Game-Show,Reality-TV",7.3,97
+tt4803766,tt5640790,2,1,S2,Once More Unto the Breach,Once More Unto the Breach,2016,,43,"Documentary,Game-Show,Reality-TV",7.2,123
+tt4803766,tt5714734,2,2,S2,The Knife's Edge,The Knife's Edge,2016,,42,"Documentary,Game-Show,Reality-TV",7.3,111
+tt4803766,tt5714736,2,3,S2,The Beast of the Night,The Beast of the Night,2016,,42,"Documentary,Game-Show,Reality-TV",7.5,107
+tt4803766,tt5861014,2,4,S2,Hunger's Grip,Hunger's Grip,2016,,42,"Documentary,Game-Show,Reality-TV",7.4,108
+tt4803766,tt5775520,2,5,S2,Storm Rising,Storm Rising,2016,,42,"Documentary,Game-Show,Reality-TV",7.5,107
+tt4803766,tt5775530,2,6,S2,Adrift,Adrift,2016,,43,"Documentary,Game-Show,Reality-TV",7.6,106
+tt4803766,tt5816270,2,7,S2,Trial by Fire,Trial by Fire,2016,,42,"Documentary,Game-Show,Reality-TV",7.5,102
+tt4803766,tt5861028,2,8,S2,The Ascent,The Ascent,2016,,43,"Documentary,Game-Show,Reality-TV",7.7,102
+tt4803766,tt5861036,2,9,S2,The Madness,The Madness,2016,,43,"Documentary,Game-Show,Reality-TV",7.6,102
+tt4803766,tt5861040,2,10,S2,The Gamble,The Gamble,2016,,43,"Documentary,Game-Show,Reality-TV",7.4,102
+tt4803766,tt5861042,2,11,S2,Winter's Fury,Winter's Fury,2016,,43,"Documentary,Game-Show,Reality-TV",7.6,104
+tt4803766,tt6356992,2,12,S2,Into the Abyss,Into the Abyss,2016,,43,"Documentary,Game-Show,Reality-TV",7.5,94
+tt4803766,tt6356994,2,13,S2,The End Game,The End Game,2016,,43,"Documentary,Game-Show,Reality-TV",7.8,105
+tt4803766,tt5962614,2,14,S2,The Reunion,The Reunion,2016,,40,"Documentary,Game-Show,Reality-TV",7.3,78
+tt4803766,tt6357004,3,0,S3,Making the Cut,Making the Cut,2016,,42,"Documentary,Game-Show,Reality-TV",7.7,80
+tt4803766,tt6357006,3,1,S3,A New Land,A New Land,2016,,42,"Documentary,Game-Show,Reality-TV",7.5,103
+tt4803766,tt6357008,3,2,S3,First Blood,First Blood,2016,,42,"Documentary,Game-Show,Reality-TV",7.6,100
+tt4803766,tt6375794,3,3,S3,Eternal Darkness,Eternal Darkness,2016,,43,"Documentary,Game-Show,Reality-TV",7.7,95
+tt4803766,tt6375800,3,4,S3,Outfoxed,Outfoxed,2016,,42,"Documentary,Game-Show,Reality-TV",7.7,94
+tt4803766,tt6425156,3,5,S3,The Lone Wolf,The Lone Wolf,2017,,43,"Documentary,Game-Show,Reality-TV",7.7,92
+tt4803766,tt6425166,3,6,S3,Along Came a Spider,Along Came a Spider,2017,,43,"Documentary,Game-Show,Reality-TV",7.8,93
+tt4803766,tt6501878,3,7,S3,Hungry Beasts,Hungry Beasts,2017,,43,"Documentary,Game-Show,Reality-TV",7.7,89
+tt4803766,tt6501882,3,8,S3,Of Feast & Famine,Of Feast & Famine,2017,,43,"Documentary,Game-Show,Reality-TV",7.7,90
+tt4803766,tt6501884,3,9,S3,The Point of No Return,The Point of No Return,2017,,42,"Documentary,Game-Show,Reality-TV",7.9,88
+tt4803766,tt6577204,3,10,S3,Day 87,Day 87,2017,,42,"Documentary,Game-Show,Reality-TV",7.8,91
+tt4803766,tt6577212,3,11,S3,Season 3 Reunion Special,Season 3 Reunion Special,2017,,40,"Documentary,Game-Show,Reality-TV",7.4,56
+tt4803766,tt6996564,4,0,S4,Making the Cut,Making the Cut,2017,,42,"Documentary,Game-Show,Reality-TV",7.1,68
+tt4803766,tt6872560,4,1,S4,Divide And Conquer,Divide And Conquer,2017,,43,"Documentary,Game-Show,Reality-TV",6.9,87
+tt4803766,tt7144632,4,2,S4,Hell on Earth,Hell on Earth,2017,,43,"Documentary,Game-Show,Reality-TV",6.8,85
+tt4803766,tt7144634,4,3,S4,Margin of Error,Margin of Error,2017,,43,"Documentary,Game-Show,Reality-TV",7.1,79
+tt4803766,tt7144640,4,4,S4,The Last Mile,The Last Mile,2017,,43,"Documentary,Game-Show,Reality-TV",7.1,76
+tt4803766,tt7144642,4,5,S4,Double or Nothing,Double or Nothing,2017,,42,"Documentary,Game-Show,Reality-TV",7.2,77
+tt4803766,tt7203484,4,6,S4,Thicker Than Water,Thicker Than Water,2017,,43,"Documentary,Game-Show,Reality-TV",7.3,76
+tt4803766,tt7203482,4,7,S4,Hooked,Hooked,2017,,41,"Documentary,Game-Show,Reality-TV",7.4,74
+tt4803766,tt7203492,4,8,S4,Flare-Up,Flare-Up,2017,,43,"Documentary,Game-Show,Reality-TV",7.4,73
+tt4803766,tt7203500,4,9,S4,My Brother's Keeper,My Brother's Keeper,2017,,42,"Documentary,Game-Show,Reality-TV",7.4,73
+tt4803766,tt7461812,4,10,S4,Flesh and Blood,Flesh and Blood,2017,,43,"Documentary,Game-Show,Reality-TV",7.4,79
+tt4803766,tt9583048,4,11,S4,Tales from the Island,Tales from the Island,2017,,41,"Documentary,Game-Show,Reality-TV",6.3,47
+tt4803766,tt10623972,5,0,S5,Making the Cut,Making the Cut,2018,,42,"Documentary,Game-Show,Reality-TV",7.7,60
+tt4803766,tt8506056,5,1,S5,Redemption,Redemption,2018,,40,"Documentary,Game-Show,Reality-TV",7.9,98
+tt4803766,tt8506062,5,2,S5,The Haunting,The Haunting,2018,,41,"Documentary,Game-Show,Reality-TV",7.8,87
+tt4803766,tt8506064,5,3,S5,The Serpent,The Serpent,2018,,42,"Documentary,Game-Show,Reality-TV",7.8,87
+tt4803766,tt8665710,5,4,S5,Mongolia's Wrath,Mongolia's Wrath,2018,,42,"Documentary,Game-Show,Reality-TV",7.7,81
+tt4803766,tt8665712,5,5,S5,The Bowels of Hell,The Bowels of Hell,2018,,42,"Documentary,Game-Show,Reality-TV",8.0,81
+tt4803766,tt8836588,5,6,S5,Of Mice and Men,Of Mice and Men,2018,,41,"Documentary,Game-Show,Reality-TV",7.8,77
+tt4803766,tt8836590,5,7,S5,Desperate Measures,Desperate Measures,2018,,42,"Documentary,Game-Show,Reality-TV",7.8,76
+tt4803766,tt8847288,5,8,S5,Slayer II,Slayer II,2018,,42,"Documentary,Game-Show,Reality-TV",8.0,74
+tt4803766,tt8847294,5,9,S5,Starvation's Shadow,Starvation's Shadow,2018,,42,"Documentary,Game-Show,Reality-TV",8.1,74
+tt4803766,tt8847298,5,10,S5,Cold War,Cold War,2018,,42,"Documentary,Game-Show,Reality-TV",8.2,81
+tt4803766,tt8894088,5,11,S5,Reunion Special,Reunion Special,2018,,42,"Documentary,Game-Show,Reality-TV",7.4,54
+tt4803766,tt10448902,6,1,S6,Icebreaker,Icebreaker,2019,,41,"Documentary,Game-Show,Reality-TV",7.6,120
+tt4803766,tt10448922,6,2,S6,Tainted,Tainted,2019,,41,"Documentary,Game-Show,Reality-TV",7.7,104
+tt4803766,tt10601068,6,3,S6,Up in Flames,Up in Flames,2019,,41,"Documentary,Game-Show,Reality-TV",7.7,100
+tt4803766,tt10601090,6,4,S6,The Moose,The Moose,2019,,40,"Documentary,Game-Show,Reality-TV",7.9,95
+tt4803766,tt10601092,6,5,S6,The Kill,The Kill,2019,,42,"Documentary,Game-Show,Reality-TV",8.4,100
+tt4803766,tt10601098,6,6,S6,Ablaze,Ablaze,2019,,42,"Documentary,Game-Show,Reality-TV",8.0,91
+tt4803766,tt10922024,6,7,S6,Night Raider,Night Raider,2019,,40,"Documentary,Game-Show,Reality-TV",8.0,81
+tt4803766,tt10922028,6,8,S6,Out Cold,Out Cold,2019,,41,"Documentary,Game-Show,Reality-TV",7.9,75
+tt4803766,tt10922030,6,9,S6,The Ice Cometh,The Ice Cometh,2019,,42,"Documentary,Game-Show,Reality-TV",7.9,77
+tt4803766,tt10922032,6,10,S6,Thin Ice,Thin Ice,2019,,41,"Documentary,Game-Show,Reality-TV",8.1,79
+tt4803766,tt10922036,6,11,S6,Fire and Ice,Fire and Ice,2019,,41,"Documentary,Game-Show,Reality-TV",8.7,105
+tt4803766,tt12584930,7,1,S7,Million Dollar Mistake,Million Dollar Mistake,2020,,61,"Documentary,Game-Show,Reality-TV",7.9,119
+tt4803766,tt12584938,7,2,S7,The Rock House,The Rock House,2020,,62,"Documentary,Game-Show,Reality-TV",7.9,111
+tt4803766,tt12637372,7,3,S7,That Was No Bunny,That Was No Bunny,2020,,64,"Documentary,Game-Show,Reality-TV",8.2,105
+tt4803766,tt12637378,7,4,S7,The Fly,The Fly,2020,,62,"Documentary,Game-Show,Reality-TV",8.1,107
+tt4803766,tt12768222,7,5,S7,The Rock,The Rock,2020,,64,"Documentary,Game-Show,Reality-TV",8.2,94
+tt4803766,tt12768224,7,6,S7,The Musk Ox,The Musk Ox,2020,,63,"Documentary,Game-Show,Reality-TV",8.6,104
+tt4803766,tt12768228,7,7,S7,Snared,Snared,2020,,63,"Documentary,Game-Show,Reality-TV",8.2,93
+tt4803766,tt12768234,7,8,S7,Up In Smoke,Up In Smoke,2020,,61,"Documentary,Game-Show,Reality-TV",8.3,97
+tt4803766,tt12768238,7,9,S7,The Wolves,The Wolves,2020,,62,"Documentary,Game-Show,Reality-TV",8.5,97
+tt4803766,tt12768240,7,10,S7,Pins and Needles,Pins and Needles,2020,,62,"Documentary,Game-Show,Reality-TV",8.6,93
+tt4803766,tt12768242,7,11,S7,Over the Edge,Over the Edge,2020,,122,"Documentary,Game-Show,Reality-TV",8.7,115
+tt4803766,tt14473438,8,1,S8,The Hunted,The Hunted,2021,,,"Documentary,Game-Show,Reality-TV",8.0,129
+tt4803766,tt14649602,8,2,S8,Open Season,Open Season,2021,,,"Documentary,Game-Show,Reality-TV",7.9,93
+tt4803766,tt14649604,8,3,S8,Chewed Up,Chewed Up,2021,,,"Documentary,Game-Show,Reality-TV",7.8,93
+tt4803766,tt14649606,8,4,S8,Far from Home,Far from Home,2021,,,"Documentary,Game-Show,Reality-TV",7.4,96
+tt4803766,tt14844846,8,5,S8,The Buck,The Buck,2021,,,"Documentary,Game-Show,Reality-TV",7.3,86
+tt4803766,tt14844862,8,6,S8,Smoked,Smoked,2021,,,"Documentary,Game-Show,Reality-TV",7.6,82
+tt4803766,tt14844874,8,7,S8,Surrounded,Surrounded,2021,,,"Documentary,Game-Show,Reality-TV",7.6,76
+tt4803766,tt14844878,8,8,S8,The Grizzly,The Grizzly,2021,,,"Documentary,Game-Show,Reality-TV",7.9,82
+tt4803766,tt16103038,8,9,S8,The Troll,The Troll,2021,,,"Documentary,Game-Show,Reality-TV",7.6,61
+tt4803766,tt16103042,8,10,S8,All In,All In,2021,,,"Documentary,Game-Show,Reality-TV",7.8,62
+tt4803766,tt16103048,8,11,S8,The Reckoning,The Reckoning,2021,,,"Documentary,Game-Show,Reality-TV",8.1,74
+tt4803766,tt19796592,9,1,S9,Drop Shock,Drop Shock,2022,,,"Documentary,Game-Show,Reality-TV",7.8,88
+tt4803766,tt20235288,9,2,S9,Consequences,Consequences,2022,,,"Documentary,Game-Show,Reality-TV",7.5,66
+tt4803766,tt20235292,9,3,S9,The Law of the Land,The Law of the Land,2022,,,"Documentary,Game-Show,Reality-TV",7.4,66
+tt4803766,tt20235302,9,4,S9,The Beaver,The Beaver,2022,,,"Documentary,Game-Show,Reality-TV",7.9,66
+tt4803766,tt21111928,9,5,S9,The Land Giveth...,The Land Giveth...,2022,,,"Documentary,Game-Show,Reality-TV",7.7,56
+tt4803766,tt21235990,9,6,S9,The Weasel,The Weasel,2022,,,"Documentary,Game-Show,Reality-TV",7.8,36
+tt4803766,tt21270246,9,7,S9,The Birds,The Birds,2022,,,"Documentary,Game-Show,Reality-TV",7.7,34
+tt4803766,tt21295480,9,8,S9,Gut Feeling,Gut Feeling,2022,,,"Documentary,Game-Show,Reality-TV",7.6,36
+tt4803766,tt21317522,9,9,S9,The Ice Up,The Ice Up,2022,,,"Documentary,Game-Show,Reality-TV",7.8,36
+tt4803766,tt21405560,9,10,S9,Winter's Grasp,Winter's Grasp,2022,,,"Documentary,Game-Show,Reality-TV",7.6,32
+tt4803766,tt21599808,9,11,S9,"Fight, Flight or Freeze","Fight, Flight or Freeze",2022,,,"Documentary,Game-Show,Reality-TV",8.2,39
+tt4803766,tt28327383,10,0,S10,Alone: Before the Drop,Alone: Before the Drop,2023,,,"Documentary,Game-Show,Reality-TV",7.7,40
+tt4803766,tt27696801,10,1,S10,Game On,Game On,2023,,,"Documentary,Game-Show,Reality-TV",8.0,75
+tt4803766,tt28294063,10,2,S10,Ties That Bind,Ties That Bind,2023,,,"Documentary,Game-Show,Reality-TV",7.5,52
+tt4803766,tt28294066,10,3,S10,Growing Pains,Growing Pains,2023,,,"Documentary,Game-Show,Reality-TV",7.6,51
+tt4803766,tt28294070,10,4,S10,Lake of Thieves,Lake of Thieves,2023,,,"Documentary,Game-Show,Reality-TV",7.4,52
+tt4803766,tt28313687,10,5,S10,Spirit Bear,Spirit Bear,2023,,,"Documentary,Game-Show,Reality-TV",7.6,50
+tt4803766,tt28313690,10,6,S10,King's Gambit,King's Gambit,2023,,,"Documentary,Game-Show,Reality-TV",7.5,50
+tt4803766,tt28313691,10,7,S10,Aftermath,Aftermath,2023,,,"Documentary,Game-Show,Reality-TV",7.6,49
+tt4803766,tt28313692,10,8,S10,Infestation,Infestation,2023,,,"Documentary,Game-Show,Reality-TV",7.4,49
+tt4803766,tt28543826,10,9,S10,Splintered,Splintered,2023,,,"Documentary,Game-Show,Reality-TV",7.5,48
+tt4803766,tt28543829,10,10,S10,Rats,Rats,2023,,,"Documentary,Game-Show,Reality-TV",7.7,47
+tt4803766,tt28543830,10,11,S10,By Any Means,By Any Means,2023,,,"Documentary,Game-Show,Reality-TV",8.1,60
+tt4803766,tt32315383,11,1,S11,Enter The Circle,Enter The Circle,2024,,,"Documentary,Game-Show,Reality-TV",8.3,73
+tt4803766,tt32384908,11,2,S11,Opportunity Cost,Opportunity Cost,2024,,,"Documentary,Game-Show,Reality-TV",7.4,52
+tt4803766,tt32394213,11,3,S11,Fortune,Fortune,2024,,,"Documentary,Game-Show,Reality-TV",7.5,46
+tt4803766,tt32600937,11,4,S11,Legacy,Legacy,2024,,,"Documentary,Game-Show,Reality-TV",7.6,50
+tt4803766,tt33022727,11,5,S11,Something in the Air,Something in the Air,2024,,,"Documentary,Game-Show,Reality-TV",7.9,47
+tt4803766,tt33045449,11,6,S11,Murphy's Law,Murphy's Law,2024,,,"Documentary,Game-Show,Reality-TV",7.5,41
+tt4803766,tt33022759,11,7,S11,One Pike at a Time,One Pike at a Time,2024,,,"Documentary,Game-Show,Reality-TV",7.6,40
+tt4803766,tt33022761,11,8,S11,The Marten Chronicles,The Marten Chronicles,2024,,,"Documentary,Game-Show,Reality-TV",7.8,40
+tt4803766,tt33022763,11,9,S11,The Wormhole,The Wormhole,2024,,,"Documentary,Game-Show,Reality-TV",8.3,41
+tt4803766,tt33022768,11,10,S11,Symphony of Solitude,Symphony of Solitude,2024,,,"Documentary,Game-Show,Reality-TV",8.6,46
+tt4803766,tt33022771,11,11,S11,Collapse,Collapse,2024,,,"Documentary,Game-Show,Reality-TV",8.3,39
+tt4803766,tt33343109,11,12,S11,Into the Dark,Into the Dark,2024,,,"Documentary,Game-Show,Reality-TV",8.9,35
+tt4803766,tt36748940,12,1,S12,The Land of Great Thirst,The Land of Great Thirst,2025,,,"Documentary,Game-Show,Reality-TV",8.3,44
+tt4803766,tt36758725,12,2,S12,Best Laid Plans,Best Laid Plans,2025,,,"Documentary,Game-Show,Reality-TV",7.7,29
+tt4803766,tt36758732,12,3,S12,Thirst Trap,Thirst Trap,2015,,,"Documentary,Game-Show,Reality-TV",7.5,30
+tt4803766,tt36758739,12,4,S12,Finding a Foothold,Finding a Foothold,2025,,,"Documentary,Game-Show,Reality-TV",7.7,29
+tt4803766,tt36758747,12,5,S12,The Tempest,The Tempest,2025,,,"Documentary,Game-Show,Reality-TV",7.4,26
+tt4803766,tt36758751,12,6,S12,Purpose,Purpose,2025,,,"Documentary,Game-Show,Reality-TV",7.0,27
+tt4803766,tt36758761,12,7,S12,Echoes of Emptiness,Echoes of Emptiness,2025,,,"Documentary,Game-Show,Reality-TV",6.5,30
+tt4803766,tt36758765,12,8,S12,Weak Spot,Weak Spot,2015,,,"Documentary,Game-Show,Reality-TV",6.2,30
+tt4803766,tt36758772,12,9,S12,The Promised Land,The Promised Land,2025,,,"Documentary,Game-Show,Reality-TV",6.1,30
+tt4803766,tt36758777,12,10,S12,No Regrats,No Regrats,2025,,,"Documentary,Game-Show,Reality-TV",6.6,33
+tt4803766,tt21265940,,,,Ultimate Moments,Ultimate Moments,2021,,,"Documentary,Game-Show,Reality-TV",8.7,15
+tt4803766,tt33706195,,,,Arctic Circle: The Rides Back,Arctic Circle: The Rides Back,2024,,,"Documentary,Game-Show,Reality-TV",,
+tt4803766,tt33706211,,,,Arctic Circle: The Complete Shelters,Arctic Circle: The Complete Shelters,2024,,,"Documentary,Game-Show,Reality-TV",,

@@ -1,0 +1,142 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0108724,tt0540284,1,0,S1,Pilot,Pilot,1994,,,"Drama,Mystery,Thriller",7.7,55
+tt0108724,tt0540280,1,1,S1,Over the Rainbow,Over the Rainbow,1994,,60,"Drama,Mystery,Thriller",7.8,49
+tt0108724,tt0540232,1,2,S1,Food Chains,Food Chains,1994,,,"Drama,Mystery,Thriller",7.8,38
+tt0108724,tt0540338,1,3,S1,With the Greatest of Ease,With the Greatest of Ease,1994,,,"Drama,Mystery,Thriller",7.3,34
+tt0108724,tt0540341,1,4,S1,You Gotta Have Heart,You Gotta Have Heart,1994,,,"Drama,Mystery,Thriller",7.7,35
+tt0108724,tt0540295,1,5,S1,Shutt Down,Shutt Down,1994,,,"Drama,Mystery,Thriller",8.0,33
+tt0108724,tt0540237,1,6,S1,Genevieve and Fat Boy,Genevieve and Fat Boy,1994,,,"Drama,Mystery,Thriller",7.9,34
+tt0108724,tt0540224,1,7,S1,Death Be Proud,Death Be Proud,1994,,,"Drama,Mystery,Thriller",7.9,51
+tt0108724,tt0540246,1,8,S1,Heartbreak,Heartbreak,1995,,,"Drama,Mystery,Thriller",7.9,32
+tt0108724,tt0540317,1,9,S1,The Quarantine,The Quarantine,1995,,,"Drama,Mystery,Thriller",8.2,65
+tt0108724,tt0540267,1,10,S1,Love and Hope,Love and Hope,1995,,,"Drama,Mystery,Thriller",7.7,51
+tt0108724,tt0540239,1,11,S1,Great White Hope,Great White Hope,1995,,60,"Drama,Mystery,Thriller",7.7,31
+tt0108724,tt0540297,1,12,S1,Small Sacrifices,Small Sacrifices,1995,,,"Drama,Mystery,Thriller",7.8,33
+tt0108724,tt0540223,1,13,S1,Cutting Edges,Cutting Edges,1995,,,"Drama,Mystery,Thriller",7.6,36
+tt0108724,tt0540264,1,14,S1,Life Support,Life Support,1995,,,"Drama,Mystery,Thriller",7.9,36
+tt0108724,tt0540233,1,15,S1,Freeze Outs,Freeze Outs,1995,,,"Drama,Mystery,Thriller",7.4,55
+tt0108724,tt0540241,1,16,S1,Growth Pains,Growth Pains,1995,,,"Drama,Mystery,Thriller",7.6,46
+tt0108724,tt0540253,1,17,S1,Informed Consent,Informed Consent,1995,,60,"Drama,Mystery,Thriller",8.0,36
+tt0108724,tt0540254,1,18,S1,Internal Affairs,Internal Affairs,1995,,60,"Drama,Mystery,Thriller",7.7,50
+tt0108724,tt0540321,1,19,S1,The Virus,The Virus,1995,,,"Drama,Mystery,Thriller",7.8,43
+tt0108724,tt0540236,1,20,S1,Full Moon,Full Moon,1995,,,"Drama,Mystery,Thriller",8.0,34
+tt0108724,tt0540298,1,21,S1,Songs from the Cuckoo Birds,Songs from the Cuckoo Birds,1995,,,"Drama,Mystery,Thriller",8.1,39
+tt0108724,tt0540248,2,1,S2,Hello Goodbye,Hello Goodbye,1995,,,"Drama,Mystery,Thriller",7.3,31
+tt0108724,tt0540290,2,2,S2,Rise from the Dead,Rise from the Dead,1995,,,"Drama,Mystery,Thriller",7.7,29
+tt0108724,tt0540202,2,3,S2,A Coupla Stiffs,A Coupla Stiffs,1995,,,"Drama,Mystery,Thriller",7.5,33
+tt0108724,tt0540228,2,4,S2,Every Day a Little Death,Every Day a Little Death,1995,,,"Drama,Mystery,Thriller",7.6,49
+tt0108724,tt0540336,2,5,S2,Wild Cards,Wild Cards,1995,,,"Drama,Mystery,Thriller",7.8,24
+tt0108724,tt0540335,2,6,S2,Who Turned out the Lights?,Who Turned out the Lights?,1995,,,"Drama,Mystery,Thriller",7.8,44
+tt0108724,tt0540235,2,7,S2,From Soup to Nuts,From Soup to Nuts,1995,,,"Drama,Mystery,Thriller",7.8,33
+tt0108724,tt0540259,2,8,S2,Leave of Absence,Leave of Absence,1995,,,"Drama,Mystery,Thriller",8.0,48
+tt0108724,tt0540300,2,9,S2,Stand,Stand,1995,,,"Drama,Mystery,Thriller",7.4,30
+tt0108724,tt0540310,2,10,S2,The Ethics of Hope,The Ethics of Hope,1995,,,"Drama,Mystery,Thriller",7.8,27
+tt0108724,tt0540219,2,11,S2,Christmas Truce,Christmas Truce,1995,,,"Drama,Mystery,Thriller",7.4,28
+tt0108724,tt0540324,2,12,S2,Transplanted Affection,Transplanted Affection,1996,,,"Drama,Mystery,Thriller",7.4,27
+tt0108724,tt0540323,2,13,S2,Three Men and a Lady,Three Men and a Lady,1996,,,"Drama,Mystery,Thriller",7.1,27
+tt0108724,tt0540289,2,14,S2,Right to Life,Right to Life,1996,,,"Drama,Mystery,Thriller",7.4,26
+tt0108724,tt0540247,2,15,S2,Hearts and Minds,Hearts and Minds,1996,,,"Drama,Mystery,Thriller",7.2,27
+tt0108724,tt0540339,2,16,S2,Women on the Verge,Women on the Verge,1996,,,"Drama,Mystery,Thriller",7.5,30
+tt0108724,tt0540263,2,17,S2,Life Lines,Life Lines,1996,,,"Drama,Mystery,Thriller",7.2,27
+tt0108724,tt0540294,2,18,S2,Sexual Perversity in Chicago Hope,Sexual Perversity in Chicago Hope,1996,,,"Drama,Mystery,Thriller",6.6,39
+tt0108724,tt0540301,2,19,S2,Sweet Surrender,Sweet Surrender,1996,,60,"Drama,Mystery,Thriller",7.4,28
+tt0108724,tt0540316,2,20,S2,The Parent Rap,The Parent Rap,1996,,60,"Drama,Mystery,Thriller",6.8,32
+tt0108724,tt0540288,2,21,S2,Quiet Riot,Quiet Riot,1996,,60,"Drama,Mystery,Thriller",7.6,35
+tt0108724,tt0540230,2,22,S2,Ex Marks the Spot,Ex Marks the Spot,1996,,60,"Drama,Mystery,Thriller",7.2,28
+tt0108724,tt0540258,2,23,S2,"Last One Out, Get the Lights","Last One Out, Get the Lights",1996,,60,"Drama,Mystery,Thriller",7.5,38
+tt0108724,tt0540279,3,1,S3,Out of Africa,Out of Africa,1996,,,"Drama,Mystery,Thriller",7.7,31
+tt0108724,tt0540212,3,2,S3,Back to the Future,Back to the Future,1996,,,"Drama,Mystery,Thriller",7.5,37
+tt0108724,tt0540282,3,3,S3,Papa's Got a Brand New Bag,Papa's Got a Brand New Bag,1996,,,"Drama,Mystery,Thriller",7.8,31
+tt0108724,tt0540265,3,4,S3,Liver Let Die,Liver Let Die,1996,,,"Drama,Mystery,Thriller",7.8,30
+tt0108724,tt0540262,3,5,S3,"Liar, Liar","Liar, Liar",1996,,,"Drama,Mystery,Thriller",7.9,30
+tt0108724,tt0540249,3,6,S3,Higher Powers,Higher Powers,1996,,60,"Drama,Mystery,Thriller",7.8,29
+tt0108724,tt0540205,3,7,S3,A Time to Kill,A Time to Kill,1996,,,"Drama,Mystery,Thriller",8.2,34
+tt0108724,tt0540203,3,8,S3,A Day in the Life,A Day in the Life,1996,,60,"Drama,Mystery,Thriller",8.2,38
+tt0108724,tt0540227,3,9,S3,Divided Loyalty,Divided Loyalty,1996,,60,"Drama,Mystery,Thriller",7.9,39
+tt0108724,tt0540326,3,10,S3,V-Fibbing,V-Fibbing,1996,,,"Drama,Mystery,Thriller",7.9,30
+tt0108724,tt0540274,3,11,S3,Mummy Dearest,Mummy Dearest,1996,,,"Drama,Mystery,Thriller",8.1,34
+tt0108724,tt0540299,3,12,S3,Split Decisions,Split Decisions,1997,,,"Drama,Mystery,Thriller",7.7,29
+tt0108724,tt0540328,3,13,S3,Verdicts,Verdicts,1997,,,"Drama,Mystery,Thriller",8.0,36
+tt0108724,tt0540309,3,14,S3,The Day of the Rope,The Day of the Rope,1997,,,"Drama,Mystery,Thriller",8.5,44
+tt0108724,tt0540303,3,15,S3,"Take My Wife, Please","Take My Wife, Please",1997,,60,"Drama,Mystery,Thriller",8.0,30
+tt0108724,tt0540272,3,16,S3,Missed Conception,Missed Conception,1997,,60,"Drama,Mystery,Thriller",7.9,29
+tt0108724,tt0540273,3,17,S3,"Mother, May I?","Mother, May I?",1997,,60,"Drama,Mystery,Thriller",8.0,44
+tt0108724,tt0540240,3,18,S3,Growing Pains,Growing Pains,1997,,60,"Drama,Mystery,Thriller",8.1,28
+tt0108724,tt0540318,3,19,S3,The Son Also Rises,The Son Also Rises,1997,,,"Drama,Mystery,Thriller",8.1,41
+tt0108724,tt0540293,3,20,S3,Second Chances,Second Chances,1997,,60,"Drama,Mystery,Thriller",8.0,40
+tt0108724,tt0540286,3,21,S3,Positive I.D.s,Positive I.D.s,1997,,,"Drama,Mystery,Thriller",7.8,28
+tt0108724,tt0540260,3,22,S3,Leggo My Ego,Leggo My Ego,1997,,,"Drama,Mystery,Thriller",7.6,28
+tt0108724,tt0540221,3,23,S3,Colonel of Truth,Colonel of Truth,1997,,,"Drama,Mystery,Thriller",7.8,36
+tt0108724,tt0540257,3,24,S3,Lamb to the Slaughter,Lamb to the Slaughter,1997,,,"Drama,Mystery,Thriller",7.3,29
+tt0108724,tt0540268,3,25,S3,Love on the Rocks,Love on the Rocks,1997,,60,"Drama,Mystery,Thriller",7.9,31
+tt0108724,tt0540251,3,26,S3,Hope Against Hope,Hope Against Hope,1997,,,"Drama,Mystery,Thriller",8.2,30
+tt0108724,tt0540243,4,1,S4,Guns 'n' Roses,Guns 'n' Roses,1997,,60,"Drama,Mystery,Thriller",7.8,23
+tt0108724,tt0540307,4,2,S4,The Adventures of Baron Von Munchausen... by Proxy,The Adventures of Baron Von Munchausen... by Proxy,1997,,,"Drama,Mystery,Thriller",7.7,25
+tt0108724,tt0540215,4,3,S4,Brain Salad Surgery,Brain Salad Surgery,1997,,60,"Drama,Mystery,Thriller",8.7,64
+tt0108724,tt0540302,4,4,S4,Sympathy for the Devil,Sympathy for the Devil,1997,,60,"Drama,Mystery,Thriller",7.8,27
+tt0108724,tt0540201,4,5,S4,...And the Hand Played On,...And the Hand Played On,1997,,,"Drama,Mystery,Thriller",7.9,28
+tt0108724,tt0540314,4,6,S4,The Lung and the Restless,The Lung and the Restless,1997,,60,"Drama,Mystery,Thriller",7.9,25
+tt0108724,tt0540334,4,7,S4,White Trash,White Trash,1997,,,"Drama,Mystery,Thriller",7.9,30
+tt0108724,tt0540337,4,8,S4,Winging It,Winging It,1997,,,"Drama,Mystery,Thriller",7.8,25
+tt0108724,tt0540218,4,9,S4,Cabin Fever,Cabin Fever,1997,,60,"Drama,Mystery,Thriller",7.9,35
+tt0108724,tt0540208,4,10,S4,All in the Family,All in the Family,1997,,,"Drama,Mystery,Thriller",7.7,25
+tt0108724,tt0540277,4,11,S4,On Golden Pons,On Golden Pons,1997,,,"Drama,Mystery,Thriller",7.8,24
+tt0108724,tt0540217,4,12,S4,Broken Hearts,Broken Hearts,1998,,60,"Drama,Mystery,Thriller",7.5,25
+tt0108724,tt0540270,4,13,S4,Memento Mori,Memento Mori,1998,,,"Drama,Mystery,Thriller",7.6,28
+tt0108724,tt0540287,4,14,S4,Psychodrama,Psychodrama,1998,,60,"Drama,Mystery,Thriller",7.4,42
+tt0108724,tt0540320,4,15,S4,The Ties That Bind,The Ties That Bind,1998,,,"Drama,Mystery,Thriller",7.6,45
+tt0108724,tt0540319,4,16,S4,The Things We Do for Love,The Things We Do for Love,1998,,,"Drama,Mystery,Thriller",7.6,28
+tt0108724,tt0540266,4,17,S4,"Liver, Hold the Mushrooms","Liver, Hold the Mushrooms",1998,,,"Drama,Mystery,Thriller",8.4,23
+tt0108724,tt0540332,4,18,S4,Waging Bull,Waging Bull,1998,,,"Drama,Mystery,Thriller",8.6,34
+tt0108724,tt0540275,4,19,S4,Objects Are Closer Than They Appear,Objects Are Closer Than They Appear,1998,,,"Drama,Mystery,Thriller",7.8,26
+tt0108724,tt0540225,4,20,S4,Deliverance,Deliverance,1998,,,"Drama,Mystery,Thriller",7.7,26
+tt0108724,tt0540216,4,21,S4,Bridge over Troubled Watters,Bridge over Troubled Watters,1998,,,"Drama,Mystery,Thriller",7.6,28
+tt0108724,tt0540291,4,22,S4,Risky Business,Risky Business,1998,,60,"Drama,Mystery,Thriller",7.8,54
+tt0108724,tt0540206,4,23,S4,Absent Without Leave,Absent Without Leave,1998,,,"Drama,Mystery,Thriller",7.9,48
+tt0108724,tt0540283,4,24,S4,"Physician, Heal Thyself","Physician, Heal Thyself",1998,,,"Drama,Mystery,Thriller",8.4,33
+tt0108724,tt0540292,5,1,S5,Sarindipity,Sarindipity,1998,,,"Drama,Mystery,Thriller",8.1,34
+tt0108724,tt0540210,5,2,S5,Austin Space,Austin Space,1998,,,"Drama,Mystery,Thriller",7.5,26
+tt0108724,tt0540331,5,3,S5,Wag the Doc,Wag the Doc,1998,,,"Drama,Mystery,Thriller",7.7,41
+tt0108724,tt0540308,5,4,S5,The Breast and the Brightest,The Breast and the Brightest,1998,,,"Drama,Mystery,Thriller",7.5,28
+tt0108724,tt0540278,5,5,S5,One Hundred and One Damnations,One Hundred and One Damnations,1998,,60,"Drama,Mystery,Thriller",8.2,30
+tt0108724,tt0540329,5,6,S5,Viagra-Vated Assault,Viagra-Vated Assault,1998,,,"Drama,Mystery,Thriller",7.9,37
+tt0108724,tt0540211,5,7,S5,"Austin, We Have a Problem","Austin, We Have a Problem",1998,,,"Drama,Mystery,Thriller",7.8,29
+tt0108724,tt0540315,5,8,S5,The Other Cheek,The Other Cheek,1998,,,"Drama,Mystery,Thriller",8.1,33
+tt0108724,tt0540304,5,9,S5,Tantric Turkey,Tantric Turkey,1998,,,"Drama,Mystery,Thriller",7.7,33
+tt0108724,tt0540242,5,10,S5,Gun with the Wind,Gun with the Wind,1998,,60,"Drama,Mystery,Thriller",7.8,23
+tt0108724,tt0540269,5,11,S5,McNeil and Pray,McNeil and Pray,1998,,,"Drama,Mystery,Thriller",8.0,23
+tt0108724,tt0540207,5,12,S5,Adventures in Babysitting,Adventures in Babysitting,1999,,,"Drama,Mystery,Thriller",8.1,26
+tt0108724,tt0540255,5,13,S5,Karmic Relief,Karmic Relief,1999,,,"Drama,Mystery,Thriller",7.3,25
+tt0108724,tt0540285,5,14,S5,Playing Through,Playing Through,1999,,,"Drama,Mystery,Thriller",7.5,27
+tt0108724,tt0540213,5,15,S5,Big Hand for the Little Lady,Big Hand for the Little Lady,1999,,60,"Drama,Mystery,Thriller",7.7,78
+tt0108724,tt0540250,5,16,S5,Home Is Where the Heartache Is,Home Is Where the Heartache Is,1999,,,"Drama,Mystery,Thriller",7.9,24
+tt0108724,tt0540204,5,17,S5,A Goy and His Dog,A Goy and His Dog,1999,,,"Drama,Mystery,Thriller",7.9,26
+tt0108724,tt0540305,5,18,S5,Teacher's Pet,Teacher's Pet,1999,,60,"Drama,Mystery,Thriller",7.8,32
+tt0108724,tt0540327,5,19,S5,Vanishing Acts,Vanishing Acts,1999,,,"Drama,Mystery,Thriller",8.1,33
+tt0108724,tt0540234,5,20,S5,From Here to Maternity,From Here to Maternity,1999,,,"Drama,Mystery,Thriller",7.6,29
+tt0108724,tt0540209,5,21,S5,And Baby Makes 10,And Baby Makes 10,1999,,,"Drama,Mystery,Thriller",7.7,91
+tt0108724,tt0540256,5,22,S5,Kiss of Death,Kiss of Death,1999,,,"Drama,Mystery,Thriller",7.9,38
+tt0108724,tt0540313,5,23,S5,The Heavens Can Wait,The Heavens Can Wait,1999,,,"Drama,Mystery,Thriller",7.6,31
+tt0108724,tt0540222,5,24,S5,Curing Cancer,Curing Cancer,1999,,,"Drama,Mystery,Thriller",7.8,37
+tt0108724,tt0540306,6,1,S6,Team Play,Team Play,1999,,,"Drama,Mystery,Thriller",7.5,29
+tt0108724,tt0540340,6,2,S6,Y' Gotta Have Heart,Y' Gotta Have Heart,1999,,,"Drama,Mystery,Thriller",7.8,36
+tt0108724,tt0540276,6,3,S6,Oh What a Piece of Work Is Man,Oh What a Piece of Work Is Man,1999,,,"Drama,Mystery,Thriller",7.8,25
+tt0108724,tt0540330,6,4,S6,Vigilance and Care,Vigilance and Care,1999,,,"Drama,Mystery,Thriller",7.3,27
+tt0108724,tt0540252,6,5,S6,Humpty Dumpty,Humpty Dumpty,1999,,,"Drama,Mystery,Thriller",7.3,26
+tt0108724,tt0540325,6,6,S6,"Upstairs, Downstairs","Upstairs, Downstairs",1999,,,"Drama,Mystery,Thriller",7.4,25
+tt0108724,tt0540333,6,7,S6,White Rabbit,White Rabbit,1999,,60,"Drama,Mystery,Thriller",8.0,41
+tt0108724,tt0540312,6,8,S6,The Heart to Heart,The Heart to Heart,1999,,,"Drama,Mystery,Thriller",7.9,30
+tt0108724,tt0540311,6,9,S6,The Golden Hour,The Golden Hour,1999,,,"Drama,Mystery,Thriller",8.1,28
+tt0108724,tt0540244,6,10,S6,Hanlon's Choice,Hanlon's Choice,2000,,,"Drama,Mystery,Thriller",8.1,27
+tt0108724,tt0540231,6,11,S6,"Faith, Hope & Surgery","Faith, Hope & Surgery",2000,,,"Drama,Mystery,Thriller",8.0,28
+tt0108724,tt0540261,6,12,S6,Letting Go,Letting Go,2000,,,"Drama,Mystery,Thriller",8.0,29
+tt0108724,tt0540214,6,13,S6,Boys Will Be Girls,Boys Will Be Girls,2000,,,"Drama,Mystery,Thriller",8.2,27
+tt0108724,tt0540238,6,14,S6,Gray Matters,Gray Matters,2000,,,"Drama,Mystery,Thriller",7.4,29
+tt0108724,tt0540281,6,15,S6,Painful Cuts,Painful Cuts,2000,,,"Drama,Mystery,Thriller",8.2,37
+tt0108724,tt0540296,6,16,S6,Simon Sez,Simon Sez,2000,,,"Drama,Mystery,Thriller",7.7,29
+tt0108724,tt0540220,6,17,S6,Cold Hearts,Cold Hearts,2000,,,"Drama,Mystery,Thriller",8.1,47
+tt0108724,tt0540226,6,18,S6,Devoted Attachment,Devoted Attachment,2000,,60,"Drama,Mystery,Thriller",7.7,30
+tt0108724,tt0540271,6,19,S6,Miller Time,Miller Time,2000,,60,"Drama,Mystery,Thriller",7.8,34
+tt0108724,tt0540322,6,20,S6,Thoughts of You,Thoughts of You,2000,,60,"Drama,Mystery,Thriller",7.8,39
+tt0108724,tt0540229,6,21,S6,Everybody's Special at Chicago Hope,Everybody's Special at Chicago Hope,2000,,60,"Drama,Mystery,Thriller",8.2,39
+tt0108724,tt0540245,6,22,S6,Have I Got a Deal for You,Have I Got a Deal for You,2000,,60,"Drama,Mystery,Thriller",8.1,43

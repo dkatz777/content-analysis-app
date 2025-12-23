@@ -1,0 +1,145 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0118276,tt0452716,1,1,S1,Welcome to the Hellmouth,Welcome to the Hellmouth,1997,,43,"Action,Adventure,Drama",7.9,6054
+tt0118276,tt0533501,1,2,S1,The Harvest,The Harvest,1997,,45,"Action,Adventure,Drama",7.7,5230
+tt0118276,tt0533527,1,3,S1,Witch,Witch,1997,,45,"Action,Adventure,Drama",7.5,5175
+tt0118276,tt0533494,1,4,S1,Teacher's Pet,Teacher's Pet,1997,,43,"Action,Adventure,Drama",6.7,4963
+tt0118276,tt0533459,1,5,S1,Never Kill a Boy on the First Date,Never Kill a Boy on the First Date,1997,,43,"Action,Adventure,Drama",7.2,4730
+tt0118276,tt0533505,1,6,S1,The Pack,The Pack,1997,,45,"Action,Adventure,Drama",7.2,4896
+tt0118276,tt0533388,1,7,S1,Angel,Angel,1997,,45,"Action,Adventure,Drama",8.3,5089
+tt0118276,tt0533445,1,8,S1,"I, Robot... You, Jane","I, Robot... You, Jane",1997,,45,"Action,Adventure,Drama",6.5,4713
+tt0118276,tt0533507,1,9,S1,The Puppet Show,The Puppet Show,1997,,45,"Action,Adventure,Drama",7.5,4745
+tt0118276,tt0533462,1,10,S1,Nightmares,Nightmares,1997,,45,"Action,Adventure,Drama",8.0,4709
+tt0118276,tt0533467,1,11,S1,"Out of Mind, Out of Sight","Out of Mind, Out of Sight",1997,,45,"Action,Adventure,Drama",7.5,4528
+tt0118276,tt0533474,1,12,S1,Prophecy Girl,Prophecy Girl,1997,,45,"Action,Adventure,Drama",8.7,5061
+tt0118276,tt0533523,2,1,S2,When She Was Bad,When She Was Bad,1997,,45,"Action,Adventure,Drama",8.0,4618
+tt0118276,tt0533487,2,2,S2,Some Assembly Required,Some Assembly Required,1997,,44,"Action,Adventure,Drama",6.8,4295
+tt0118276,tt0533480,2,3,S2,School Hard,School Hard,1997,,44,"Action,Adventure,Drama",8.7,4881
+tt0118276,tt0533447,2,4,S2,Inca Mummy Girl,Inca Mummy Girl,1997,,44,"Action,Adventure,Drama",7.0,4336
+tt0118276,tt0533476,2,5,S2,Reptile Boy,Reptile Boy,1997,,44,"Action,Adventure,Drama",6.9,4255
+tt0118276,tt0533437,2,6,S2,Halloween,Halloween,1997,,44,"Action,Adventure,Drama",8.8,5195
+tt0118276,tt0533453,2,7,S2,Lie to Me,Lie to Me,1997,,45,"Action,Adventure,Drama",8.2,4474
+tt0118276,tt0533497,2,8,S2,The Dark Age,The Dark Age,1997,,45,"Action,Adventure,Drama",7.6,4108
+tt0118276,tt0533521,2,9,S2,What's My Line?: Part 1,What's My Line?: Part 1,1997,,60,"Action,Adventure,Drama",8.1,4220
+tt0118276,tt0533522,2,10,S2,What's My Line?: Part 2,What's My Line?: Part 2,1997,,60,"Action,Adventure,Drama",8.4,4281
+tt0118276,tt0533495,2,11,S2,Ted,Ted,1997,,45,"Action,Adventure,Drama",7.4,4344
+tt0118276,tt0533391,2,12,S2,Bad Eggs,Bad Eggs,1998,,60,"Action,Adventure,Drama",6.6,4151
+tt0118276,tt0533492,2,13,S2,Surprise,Surprise,1998,,60,"Action,Adventure,Drama",8.5,4472
+tt0118276,tt0533448,2,14,S2,Innocence,Innocence,1998,,60,"Action,Adventure,Drama",9.2,5103
+tt0118276,tt0533471,2,15,S2,Phases,Phases,1998,,60,"Action,Adventure,Drama",7.9,4071
+tt0118276,tt0533401,2,16,S2,"Bewitched, Bothered and Bewildered","Bewitched, Bothered and Bewildered",1998,,60,"Action,Adventure,Drama",8.6,4844
+tt0118276,tt0533470,2,17,S2,Passion,Passion,1998,,60,"Action,Adventure,Drama",9.3,5489
+tt0118276,tt0533451,2,18,S2,Killed by Death,Killed by Death,1998,,60,"Action,Adventure,Drama",7.3,4119
+tt0118276,tt0533444,2,19,S2,I Only Have Eyes for You,I Only Have Eyes for You,1998,,60,"Action,Adventure,Drama",8.3,4605
+tt0118276,tt0533431,2,20,S2,Go Fish,Go Fish,1998,,60,"Action,Adventure,Drama",6.7,4144
+tt0118276,tt0533397,2,21,S2,Becoming: Part 1,Becoming: Part 1,1998,,60,"Action,Adventure,Drama",9.0,4779
+tt0118276,tt0533398,2,22,S2,Becoming: Part 2,Becoming: Part 2,1998,,44,"Action,Adventure,Drama",9.5,5696
+tt0118276,tt0533389,3,1,S3,Anne,Anne,1998,,60,"Action,Adventure,Drama",7.8,4423
+tt0118276,tt0533411,3,2,S3,Dead Man's Party,Dead Man's Party,1998,,44,"Action,Adventure,Drama",7.3,3993
+tt0118276,tt0533422,3,3,S3,"Faith, Hope & Trick","Faith, Hope & Trick",1998,,45,"Action,Adventure,Drama",8.1,4168
+tt0118276,tt0533396,3,4,S3,Beauty and the Beasts,Beauty and the Beasts,1998,,60,"Action,Adventure,Drama",7.4,3948
+tt0118276,tt0533442,3,5,S3,Homecoming,Homecoming,1998,,60,"Action,Adventure,Drama",8.0,3950
+tt0118276,tt0533393,3,6,S3,Band Candy,Band Candy,1998,,60,"Action,Adventure,Drama",8.6,4610
+tt0118276,tt0533478,3,7,S3,Revelations,Revelations,1998,,45,"Action,Adventure,Drama",8.0,3975
+tt0118276,tt0533458,3,8,S3,Lovers Walk,Lovers Walk,1998,,60,"Action,Adventure,Drama",8.8,4794
+tt0118276,tt0533510,3,9,S3,The Wish,The Wish,1998,,45,"Action,Adventure,Drama",9.1,5176
+tt0118276,tt0533387,3,10,S3,Amends,Amends,1998,,60,"Action,Adventure,Drama",8.2,4250
+tt0118276,tt0533430,3,11,S3,Gingerbread,Gingerbread,1999,,60,"Action,Adventure,Drama",7.2,3942
+tt0118276,tt0533440,3,12,S3,Helpless,Helpless,1999,,60,"Action,Adventure,Drama",8.3,4082
+tt0118276,tt0533512,3,13,S3,The Zeppo,The Zeppo,1999,,60,"Action,Adventure,Drama",8.6,4824
+tt0118276,tt0533392,3,14,S3,Bad Girls,Bad Girls,1999,,60,"Action,Adventure,Drama",8.2,4033
+tt0118276,tt0533408,3,15,S3,Consequences,Consequences,1999,,60,"Action,Adventure,Drama",8.1,3824
+tt0118276,tt0533415,3,16,S3,Doppelgangland,Doppelgangland,1999,,60,"Action,Adventure,Drama",9.2,5088
+tt0118276,tt0533420,3,17,S3,Enemies,Enemies,1999,,60,"Action,Adventure,Drama",8.6,3999
+tt0118276,tt0533417,3,18,S3,Earshot,Earshot,1999,,60,"Action,Adventure,Drama",8.7,4233
+tt0118276,tt0533406,3,19,S3,Choices,Choices,1999,,43,"Action,Adventure,Drama",8.1,3762
+tt0118276,tt0533506,3,20,S3,The Prom,The Prom,1999,,60,"Action,Adventure,Drama",8.7,4247
+tt0118276,tt0533434,3,21,S3,Graduation Day: Part 1,Graduation Day: Part 1,1999,,60,"Action,Adventure,Drama",8.9,4296
+tt0118276,tt0533435,3,22,S3,Graduation Day: Part 2,Graduation Day: Part 2,1999,,60,"Action,Adventure,Drama",9.1,4557
+tt0118276,tt0533498,4,1,S4,The Freshman,The Freshman,1999,,44,"Action,Adventure,Drama",7.6,3934
+tt0118276,tt0533457,4,2,S4,Living Conditions,Living Conditions,1999,,42,"Action,Adventure,Drama",7.5,3890
+tt0118276,tt0533500,4,3,S4,The Harsh Light of Day,The Harsh Light of Day,1999,,60,"Action,Adventure,Drama",7.9,3721
+tt0118276,tt0533424,4,4,S4,Fear Itself,Fear Itself,1999,,60,"Action,Adventure,Drama",8.4,4126
+tt0118276,tt0533399,4,5,S4,Beer Bad,Beer Bad,1999,,60,"Action,Adventure,Drama",6.3,4261
+tt0118276,tt0533526,4,6,S4,Wild at Heart,Wild at Heart,1999,,42,"Action,Adventure,Drama",7.9,3769
+tt0118276,tt0533503,4,7,S4,The Initiative,The Initiative,1999,,43,"Action,Adventure,Drama",7.9,3277
+tt0118276,tt0533469,4,8,S4,Pangs,Pangs,1999,,43,"Action,Adventure,Drama",7.9,3928
+tt0118276,tt0533488,4,9,S4,Something Blue,Something Blue,1999,,43,"Action,Adventure,Drama",8.9,4584
+tt0118276,tt0533443,4,10,S4,Hush,Hush,1999,,43,"Action,Adventure,Drama",9.7,9726
+tt0118276,tt0533414,4,11,S4,Doomed,Doomed,2000,,60,"Action,Adventure,Drama",7.5,3578
+tt0118276,tt0533384,4,12,S4,A New Man,A New Man,2000,,60,"Action,Adventure,Drama",8.2,3761
+tt0118276,tt0533502,4,13,S4,The I in Team,The I in Team,2000,,60,"Action,Adventure,Drama",7.4,3326
+tt0118276,tt0533433,4,14,S4,Goodbye Iowa,Goodbye Iowa,2000,,60,"Action,Adventure,Drama",7.0,3400
+tt0118276,tt0533513,4,15,S4,This Year's Girl,This Year's Girl,2000,,60,"Action,Adventure,Drama",8.3,3839
+tt0118276,tt0533525,4,16,S4,Who Are You?,Who Are You?,2000,,60,"Action,Adventure,Drama",8.9,4206
+tt0118276,tt0533491,4,17,S4,Superstar,Superstar,2000,,60,"Action,Adventure,Drama",7.2,4049
+tt0118276,tt0533524,4,18,S4,Where the Wild Things Are,Where the Wild Things Are,2000,,60,"Action,Adventure,Drama",6.3,3881
+tt0118276,tt0533461,4,19,S4,New Moon Rising,New Moon Rising,2000,,60,"Action,Adventure,Drama",8.1,3638
+tt0118276,tt0533511,4,20,S4,The Yoko Factor,The Yoko Factor,2000,,60,"Action,Adventure,Drama",7.9,3565
+tt0118276,tt0533473,4,21,S4,Primeval,Primeval,2000,,60,"Action,Adventure,Drama",8.2,3669
+tt0118276,tt0533477,4,22,S4,Restless,Restless,2000,,60,"Action,Adventure,Drama",8.6,4988
+tt0118276,tt0533404,5,1,S5,Buffy vs. Dracula,Buffy vs. Dracula,2000,,42,"Action,Adventure,Drama",7.6,3819
+tt0118276,tt0533475,5,2,S5,Real Me,Real Me,2000,,60,"Action,Adventure,Drama",7.4,3212
+tt0118276,tt0533508,5,3,S5,The Replacement,The Replacement,2000,,60,"Action,Adventure,Drama",8.0,3460
+tt0118276,tt0533468,5,4,S5,Out of My Mind,Out of My Mind,2000,,60,"Action,Adventure,Drama",7.5,3227
+tt0118276,tt0533463,5,5,S5,No Place Like Home,No Place Like Home,2000,,60,"Action,Adventure,Drama",8.1,3181
+tt0118276,tt0533423,5,6,S5,Family,Family,2000,,60,"Action,Adventure,Drama",8.1,3440
+tt0118276,tt0533427,5,7,S5,Fool for Love,Fool for Love,2000,,60,"Action,Adventure,Drama",9.1,4418
+tt0118276,tt0533483,5,8,S5,Shadow,Shadow,2000,,60,"Action,Adventure,Drama",7.3,2971
+tt0118276,tt0533456,5,9,S5,Listening to Fear,Listening to Fear,2000,,60,"Action,Adventure,Drama",7.0,3064
+tt0118276,tt0533450,5,10,S5,Into the Woods,Into the Woods,2000,,60,"Action,Adventure,Drama",7.3,3249
+tt0118276,tt0533516,5,11,S5,Triangle,Triangle,2001,,60,"Action,Adventure,Drama",7.5,3194
+tt0118276,tt0533405,5,12,S5,Checkpoint,Checkpoint,2001,,60,"Action,Adventure,Drama",8.3,3328
+tt0118276,tt0533402,5,13,S5,Blood Ties,Blood Ties,2001,,60,"Action,Adventure,Drama",8.2,3220
+tt0118276,tt0533410,5,14,S5,Crush,Crush,2001,,60,"Action,Adventure,Drama",8.4,3433
+tt0118276,tt0533446,5,15,S5,I Was Made to Love You,I Was Made to Love You,2001,,60,"Action,Adventure,Drama",7.4,3152
+tt0118276,tt0533496,5,16,S5,The Body,The Body,2001,,60,"Action,Adventure,Drama",9.7,8592
+tt0118276,tt0533428,5,17,S5,Forever,Forever,2001,,60,"Action,Adventure,Drama",8.0,3398
+tt0118276,tt0533449,5,18,S5,Intervention,Intervention,2001,,60,"Action,Adventure,Drama",8.6,3439
+tt0118276,tt0533515,5,19,S5,Tough Love,Tough Love,2001,,60,"Action,Adventure,Drama",8.1,3054
+tt0118276,tt0533489,5,20,S5,Spiral,Spiral,2001,,43,"Action,Adventure,Drama",8.2,3119
+tt0118276,tt0533509,5,21,S5,The Weight of the World,The Weight of the World,2001,,43,"Action,Adventure,Drama",7.9,3041
+tt0118276,tt0533499,5,22,S5,The Gift,The Gift,2001,,44,"Action,Adventure,Drama",9.5,5602
+tt0118276,tt0533394,6,1,S6,Bargaining: Part 1,Bargaining: Part 1,2001,,43,"Action,Adventure,Drama",8.1,3241
+tt0118276,tt0533395,6,2,S6,Bargaining: Part 2,Bargaining: Part 2,2001,,60,"Action,Adventure,Drama",8.2,3136
+tt0118276,tt0533385,6,3,S6,After Life,After Life,2001,,42,"Action,Adventure,Drama",7.8,2886
+tt0118276,tt0533426,6,4,S6,Flooded,Flooded,2001,,42,"Action,Adventure,Drama",7.2,2738
+tt0118276,tt0533455,6,5,S6,Life Serial,Life Serial,2001,,60,"Action,Adventure,Drama",7.8,2909
+tt0118276,tt0533386,6,6,S6,All the Way,All the Way,2001,,60,"Action,Adventure,Drama",7.1,2847
+tt0118276,tt0533466,6,7,S6,"Once More, with Feeling","Once More, with Feeling",2001,,50,"Action,Adventure,Drama",9.7,12065
+tt0118276,tt0533493,6,8,S6,Tabula Rasa,Tabula Rasa,2001,,42,"Action,Adventure,Drama",9.1,4485
+tt0118276,tt0533486,6,9,S6,Smashed,Smashed,2001,,60,"Action,Adventure,Drama",7.9,3139
+tt0118276,tt0533528,6,10,S6,Wrecked,Wrecked,2001,,60,"Action,Adventure,Drama",7.6,2959
+tt0118276,tt0533432,6,11,S6,Gone,Gone,2002,,60,"Action,Adventure,Drama",7.7,2806
+tt0118276,tt0533416,6,12,S6,Doublemeat Palace,Doublemeat Palace,2002,,60,"Action,Adventure,Drama",6.7,3083
+tt0118276,tt0533412,6,13,S6,Dead Things,Dead Things,2002,,60,"Action,Adventure,Drama",7.4,2806
+tt0118276,tt0533465,6,14,S6,Older and Far Away,Older and Far Away,2002,,60,"Action,Adventure,Drama",7.6,2747
+tt0118276,tt0533390,6,15,S6,As You Were,As You Were,2002,,60,"Action,Adventure,Drama",6.7,2972
+tt0118276,tt0533438,6,16,S6,Hell's Bells,Hell's Bells,2002,,60,"Action,Adventure,Drama",7.5,3066
+tt0118276,tt0533464,6,17,S6,Normal Again,Normal Again,2002,,60,"Action,Adventure,Drama",8.4,3688
+tt0118276,tt0533421,6,18,S6,Entropy,Entropy,2002,,42,"Action,Adventure,Drama",7.8,2759
+tt0118276,tt0533481,6,19,S6,Seeing Red,Seeing Red,2002,,42,"Action,Adventure,Drama",8.5,3366
+tt0118276,tt0533519,6,20,S6,Villains,Villains,2002,,41,"Action,Adventure,Drama",8.8,3367
+tt0118276,tt0533517,6,21,S6,Two to Go,Two to Go,2002,,41,"Action,Adventure,Drama",8.7,3219
+tt0118276,tt0533436,6,22,S6,Grave,Grave,2002,,42,"Action,Adventure,Drama",8.9,3645
+tt0118276,tt0533452,7,1,S7,Lessons,Lessons,2002,,41,"Action,Adventure,Drama",7.6,2820
+tt0118276,tt0533400,7,2,S7,Beneath You,Beneath You,2002,,41,"Action,Adventure,Drama",7.8,2945
+tt0118276,tt0533479,7,3,S7,"Same Time, Same Place","Same Time, Same Place",2002,,42,"Action,Adventure,Drama",7.9,2791
+tt0118276,tt0533439,7,4,S7,Help,Help,2002,,42,"Action,Adventure,Drama",7.8,2804
+tt0118276,tt0533482,7,5,S7,Selfless,Selfless,2002,,42,"Action,Adventure,Drama",8.6,3411
+tt0118276,tt0533441,7,6,S7,Him,Him,2002,,42,"Action,Adventure,Drama",7.1,3045
+tt0118276,tt0533409,7,7,S7,Conversations with Dead People,Conversations with Dead People,2002,,42,"Action,Adventure,Drama",8.9,3912
+tt0118276,tt0533485,7,8,S7,Sleeper,Sleeper,2002,,41,"Action,Adventure,Drama",7.7,2647
+tt0118276,tt0533460,7,9,S7,Never Leave Me,Never Leave Me,2002,,40,"Action,Adventure,Drama",7.8,2557
+tt0118276,tt0533403,7,10,S7,Bring on the Night,Bring on the Night,2002,,42,"Action,Adventure,Drama",7.7,2571
+tt0118276,tt0533484,7,11,S7,Showtime,Showtime,2003,,42,"Action,Adventure,Drama",8.0,2720
+tt0118276,tt0533472,7,12,S7,Potential,Potential,2003,,41,"Action,Adventure,Drama",7.6,2558
+tt0118276,tt0533504,7,13,S7,The Killer in Me,The Killer in Me,2003,,42,"Action,Adventure,Drama",7.2,2673
+tt0118276,tt0533425,7,14,S7,First Date,First Date,2003,,42,"Action,Adventure,Drama",7.4,2541
+tt0118276,tt0533429,7,15,S7,Get It Done,Get It Done,2003,,41,"Action,Adventure,Drama",7.5,2519
+tt0118276,tt0533490,7,16,S7,Storyteller,Storyteller,2003,,42,"Action,Adventure,Drama",8.2,3109
+tt0118276,tt0533454,7,17,S7,Lies My Parents Told Me,Lies My Parents Told Me,2003,,42,"Action,Adventure,Drama",8.7,3452
+tt0118276,tt0533413,7,18,S7,Dirty Girls,Dirty Girls,2003,,41,"Action,Adventure,Drama",8.6,2774
+tt0118276,tt0533418,7,19,S7,Empty Places,Empty Places,2003,,42,"Action,Adventure,Drama",7.6,2647
+tt0118276,tt0533514,7,20,S7,Touched,Touched,2003,,41,"Action,Adventure,Drama",8.3,3075
+tt0118276,tt0533419,7,21,S7,End of Days,End of Days,2003,,41,"Action,Adventure,Drama",8.5,3048
+tt0118276,tt0533407,7,22,S7,Chosen,Chosen,2003,,43,"Action,Adventure,Drama",9.3,5203

@@ -1,0 +1,399 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt1800864,tt1819924,1,1,S1,"No Guts, No Glory","No Guts, No Glory",2010,,44,Reality-TV,7.0,99
+tt1800864,tt1819923,1,2,S1,"Gold, Guns and Bears","Gold, Guns and Bears",2010,,44,Reality-TV,6.8,83
+tt1800864,tt1819925,1,3,S1,Running Dirt,Running Dirt,2010,,44,Reality-TV,6.8,77
+tt1800864,tt1819927,1,4,S1,The Ultimate Price,The Ultimate Price,2011,,44,Reality-TV,6.6,78
+tt1800864,tt1819926,1,5,S1,The Pain Barrier,The Pain Barrier,2011,,44,Reality-TV,6.6,76
+tt1800864,tt1820935,1,6,S1,Gold Fever,Gold Fever,2011,,44,Reality-TV,6.7,70
+tt1800864,tt1820936,1,7,S1,Going for Broke,Going for Broke,2011,,44,Reality-TV,6.6,71
+tt1800864,tt1820937,1,8,S1,Bad Blood,Bad Blood,2011,,44,Reality-TV,6.8,71
+tt1800864,tt1807280,1,9,S1,Bedrock or Bust,Bedrock or Bust,2011,,44,Reality-TV,6.9,72
+tt1800864,tt1846089,1,10,S1,Never Say Die,Never Say Die,2011,,44,Reality-TV,6.7,69
+tt1800864,tt1853762,1,11,S1,Gold Rush: Full Disclosure,Gold Rush: Full Disclosure,2011,,44,Reality-TV,6.8,61
+tt1800864,tt2160821,1,12,S1,Gold Rush Aftershow Special,Gold Rush Aftershow Special,2011,,46,Reality-TV,6.3,47
+tt1800864,tt2094351,2,1,S2,The Off-Season,The Off-Season,2011,,46,Reality-TV,6.7,62
+tt1800864,tt2088252,2,2,S2,Twist of Fate,Twist of Fate,2011,,46,Reality-TV,7.2,68
+tt1800864,tt2104397,2,3,S2,Virgin Ground,Virgin Ground,2011,,46,Reality-TV,6.9,66
+tt1800864,tt2108747,2,4,S2,Family Feud,Family Feud,2011,,46,Reality-TV,6.5,67
+tt1800864,tt2114748,2,5,S2,Slippery Slope,Slippery Slope,2011,,46,Reality-TV,7.0,62
+tt1800864,tt2120955,2,6,S2,Drill or Die,Drill or Die,2011,,46,Reality-TV,7.0,62
+tt1800864,tt2125863,2,7,S2,Lovestruck,Lovestruck,2011,,46,Reality-TV,6.6,62
+tt1800864,tt2133567,2,8,S2,Gold at Last,Gold at Last,2011,,46,Reality-TV,6.9,60
+tt1800864,tt2142233,2,9,S2,On the Gold,On the Gold,2011,,43,Reality-TV,6.9,65
+tt1800864,tt2143251,2,10,S2,Behind the Scenes,Behind the Scenes,2011,,46,Reality-TV,6.5,54
+tt1800864,tt2174525,2,11,S2,Dead in the Water,Dead in the Water,2012,,46,Reality-TV,6.9,63
+tt1800864,tt2193627,2,12,S2,Twenty Four Seven,Twenty Four Seven,2012,,46,Reality-TV,7.1,63
+tt1800864,tt2193625,2,13,S2,Rock Bottom,Rock Bottom,2012,,46,Reality-TV,7.0,62
+tt1800864,tt2208561,2,14,S2,Bedrock Gold,Bedrock Gold,2012,,46,Reality-TV,7.4,65
+tt1800864,tt2216701,2,15,S2,Man Down,Man Down,2012,,46,Reality-TV,7.2,61
+tt1800864,tt2239639,2,16,S2,In the Black,In the Black,2012,,46,Reality-TV,7.1,62
+tt1800864,tt32792463,2,17,S2,Judgment Day,Judgment Day,2012,,45,Reality-TV,6.4,5
+tt1800864,tt2254685,2,18,S2,Frozen Out,Frozen Out,2012,,46,Reality-TV,7.3,61
+tt1800864,tt2265917,2,19,S2,Judgment Day,Judgment Day,2012,,46,Reality-TV,7.3,62
+tt1800864,tt2283937,2,20,S2,Revelations,Revelations,2012,,46,Reality-TV,7.1,49
+tt1800864,tt2291155,2,21,S2,Aftershow: Digging Deeper,Aftershow: Digging Deeper,2012,,46,Reality-TV,6.6,38
+tt1800864,tt2314345,2,22,S2,Aftershow: The Last Word,Aftershow: The Last Word,2012,,46,Reality-TV,6.6,39
+tt1800864,tt2460660,3,1,S3,The Long Road,The Long Road,2012,,46,Reality-TV,7.1,26
+tt1800864,tt2460658,3,2,S3,Million Dollar Season,Million Dollar Season,2012,,45,Reality-TV,7.5,63
+tt1800864,tt2490046,3,3,S3,The Wrong Claim,The Wrong Claim,2012,,44,Reality-TV,7.3,59
+tt1800864,tt2514188,3,4,S3,Secret Weapons,Secret Weapons,2012,,46,Reality-TV,7.4,57
+tt1800864,tt2522044,3,5,S3,Battle of the Bridge,Battle of the Bridge,2012,,46,Reality-TV,7.3,56
+tt1800864,tt2522046,3,6,S3,The Ultimatum,The Ultimatum,2012,,46,Reality-TV,7.2,53
+tt1800864,tt2538398,3,7,S3,Game Changer,Game Changer,2012,,46,Reality-TV,7.1,55
+tt1800864,tt2551372,3,8,S3,Road to Gold,Road to Gold,2012,,46,Reality-TV,7.2,57
+tt1800864,tt2561770,3,9,S3,Up Smith Creek,Up Smith Creek,2012,,46,Reality-TV,7.2,55
+tt1800864,tt2638008,3,10,S3,Leprechaun Gold,Leprechaun Gold,2013,,46,Reality-TV,7.5,55
+tt1800864,tt2612368,3,11,S3,Dozer Wars,Dozer Wars,2013,,46,Reality-TV,7.7,58
+tt1800864,tt2626636,3,12,S3,Pink Slip,Pink Slip,2013,,46,Reality-TV,7.2,54
+tt1800864,tt2643940,3,13,S3,The Merger,The Merger,2013,,46,Reality-TV,7.2,55
+tt1800864,tt2658616,3,14,S3,The Night Shift,The Night Shift,2013,,46,Reality-TV,7.1,53
+tt1800864,tt2676718,3,15,S3,Bedrock Blowout,Bedrock Blowout,2013,,46,Reality-TV,7.2,50
+tt1800864,tt2700794,3,16,S3,Redemption Road,Redemption Road,2013,,46,Reality-TV,7.3,49
+tt1800864,tt2747820,3,17,S3,The Motherlode,The Motherlode,2013,,46,Reality-TV,7.0,48
+tt1800864,tt2760482,3,19,S3,Making of the Motherlode,Making of the Motherlode,2013,,45,Reality-TV,7.0,37
+tt1800864,tt2582394,3,50,S3,Behind the Scenes,Behind the Scenes,2012,,45,Reality-TV,6.5,44
+tt1800864,tt2335152,3,51,S3,The Jungle,The Jungle,2012,,45,Reality-TV,6.9,22
+tt1800864,tt3282364,4,1,S4,Queen of Diamonds,Queen of Diamonds,2013,,88,Reality-TV,7.3,58
+tt1800864,tt3300728,4,2,S4,Learning Curve,Learning Curve,2013,,44,Reality-TV,7.8,52
+tt1800864,tt3300732,4,3,S4,In Too Deep,In Too Deep,2013,,43,Reality-TV,7.4,53
+tt1800864,tt3338132,4,4,S4,Road from Hell,Road from Hell,2013,,45,Reality-TV,7.6,47
+tt1800864,tt3353422,4,5,S4,Garnets or Gold,Garnets or Gold,2013,,43,Reality-TV,7.8,47
+tt1800864,tt3374468,4,6,S4,Mutiny,Mutiny,2013,,44,Reality-TV,7.4,46
+tt1800864,tt3391864,4,7,S4,Paid in Full,Paid in Full,2013,,46,Reality-TV,7.4,45
+tt1800864,tt3409500,4,8,S4,Jungle Boogie,Jungle Boogie,2013,,45,Reality-TV,7.5,47
+tt1800864,tt3442284,4,9,S4,Ready to Roll: Gold Rush Special,Ready to Roll: Gold Rush Special,2013,,42,Reality-TV,6.7,43
+tt1800864,tt3455968,4,10,S4,Hope Creek,Hope Creek,2014,,44,Reality-TV,7.3,44
+tt1800864,tt3462572,4,11,S4,Blowout,Blowout,2014,,43,Reality-TV,7.4,44
+tt1800864,tt3473584,4,12,S4,Death of a Dream,Death of a Dream,2014,,45,Reality-TV,7.3,44
+tt1800864,tt3480014,4,13,S4,The Resurrection,The Resurrection,2014,,45,Reality-TV,7.2,43
+tt1800864,tt3492090,4,14,S4,Fantasy Land,Fantasy Land,2014,,44,Reality-TV,7.3,44
+tt1800864,tt3505968,4,15,S4,Medevac,Medevac,2014,,43,Reality-TV,7.3,44
+tt1800864,tt3527118,4,16,S4,Man on Wire,Man on Wire,2014,,44,Reality-TV,7.1,43
+tt1800864,tt3576470,4,17,S4,Day of Reckoning,Day of Reckoning,2014,,44,Reality-TV,7.2,42
+tt1800864,tt3587732,4,18,S4,Go Big or Go Home,Go Big or Go Home,2014,,43,Reality-TV,7.6,45
+tt1800864,tt3598560,4,19,S4,Grandpa's Last Wish,Grandpa's Last Wish,2014,,43,Reality-TV,8.2,48
+tt1800864,tt3614984,4,20,S4,Unearthed,Unearthed,2014,,44,Reality-TV,7.4,40
+tt1800864,tt32792442,4,50,S4,Special Southern Quest,Special Southern Quest,2013,,45,Reality-TV,,
+tt1800864,tt3973602,4,51,S4,Gold Rush: Parker's Take,Parker's Take: Gold Rush Special,2014,,,Reality-TV,7.3,9
+tt1800864,tt3975690,5,1,S5,New Blood,New Blood,2014,,84,Reality-TV,8.0,58
+tt1800864,tt4150698,5,2,S5,From the Ashes,From the Ashes,2014,,43,Reality-TV,7.9,54
+tt1800864,tt4163326,5,3,S5,Golden Boy,Golden Boy,2014,,44,Reality-TV,7.7,49
+tt1800864,tt4172832,5,4,S5,Viking Ship,Viking Ship,2014,,43,Reality-TV,7.6,49
+tt1800864,tt4191948,5,5,S5,Hard Bargain,Hard Bargain,2014,,43,Reality-TV,7.7,49
+tt1800864,tt4210120,5,6,S5,Cursed Cut,Cursed Cut,2014,,43,Reality-TV,7.7,50
+tt1800864,tt4228594,5,7,S5,Goldzilla,Goldzilla,2014,,44,Reality-TV,7.7,49
+tt1800864,tt4245350,5,8,S5,Gold Blooded,Gold Blooded,2014,,43,Reality-TV,7.8,49
+tt1800864,tt4267560,5,9,S5,Colossal Clean Up,Colossal Clean Up,2014,,43,Reality-TV,7.8,50
+tt1800864,tt4280726,5,10,S5,Grandpa John: Gold Rush Special,Grandpa John: Gold Rush Special,2014,,44,Reality-TV,7.7,40
+tt1800864,tt4303882,5,11,S5,Parker's Accident,Parker's Accident,2015,,44,Reality-TV,7.7,47
+tt1800864,tt4323718,5,12,S5,Ship of Fools,Ship of Fools,2015,,44,Reality-TV,7.4,45
+tt1800864,tt4390064,5,13,S5,Piles of Gold,Piles of Gold,2015,,42,Reality-TV,7.5,45
+tt1800864,tt4401800,5,14,S5,Gold Road,Gold Road,2015,,43,Reality-TV,7.6,45
+tt1800864,tt4401802,5,15,S5,Rogue Miner,Rogue Miner,2015,,43,Reality-TV,7.5,48
+tt1800864,tt4415148,5,16,S5,The Monster Lives,The Monster Lives,2015,,42,Reality-TV,7.5,47
+tt1800864,tt4451468,5,17,S5,Rivers of Gold,Rivers of Gold,2015,,44,Reality-TV,7.7,43
+tt1800864,tt4453080,5,18,S5,Frozen Gold,Frozen Gold,2015,,44,Reality-TV,7.7,42
+tt1800864,tt4495122,5,19,S5,Hundreds of Ounces,Hundreds of Ounces,2015,,43,Reality-TV,7.8,45
+tt1800864,tt4501534,5,20,S5,Freddy Dodge Returns,Freddy Dodge Returns,2015,,43,Reality-TV,7.1,20
+tt1800864,tt4511222,5,21,S5,Millions in Gold,Millions in Gold,2015,,88,Reality-TV,7.9,51
+tt1800864,tt4511266,5,22,S5,The Whole Truth,The Whole Truth,2015,,45,Reality-TV,7.9,44
+tt1800864,tt4056732,5,51,S5,Heroes and Zeroes: Gold Rush Special,Heroes and Zeroes: Gold Rush Special,2014,,42,Reality-TV,6.9,12
+tt1800864,tt37748422,5,52,S5,Pile of Nuggets,Pile of Nuggets,2015,,,Reality-TV,,
+tt1800864,tt5062694,6,1,S6,"Blood, Sweat and Gold","Blood, Sweat and Gold",2015,,89,Reality-TV,8.2,66
+tt1800864,tt5156388,6,2,S6,Gold Ship,Gold Ship,2015,,42,Reality-TV,7.9,53
+tt1800864,tt5166970,6,3,S6,Moving the Monster,Moving the Monster,2015,,42,Reality-TV,7.7,52
+tt1800864,tt5166978,6,4,S6,Grandpa's Golden Advice,Grandpa's Golden Advice,2015,,42,Reality-TV,7.7,50
+tt1800864,tt5202504,6,5,S6,Jack's Gold Shack,Jack's Gold Shack,2015,,42,Reality-TV,7.4,46
+tt1800864,tt5216302,6,6,S6,Treasure Island,Treasure Island,2015,,42,Reality-TV,7.6,47
+tt1800864,tt5232894,6,7,S6,ElDorado Dream,ElDorado Dream,2015,,42,Reality-TV,7.7,46
+tt1800864,tt5247004,6,8,S6,Mammoth Channel,Mammoth Channel,2015,,42,Reality-TV,7.5,47
+tt1800864,tt5265910,6,9,S6,Mammoth Gold,Mammoth Gold,2015,,42,Reality-TV,7.7,45
+tt1800864,tt5281306,6,10,S6,Parker's 21st,Parker's 21st,2015,,42,Reality-TV,7.8,48
+tt1800864,tt5322780,6,11,S6,Captain Monica,Captain Monica,2016,,42,Reality-TV,7.8,46
+tt1800864,tt5328282,6,12,S6,Crew War,Crew War,2016,,42,Reality-TV,7.7,45
+tt1800864,tt5331764,6,13,S6,Goldzilla Gold,Goldzilla Gold,2016,,42,Reality-TV,7.8,45
+tt1800864,tt5331762,6,14,S6,Million Dollar Mountain,Million Dollar Mountain,2016,,42,Reality-TV,7.8,46
+tt1800864,tt5331772,6,15,S6,Dead Even,Dead Even,2016,,42,Reality-TV,7.9,47
+tt1800864,tt5447362,6,16,S6,Golden Bombshell,Golden Bombshell,2016,,42,Reality-TV,7.5,45
+tt1800864,tt5463190,6,17,S6,Klondike Legend,Klondike Legend,2016,,42,Reality-TV,7.5,45
+tt1800864,tt5490096,6,18,S6,Oregon Gold,Oregon Gold,2016,,42,Reality-TV,7.5,45
+tt1800864,tt5508054,6,19,S6,Frozen Pay,Frozen Pay,2016,,42,Reality-TV,7.6,43
+tt1800864,tt5525522,6,20,S6,King of the Klondike,King of the Klondike,2016,,42,Reality-TV,8.0,43
+tt1800864,tt5542170,6,21,S6,Gold Hard Truth,Gold Hard Truth,2016,,42,Reality-TV,7.6,40
+tt1800864,tt5144148,6,50,S6,5 Million Dollar Season,5 Million Dollar Season,2015,,42,Reality-TV,7.1,23
+tt1800864,tt5255730,6,51,S6,Parker Comes of Age,Parker Comes of Age,2015,,42,Reality-TV,7.7,12
+tt1800864,tt5574036,6,52,S6,Parker Schnabel,Parker Schnabel,2016,,41,Reality-TV,,
+tt1800864,tt5574038,6,53,S6,Tony Beets,Tony Beets,2016,,40,Reality-TV,,
+tt1800864,tt5613780,6,54,S6,Remembering John Schnabel,Remembering John Schnabel,2016,,45,Reality-TV,8.7,27
+tt1800864,tt5574034,6,56,S6,Klondike Legends Special: John Schnabel & Freddy Dodge,Klondike Legends Special: John Schnabel & Freddy Dodge,2016,,83,Reality-TV,,
+tt1800864,tt6093332,7,1,S7,Miracle on the Mountain,Miracle on the Mountain,2016,,85,Reality-TV,7.2,62
+tt1800864,tt6179698,7,2,S7,Eye in the Sky,Eye in the Sky,2016,,42,Reality-TV,7.6,52
+tt1800864,tt6179700,7,3,S7,Frankenstein Machinery,Frankenstein Machinery,2016,,42,Reality-TV,7.2,51
+tt1800864,tt6202932,7,4,S7,Mutiny,Mutiny,2016,,42,Reality-TV,8.0,52
+tt1800864,tt6220536,7,5,S7,Misery on the Mountain,Misery on the Mountain,2016,,41,Reality-TV,7.6,47
+tt1800864,tt6251672,7,6,S7,"No Crane, No Gain","No Crane, No Gain",2016,,41,Reality-TV,7.4,48
+tt1800864,tt6294710,7,7,S7,Watery Grave,Watery Grave,2016,,41,Reality-TV,7.3,44
+tt1800864,tt6311904,7,8,S7,Mega Barge & Kid Commando,Mega Barge & Kid Commando,2016,,41,Reality-TV,7.1,44
+tt1800864,tt6322406,7,9,S7,Record Gold,Record Gold,2016,,41,Reality-TV,7.5,44
+tt1800864,tt6323328,7,10,S7,Go Down Fighting,Go Down Fighting,2016,,41,Reality-TV,7.3,45
+tt1800864,tt6355222,7,11,S7,Game Over,Game Over,2016,,41,Reality-TV,7.2,46
+tt1800864,tt6392136,7,12,S7,Abandonment,Abandonment,2017,,41,Reality-TV,7.5,46
+tt1800864,tt6392138,7,13,S7,Lifeline,Lifeline,2017,,41,Reality-TV,7.8,47
+tt1800864,tt6461374,7,14,S7,Parker vs. Rick,Parker vs. Rick,2017,,41,Reality-TV,7.6,43
+tt1800864,tt6485092,7,15,S7,Excavator Down,Excavator Down,2017,,41,Reality-TV,7.4,39
+tt1800864,tt6495834,7,16,S7,Double Trouble,Double Trouble,2017,,41,Reality-TV,7.4,42
+tt1800864,tt6495836,7,17,S7,Cruelest Cut,Cruelest Cut,2017,,41,Reality-TV,7.6,43
+tt1800864,tt6509142,7,18,S7,Miners vs. Beavers,Miners vs. Beavers,2017,,41,Reality-TV,7.5,43
+tt1800864,tt6562086,7,19,S7,Dredge vs. Washplant,Dredge vs. Washplant,2017,,41,Reality-TV,7.3,42
+tt1800864,tt6583858,7,20,S7,Viking Voyage,Viking Voyage,2017,,41,Reality-TV,7.6,44
+tt1800864,tt6611026,7,21,S7,Final Fury,Final Fury,2017,,62,Reality-TV,8.1,47
+tt1800864,tt6642718,7,22,S7,Nuggets,Nuggets,2017,,45,Reality-TV,7.6,28
+tt1800864,tt6154310,7,101,S7,"Toughest, Dirtiest, Richest","Toughest, Dirtiest, Richest",2016,,45,Reality-TV,5.8,13
+tt1800864,tt6154546,7,102,S7,The Gambler,The Gambler,2016,,42,Reality-TV,6.5,12
+tt1800864,tt6527464,7,103,S7,Monster Machines,Monster Machines,2017,,45,Reality-TV,6.7,11
+tt1800864,tt6670064,7,104,S7,War and Peace,War and Peace,2017,,41,Reality-TV,6.7,28
+tt1800864,tt10542350,7,105,S7,Gold Rush: The Story So Far (Series 1-6),Gold Rush: The Story So Far (Series 1-6),2017,,45,Reality-TV,7.1,11
+tt1800864,tt9139614,7,110,S7,Gold Rush: The Story So Far (King of the Klondike),Gold Rush: The Story So Far (King of the Klondike),2018,,41,Reality-TV,7.7,30
+tt1800864,tt7311636,8,1,S8,Wagers and Wars,Wagers and Wars,2017,,88,Reality-TV,8.0,53
+tt1800864,tt7539344,8,2,S8,Blizzards and Bullets,Blizzards and Bullets,2017,,44,Reality-TV,8.3,46
+tt1800864,tt7550490,8,3,S8,The Viking vs. the Mechanic,The Viking vs. the Mechanic,2017,,41,Reality-TV,7.8,42
+tt1800864,tt7571422,8,4,S8,The Curse of the Fairplay Mountains,The Curse of the Fairplay Mountains,2017,,41,Reality-TV,7.8,41
+tt1800864,tt7621634,8,5,S8,Son Dethrones Father,Son Dethrones Father,2017,,41,Reality-TV,7.8,41
+tt1800864,tt7621640,8,6,S8,Colorado Strikes Back,Colorado Strikes Back,2017,,43,Reality-TV,7.7,39
+tt1800864,tt7701690,8,7,S8,Inferno,Inferno,2017,,41,Reality-TV,8.0,47
+tt1800864,tt7701692,8,8,S8,The Mighty Uppercut,The Mighty Uppercut,2017,,43,Reality-TV,7.7,43
+tt1800864,tt7738152,8,9,S8,Gold Bars and Hail Marys,Gold Bars and Hail Marys,2017,,43,Reality-TV,8.0,43
+tt1800864,tt7761986,8,10,S8,The Devil's Finger,The Devil's Finger,2017,,41,Reality-TV,8.0,41
+tt1800864,tt7793926,8,11,S8,The Holy Grail,The Holy Grail,2017,,43,Reality-TV,7.9,44
+tt1800864,tt7837736,8,12,S8,Eclipsed,Eclipsed,2018,,43,Reality-TV,7.5,44
+tt1800864,tt7837744,8,13,S8,Lost Gold,Lost Gold,2018,,44,Reality-TV,7.6,44
+tt1800864,tt7838724,8,14,S8,"The Father, the Son & the Holy Roller","The Father, the Son & the Holy Roller",2018,,44,Reality-TV,7.5,42
+tt1800864,tt7963494,8,15,S8,Broken,Broken,2018,,44,Reality-TV,7.7,40
+tt1800864,tt7963496,8,16,S8,Of Monsters and Men,Of Monsters and Men,2018,,41,Reality-TV,7.6,38
+tt1800864,tt7992756,8,17,S8,Gold Rush: Live,Gold Rush: Live,2018,,40,Reality-TV,7.5,30
+tt1800864,tt7992758,8,18,S8,"Planes, Cranes, and Virgin Claims","Planes, Cranes, and Virgin Claims",2018,,44,Reality-TV,7.5,40
+tt1800864,tt8028636,8,19,S8,King Kong,King Kong,2018,,43,Reality-TV,7.8,41
+tt1800864,tt8059388,8,20,S8,Independence Day,Independence Day,2018,,44,Reality-TV,7.6,38
+tt1800864,tt8093212,8,21,S8,The Spoils of War,The Spoils of War,2018,,62,Reality-TV,7.9,37
+tt1800864,tt8125152,8,22,S8,Win Big or Die Trying,Win Big or Die Trying,2018,,20,Reality-TV,8.3,26
+tt1800864,tt8125156,8,23,S8,American Dreamer,American Dreamer,2018,,41,Reality-TV,8.1,24
+tt1800864,tt7945926,8,100,S8,The Dakota Boys,The Dakota Boys,2018,,41,Reality-TV,7.6,13
+tt1800864,tt37748780,8,101,S8,The Story So Far (Seasons 1 to 7),The Story So Far (Seasons 1 to 7),2017,,,Reality-TV,,
+tt1800864,tt7540962,8,102,S8,The 9 Million Dollar Season,The 9 Million Dollar Season,2017,,43,Reality-TV,7.6,11
+tt1800864,tt7563526,8,104,S8,The Legend of Dozer Dave,The Legend of Dozer Dave,2017,,44,Reality-TV,7.4,11
+tt1800864,tt7831080,8,105,S8,Busted and Bushfixed,Busted and Bushfixed,2017,,44,Reality-TV,7.0,10
+tt1800864,tt37751171,8,106,S8,"Trommels, Shaker Decks, Dredges And De-rockers","Trommels, Shaker Decks, Dredges And De-rockers",2017,,,Reality-TV,,
+tt1800864,tt7992746,8,107,S8,Gold Rush: Parker v Beets,Gold Rush: Parker v Beets,2018,,43,Reality-TV,7.1,14
+tt1800864,tt8923936,9,1,S9,Declaration of Independence,Declaration of Independence,2018,,87,Reality-TV,7.9,58
+tt1800864,tt8975774,9,2,S9,Smoked Out,Smoked Out,2018,,44,Reality-TV,7.8,53
+tt1800864,tt8975776,9,3,S9,Gods and Monsters,Gods and Monsters,2018,,43,Reality-TV,7.6,46
+tt1800864,tt8975782,9,4,S9,Durt Reynolds,Durt Reynolds,2018,,44,Reality-TV,7.9,45
+tt1800864,tt8975784,9,5,S9,The Return of Freddy Dodge,The Return of Freddy Dodge,2018,,41,Reality-TV,8.2,45
+tt1800864,tt8975786,9,6,S9,Hoffman's Ghosts,Hoffman's Ghosts,2018,,43,Reality-TV,7.8,41
+tt1800864,tt8975788,9,7,S9,Hazard Pay,Hazard Pay,2018,,44,Reality-TV,8.0,42
+tt1800864,tt8975790,9,8,S9,Stormageddon,Stormageddon,2018,,44,Reality-TV,7.8,42
+tt1800864,tt8975792,9,9,S9,Megamorphosis,Megamorphosis,2018,,41,Reality-TV,7.8,45
+tt1800864,tt8975796,9,10,S9,Father's Day,Father's Day,2018,,44,Reality-TV,7.9,46
+tt1800864,tt8975798,9,11,S9,The Resurrection,The Resurrection,2018,,44,Reality-TV,7.8,44
+tt1800864,tt8975800,9,12,S9,The Devil's Deadline,The Devil's Deadline,2019,,41,Reality-TV,8.0,46
+tt1800864,tt8975808,9,13,S9,Sucker Punch,Sucker Punch,2019,,43,Reality-TV,8.0,42
+tt1800864,tt8975810,9,14,S9,Old School Heroes,Old School Heroes,2019,,41,Reality-TV,7.8,42
+tt1800864,tt8975812,9,15,S9,Wedding Bells & Emergency Operations,Wedding Bells & Emergency Operations,2019,,41,Reality-TV,7.6,41
+tt1800864,tt8975814,9,16,S9,Broken Bones,Broken Bones,2019,,41,Reality-TV,7.9,46
+tt1800864,tt8975820,9,17,S9,Gold Gurus,Gold Gurus,2019,,41,Reality-TV,4.6,56
+tt1800864,tt8975818,9,18,S9,Make It Rain,Make It Rain,2019,,41,Reality-TV,7.6,45
+tt1800864,tt8975822,9,19,S9,Big Red is Dead,Big Red is Dead,2019,,41,Reality-TV,7.5,41
+tt1800864,tt8975824,9,20,S9,Cold War,Cold War,2019,,43,Reality-TV,7.9,44
+tt1800864,tt9870594,9,21,S9,Brace for Impact,Brace for Impact,2019,,43,Reality-TV,7.9,42
+tt1800864,tt10015746,9,22,S9,Fire and Ice,Fire and Ice,2019,,62,Reality-TV,8.2,39
+tt1800864,tt10038106,9,23,S9,Three Sides to Every Story,Three Sides to Every Story,2019,,41,Reality-TV,8.4,28
+tt1800864,tt37762856,9,50,S9,End of an Era: Gold Rush Special,End of an Era: Gold Rush Special,2018,,,Reality-TV,,
+tt1800864,tt9189222,9,51,S9,Gold Rush: The Rise of Rick Ness,The Rise of Rick Ness: A Gold Rush Special,2018,,,Reality-TV,5.7,9
+tt1800864,tt10921364,10,1,S10,Crisis in the Klondike,Crisis in the Klondike,2019,,83,Reality-TV,7.8,57
+tt1800864,tt11115966,10,2,S10,A New Rush Begins,A New Rush Begins,2019,,45,Reality-TV,8.0,43
+tt1800864,tt11151626,10,3,S10,The Nugget Hunter,The Nugget Hunter,2019,,41,Reality-TV,7.9,46
+tt1800864,tt11214152,10,4,S10,Leave No Gold Behind,Leave No Gold Behind,2019,,44,Reality-TV,8.1,47
+tt1800864,tt11214154,10,5,S10,We're Gonna Need a Bigger Bucket,We're Gonna Need a Bigger Bucket,2019,,41,Reality-TV,7.6,47
+tt1800864,tt11267996,10,6,S10,Monster Red Lives,Monster Red Lives,2019,,41,Reality-TV,7.7,44
+tt1800864,tt11287302,10,7,S10,Motherlode Mountain,Motherlode Mountain,2019,,41,Reality-TV,7.5,44
+tt1800864,tt11349974,10,8,S10,There Will Be Gold,There Will Be Gold,2019,,41,Reality-TV,7.7,42
+tt1800864,tt11349976,10,9,S10,No Time for Redemption,No Time for Redemption,2019,,43,Reality-TV,7.8,43
+tt1800864,tt11410160,10,10,S10,When the Levee Breaks,When the Levee Breaks,2019,,41,Reality-TV,7.8,43
+tt1800864,tt11448102,10,11,S10,Rise of the Machines,Rise of the Machines,2019,,43,Reality-TV,7.9,43
+tt1800864,tt11483836,10,12,S10,Million-Dollar Pay Day,Million-Dollar Pay Day,2020,,83,Reality-TV,7.6,43
+tt1800864,tt11609314,10,13,S10,Nuggets or Bust,Nuggets or Bust,2020,,43,Reality-TV,7.8,42
+tt1800864,tt11609466,10,14,S10,Cornered,Cornered,2020,,43,Reality-TV,7.8,42
+tt1800864,tt11680242,10,15,S10,Fortune Favors the Bold,Fortune Favors the Bold,2020,,41,Reality-TV,7.6,40
+tt1800864,tt11713818,10,16,S10,Parker Doubles Down,Parker Doubles Down,2020,,44,Reality-TV,7.7,41
+tt1800864,tt11713824,10,17,S10,Rebellion at Duncan Creek,Rebellion at Duncan Creek,2020,,44,Reality-TV,7.6,40
+tt1800864,tt11753800,10,18,S10,Frozen Treasure,Frozen Treasure,2020,,41,Reality-TV,7.7,40
+tt1800864,tt11834476,10,19,S10,Bring in the Big Guns,Bring in the Big Guns,2020,,44,Reality-TV,7.5,38
+tt1800864,tt11885336,10,20,S10,Rally in the Valley,Rally in the Valley,2020,,41,Reality-TV,7.8,36
+tt1800864,tt11885338,10,21,S10,Last Gold,Last Gold,2020,,64,Reality-TV,7.7,39
+tt1800864,tt8161182,10,102,S10,"No Guts, No Gold","No Guts, No Gold",2019,,45,Reality-TV,7.3,9
+tt1800864,tt2336908,10,103,S10,15 Million Dollar Season,15 Million Dollar Season,2019,,45,Reality-TV,6.9,20
+tt1800864,tt2337234,10,104,S10,Epic Fails,Epic Fails,2020,,45,Reality-TV,6.7,19
+tt1800864,tt2476714,10,105,S10,You Can't Stop the Beets,You Can't Stop the Beets,2019,,45,Reality-TV,6.8,18
+tt1800864,tt2476718,10,106,S10,The Road to 70 Million,The Road to 70 Million,2020,,45,Reality-TV,7.6,40
+tt1800864,tt11040434,10,107,S10,Back to the Future,Back to the Future,2019,,41,Reality-TV,6.6,7
+tt1800864,tt12471004,10,108,S10,"Shutdown, But Not Out","Shutdown, But Not Out",2020,,45,Reality-TV,6.7,8
+tt1800864,tt37762902,10,109,S10,10 Years of Gold Rush: Gold Rush Special,10 Years of Gold Rush: Gold Rush Special,2020,,,Reality-TV,,
+tt1800864,tt12256920,10,110,S10,Gold Rush: Rick's Rally,Rick's Rally: A Gold Rush Special,2020,,,Reality-TV,,
+tt1800864,tt13236694,11,1,S11,The Perfect Storm,The Perfect Storm,2020,,83,Reality-TV,7.0,42
+tt1800864,tt13405692,11,2,S11,Promised Land,Promised Land,2020,,83,Reality-TV,7.7,34
+tt1800864,tt13375590,11,3,S11,The Fast and the Furious,The Fast and the Furious,2020,,44,Reality-TV,7.7,34
+tt1800864,tt13423386,11,4,S11,Breaking the Piggy Bank,Breaking the Piggy Bank,2020,,48,Reality-TV,7.0,32
+tt1800864,tt13503534,11,5,S11,It's Alive,It's Alive,2020,,48,Reality-TV,7.2,31
+tt1800864,tt13575784,11,6,S11,Big Red vs. Sluicifer,Big Red vs. Sluicifer,2020,,48,Reality-TV,7.3,29
+tt1800864,tt13617484,11,7,S11,Rick's Sixth Sense,Rick's Sixth Sense,2020,,48,Reality-TV,7.1,29
+tt1800864,tt13665958,11,8,S11,Lost Gold of Paradise Hill,Lost Gold of Paradise Hill,2020,,48,Reality-TV,7.3,27
+tt1800864,tt13689402,11,9,S11,Back to Alaska,Back to Alaska,2020,,48,Reality-TV,6.8,28
+tt1800864,tt13788412,11,10,S11,Record Breaker,Record Breaker,2021,,45,Reality-TV,7.5,25
+tt1800864,tt13834632,11,11,S11,Frenemies,Frenemies,2021,,48,Reality-TV,7.4,26
+tt1800864,tt13878152,11,12,S11,Resurrecting Monsters,Resurrecting Monsters,2021,,43,Reality-TV,7.2,26
+tt1800864,tt13931542,11,13,S11,Got Your Six,Got Your Six,2021,,44,Reality-TV,7.2,25
+tt1800864,tt13972226,11,14,S11,Freddy to the Rescue,Freddy to the Rescue,2021,,48,Reality-TV,7.4,25
+tt1800864,tt13997386,11,15,S11,The Viking Detective,The Viking Detective,2021,,48,Reality-TV,7.5,26
+tt1800864,tt13997382,11,16,S11,No Questions Asked,No Questions Asked,2021,,46,Reality-TV,7.2,24
+tt1800864,tt14102416,11,17,S11,Growing Pains,Growing Pains,2021,,44,Reality-TV,7.3,23
+tt1800864,tt14134090,11,18,S11,The $6 Million Cut,The $6 Million Cut,2021,,48,Reality-TV,7.7,23
+tt1800864,tt14193532,11,19,S11,"Clear Eyes, Full Pans","Clear Eyes, Full Pans",2021,,45,Reality-TV,7.0,24
+tt1800864,tt14259112,11,20,S11,Attack or Retreat,Attack or Retreat,2021,,45,Reality-TV,7.2,18
+tt1800864,tt14309962,11,21,S11,Endgame,Endgame,2021,,45,Reality-TV,7.5,21
+tt1800864,tt37762637,11,50,S11,Paydirt Playbook: Gold Rush Special,Paydirt Playbook: Gold Rush Special,2020,,,Reality-TV,,
+tt1800864,tt37762710,11,51,S11,Show Me The Gold: Gold Rush Special,Show Me The Gold: Gold Rush Special,2021,,,Reality-TV,,
+tt1800864,tt14148100,11,52,S11,Gold Rush: Band of Brothers,Gold Rush: Band of Brothers,2021,,,Reality-TV,,
+tt1800864,tt13297628,11,55,S11,Confessions of a Record-Breaking Season,Confessions of a Record-Breaking Season,2020,,45,Reality-TV,7.1,24
+tt1800864,tt15359284,12,1,S12,Ground War,Ground War,2021,,45,Reality-TV,7.5,38
+tt1800864,tt15508336,12,2,S12,Battle of the Greenhorns,Battle of the Greenhorns,2021,,45,Reality-TV,7.2,38
+tt1800864,tt15540770,12,3,S12,Crash and Berm,Crash and Berm,2021,,45,Reality-TV,7.3,32
+tt1800864,tt15709736,12,4,S12,$9 Million Mistake,$9 Million Mistake,2021,,45,Reality-TV,7.1,34
+tt1800864,tt15766976,12,5,S12,Crank it to 11,Crank it to 11,2021,,45,Reality-TV,7.3,32
+tt1800864,tt15825098,12,6,S12,Curse of Hunker Creek,Curse of Hunker Creek,2021,,45,Reality-TV,7.2,32
+tt1800864,tt16043020,12,7,S12,Family Matters,Family Matters,2021,,45,Reality-TV,6.9,29
+tt1800864,tt16210920,12,8,S12,King's Gambit,King's Gambit,2021,,45,Reality-TV,6.9,27
+tt1800864,tt16210926,12,9,S12,"Big Red, Big Gold","Big Red, Big Gold",2021,,45,Reality-TV,6.9,28
+tt1800864,tt16305108,12,10,S12,The Vindication,The Vindication,2021,,45,Reality-TV,6.7,28
+tt1800864,tt16392386,12,11,S12,A New Glory Hole,A New Glory Hole,2021,,45,Reality-TV,6.9,26
+tt1800864,tt16435532,12,12,S12,Boiling Point,Boiling Point,2021,,45,Reality-TV,6.6,25
+tt1800864,tt16537786,12,13,S12,All Balls on the Table,All Balls on the Table,2021,,45,Reality-TV,7.2,28
+tt1800864,tt17023440,12,14,S12,Little Eldorado,Little Eldorado,2022,,45,Reality-TV,7.2,30
+tt1800864,tt17065664,12,15,S12,The Secret Pay Layer,The Secret Pay Layer,2022,,45,Reality-TV,7.2,29
+tt1800864,tt17347250,12,16,S12,The $4 Million Question,The $4 Million Question,2022,,45,Reality-TV,7.3,29
+tt1800864,tt17527334,12,17,S12,Bonus Gold,Bonus Gold,2022,,45,Reality-TV,7.1,29
+tt1800864,tt18233578,12,18,S12,Rebirth of Monster Red,Rebirth of Monster Red,2022,,45,Reality-TV,7.3,28
+tt1800864,tt18290782,12,19,S12,Gold at Last,Gold at Last,2022,,45,Reality-TV,6.8,26
+tt1800864,tt18335300,12,20,S12,The Alliance,The Alliance,2022,,45,Reality-TV,6.8,26
+tt1800864,tt18602000,12,21,S12,Whatever It Takes,Whatever It Takes,2022,,45,Reality-TV,7.3,25
+tt1800864,tt18748574,12,22,S12,Rally Valley Bonanza,Rally Valley Bonanza,2022,,45,Reality-TV,7.3,24
+tt1800864,tt18968060,12,23,S12,Last Stand,Last Stand,2022,,45,Reality-TV,7.4,23
+tt1800864,tt19178846,12,24,S12,From Finish to Start,From Finish to Start,2022,,45,Reality-TV,7.1,21
+tt1800864,tt37762740,12,50,S12,Against All Odds: Gold Rush Special,Against All Odds: Gold Rush Special,2021,,,Reality-TV,,
+tt1800864,tt37762762,12,51,S12,The Kid Vs. The King: Gold Rush Special,The Kid Vs. The King: Gold Rush Special,2021,,,Reality-TV,,
+tt1800864,tt37762785,12,52,S12,Klondike Kingpins: Gold Rush Special,Klondike Kingpins: Gold Rush Special,2021,,,Reality-TV,,
+tt1800864,tt37762804,12,53,S12,Madmax or Madman: Gold Rush Special,Madmax or Madman: Gold Rush Special,2021,,,Reality-TV,,
+tt1800864,tt37762821,12,54,S12,Ends of the Earth: Gold Rush Special,Ends of the Earth: Gold Rush Special,2022,,,Reality-TV,,
+tt1800864,tt22005382,13,1,S13,A Seismic Shift,A Seismic Shift,2022,,45,Reality-TV,7.5,37
+tt1800864,tt22542706,13,2,S13,Searching for Rick Ness,Searching for Rick Ness,2022,,45,Reality-TV,6.3,27
+tt1800864,tt22796660,13,3,S13,Golden Acres Prospect,Golden Acres Prospect,2022,,45,Reality-TV,7.6,26
+tt1800864,tt22985220,13,4,S13,Tony's Trench Warfare,Tony's Trench Warfare,2022,,45,Reality-TV,7.7,26
+tt1800864,tt23319948,13,5,S13,Melt Down,Melt Down,2022,,45,Reality-TV,7.3,25
+tt1800864,tt23395834,13,6,S13,Man vs. River,Man vs. River,2022,,45,Reality-TV,7.4,24
+tt1800864,tt23649968,13,7,S13,Up on Nugget Creek,Up on Nugget Creek,2022,,45,Reality-TV,7.4,22
+tt1800864,tt23779484,13,8,S13,Gold Goals,Gold Goals,2022,,45,Reality-TV,7.4,22
+tt1800864,tt23838466,13,9,S13,Freedom for the Bold,Freedom for the Bold,2022,,45,Reality-TV,6.8,23
+tt1800864,tt23987320,13,10,S13,Hunt for Alaskan Gold,Hunt for Alaskan Gold,2022,,45,Reality-TV,7.3,22
+tt1800864,tt24247870,13,11,S13,Road to Hell,Road to Hell,2022,,45,Reality-TV,7.3,22
+tt1800864,tt24667528,13,12,S13,Pain Under Pressure,Pain Under Pressure,2022,,45,Reality-TV,7.4,22
+tt1800864,tt25391964,13,13,S13,Big Gold Energy,Big Gold Energy,2022,,45,Reality-TV,7.2,22
+tt1800864,tt25809838,13,14,S13,Who's the Boss,Who's the Boss,2023,,45,Reality-TV,6.7,24
+tt1800864,tt26257650,13,15,S13,The Last Frontier,The Last Frontier,2023,,45,Reality-TV,6.7,23
+tt1800864,tt26439226,13,16,S13,Gremlins,Gremlins,2023,,45,Reality-TV,7.0,24
+tt1800864,tt26475388,13,17,S13,Mammoth Mess,Mammoth Mess,2023,,45,Reality-TV,7.0,25
+tt1800864,tt26654408,13,18,S13,Buzzified,Buzzified,2023,,45,Reality-TV,7.1,23
+tt1800864,tt26694441,13,19,S13,"Big Toys, Big Problems","Big Toys, Big Problems",2023,,45,Reality-TV,7.0,24
+tt1800864,tt26754343,13,20,S13,Washed Out,Washed Out,2023,,45,Reality-TV,7.4,23
+tt1800864,tt26897974,13,21,S13,Trial by Parker,Trial by Parker,2023,,45,Reality-TV,7.1,23
+tt1800864,tt27011200,13,22,S13,The Alaska Verdict,The Alaska Verdict,2023,,45,Reality-TV,7.2,24
+tt1800864,tt27115998,13,23,S13,Here's Johnny!,Here's Johnny!,2023,,45,Reality-TV,7.1,24
+tt1800864,tt27168303,13,24,S13,Runway to Redemption,Runway to Redemption,2023,,45,Reality-TV,7.1,20
+tt1800864,tt27250011,13,25,S13,Panama Canal Jackpot,Panama Canal Jackpot,2023,,45,Reality-TV,7.6,22
+tt1800864,tt27411153,13,26,S13,Klondike Climax,Klondike Climax,2023,,45,Reality-TV,7.9,23
+tt1800864,tt22169736,13,50,S13,Coming Clean,Coming Clean,2022,,45,Reality-TV,,
+tt1800864,tt37751311,13,51,S13,The Biggest Gold Weighs - Gold Rush Special,The Biggest Gold Weighs - Gold Rush Special,2023,,,Reality-TV,,
+tt1800864,tt27169314,13,52,S13,"Dozer Dave, All In","Dozer Dave, All In",2023,,45,Reality-TV,,
+tt1800864,tt37762839,13,53,S13,Moving Heaven and Earth: Gold Rush Special,Moving Heaven and Earth: Gold Rush Special,2022,,,Reality-TV,,
+tt1800864,tt28866200,14,1,S14,The $160 Million Gamble,The $160 Million Gamble,2023,,45,Reality-TV,7.9,36
+tt1800864,tt29359711,14,2,S14,Call of the Indian River,Call of the Indian River,2023,,45,Reality-TV,7.5,29
+tt1800864,tt29359753,14,3,S14,"Hey Parker, It's Rick","Hey Parker, It's Rick",2023,,45,Reality-TV,7.2,26
+tt1800864,tt29359779,14,4,S14,Free Agent,Free Agent,2023,,45,Reality-TV,7.3,27
+tt1800864,tt29846376,14,5,S14,Up in Smoke,Up in Smoke,2023,,45,Reality-TV,7.3,24
+tt1800864,tt29927925,14,6,S14,"Down, but Not Out","Down, but Not Out",2023,,45,Reality-TV,6.9,25
+tt1800864,tt30037213,14,7,S14,50 Ounce Ultimatum,50 Ounce Ultimatum,2023,,45,Reality-TV,7.2,25
+tt1800864,tt30061217,14,8,S14,Last Ditch Gold,Last Ditch Gold,2023,,45,Reality-TV,7.4,25
+tt1800864,tt30061221,14,9,S14,Pivot!,Pivot!,2023,,45,Reality-TV,7.3,24
+tt1800864,tt30061222,14,10,S14,Parker's Runaway Claim,Parker's Runaway Claim,2023,,45,Reality-TV,7.3,23
+tt1800864,tt30061223,14,11,S14,Frankendozer,Frankendozer,2023,,45,Reality-TV,7.3,23
+tt1800864,tt30061225,14,12,S14,Money Pit Payday,Money Pit Payday,2023,,45,Reality-TV,7.2,22
+tt1800864,tt30692397,14,13,S14,Parker Comes Alive,Parker Comes Alive,2023,,45,Reality-TV,7.7,24
+tt1800864,tt30761179,14,14,S14,Desperate Cry for Help,Desperate Cry for Help,2023,,45,Reality-TV,7.5,23
+tt1800864,tt30809818,14,15,S14,Succession,Succession,2024,,45,Reality-TV,8.0,25
+tt1800864,tt30869466,14,16,S14,Ring of Fire,Ring of Fire,2024,,45,Reality-TV,7.1,23
+tt1800864,tt31013688,14,17,S14,Moneyball,Moneyball,2024,,45,Reality-TV,7.4,23
+tt1800864,tt31077240,14,18,S14,Parker's New Toy,Parker's New Toy,2024,,45,Reality-TV,7.3,23
+tt1800864,tt31172874,14,19,S14,Off the Rails,Off the Rails,2024,,45,Reality-TV,7.2,25
+tt1800864,tt31235856,14,20,S14,Waking the Beast,Waking the Beast,2024,,45,Reality-TV,7.6,24
+tt1800864,tt31235857,14,21,S14,Rally Valley or Bust,Rally Valley or Bust,2024,,45,Reality-TV,7.4,23
+tt1800864,tt31235859,14,22,S14,The Money Pit Fights Back,The Money Pit Fights Back,2024,,45,Reality-TV,7.5,22
+tt1800864,tt31524798,14,23,S14,Winter's Reckoning,Winter's Reckoning,2024,,45,Reality-TV,9.0,33
+tt1800864,tt29195544,14,50,S14,Gold Rush: Parker Tells All,Gold Rush: Parker Tells All,2023,,,Reality-TV,8.0,8
+tt1800864,tt37752131,14,51,S14,$24 Million in Gold,$24 Million in Gold,2023,,,Reality-TV,,
+tt1800864,tt37752248,14,52,S14,When Mining Goes Wrong: Gold Rush Special,When Mining Goes Wrong: Gold Rush Special,2023,,,Reality-TV,,
+tt1800864,tt33698768,15,1,S15,Greed is Good,Greed is Good,2024,,45,Reality-TV,7.8,29
+tt1800864,tt34470116,15,2,S15,My Father's Frenemy,My Father's Frenemy,2024,,45,Reality-TV,7.0,24
+tt1800864,tt34623140,15,3,S15,Quicksand,Quicksand,2024,,45,Reality-TV,7.4,23
+tt1800864,tt34623141,15,4,S15,The Disappearing Pay Layer,The Disappearing Pay Layer,2024,,45,Reality-TV,7.0,21
+tt1800864,tt34623145,15,5,S15,On Thick Ice,On Thick Ice,2024,,45,Reality-TV,6.9,21
+tt1800864,tt34623146,15,6,S15,Come Nuggets or High Water,Come Nuggets or High Water,2024,,45,Reality-TV,7.2,23
+tt1800864,tt35048378,15,7,S15,Brother vs. Cousin,Brother vs. Cousin,2024,,45,Reality-TV,7.3,23
+tt1800864,tt35048381,15,8,S15,Flood of Emotions,Flood of Emotions,2025,,45,Reality-TV,7.8,25
+tt1800864,tt35295436,15,9,S15,Three Plant Blitz,Three Plant Blitz,2025,,45,Reality-TV,7.1,20
+tt1800864,tt35472171,15,10,S15,Big Cat Fight,Big Cat Fight,2025,,45,Reality-TV,7.1,19
+tt1800864,tt35487661,15,11,S15,Kevin Fires Up,Kevin Fires Up,2025,,45,Reality-TV,7.2,19
+tt1800864,tt35521094,15,12,S15,The King's Mistake,The King's Mistake,2025,,45,Reality-TV,7.2,19
+tt1800864,tt35521177,15,13,S15,Parker's Bombshell,Parker's Bombshell,2025,,45,Reality-TV,7.2,19
+tt1800864,tt35850776,15,14,S15,Vegas Baby!,Vegas Baby!,2025,,45,Reality-TV,7.1,19
+tt1800864,tt35850779,15,15,S15,The Thin Red Pay Layer,The Thin Red Pay Layer,2025,,45,Reality-TV,7.1,20
+tt1800864,tt36012374,15,16,S15,Rogue Foremen,Rogue Foremen,2025,,45,Reality-TV,7.3,21
+tt1800864,tt36012376,15,17,S15,Rick vs. Buzz,Rick vs. Buzz,2025,,45,Reality-TV,6.5,19
+tt1800864,tt36012377,15,18,S15,Another Man's Treasure,Another Man's Treasure,2025,,45,Reality-TV,7.3,21
+tt1800864,tt36062721,15,19,S15,Mine Boss for the Day,Mine Boss for the Day,2025,,45,Reality-TV,7.0,20
+tt1800864,tt36297940,15,20,S15,Big Man Tiny Excavator,Big Man Tiny Excavator,2025,,,Reality-TV,7.1,20
+tt1800864,tt36392536,15,21,S15,"Dredge, Baby, Dredge!","Dredge, Baby, Dredge!",2025,,,Reality-TV,6.9,20
+tt1800864,tt36458452,15,22,S15,Vegas Valley Verdict,Vegas Valley Verdict,2025,,,Reality-TV,7.2,17
+tt1800864,tt36458457,15,23,S15,Parker Heats Up,Parker Heats Up,2025,,,Reality-TV,7.2,22
+tt1800864,tt36606562,15,24,S15,The Last Dance,The Last Dance,2025,,,Reality-TV,6.8,17
+tt1800864,tt37815445,15,40,S15,Rally Valley's Last Bounty,Rally Valley's Last Bounty,2025,,,Reality-TV,,
+tt1800864,tt37752264,15,50,S15,When It All Changes: Gold Rush Special,When It All Changes: Gold Rush Special,2024,,,Reality-TV,,
+tt1800864,tt34461442,15,51,S15,Gold Rush: The Beets Dynasty,Gold Rush: The Beets Dynasty,2024,,,Reality-TV,,
+tt1800864,tt34514033,15,52,S15,Gold Rush: Miners vs. Mother Nature,Gold Rush: Miners vs. Mother Nature,2024,,,Reality-TV,,
+tt1800864,tt35237971,15,53,S15,Expansion Mode,Expansion Mode,2024,,45,Reality-TV,7.5,11
+tt1800864,tt35474435,15,54,S15,Gold Rush: It's Good to be King,Gold Rush: It's Good to be King,2025,,,Reality-TV,7.6,11
+tt1800864,tt36392535,15,55,S15,Worth Their Weight in Gold,Worth Their Weight in Gold,2025,,,Reality-TV,,
+tt1800864,tt36551647,15,56,S15,The Man in the Gold Room,The Man in the Gold Room,2025,,,Reality-TV,,
+tt1800864,tt38623936,16,1,S16,Records Will be Broken,Records Will be Broken,2025,,,Reality-TV,7.5,13
+tt1800864,tt38907123,16,2,S16,Eager Beavers,Eager Beavers,2025,,,Reality-TV,6.2,10
+tt1800864,tt39006363,16,3,S16,Rick's Bold Call,Rick's Bold Call,2025,,,Reality-TV,7.3,8
+tt1800864,tt39006370,16,4,S16,Buzz in the Hills,Buzz in the Hills,2025,,,Reality-TV,7.6,7
+tt1800864,tt39060460,16,5,S16,Pick Me Someone to Fire,Pick Me Someone to Fire,2025,,,Reality-TV,,
+tt1800864,tt39109615,16,6,S16,The Weasel,The Weasel,2025,,,Reality-TV,,
+tt1800864,tt13340064,,,,Gold Rush: The Legend of Porcupine Creek,The Legend of Porcupine Creek: Gold Rush Special,2020,,,Reality-TV,5.7,9
+tt1800864,tt2715864,,,,Gold Rush Live,Gold Rush Live,2013,,45,Reality-TV,6.7,35
+tt1800864,tt32792427,,,,South America : 01 Peruvian Gold,South America : 01 Peruvian Gold,2013,,45,Reality-TV,,
+tt1800864,tt32792430,,,,South America : 02 Chilean Gold,South America : 02 Chilean Gold,2013,,45,Reality-TV,,
+tt1800864,tt32792432,,,,South America : 03 Guyanese Gold,South America : 03 Guyanese Gold,2013,,45,Reality-TV,,
+tt1800864,tt32792436,,,,South America : 04 The Frozen North,South America : 04 The Frozen North,2013,,45,Reality-TV,,
+tt1800864,tt32792439,,,,South America : 05 Ends of the Earth,South America : 05 Ends of the Earth,2013,,45,Reality-TV,,
+tt1800864,tt3301230,,,,Face Off,Face Off,2013,,41,Reality-TV,6.2,17
+tt1800864,tt6154296,,,,Episode dated 12 October 2016,Episode dated 12 October 2016,2016,,41,Reality-TV,7.1,11
+tt1800864,tt7539142,,,,Live Kickoff,Live Kickoff,2017,,41,Reality-TV,8.2,26

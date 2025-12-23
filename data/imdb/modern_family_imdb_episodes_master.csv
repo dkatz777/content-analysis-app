@@ -1,0 +1,251 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt1442437,tt1444504,1,1,S1,Pilot,Pilot,2009,,23,"Comedy,Drama,Romance",8.2,5818
+tt1442437,tt1492032,1,2,S1,The Bicycle Thief,The Bicycle Thief,2009,,30,"Comedy,Drama,Romance",8.1,4821
+tt1442437,tt1520618,1,3,S1,Come Fly with Me,Come Fly with Me,2009,,21,"Comedy,Drama,Romance",7.9,4268
+tt1442437,tt1523089,1,4,S1,The Incident,The Incident,2009,,21,"Comedy,Drama,Romance",8.1,4354
+tt1442437,tt1530593,1,5,S1,Coal Digger,Coal Digger,2009,,21,"Comedy,Drama,Romance",8.2,4165
+tt1442437,tt1523088,1,6,S1,Run for Your Wife,Run for Your Wife,2009,,21,"Comedy,Drama,Romance",7.7,3922
+tt1442437,tt1530594,1,7,S1,En Garde,En Garde,2009,,20,"Comedy,Drama,Romance",7.9,3862
+tt1442437,tt1530595,1,8,S1,Great Expectations,Great Expectations,2009,,21,"Comedy,Drama,Romance",7.8,3946
+tt1442437,tt1528496,1,9,S1,Fizbo,Fizbo,2009,,21,"Comedy,Drama,Romance",8.6,4457
+tt1442437,tt1536241,1,10,S1,Undeck the Halls,Undeck the Halls,2009,,21,"Comedy,Drama,Romance",8.0,3700
+tt1442437,tt1536765,1,11,S1,Up All Night,Up All Night,2010,,21,"Comedy,Drama,Romance",7.9,3630
+tt1442437,tt1581054,1,12,S1,Not in My House,Not in My House,2010,,21,"Comedy,Drama,Romance",7.7,3528
+tt1442437,tt1569106,1,13,S1,Fifteen Percent,Fifteen Percent,2010,,21,"Comedy,Drama,Romance",7.9,3588
+tt1442437,tt1580159,1,14,S1,Moon Landing,Moon Landing,2010,,21,"Comedy,Drama,Romance",8.0,3561
+tt1442437,tt1583904,1,15,S1,My Funky Valentine,My Funky Valentine,2010,,21,"Comedy,Drama,Romance",8.6,4033
+tt1442437,tt1594366,1,16,S1,Fears,Fears,2010,,21,"Comedy,Drama,Romance",7.8,3377
+tt1442437,tt1596476,1,17,S1,Truth Be Told,Truth Be Told,2010,,21,"Comedy,Drama,Romance",7.8,3389
+tt1442437,tt1615677,1,18,S1,Starry Night,Starry Night,2010,,21,"Comedy,Drama,Romance",8.0,3393
+tt1442437,tt1617483,1,19,S1,Game Changer,Game Changer,2010,,21,"Comedy,Drama,Romance",7.8,3343
+tt1442437,tt1625484,1,20,S1,Benched,Benched,2010,,21,"Comedy,Drama,Romance",7.6,3252
+tt1442437,tt1625485,1,21,S1,Travels with Scout,Travels with Scout,2010,,22,"Comedy,Drama,Romance",7.7,3273
+tt1442437,tt1643884,1,22,S1,Airport 2010,Airport 2010,2010,,21,"Comedy,Drama,Romance",8.2,3450
+tt1442437,tt1643885,1,23,S1,Hawaii,Hawaii,2010,,21,"Comedy,Drama,Romance",8.5,3654
+tt1442437,tt1624700,1,24,S1,Family Portrait,Family Portrait,2010,,21,"Comedy,Drama,Romance",8.6,3773
+tt1442437,tt1627460,2,1,S2,The Old Wagon,The Old Wagon,2010,,21,"Comedy,Drama,Romance",7.9,3313
+tt1442437,tt1627459,2,2,S2,The Kiss,The Kiss,2010,,21,"Comedy,Drama,Romance",8.0,3284
+tt1442437,tt1627443,2,3,S2,Earthquake,Earthquake,2010,,21,"Comedy,Drama,Romance",7.7,3199
+tt1442437,tt1627454,2,4,S2,Strangers on a Treadmill,Strangers on a Treadmill,2010,,21,"Comedy,Drama,Romance",7.9,3119
+tt1442437,tt1627461,2,5,S2,Unplugged,Unplugged,2010,,21,"Comedy,Drama,Romance",8.1,3211
+tt1442437,tt1627464,2,6,S2,Halloween,Halloween,2010,,21,"Comedy,Drama,Romance",8.5,3506
+tt1442437,tt1627458,2,7,S2,Chirp,Chirp,2010,,21,"Comedy,Drama,Romance",7.6,3049
+tt1442437,tt1627445,2,8,S2,Manny Get Your Gun,Manny Get Your Gun,2010,,20,"Comedy,Drama,Romance",8.3,3439
+tt1442437,tt1627462,2,9,S2,Mother Tucker,Mother Tucker,2010,,21,"Comedy,Drama,Romance",7.5,2973
+tt1442437,tt1779206,2,10,S2,Dance Dance Revelation,Dance Dance Revelation,2010,,21,"Comedy,Drama,Romance",7.4,2980
+tt1442437,tt1627446,2,11,S2,Slow Down Your Neighbors,Slow Down Your Neighbors,2011,,21,"Comedy,Drama,Romance",8.1,3239
+tt1442437,tt1627444,2,12,S2,"Our Children, Ourselves","Our Children, Ourselves",2011,,21,"Comedy,Drama,Romance",7.8,3077
+tt1442437,tt1627447,2,13,S2,Caught in the Act,Caught in the Act,2011,,21,"Comedy,Drama,Romance",8.9,4386
+tt1442437,tt1627448,2,14,S2,Bixby's Back,Bixby's Back,2011,,21,"Comedy,Drama,Romance",8.1,3031
+tt1442437,tt1627449,2,15,S2,Princess Party,Princess Party,2011,,21,"Comedy,Drama,Romance",7.5,2982
+tt1442437,tt1836487,2,16,S2,Regrets Only,Regrets Only,2011,,21,"Comedy,Drama,Romance",8.0,3016
+tt1442437,tt1841231,2,17,S2,Two Monkeys and a Panda,Two Monkeys and a Panda,2011,,21,"Comedy,Drama,Romance",7.6,2918
+tt1442437,tt1627452,2,18,S2,Boys' Night,Boys' Night,2011,,21,"Comedy,Drama,Romance",8.2,3109
+tt1442437,tt1627453,2,19,S2,The Musical Man,The Musical Man,2011,,21,"Comedy,Drama,Romance",8.2,3135
+tt1442437,tt1627455,2,20,S2,Someone to Watch Over Lily,Someone to Watch Over Lily,2011,,21,"Comedy,Drama,Romance",8.0,2893
+tt1442437,tt1627456,2,21,S2,Mother's Day,Mother's Day,2011,,21,"Comedy,Drama,Romance",8.1,3001
+tt1442437,tt1627457,2,22,S2,Good Cop Bad Dog,Good Cop Bad Dog,2011,,21,"Comedy,Drama,Romance",8.1,3019
+tt1442437,tt1900347,2,23,S2,See You Next Fall,See You Next Fall,2011,,21,"Comedy,Drama,Romance",8.2,2992
+tt1442437,tt1900348,2,24,S2,The One That Got Away,The One That Got Away,2011,,21,"Comedy,Drama,Romance",8.0,2911
+tt1442437,tt2047147,3,1,S3,Dude Ranch,Dude Ranch,2011,,21,"Comedy,Drama,Romance",7.9,3203
+tt1442437,tt2044356,3,2,S3,When Good Kids Go Bad,When Good Kids Go Bad,2011,,21,"Comedy,Drama,Romance",8.1,3017
+tt1442437,tt1983675,3,3,S3,Phil on Wire,Phil on Wire,2011,,21,"Comedy,Drama,Romance",8.0,2991
+tt1442437,tt2065470,3,4,S3,Door to Door,Door to Door,2011,,21,"Comedy,Drama,Romance",7.7,2895
+tt1442437,tt2064470,3,5,S3,Hit and Run,Hit and Run,2011,,21,"Comedy,Drama,Romance",7.7,2821
+tt1442437,tt2081815,3,6,S3,Go Bullfrogs!,Go Bullfrogs!,2011,,21,"Comedy,Drama,Romance",7.7,2825
+tt1442437,tt2089248,3,7,S3,Treehouse,Treehouse,2011,,22,"Comedy,Drama,Romance",8.1,3038
+tt1442437,tt2089249,3,8,S3,After the Fire,After the Fire,2011,,22,"Comedy,Drama,Romance",7.8,2787
+tt1442437,tt2087341,3,9,S3,Punkin Chunkin,Punkin Chunkin,2011,,21,"Comedy,Drama,Romance",7.8,2857
+tt1442437,tt2096098,3,10,S3,Express Christmas,Express Christmas,2011,,22,"Comedy,Drama,Romance",8.0,2968
+tt1442437,tt2105660,3,11,S3,Lifetime Supply,Lifetime Supply,2012,,22,"Comedy,Drama,Romance",7.7,2787
+tt1442437,tt2110811,3,12,S3,Egg Drop,Egg Drop,2012,,22,"Comedy,Drama,Romance",7.6,2727
+tt1442437,tt2181257,3,13,S3,Little Bo Bleep,Little Bo Bleep,2012,,22,"Comedy,Drama,Romance",8.4,3163
+tt1442437,tt2189485,3,14,S3,Me? Jealous?,Me? Jealous?,2012,,21,"Comedy,Drama,Romance",7.8,2774
+tt1442437,tt2209159,3,15,S3,Aunt Mommy,Aunt Mommy,2012,,20,"Comedy,Drama,Romance",8.0,2777
+tt1442437,tt2237415,3,16,S3,Virgin Territory,Virgin Territory,2012,,22,"Comedy,Drama,Romance",7.7,2790
+tt1442437,tt2244103,3,17,S3,Leap Day,Leap Day,2012,,22,"Comedy,Drama,Romance",7.9,2867
+tt1442437,tt2239817,3,18,S3,Send Out the Clowns,Send Out the Clowns,2012,,21,"Comedy,Drama,Romance",7.4,2727
+tt1442437,tt2305713,3,19,S3,Election Day,Election Day,2012,,21,"Comedy,Drama,Romance",7.7,2740
+tt1442437,tt2305715,3,20,S3,The Last Walt,The Last Walt,2012,,20,"Comedy,Drama,Romance",7.5,2639
+tt1442437,tt2247703,3,21,S3,"Planes, Trains and Cars","Planes, Trains and Cars",2012,,21,"Comedy,Drama,Romance",7.6,2651
+tt1442437,tt2342897,3,22,S3,Disneyland,Disneyland,2012,,21,"Comedy,Drama,Romance",8.1,2860
+tt1442437,tt2303805,3,23,S3,Tableau Vivant,Tableau Vivant,2012,,20,"Comedy,Drama,Romance",7.9,2656
+tt1442437,tt2358075,3,24,S3,Baby on Board,Baby on Board,2012,,20,"Comedy,Drama,Romance",8.6,3115
+tt1442437,tt2397171,4,1,S4,Bringing Up Baby,Bringing Up Baby,2012,,22,"Comedy,Drama,Romance",8.2,3103
+tt1442437,tt2360776,4,2,S4,Schooled,Schooled,2012,,22,"Comedy,Drama,Romance",8.6,3405
+tt1442437,tt2362724,4,3,S4,Snip,Snip,2012,,22,"Comedy,Drama,Romance",7.9,2680
+tt1442437,tt2404438,4,4,S4,The Butler's Escape,The Butler's Escape,2012,,22,"Comedy,Drama,Romance",7.6,2604
+tt1442437,tt2393824,4,5,S4,Open House of Horrors,Open House of Horrors,2012,,21,"Comedy,Drama,Romance",7.9,2728
+tt1442437,tt2488642,4,6,S4,Yard Sale,Yard Sale,2012,,21,"Comedy,Drama,Romance",7.7,2656
+tt1442437,tt2488644,4,7,S4,Arrested,Arrested,2012,,22,"Comedy,Drama,Romance",8.4,2961
+tt1442437,tt2488652,4,8,S4,Mistery Date,Mistery Date,2012,,22,"Comedy,Drama,Romance",8.2,2844
+tt1442437,tt2459378,4,9,S4,When a Tree Falls,When a Tree Falls,2012,,22,"Comedy,Drama,Romance",7.6,2611
+tt1442437,tt2543110,4,10,S4,Diamond in the Rough,Diamond in the Rough,2012,,22,"Comedy,Drama,Romance",7.7,2609
+tt1442437,tt2586840,4,11,S4,New Year's Eve,New Year's Eve,2013,,22,"Comedy,Drama,Romance",8.1,2704
+tt1442437,tt2507294,4,12,S4,Party Crasher,Party Crasher,2013,,22,"Comedy,Drama,Romance",8.4,2993
+tt1442437,tt2517458,4,13,S4,Fulgencio,Fulgencio,2013,,22,"Comedy,Drama,Romance",8.9,4885
+tt1442437,tt2568884,4,14,S4,A Slight at the Opera,A Slight at the Opera,2013,,22,"Comedy,Drama,Romance",7.5,2562
+tt1442437,tt2691640,4,15,S4,Heart Broken,Heart Broken,2013,,22,"Comedy,Drama,Romance",7.7,2520
+tt1442437,tt2708166,4,16,S4,Bad Hair Day,Bad Hair Day,2013,,22,"Comedy,Drama,Romance",7.3,2511
+tt1442437,tt2573094,4,17,S4,Best Men,Best Men,2013,,22,"Comedy,Drama,Romance",8.0,2675
+tt1442437,tt2586848,4,18,S4,The Wow Factor,The Wow Factor,2013,,22,"Comedy,Drama,Romance",7.6,2510
+tt1442437,tt2799086,4,19,S4,The Future Dunphys,The Future Dunphys,2013,,22,"Comedy,Drama,Romance",7.9,2675
+tt1442437,tt2799078,4,20,S4,Flip Flop,Flip Flop,2013,,22,"Comedy,Drama,Romance",7.7,2494
+tt1442437,tt2716564,4,21,S4,Career Day,Career Day,2013,,22,"Comedy,Drama,Romance",7.5,2429
+tt1442437,tt2720510,4,22,S4,My Hero,My Hero,2013,,22,"Comedy,Drama,Romance",7.8,2512
+tt1442437,tt2814070,4,23,S4,Games People Play,Games People Play,2013,,22,"Comedy,Drama,Romance",7.7,2446
+tt1442437,tt2770826,4,24,S4,Goodnight Gracie,Goodnight Gracie,2013,,22,"Comedy,Drama,Romance",8.2,2833
+tt1442437,tt2911820,5,1,S5,"Suddenly, Last Summer","Suddenly, Last Summer",2013,,22,"Comedy,Drama,Romance",8.1,2912
+tt1442437,tt3116354,5,2,S5,First Days,First Days,2013,,21,"Comedy,Drama,Romance",7.7,2626
+tt1442437,tt3172360,5,3,S5,Larry's Wife,Larry's Wife,2013,,22,"Comedy,Drama,Romance",7.5,2523
+tt1442437,tt3183992,5,4,S5,Farm Strong,Farm Strong,2013,,21,"Comedy,Drama,Romance",7.7,2517
+tt1442437,tt3237940,5,5,S5,The Late Show,The Late Show,2013,,21,"Comedy,Drama,Romance",8.1,2752
+tt1442437,tt3267504,5,6,S5,The Help,The Help,2013,,22,"Comedy,Drama,Romance",7.6,2536
+tt1442437,tt3292104,5,7,S5,A Fair to Remember,A Fair to Remember,2013,,22,"Comedy,Drama,Romance",7.8,2728
+tt1442437,tt3293410,5,8,S5,ClosetCon '13,ClosetCon '13,2013,,21,"Comedy,Drama,Romance",7.6,2523
+tt1442437,tt3266712,5,9,S5,The Big Game,The Big Game,2013,,21,"Comedy,Drama,Romance",7.5,2422
+tt1442437,tt3335562,5,10,S5,The Old Man & the Tree,The Old Man & the Tree,2013,,21,"Comedy,Drama,Romance",7.8,2503
+tt1442437,tt3344996,5,11,S5,And One to Grow On,And One to Grow On,2014,,21,"Comedy,Drama,Romance",7.5,2394
+tt1442437,tt3328416,5,12,S5,Under Pressure,Under Pressure,2014,,22,"Comedy,Drama,Romance",8.4,3024
+tt1442437,tt3410062,5,13,S5,Three Dinners,Three Dinners,2014,,21,"Comedy,Drama,Romance",8.0,2604
+tt1442437,tt3410066,5,14,S5,iSpy,iSpy,2014,,21,"Comedy,Drama,Romance",7.9,2506
+tt1442437,tt3508790,5,15,S5,The Feud,The Feud,2014,,21,"Comedy,Drama,Romance",7.6,2461
+tt1442437,tt3508794,5,16,S5,Spring-A-Ding-Fling,Spring-A-Ding-Fling,2014,,21,"Comedy,Drama,Romance",7.6,2409
+tt1442437,tt3508792,5,17,S5,Other People's Children,Other People's Children,2014,,22,"Comedy,Drama,Romance",7.8,2417
+tt1442437,tt3508788,5,18,S5,Las Vegas,Las Vegas,2014,,21,"Comedy,Drama,Romance",9.2,5388
+tt1442437,tt3508796,5,19,S5,A Hard Jay's Night,A Hard Jay's Night,2014,,21,"Comedy,Drama,Romance",7.7,2397
+tt1442437,tt3675476,5,20,S5,Australia,Australia,2014,,22,"Comedy,Drama,Romance",8.1,2690
+tt1442437,tt3684710,5,21,S5,Sleeper,Sleeper,2014,,21,"Comedy,Drama,Romance",7.5,2319
+tt1442437,tt3684716,5,22,S5,Message Received,Message Received,2014,,22,"Comedy,Drama,Romance",8.2,2494
+tt1442437,tt3588986,5,23,S5,"The Wedding, Part 1","The Wedding, Part 1",2014,,22,"Comedy,Drama,Romance",8.2,2586
+tt1442437,tt3687550,5,24,S5,"The Wedding, Part 2","The Wedding, Part 2",2014,,21,"Comedy,Drama,Romance",8.7,3101
+tt1442437,tt3722370,6,1,S6,The Long Honeymoon,The Long Honeymoon,2014,,21,"Comedy,Drama,Romance",7.9,2700
+tt1442437,tt4063326,6,2,S6,Don't Push,Don't Push,2014,,22,"Comedy,Drama,Romance",7.9,2552
+tt1442437,tt4071558,6,3,S6,The Cold,The Cold,2014,,22,"Comedy,Drama,Romance",7.8,2458
+tt1442437,tt4085200,6,4,S6,Marco Polo,Marco Polo,2014,,22,"Comedy,Drama,Romance",7.8,2483
+tt1442437,tt4102996,6,5,S6,Won't You Be Our Neighbor,Won't You Be Our Neighbor,2014,,22,"Comedy,Drama,Romance",7.8,2477
+tt1442437,tt4132862,6,6,S6,Halloween 3: AwesomeLand,Halloween 3: AwesomeLand,2014,,22,"Comedy,Drama,Romance",7.5,2435
+tt1442437,tt4166966,6,7,S6,"Queer Eyes, Full Hearts","Queer Eyes, Full Hearts",2014,,21,"Comedy,Drama,Romance",8.0,2501
+tt1442437,tt4106068,6,8,S6,Three Turkeys,Three Turkeys,2014,,21,"Comedy,Drama,Romance",8.3,2772
+tt1442437,tt4203910,6,9,S6,Strangers in the Night,Strangers in the Night,2014,,21,"Comedy,Drama,Romance",7.4,2388
+tt1442437,tt4241440,6,10,S6,Haley's 21st Birthday,Haley's 21st Birthday,2014,,21,"Comedy,Drama,Romance",8.0,2490
+tt1442437,tt4303618,6,11,S6,The Day We Almost Died,The Day We Almost Died,2015,,22,"Comedy,Drama,Romance",8.3,2863
+tt1442437,tt4303620,6,12,S6,The Big Guns,The Big Guns,2015,,21,"Comedy,Drama,Romance",7.6,2384
+tt1442437,tt4389738,6,13,S6,Rash Decisions,Rash Decisions,2015,,22,"Comedy,Drama,Romance",7.5,2338
+tt1442437,tt4389740,6,14,S6,Valentine's Day 4: Twisted Sister,Valentine's Day 4: Twisted Sister,2015,,22,"Comedy,Drama,Romance",7.7,2385
+tt1442437,tt4389742,6,15,S6,Fight or Flight,Fight or Flight,2015,,21,"Comedy,Drama,Romance",7.8,2440
+tt1442437,tt4389744,6,16,S6,Connection Lost,Connection Lost,2015,,22,"Comedy,Drama,Romance",9.5,9562
+tt1442437,tt4454724,6,17,S6,Closet? You'll Love It!,Closet? You'll Love It!,2015,,22,"Comedy,Drama,Romance",7.8,2436
+tt1442437,tt4464076,6,18,S6,Spring Break,Spring Break,2015,,21,"Comedy,Drama,Romance",7.3,2302
+tt1442437,tt4464078,6,19,S6,"Grill, Interrupted","Grill, Interrupted",2015,,22,"Comedy,Drama,Romance",7.6,2293
+tt1442437,tt4454702,6,20,S6,Knock 'Em Down,Knock 'Em Down,2015,,21,"Comedy,Drama,Romance",8.1,2396
+tt1442437,tt4464080,6,21,S6,Integrity,Integrity,2015,,22,"Comedy,Drama,Romance",7.6,2198
+tt1442437,tt4464088,6,22,S6,Patriot Games,Patriot Games,2015,,21,"Comedy,Drama,Romance",7.9,2303
+tt1442437,tt4464092,6,23,S6,Crying Out Loud,Crying Out Loud,2015,,22,"Comedy,Drama,Romance",8.2,2375
+tt1442437,tt4464094,6,24,S6,American Skyper,American Skyper,2015,,21,"Comedy,Drama,Romance",8.7,3004
+tt1442437,tt4695160,7,1,S7,Summer Lovin',Summer Lovin',2015,,22,"Comedy,Drama,Romance",7.7,2443
+tt1442437,tt4941946,7,2,S7,The Day Alex Left for College,The Day Alex Left for College,2015,,22,"Comedy,Drama,Romance",7.6,2308
+tt1442437,tt5056418,7,3,S7,The Closet Case,The Closet Case,2015,,22,"Comedy,Drama,Romance",7.7,2239
+tt1442437,tt5015956,7,4,S7,She Crazy,She Crazy,2015,,22,"Comedy,Drama,Romance",7.6,2243
+tt1442437,tt5115000,7,5,S7,The Verdict,The Verdict,2015,,22,"Comedy,Drama,Romance",7.4,2185
+tt1442437,tt5143558,7,6,S7,The More You Ignore Me,The More You Ignore Me,2015,,21,"Comedy,Drama,Romance",7.4,2113
+tt1442437,tt5143564,7,7,S7,"Phil's Sexy, Sexy House","Phil's Sexy, Sexy House",2015,,21,"Comedy,Drama,Romance",8.6,2939
+tt1442437,tt5197990,7,8,S7,Clean Out Your Junk Drawer,Clean Out Your Junk Drawer,2015,,21,"Comedy,Drama,Romance",7.9,2571
+tt1442437,tt5209922,7,9,S7,White Christmas,White Christmas,2015,,21,"Comedy,Drama,Romance",8.3,2530
+tt1442437,tt5042714,7,10,S7,Playdates,Playdates,2016,,21,"Comedy,Drama,Romance",7.6,2215
+tt1442437,tt5042722,7,11,S7,Spread Your Wings,Spread Your Wings,2016,,21,"Comedy,Drama,Romance",7.9,2318
+tt1442437,tt5200458,7,12,S7,Clean for a Day,Clean for a Day,2016,,21,"Comedy,Drama,Romance",7.4,2083
+tt1442437,tt5244906,7,13,S7,Thunk in the Trunk,Thunk in the Trunk,2016,,21,"Comedy,Drama,Romance",7.5,2129
+tt1442437,tt5259588,7,14,S7,The Storm,The Storm,2016,,21,"Comedy,Drama,Romance",8.1,2356
+tt1442437,tt5265080,7,15,S7,I Don't Know How She Does It,I Don't Know How She Does It,2016,,21,"Comedy,Drama,Romance",7.6,2090
+tt1442437,tt5357382,7,16,S7,The Cover-Up,The Cover-Up,2016,,21,"Comedy,Drama,Romance",8.0,2195
+tt1442437,tt5357386,7,17,S7,Express Yourself,Express Yourself,2016,,21,"Comedy,Drama,Romance",7.6,2065
+tt1442437,tt5357390,7,18,S7,The Party,The Party,2016,,21,"Comedy,Drama,Romance",8.6,2838
+tt1442437,tt5357396,7,19,S7,Man Shouldn't Lie,Man Shouldn't Lie,2016,,21,"Comedy,Drama,Romance",7.6,2113
+tt1442437,tt5357398,7,20,S7,Promposal,Promposal,2016,,21,"Comedy,Drama,Romance",7.4,2017
+tt1442437,tt5357400,7,21,S7,Crazy Train,Crazy Train,2016,,21,"Comedy,Drama,Romance",8.0,2221
+tt1442437,tt5357406,7,22,S7,Double Click,Double Click,2016,,21,"Comedy,Drama,Romance",8.1,2194
+tt1442437,tt5530750,8,1,S8,A Tale of Three Cities,A Tale of Three Cities,2016,,21,"Comedy,Drama,Romance",8.1,2415
+tt1442437,tt5357404,8,2,S8,A Stereotypical Day,A Stereotypical Day,2016,,21,"Comedy,Drama,Romance",7.5,2128
+tt1442437,tt5042724,8,3,S8,Blindsided,Blindsided,2016,,21,"Comedy,Drama,Romance",7.4,2026
+tt1442437,tt6014414,8,4,S8,Weathering Heights,Weathering Heights,2016,,21,"Comedy,Drama,Romance",7.5,1998
+tt1442437,tt6074728,8,5,S8,Halloween 4: The Revenge of Rod Skyhook,Halloween 4: The Revenge of Rod Skyhook,2016,,21,"Comedy,Drama,Romance",7.6,2082
+tt1442437,tt6074546,8,6,S8,Grab It,Grab It,2016,,21,"Comedy,Drama,Romance",7.2,1965
+tt1442437,tt6184702,8,7,S8,Thanksgiving Jamboree,Thanksgiving Jamboree,2016,,21,"Comedy,Drama,Romance",7.3,2014
+tt1442437,tt6189510,8,8,S8,The Alliance,The Alliance,2016,,21,"Comedy,Drama,Romance",8.4,2655
+tt1442437,tt6254222,8,9,S8,Snow Ball,Snow Ball,2016,,21,"Comedy,Drama,Romance",7.3,1959
+tt1442437,tt6199718,8,10,S8,Ringmaster Keifth,Ringmaster Keifth,2017,,21,"Comedy,Drama,Romance",7.4,1980
+tt1442437,tt6300118,8,11,S8,Sarge & Pea,Sarge & Pea,2017,,21,"Comedy,Drama,Romance",7.2,1933
+tt1442437,tt6300120,8,12,S8,Do You Believe in Magic,Do You Believe in Magic,2017,,21,"Comedy,Drama,Romance",7.7,2007
+tt1442437,tt6264670,8,13,S8,Do It Yourself,Do It Yourself,2017,,20,"Comedy,Drama,Romance",7.3,1854
+tt1442437,tt6320554,8,14,S8,Heavy Is the Head,Heavy Is the Head,2017,,21,"Comedy,Drama,Romance",7.1,1821
+tt1442437,tt6412096,8,15,S8,Finding Fizbo,Finding Fizbo,2017,,21,"Comedy,Drama,Romance",6.8,1863
+tt1442437,tt6412100,8,16,S8,Basketball,Basketball,2017,,21,"Comedy,Drama,Romance",7.2,1874
+tt1442437,tt6421476,8,17,S8,Pig Moon Rising,Pig Moon Rising,2017,,21,"Comedy,Drama,Romance",7.6,1904
+tt1442437,tt6421472,8,18,S8,Five Minutes,Five Minutes,2017,,21,"Comedy,Drama,Romance",7.7,2257
+tt1442437,tt6421474,8,19,S8,Frank's Wedding,Frank's Wedding,2017,,21,"Comedy,Drama,Romance",7.4,1900
+tt1442437,tt6421480,8,20,S8,All Things Being Equal,All Things Being Equal,2017,,21,"Comedy,Drama,Romance",6.4,2311
+tt1442437,tt6421484,8,21,S8,Alone Time,Alone Time,2017,,21,"Comedy,Drama,Romance",7.6,1902
+tt1442437,tt5915114,8,22,S8,The Graduates,The Graduates,2017,,21,"Comedy,Drama,Romance",7.8,1945
+tt1442437,tt6876608,9,1,S9,Lake Life,Lake Life,2017,,21,"Comedy,Drama,Romance",8.0,2525
+tt1442437,tt7339924,9,2,S9,The Long Goodbye,The Long Goodbye,2017,,21,"Comedy,Drama,Romance",7.3,1921
+tt1442437,tt7339922,9,3,S9,Catch of the Day,Catch of the Day,2017,,21,"Comedy,Drama,Romance",7.4,1836
+tt1442437,tt7459358,9,4,S9,"Sex, Lies & Kickball","Sex, Lies & Kickball",2017,,21,"Comedy,Drama,Romance",7.1,1852
+tt1442437,tt7476576,9,5,S9,"It's the Great Pumpkin, Phil Dunphy","It's the Great Pumpkin, Phil Dunphy",2017,,21,"Comedy,Drama,Romance",7.3,1808
+tt1442437,tt7514012,9,6,S9,Ten Years Later,Ten Years Later,2017,,21,"Comedy,Drama,Romance",7.2,1838
+tt1442437,tt7569884,9,7,S9,Winner Winner Turkey Dinner,Winner Winner Turkey Dinner,2017,,21,"Comedy,Drama,Romance",7.6,1905
+tt1442437,tt7578286,9,8,S9,Brushes with Celebrity,Brushes with Celebrity,2017,,21,"Comedy,Drama,Romance",7.3,1939
+tt1442437,tt7656366,9,9,S9,Tough Love,Tough Love,2017,,21,"Comedy,Drama,Romance",7.2,1743
+tt1442437,tt7671206,9,10,S9,No Small Feet,No Small Feet,2017,,21,"Comedy,Drama,Romance",7.1,1743
+tt1442437,tt7740568,9,11,S9,"He Said, She Shed","He Said, She Shed",2018,,21,"Comedy,Drama,Romance",7.1,1715
+tt1442437,tt7768278,9,12,S9,Dear Beloved Family,Dear Beloved Family,2018,,21,"Comedy,Drama,Romance",7.4,1787
+tt1442437,tt7768276,9,13,S9,In Your Head,In Your Head,2018,,21,"Comedy,Drama,Romance",7.3,1850
+tt1442437,tt7781868,9,14,S9,Written in the Stars,Written in the Stars,2018,,21,"Comedy,Drama,Romance",7.5,1808
+tt1442437,tt7822362,9,15,S9,Spanks for the Memories,Spanks for the Memories,2018,,21,"Comedy,Drama,Romance",6.9,1731
+tt1442437,tt7822374,9,16,S9,Wine Weekend,Wine Weekend,2018,,21,"Comedy,Drama,Romance",7.5,1879
+tt1442437,tt7822378,9,17,S9,Royal Visit,Royal Visit,2018,,21,"Comedy,Drama,Romance",7.2,1682
+tt1442437,tt7822380,9,18,S9,Daddy Issues,Daddy Issues,2018,,21,"Comedy,Drama,Romance",8.1,1991
+tt1442437,tt7822384,9,19,S9,CHiPs and Salsa,CHiPs and Salsa,2018,,21,"Comedy,Drama,Romance",6.9,1657
+tt1442437,tt7822370,9,20,S9,Mother!,Mother!,2018,,21,"Comedy,Drama,Romance",7.4,1738
+tt1442437,tt7822366,9,21,S9,The Escape,The Escape,2018,,21,"Comedy,Drama,Romance",7.6,1722
+tt1442437,tt6876612,9,22,S9,Clash of Swords,Clash of Swords,2018,,21,"Comedy,Drama,Romance",6.8,1728
+tt1442437,tt6876616,10,1,S10,I Love a Parade,I Love a Parade,2018,,21,"Comedy,Drama,Romance",6.7,1957
+tt1442437,tt8428516,10,2,S10,Kiss and Tell,Kiss and Tell,2018,,21,"Comedy,Drama,Romance",7.9,2020
+tt1442437,tt8428520,10,3,S10,A Sketchy Area,A Sketchy Area,2018,,21,"Comedy,Drama,Romance",7.2,1823
+tt1442437,tt8428522,10,4,S10,Torn Between Two Lovers,Torn Between Two Lovers,2018,,21,"Comedy,Drama,Romance",7.3,1846
+tt1442437,tt8428526,10,5,S10,Good Grief,Good Grief,2018,,21,"Comedy,Drama,Romance",7.3,1923
+tt1442437,tt8428530,10,6,S10,On the Same Paige,On the Same Paige,2018,,21,"Comedy,Drama,Romance",7.4,1765
+tt1442437,tt8428610,10,7,S10,Did the Chicken Cross the Road?,Did the Chicken Cross the Road?,2018,,21,"Comedy,Drama,Romance",7.4,1675
+tt1442437,tt8428532,10,8,S10,Kids These Days,Kids These Days,2018,,21,"Comedy,Drama,Romance",7.2,1714
+tt1442437,tt8428548,10,9,S10,Putting Down Roots,Putting Down Roots,2018,,21,"Comedy,Drama,Romance",7.5,1654
+tt1442437,tt8428534,10,10,S10,Stuck in a Moment,Stuck in a Moment,2018,,21,"Comedy,Drama,Romance",7.5,1688
+tt1442437,tt8428554,10,11,S10,A Moving Day,A Moving Day,2019,,21,"Comedy,Drama,Romance",7.0,1624
+tt1442437,tt8428562,10,12,S10,Blasts from the Past,Blasts from the Past,2019,,21,"Comedy,Drama,Romance",6.7,1638
+tt1442437,tt8428572,10,13,S10,Whanex?,Whanex?,2019,,21,"Comedy,Drama,Romance",6.8,1598
+tt1442437,tt8428576,10,14,S10,We Need to Talk About Lily,We Need to Talk About Lily,2019,,21,"Comedy,Drama,Romance",7.3,1638
+tt1442437,tt8428590,10,15,S10,SuperShowerBabyBowl,SuperShowerBabyBowl,2019,,21,"Comedy,Drama,Romance",7.3,1605
+tt1442437,tt8428602,10,16,S10,Red Alert,Red Alert,2019,,21,"Comedy,Drama,Romance",6.9,1615
+tt1442437,tt8428622,10,17,S10,The Wild,The Wild,2019,,21,"Comedy,Drama,Romance",7.2,1679
+tt1442437,tt8428626,10,18,S10,Stand by Your Man,Stand by Your Man,2019,,21,"Comedy,Drama,Romance",7.2,1589
+tt1442437,tt8428632,10,19,S10,Yes-Woman,Yes-Woman,2019,,21,"Comedy,Drama,Romance",7.5,1687
+tt1442437,tt8428638,10,20,S10,Can't Elope,Can't Elope,2019,,21,"Comedy,Drama,Romance",7.9,1746
+tt1442437,tt8428648,10,21,S10,Commencement,Commencement,2019,,21,"Comedy,Drama,Romance",7.2,1640
+tt1442437,tt6876620,10,22,S10,A Year of Birthdays,A Year of Birthdays,2019,,21,"Comedy,Drama,Romance",8.6,2245
+tt1442437,tt9728344,11,1,S11,New Kids on the Block,New Kids on the Block,2019,,21,"Comedy,Drama,Romance",6.6,1920
+tt1442437,tt10815674,11,2,S11,Snapped,Snapped,2019,,21,"Comedy,Drama,Romance",7.3,1774
+tt1442437,tt10851244,11,3,S11,Perfect Pairs,Perfect Pairs,2019,,21,"Comedy,Drama,Romance",7.2,1659
+tt1442437,tt10926374,11,4,S11,Pool Party,Pool Party,2019,,21,"Comedy,Drama,Romance",7.1,1679
+tt1442437,tt11022174,11,5,S11,The Last Halloween,The Last Halloween,2019,,21,"Comedy,Drama,Romance",7.7,1776
+tt1442437,tt10964158,11,6,S11,A Game of Chicken,A Game of Chicken,2019,,20,"Comedy,Drama,Romance",6.8,1650
+tt1442437,tt11224340,11,7,S11,The Last Thanksgiving,The Last Thanksgiving,2019,,21,"Comedy,Drama,Romance",7.3,1646
+tt1442437,tt11248096,11,8,S11,Tree's a Crowd,Tree's a Crowd,2019,,21,"Comedy,Drama,Romance",7.0,1594
+tt1442437,tt11248100,11,9,S11,The Last Christmas,The Last Christmas,2019,,20,"Comedy,Drama,Romance",7.7,1800
+tt1442437,tt11248102,11,10,S11,The Prescott,The Prescott,2020,,21,"Comedy,Drama,Romance",8.2,2485
+tt1442437,tt11248106,11,11,S11,Legacy,Legacy,2020,,21,"Comedy,Drama,Romance",7.7,1973
+tt1442437,tt11248108,11,12,S11,Dead on a Rival,Dead on a Rival,2020,,21,"Comedy,Drama,Romance",6.8,1568
+tt1442437,tt11248110,11,13,S11,Paris,Paris,2020,,21,"Comedy,Drama,Romance",7.7,1858
+tt1442437,tt11248112,11,14,S11,Spuds,Spuds,2020,,21,"Comedy,Drama,Romance",7.6,1717
+tt1442437,tt11248114,11,15,S11,Baby Steps,Baby Steps,2020,,21,"Comedy,Drama,Romance",7.2,1554
+tt1442437,tt11248116,11,16,S11,I'm Going to Miss This,I'm Going to Miss This,2020,,21,"Comedy,Drama,Romance",7.3,1533
+tt1442437,tt11248118,11,17,S11,Finale: Part 1,Finale: Part 1,2020,,43,"Comedy,Drama,Romance",8.3,2095
+tt1442437,tt10584958,11,18,S11,Finale: Part 2,Finale: Part 2,2020,,20,"Comedy,Drama,Romance",8.6,2840

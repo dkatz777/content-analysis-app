@@ -1,0 +1,419 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt1596786,tt1619346,1,1,S1,Big Bear,Big Bear,2010,,44,"Documentary,Reality-TV",7.3,81
+tt1596786,tt1619350,1,2,S1,Super Scooter,Super Scooter,2010,,42,"Documentary,Reality-TV",7.5,62
+tt1596786,tt1619351,1,3,S1,White Castle on the Farm,White Castle on the Farm,2010,,43,"Documentary,Reality-TV",7.4,62
+tt1596786,tt1619348,1,4,S1,Invisible Pump,Invisible Pump,2010,,43,"Documentary,Reality-TV",7.6,63
+tt1596786,tt1619345,1,5,S1,Back Breaker,Back Breaker,2010,,43,"Documentary,Reality-TV",7.2,57
+tt1596786,tt1619349,1,6,S1,Mole Man,Mole Man,2010,,43,"Documentary,Reality-TV",7.7,56
+tt1596786,tt1619347,1,7,S1,Frank's Gamble,Frank's Gamble,2010,,44,"Documentary,Reality-TV",7.6,56
+tt1596786,tt1619344,1,8,S1,5 Acres of Junk,5 Acres of Junk,2010,,44,"Documentary,Reality-TV",7.3,57
+tt1596786,tt1635554,1,9,S1,Bigfoot in Alabama,Bigfoot in Alabama,2010,,22,"Documentary,Reality-TV",7.3,43
+tt1596786,tt1635556,1,10,S1,Know When to Fold,Know When to Fold,2010,,22,"Documentary,Reality-TV",7.3,44
+tt1596786,tt1635555,1,11,S1,Fill'er Up,Fill'er Up,2010,,22,"Documentary,Reality-TV",7.5,46
+tt1596786,tt1635557,1,12,S1,Leland's Cafe,Leland's Cafe,2010,,22,"Documentary,Reality-TV",7.6,45
+tt1596786,tt1685056,2,1,S2,Art of the Deal,Art of the Deal,2010,,44,"Documentary,Reality-TV",7.5,47
+tt1596786,tt1685057,2,2,S2,Buddy's Booby Trap,Buddy's Booby Trap,2010,,44,"Documentary,Reality-TV",7.4,45
+tt1596786,tt1669876,2,3,S2,Gordon's Gold Mine,Gordon's Gold Mine,2010,,44,"Documentary,Reality-TV",7.7,42
+tt1596786,tt1685059,2,4,S2,Smooth Operators,Smooth Operators,2010,,43,"Documentary,Reality-TV",7.6,43
+tt1596786,tt1685058,2,5,S2,Getting the Boot,Getting the Boot,2010,,44,"Documentary,Reality-TV",7.6,40
+tt1596786,tt1702636,2,6,S2,Easy Riders,Easy Riders,2010,,44,"Documentary,Reality-TV",7.6,43
+tt1596786,tt1701232,2,7,S2,Psychic Pickings,Psychic Pickings,2010,,44,"Documentary,Reality-TV",7.5,38
+tt1596786,tt1713077,2,8,S2,One Pony Town,One Pony Town,2010,,44,"Documentary,Reality-TV",7.3,37
+tt1596786,tt1713076,2,9,S2,Hobo Jack,Hobo Jack,2010,,44,"Documentary,Reality-TV",7.8,42
+tt1596786,tt1748472,2,10,S2,Laurel and Hardy,Laurel and Hardy,2010,,43,"Documentary,Reality-TV",7.4,39
+tt1596786,tt1724630,2,11,S2,Frank Flips,Frank Flips,2010,,44,"Documentary,Reality-TV",7.7,40
+tt1596786,tt1936024,2,12,S2,Mike's Breakdown,Mike's Breakdown,2010,,44,"Documentary,Reality-TV",7.6,37
+tt1596786,tt1766246,2,13,S2,Pint-Sized Picker,Pint-Sized Picker,2010,,44,"Documentary,Reality-TV",7.1,36
+tt1596786,tt1901276,3,1,S3,A Banner Pick,A Banner Pick,2010,,45,"Documentary,Reality-TV",7.9,36
+tt1596786,tt1901277,3,2,S3,Danielle Goes Picking,Danielle Goes Picking,2010,,43,"Documentary,Reality-TV",7.8,40
+tt1596786,tt1901278,3,3,S3,What's in the Box?,What's in the Box?,2010,,44,"Documentary,Reality-TV",7.4,32
+tt1596786,tt1935374,3,4,S3,Fairlane Fever,Fairlane Fever,2010,,44,"Documentary,Reality-TV",7.4,33
+tt1596786,tt1928384,3,5,S3,Too Hot to Handle,Too Hot to Handle,2011,,44,"Documentary,Reality-TV",7.2,33
+tt1596786,tt1959722,3,6,S3,Trading Up,Trading Up,2011,,44,"Documentary,Reality-TV",7.0,34
+tt1596786,tt1826984,3,7,S3,The Emu Chase,The Emu Chase,2011,,43,"Documentary,Reality-TV",7.3,40
+tt1596786,tt1911703,3,8,S3,Keep Out!,Keep Out!,2011,,44,"Documentary,Reality-TV",7.1,31
+tt1596786,tt1842566,3,9,S3,They Boldly Go,They Boldly Go,2011,,44,"Documentary,Reality-TV",7.6,42
+tt1596786,tt1910697,3,10,S3,The Possum Trot,The Possum Trot,2011,,44,"Documentary,Reality-TV",7.6,32
+tt1596786,tt1868163,3,11,S3,California Dreamin',California Dreamin',2011,,44,"Documentary,Reality-TV",7.3,34
+tt1596786,tt1870616,3,12,S3,Frank's Big Shot,Frank's Big Shot,2011,,44,"Documentary,Reality-TV",7.3,34
+tt1596786,tt1877962,3,13,S3,NASCAR Challenge,NASCAR Challenge,2011,,44,"Documentary,Reality-TV",7.5,31
+tt1596786,tt1959720,4,1,S4,Civil War Pickings,Civil War Pickings,2011,,44,"Documentary,Reality-TV",7.9,34
+tt1596786,tt1946580,4,2,S4,An Indian Reunion,An Indian Reunion,2011,,44,"Documentary,Reality-TV",7.4,26
+tt1596786,tt1950485,4,3,S4,Airstream Dream,Airstream Dream,2011,,44,"Documentary,Reality-TV",7.2,29
+tt1596786,tt1959721,4,4,S4,"The Pick, the Pawn and the Polish","The Pick, the Pawn and the Polish",2011,,45,"Documentary,Reality-TV",7.4,30
+tt1596786,tt1996514,4,5,S4,Pandora's Box,Pandora's Box,2011,,44,"Documentary,Reality-TV",7.4,28
+tt1596786,tt2007563,4,6,S4,Frank Bears All,Frank Bears All,2011,,44,"Documentary,Reality-TV",8.1,24
+tt1596786,tt1997637,4,7,S4,Pinball Mania,Pinball Mania,2011,,44,"Documentary,Reality-TV",7.4,28
+tt1596786,tt2005464,4,8,S4,Frank's Pacemaker,Frank's Pacemaker,2011,,44,"Documentary,Reality-TV",6.8,28
+tt1596786,tt2034204,4,9,S4,Urban Cowboys,Urban Cowboys,2011,,44,"Documentary,Reality-TV",7.3,27
+tt1596786,tt2041643,4,10,S4,Automotive Archaeology,Automotive Archaeology,2011,,44,"Documentary,Reality-TV",7.6,26
+tt1596786,tt2049664,4,11,S4,Motor City,Motor City,2011,,43,"Documentary,Reality-TV",7.2,28
+tt1596786,tt2057525,4,12,S4,8th Grade Humor,8th Grade Humor,2011,,43,"Documentary,Reality-TV",6.6,29
+tt1596786,tt2162907,5,1,S5,Jurassic Pick,Jurassic Pick,2011,,43,"Documentary,Reality-TV",7.2,34
+tt1596786,tt2119599,5,2,S5,Not So Cheap Thrills,Not So Cheap Thrills,2011,,43,"Documentary,Reality-TV",7.2,32
+tt1596786,tt2124204,5,3,S5,Pickin Perry-Dise,Pickin Perry-Dise,2011,,43,"Documentary,Reality-TV",7.3,32
+tt1596786,tt2131709,5,4,S5,The Mad Catter,The Mad Catter,2011,,43,"Documentary,Reality-TV",7.3,30
+tt1596786,tt2137541,5,5,S5,Fast Eddie,Fast Eddie,2011,,43,"Documentary,Reality-TV",6.8,30
+tt1596786,tt2151959,5,6,S5,What Happens in Sturgis...,What Happens in Sturgis...,2012,,43,"Documentary,Reality-TV",7.4,28
+tt1596786,tt2149321,5,7,S5,The Elephant in the Room,The Elephant in the Room,2012,,44,"Documentary,Reality-TV",7.7,34
+tt1596786,tt2168083,5,8,S5,Picker Man Blues,Picker Man Blues,2012,,44,"Documentary,Reality-TV",7.2,31
+tt1596786,tt2179351,5,9,S5,Frank's Dog Days,Frank's Dog Days,2012,,43,"Documentary,Reality-TV",7.0,35
+tt1596786,tt2190515,5,10,S5,Odd Fellas,Odd Fellas,2012,,43,"Documentary,Reality-TV",7.2,30
+tt1596786,tt3535102,5,11,S5,When Horses Fly,When Horses Fly,2012,,43,"Documentary,Reality-TV",7.9,22
+tt1596786,tt2245359,5,12,S5,Knuckleheads,Knuckleheads,2012,,44,"Documentary,Reality-TV",6.9,26
+tt1596786,tt2271877,5,13,S5,The Belly Dance,The Belly Dance,2012,,43,"Documentary,Reality-TV",7.0,28
+tt1596786,tt2329001,6,1,S6,Boys' Toys,Boys' Toys,2012,,44,"Documentary,Reality-TV",7.2,26
+tt1596786,tt2366277,6,2,S6,The Return of Hobo Jack,The Return of Hobo Jack,2012,,43,"Documentary,Reality-TV",7.0,28
+tt1596786,tt3163810,6,3,S6,Mike's Holy Grail,Mike's Holy Grail,2012,,44,"Documentary,Reality-TV",7.6,25
+tt1596786,tt2395513,6,4,S6,Feudin' Pickers,Feudin' Pickers,2012,,44,"Documentary,Reality-TV",6.8,26
+tt1596786,tt2166296,6,5,S6,"Duck, Duck, Moose","Duck, Duck, Moose",2012,,44,"Documentary,Reality-TV",7.3,26
+tt1596786,tt2178618,6,6,S6,Driving Miss Dani,Driving Miss Dani,2012,,44,"Documentary,Reality-TV",7.2,27
+tt1596786,tt2192972,6,7,S6,Mama Knows Best,Mama Knows Best,2012,,44,"Documentary,Reality-TV",7.0,22
+tt1596786,tt2206530,6,8,S6,Love 'Em and Leave 'Em,Love 'Em and Leave 'Em,2012,,44,"Documentary,Reality-TV",7.1,26
+tt1596786,tt2221142,6,9,S6,You Betcha,You Betcha,2012,,44,"Documentary,Reality-TV",6.7,21
+tt1596786,tt2234968,6,10,S6,Backroad Samurai,Backroad Samurai,2012,,43,"Documentary,Reality-TV",7.4,26
+tt1596786,tt2313592,7,1,S7,Train Wreck,Train Wreck,2012,,44,"Documentary,Reality-TV",6.4,28
+tt1596786,tt3163812,7,2,S7,Where's Aldo?,Where's Aldo?,2012,,43,"Documentary,Reality-TV",7.4,24
+tt1596786,tt2337352,7,3,S7,Pickers in the Attic,Pickers in the Attic,2012,,43,"Documentary,Reality-TV",7.2,30
+tt1596786,tt2325614,7,4,S7,Guys and Dollhouses,Guys and Dollhouses,2012,,44,"Documentary,Reality-TV",6.9,29
+tt1596786,tt2444760,7,5,S7,"Guitars, Guns and Gears","Guitars, Guns and Gears",2012,,43,"Documentary,Reality-TV",7.3,24
+tt1596786,tt3535106,7,6,S7,Sturgis or Bust,Sturgis or Bust,2012,,42,"Documentary,Reality-TV",8.0,23
+tt1596786,tt3159366,7,7,S7,Picking Superheroes,Picking Superheroes,2012,,42,"Documentary,Reality-TV",7.8,25
+tt1596786,tt2502224,7,8,S7,Duke of Oil,Duke of Oil,2012,,43,"Documentary,Reality-TV",7.2,26
+tt1596786,tt3535110,7,9,S7,Substitute Picker,Substitute Picker,2012,,43,"Documentary,Reality-TV",7.7,24
+tt1596786,tt2526688,7,10,S7,Full Steam Ahead,Full Steam Ahead,2012,,43,"Documentary,Reality-TV",7.0,24
+tt1596786,tt2542734,7,11,S7,Dial F for Fritz,Dial F for Fritz,2012,,43,"Documentary,Reality-TV",7.1,23
+tt1596786,tt2517890,7,12,S7,Woody Wood Picker,Woody Wood Picker,2012,,44,"Documentary,Reality-TV",7.4,24
+tt1596786,tt2606668,8,1,S8,The Doctor Is In,The Doctor Is In,2013,,44,"Documentary,Reality-TV",7.5,27
+tt1596786,tt2621544,8,2,S8,The Million Dollar Mistake,The Million Dollar Mistake,2013,,43,"Documentary,Reality-TV",7.6,22
+tt1596786,tt2634028,8,3,S8,Haunted Honeyhole,Haunted Honeyhole,2013,,44,"Documentary,Reality-TV",7.5,25
+tt1596786,tt2647836,8,4,S8,Ladies Know Best,Ladies Know Best,2013,,44,"Documentary,Reality-TV",7.2,24
+tt1596786,tt3163802,8,5,S8,California Streaming,California Streaming,2013,,42,"Documentary,Reality-TV",8.2,24
+tt1596786,tt3535116,8,6,S8,California Gold Mine,California Gold Mine,2013,,43,"Documentary,Reality-TV",8.2,20
+tt1596786,tt2706886,8,7,S8,California Kustom,California Kustom,2013,,43,"Documentary,Reality-TV",7.8,24
+tt1596786,tt2721006,8,8,S8,Hometown Pickin',Hometown Pickin',2013,,43,"Documentary,Reality-TV",6.8,23
+tt1596786,tt2735822,8,9,S8,Cheap Pick,Cheap Pick,2013,,44,"Documentary,Reality-TV",7.1,23
+tt1596786,tt2919504,9,1,S9,The Royal Risk,The Royal Risk,2013,,44,"Documentary,Reality-TV",7.1,22
+tt1596786,tt3103666,9,2,S9,Step Right Up,Step Right Up,2013,,44,"Documentary,Reality-TV",8.0,17
+tt1596786,tt2947644,9,3,S9,Deuce Digging,Deuce Digging,2013,,44,"Documentary,Reality-TV",7.3,24
+tt1596786,tt3190506,9,4,S9,Pinch Picker,Pinch Picker,2013,,43,"Documentary,Reality-TV",8.1,20
+tt1596786,tt3535122,9,5,S9,Cowboys and Cobwebs,Cowboys and Cobwebs,2013,,43,"Documentary,Reality-TV",7.9,19
+tt1596786,tt3535126,9,6,S9,White Knuckles,White Knuckles,2013,,43,"Documentary,Reality-TV",8.2,18
+tt1596786,tt3026538,9,7,S9,Bad Mother Shucker,Bad Mother Shucker,2013,,43,"Documentary,Reality-TV",7.0,18
+tt1596786,tt3042266,9,8,S9,Traders of the Lost Parts,Traders of the Lost Parts,2013,,43,"Documentary,Reality-TV",6.8,20
+tt1596786,tt3062248,9,9,S9,Reverse the Curse,Reverse the Curse,2013,,43,"Documentary,Reality-TV",7.0,20
+tt1596786,tt3075476,9,10,S9,Going Hollywood,Going Hollywood,2013,,43,"Documentary,Reality-TV",7.0,20
+tt1596786,tt3094626,9,11,S9,Louisiana Purchase,Louisiana Purchase,2013,,44,"Documentary,Reality-TV",7.1,19
+tt1596786,tt3535138,9,12,S9,Grin and Bear It,Grin and Bear It,2013,,42,"Documentary,Reality-TV",7.5,18
+tt1596786,tt3332600,10,1,S10,The Italian Job: Part 1,The Italian Job: Part 1,2013,,43,"Documentary,Reality-TV",8.3,25
+tt1596786,tt3218940,10,2,S10,The Italian Job: Part 2,The Italian Job: Part 2,2013,,43,"Documentary,Reality-TV",8.2,23
+tt1596786,tt3236722,10,3,S10,Sicilian Standoff,Sicilian Standoff,2013,,43,"Documentary,Reality-TV",7.9,20
+tt1596786,tt3254208,10,4,S10,London Calling,London Calling,2013,,43,"Documentary,Reality-TV",8.5,24
+tt1596786,tt3269948,10,5,S10,Pick or Treat,Pick or Treat,2013,,43,"Documentary,Reality-TV",7.7,20
+tt1596786,tt3470260,10,6,S10,Dani Smells a Rat Rod,Dani Smells a Rat Rod,2013,,43,"Documentary,Reality-TV",8.2,21
+tt1596786,tt3288742,10,7,S10,Tough Texas,Tough Texas,2013,,44,"Documentary,Reality-TV",7.9,18
+tt1596786,tt3320988,10,8,S10,Picking It Forward,Picking It Forward,2013,,44,"Documentary,Reality-TV",8.2,24
+tt1596786,tt3335320,10,9,S10,Cammy Camaro,Cammy Camaro,2013,,43,"Documentary,Reality-TV",7.8,25
+tt1596786,tt3351588,10,10,S10,Lead of a Lifetime,Lead of a Lifetime,2013,,44,"Documentary,Reality-TV",7.7,21
+tt1596786,tt3360692,10,11,S10,"Bonnie, Clyde and the King","Bonnie, Clyde and the King",2013,,44,"Documentary,Reality-TV",8.9,24
+tt1596786,tt3386658,10,12,S10,Pam's Labyrinth,Pam's Labyrinth,2013,,44,"Documentary,Reality-TV",8.6,25
+tt1596786,tt3332608,10,13,S10,Off the Road,Off the Road,2013,,42,"Documentary,Reality-TV",6.4,19
+tt1596786,tt3535156,11,1,S11,The Einstein Gamble,The Einstein Gamble,2014,,43,"Documentary,Reality-TV",8.3,28
+tt1596786,tt3440534,11,2,S11,KISS and Sell,KISS and Sell,2014,,43,"Documentary,Reality-TV",7.9,21
+tt1596786,tt3456918,11,3,S11,The King's Ransom,The King's Ransom,2014,,42,"Documentary,Reality-TV",8.2,24
+tt1596786,tt3472250,11,4,S11,For a Few Dollars More,For a Few Dollars More,2014,,43,"Documentary,Reality-TV",8.8,25
+tt1596786,tt3487734,11,5,S11,Mountain Mayhem,Mountain Mayhem,2014,,42,"Documentary,Reality-TV",8.2,20
+tt1596786,tt3613524,11,6,S11,The Mega-Pick,The Mega-Pick,2014,,42,"Documentary,Reality-TV",7.2,22
+tt1596786,tt3834692,11,7,S11,Frank's Holy Grail,Frank's Holy Grail,2014,,42,"Documentary,Reality-TV",7.8,20
+tt1596786,tt3920754,11,8,S11,Backroad Barnstorming,Backroad Barnstorming,2014,,42,"Documentary,Reality-TV",7.8,21
+tt1596786,tt3920758,11,9,S11,Legend of the Lost Indian,Legend of the Lost Indian,2014,,42,"Documentary,Reality-TV",8.2,25
+tt1596786,tt3676448,11,10,S11,Enter the Negotiator,Enter the Negotiator,2014,,43,"Documentary,Reality-TV",7.7,23
+tt1596786,tt3715366,11,11,S11,Mad as a Picker,Mad as a Picker,2014,,41,"Documentary,Reality-TV",8.0,21
+tt1596786,tt3718418,11,12,S11,Captain Quirk,Captain Quirk,2014,,43,"Documentary,Reality-TV",7.6,23
+tt1596786,tt3920778,11,13,S11,Sweet Homes Alabama,Sweet Homes Alabama,2014,,41,"Documentary,Reality-TV",7.2,18
+tt1596786,tt3767450,11,14,S11,Need for Speed,Need for Speed,2014,,43,"Documentary,Reality-TV",7.1,18
+tt1596786,tt3782972,11,15,S11,Shock Value,Shock Value,2014,,42,"Documentary,Reality-TV",6.6,20
+tt1596786,tt3920790,12,1,S12,Alien vs. Picker,Alien vs. Picker,2014,,42,"Documentary,Reality-TV",6.6,18
+tt1596786,tt3881086,12,2,S12,Raze the Roof,Raze the Roof,2014,,43,"Documentary,Reality-TV",7.3,19
+tt1596786,tt3920806,12,3,S12,Big Boy Toys,Big Boy Toys,2014,,43,"Documentary,Reality-TV",7.2,21
+tt1596786,tt3956764,12,4,S12,Plymouth Rocks,Plymouth Rocks,2014,,42,"Documentary,Reality-TV",6.7,19
+tt1596786,tt3977524,12,5,S12,Rocket Man,Rocket Man,2014,,43,"Documentary,Reality-TV",7.2,22
+tt1596786,tt3979554,12,6,S12,Virginia Is for Pickers,Virginia Is for Pickers,2014,,43,"Documentary,Reality-TV",6.9,19
+tt1596786,tt4151806,12,7,S12,The More You No,The More You No,2014,,43,"Documentary,Reality-TV",6.7,16
+tt1596786,tt4144072,12,8,S12,Thunderdome,Thunderdome,2014,,43,"Documentary,Reality-TV",6.9,17
+tt1596786,tt4161812,12,9,S12,Auburned Out,Auburned Out,2014,,43,"Documentary,Reality-TV",7.0,23
+tt1596786,tt4179662,12,10,S12,If You Talk Nice to Me,If You Talk Nice to Me,2014,,43,"Documentary,Reality-TV",7.7,21
+tt1596786,tt4654516,12,11,S12,Let's Be Frank,Let's Be Frank,2014,,42,"Documentary,Reality-TV",7.5,19
+tt1596786,tt4198304,12,12,S12,Grudge Match,Grudge Match,2014,,43,"Documentary,Reality-TV",7.2,20
+tt1596786,tt4654524,12,13,S12,Escape to Motor Mountain,Escape to Motor Mountain,2014,,43,"Documentary,Reality-TV",7.1,19
+tt1596786,tt4654528,12,14,S12,Everything Must Go,Everything Must Go,2014,,42,"Documentary,Reality-TV",7.6,21
+tt1596786,tt4337582,13,1,S13,Museum Man,Museum Man,2015,,42,"Documentary,Reality-TV",7.2,22
+tt1596786,tt4654530,13,2,S13,Big Moe,Big Moe,2015,,43,"Documentary,Reality-TV",7.5,19
+tt1596786,tt4365638,13,3,S13,May the Ford Be with You,May the Ford Be with You,2015,,43,"Documentary,Reality-TV",7.6,21
+tt1596786,tt4654534,13,4,S13,The Pickin' or the Egg,The Pickin' or the Egg,2015,,42,"Documentary,Reality-TV",7.8,22
+tt1596786,tt4654538,13,5,S13,Let It Go,Let It Go,2015,,42,"Documentary,Reality-TV",7.3,20
+tt1596786,tt4461074,13,6,S13,The Maineiacs,The Maineiacs,2015,,43,"Documentary,Reality-TV",8.1,24
+tt1596786,tt4467352,13,7,S13,From A to T,From A to T,2015,,43,"Documentary,Reality-TV",7.9,20
+tt1596786,tt4632246,13,8,S13,"Red Barn, Black Keys","Red Barn, Black Keys",2015,,43,"Documentary,Reality-TV",7.8,25
+tt1596786,tt4652748,13,9,S13,A Hard Rain's Gonna Fall,A Hard Rain's Gonna Fall,2015,,43,"Documentary,Reality-TV",8.1,24
+tt1596786,tt5203740,13,10,S13,Texas Hold 'Em,Texas Hold 'Em,2015,,43,"Documentary,Reality-TV",7.5,23
+tt1596786,tt4701958,13,11,S13,Great Minds Ink Alike,Great Minds Ink Alike,2015,,42,"Documentary,Reality-TV",7.8,27
+tt1596786,tt5203770,13,12,S13,The Big Bet,The Big Bet,2015,,41,"Documentary,Reality-TV",7.0,24
+tt1596786,tt4736266,13,13,S13,Good & Evel,Good & Evel,2015,,43,"Documentary,Reality-TV",7.4,21
+tt1596786,tt4769342,13,14,S13,The Numbers Game,The Numbers Game,2015,,43,"Documentary,Reality-TV",7.6,23
+tt1596786,tt4796962,13,15,S13,The Georgia Gambler,The Georgia Gambler,2015,,42,"Documentary,Reality-TV",7.6,25
+tt1596786,tt5203804,13,16,S13,The Empire Picks Back,The Empire Picks Back,2015,,42,"Documentary,Reality-TV",7.4,23
+tt1596786,tt5203818,13,17,S13,"Red, White and Blues","Red, White and Blues",2015,,42,"Documentary,Reality-TV",7.4,20
+tt1596786,tt4862918,13,18,S13,The Bundle Brothers,The Bundle Brothers,2015,,42,"Documentary,Reality-TV",7.9,20
+tt1596786,tt4883656,13,19,S13,Space Oddities,Space Oddities,2015,,43,"Documentary,Reality-TV",8.1,22
+tt1596786,tt4905586,13,20,S13,Daredevil Duffey,Daredevil Duffey,2015,,43,"Documentary,Reality-TV",7.2,21
+tt1596786,tt4923660,13,21,S13,Law & Hoarder,Law & Hoarder,2015,,43,"Documentary,Reality-TV",7.4,20
+tt1596786,tt4942632,13,22,S13,From Coupe to Nuts,From Coupe to Nuts,2015,,42,"Documentary,Reality-TV",7.5,23
+tt1596786,tt5203866,13,23,S13,Coin-Op Kings,Coin-Op Kings,2015,,41,"Documentary,Reality-TV",7.8,23
+tt1596786,tt5016734,13,24,S13,A Man's Home Is His Castle,A Man's Home Is His Castle,2015,,43,"Documentary,Reality-TV",8.3,27
+tt1596786,tt5078248,14,1,S14,"Like Father, Like Daughter","Like Father, Like Daughter",2015,,43,"Documentary,Reality-TV",7.8,22
+tt1596786,tt5096020,14,2,S14,Can't Catch a Break,Can't Catch a Break,2015,,42,"Documentary,Reality-TV",7.1,22
+tt1596786,tt5118738,14,3,S14,The Superfan,The Superfan,2015,,42,"Documentary,Reality-TV",7.0,20
+tt1596786,tt5203898,14,4,S14,Oddities and Commodoties,Oddities and Commodoties,2015,,42,"Documentary,Reality-TV",7.7,24
+tt1596786,tt5162730,14,5,S14,Beetle in a Haystack,Beetle in a Haystack,2015,,41,"Documentary,Reality-TV",7.3,22
+tt1596786,tt5207384,14,6,S14,Biggest Buys,Biggest Buys,2015,,,"Documentary,Reality-TV",6.6,20
+tt1596786,tt5260074,14,7,S14,Best of the 60's,Best of the 60's,2015,,,"Documentary,Reality-TV",5.5,16
+tt1596786,tt5260082,14,8,S14,Best of the 70's,Best of the 70's,2015,,,"Documentary,Reality-TV",5.1,18
+tt1596786,tt5231872,14,9,S14,Toughest Digs,Toughest Digs,2015,,,"Documentary,Reality-TV",5.8,15
+tt1596786,tt5256860,14,10,S14,Have Yourself a Merry Pickers Christmas,Have Yourself a Merry Pickers Christmas,2015,,42,"Documentary,Reality-TV",7.4,20
+tt1596786,tt5295444,14,11,S14,Who's the Rarest of Them All?,Who's the Rarest of Them All?,2016,,41,"Documentary,Reality-TV",8.0,23
+tt1596786,tt5776892,14,12,S14,On the Road Again,On the Road Again,2016,,42,"Documentary,Reality-TV",8.0,24
+tt1596786,tt5465438,14,13,S14,What's Inside the Vault?,What's Inside the Vault?,2016,,41,"Documentary,Reality-TV",7.5,20
+tt1596786,tt5838864,14,14,S14,This One Stings,This One Stings,2016,,41,"Documentary,Reality-TV",7.7,21
+tt1596786,tt6138800,14,15,S14,Full Speedo Ahead,Full Speedo Ahead,2016,,42,"Documentary,Reality-TV",6.8,18
+tt1596786,tt5440390,14,16,S14,Jersey's Jackpot,Jersey's Jackpot,2016,,42,"Documentary,Reality-TV",7.5,23
+tt1596786,tt6101094,14,17,S14,A Few Good Junk Men,A Few Good Junk Men,2016,,41,"Documentary,Reality-TV",7.6,21
+tt1596786,tt5480362,14,18,S14,Frank's Birthday,Frank's Birthday,2016,,41,"Documentary,Reality-TV",8.0,25
+tt1596786,tt5504966,14,19,S14,Signs of a Struggle,Signs of a Struggle,2016,,42,"Documentary,Reality-TV",7.2,20
+tt1596786,tt6043848,15,1,S15,A Colonel of Truth,A Colonel of Truth,2016,,42,"Documentary,Reality-TV",8.0,28
+tt1596786,tt6043852,15,2,S15,Tick Tock Pick,Tick Tock Pick,2016,,42,"Documentary,Reality-TV",7.6,25
+tt1596786,tt5712382,15,3,S15,One Giant Pick for Mankind,One Giant Pick for Mankind,2016,,42,"Documentary,Reality-TV",7.9,24
+tt1596786,tt6043858,15,4,S15,Picked a Peck of Pepper,Picked a Peck of Pepper,2016,,41,"Documentary,Reality-TV",8.4,26
+tt1596786,tt5760044,15,5,S15,Scrappy Go Lucky,Scrappy Go Lucky,2016,,42,"Documentary,Reality-TV",7.2,24
+tt1596786,tt5777812,15,6,S15,No Stoner Left Unturned,No Stoner Left Unturned,2016,,41,"Documentary,Reality-TV",7.7,23
+tt1596786,tt5796616,15,7,S15,Slim Pickings,Slim Pickings,2016,,42,"Documentary,Reality-TV",7.5,21
+tt1596786,tt6315708,15,8,S15,"Planes, Frames and Automobiles","Planes, Frames and Automobiles",2016,,42,"Documentary,Reality-TV",7.8,18
+tt1596786,tt5909006,15,9,S15,The Joy of Sax,The Joy of Sax,2016,,41,"Documentary,Reality-TV",8.0,21
+tt1596786,tt5902798,15,10,S15,Picker's Code,Picker's Code,2016,,42,"Documentary,Reality-TV",7.7,19
+tt1596786,tt5911844,15,11,S15,Another Brick in the Wall,Another Brick in the Wall,2016,,41,"Documentary,Reality-TV",8.2,24
+tt1596786,tt5920612,15,12,S15,Bucking Bronco,Bucking Bronco,2016,,41,"Documentary,Reality-TV",7.8,24
+tt1596786,tt6334850,16,1,S16,Tough Nut to Crack,Tough Nut to Crack,2016,,41,"Documentary,Reality-TV",7.8,20
+tt1596786,tt6103470,16,2,S16,Sgt. Picker's Lonely Hearts Club,Sgt. Picker's Lonely Hearts Club,2016,,42,"Documentary,Reality-TV",8.5,20
+tt1596786,tt6126788,16,3,S16,Bound for Badness,Bound for Badness,2016,,41,"Documentary,Reality-TV",8.4,21
+tt1596786,tt6484790,16,4,S16,Twin at All Costs,Twin at All Costs,2016,,41,"Documentary,Reality-TV",7.8,19
+tt1596786,tt6165248,16,5,S16,Shocked and Loaded,Shocked and Loaded,2016,,42,"Documentary,Reality-TV",7.9,17
+tt1596786,tt6187224,16,6,S16,High Energy Crisis,High Energy Crisis,2016,,42,"Documentary,Reality-TV",7.9,18
+tt1596786,tt6408704,16,7,S16,Going Down?,Going Down?,2016,,42,"Documentary,Reality-TV",8.1,17
+tt1596786,tt6432644,16,8,S16,The Greatest Pick on Earth,The Greatest Pick on Earth,2016,,41,"Documentary,Reality-TV",7.1,13
+tt1596786,tt6460716,16,9,S16,Hidden in Plane Sight,Hidden in Plane Sight,2016,,42,"Documentary,Reality-TV",8.1,15
+tt1596786,tt6483834,16,10,S16,Hydro Homestead,Hydro Homestead,2016,,41,"Documentary,Reality-TV",8.1,15
+tt1596786,tt6484794,16,11,S16,Time Warp,Time Warp,2016,,42,"Documentary,Reality-TV",7.6,13
+tt1596786,tt6484798,16,12,S16,Concrete Jungle,Concrete Jungle,2016,,42,"Documentary,Reality-TV",8.0,16
+tt1596786,tt6484814,16,13,S16,Risks and Rewards,Risks and Rewards,2016,,41,"Documentary,Reality-TV",7.7,13
+tt1596786,tt6484818,16,14,S16,Rock and a Hard Place,Rock and a Hard Place,2017,,41,"Documentary,Reality-TV",7.2,12
+tt1596786,tt6484820,16,15,S16,Catch-32,Catch-32,2017,,41,"Documentary,Reality-TV",7.8,15
+tt1596786,tt6484830,16,16,S16,Beer Factor,Beer Factor,2017,,41,"Documentary,Reality-TV",7.5,14
+tt1596786,tt6484832,16,17,S16,Divide and Conquer,Divide and Conquer,2017,,41,"Documentary,Reality-TV",8.1,16
+tt1596786,tt6951006,17,1,S17,"The $90,000 Question","The $90,000 Question",2017,,42,"Documentary,Reality-TV",8.2,19
+tt1596786,tt6920698,17,2,S17,The Great Pumpkin Showdown,The Great Pumpkin Showdown,2017,,41,"Documentary,Reality-TV",7.8,18
+tt1596786,tt6949006,17,3,S17,My Sweet Ford,My Sweet Ford,2017,,41,"Documentary,Reality-TV",7.6,16
+tt1596786,tt6977372,17,4,S17,Hello Jell-O,Hello Jell-O,2017,,42,"Documentary,Reality-TV",8.2,16
+tt1596786,tt7008822,17,5,S17,Tunnels and Treasures,Tunnels and Treasures,2017,,41,"Documentary,Reality-TV",7.8,16
+tt1596786,tt7040248,17,6,S17,Something Weird Here,Something Weird Here,2017,,41,"Documentary,Reality-TV",7.2,14
+tt1596786,tt7069404,17,7,S17,Hot Rod Hero,Hot Rod Hero,2017,,42,"Documentary,Reality-TV",7.5,17
+tt1596786,tt7391490,17,8,S17,Queen of Fortune,Queen of Fortune,2017,,41,"Documentary,Reality-TV",7.7,12
+tt1596786,tt7588470,17,9,S17,Woody's Picking Paradise,Woody's Picking Paradise,2017,,41,"Documentary,Reality-TV",8.2,15
+tt1596786,tt7456860,17,10,S17,Superhero Heaven,Superhero Heaven,2017,,41,"Documentary,Reality-TV",8.0,15
+tt1596786,tt7972008,17,11,S17,American Dream,American Dream,2017,,41,"Documentary,Reality-TV",7.9,13
+tt1596786,tt7980010,18,1,S18,Mike's Big Buy,Mike's Big Buy,2017,,41,"Documentary,Reality-TV",7.6,17
+tt1596786,tt7988248,18,2,S18,Real Knuckleheads,Real Knuckleheads,2017,,41,"Documentary,Reality-TV",7.3,17
+tt1596786,tt7988570,18,3,S18,40 Acre Pick,40 Acre Pick,2017,,41,"Documentary,Reality-TV",7.2,15
+tt1596786,tt8000906,18,4,S18,Pedal Pushers,Pedal Pushers,2017,,41,"Documentary,Reality-TV",7.7,15
+tt1596786,tt8008892,18,5,S18,Frank's Big Day,Frank's Big Day,2017,,41,"Documentary,Reality-TV",7.8,17
+tt1596786,tt8009456,18,6,S18,Hyder's Hideaway,Hyder's Hideaway,2017,,42,"Documentary,Reality-TV",8.6,21
+tt1596786,tt9429906,18,7,S18,Rat Rod Rolls,Rat Rod Rolls,2018,,41,"Documentary,Reality-TV",7.4,15
+tt1596786,tt8018628,18,8,S18,The Mother Load,The Mother Load,2018,,42,"Documentary,Reality-TV",7.5,17
+tt1596786,tt9657690,18,9,S18,Double Bubble Trouble,Double Bubble Trouble,2018,,41,"Documentary,Reality-TV",7.3,17
+tt1596786,tt9475914,18,10,S18,The Jersey Jaguar,The Jersey Jaguar,2018,,41,"Documentary,Reality-TV",7.5,16
+tt1596786,tt7988268,18,11,S18,Ripe for the Picking,Ripe for the Picking,2018,,41,"Documentary,Reality-TV",7.5,16
+tt1596786,tt9427958,18,12,S18,Junkyard Wizard,Junkyard Wizard,2018,,41,"Documentary,Reality-TV",8.3,18
+tt1596786,tt8019402,18,13,S18,Slam Dunk Junk,Slam Dunk Junk,2018,,40,"Documentary,Reality-TV",7.0,16
+tt1596786,tt8911388,18,47,S18,Celebrating Independence Day,Celebrating Independence Day,2018,,,"Documentary,Reality-TV",,
+tt1596786,tt9032692,19,1,S19,Adrenaline Junkie,Adrenaline Junkie,2018,,41,"Documentary,Reality-TV",8.0,17
+tt1596786,tt9032694,19,2,S19,Cowzilla in Colorado,Cowzilla in Colorado,2018,,42,"Documentary,Reality-TV",7.8,19
+tt1596786,tt9032698,19,3,S19,One of Everything,One of Everything,2018,,41,"Documentary,Reality-TV",7.9,19
+tt1596786,tt8404148,19,4,S19,Ready to Roar,Ready to Roar,2018,,41,"Documentary,Reality-TV",7.1,19
+tt1596786,tt8911314,19,5,S19,Ready to Race,Ready to Race,2018,,41,"Documentary,Reality-TV",8.4,15
+tt1596786,tt8911324,19,6,S19,Space Ranger,Space Ranger,2018,,41,"Documentary,Reality-TV",8.3,17
+tt1596786,tt8911338,19,7,S19,Snow Job,Snow Job,2018,,41,"Documentary,Reality-TV",7.7,18
+tt1596786,tt8911374,19,8,S19,Frank's Folly,Frank's Folly,2018,,41,"Documentary,Reality-TV",6.7,16
+tt1596786,tt8911380,19,9,S19,Million Dollar Cars,Million Dollar Cars,2018,,41,"Documentary,Reality-TV",7.5,17
+tt1596786,tt8911398,19,10,S19,Big Money Racer,Big Money Racer,2018,,42,"Documentary,Reality-TV",7.2,18
+tt1596786,tt8911418,19,11,S19,Texas Treasures,Texas Treasures,2018,,42,"Documentary,Reality-TV",7.9,19
+tt1596786,tt8911430,19,12,S19,Texas Pick'em,Texas Pick'em,2018,,41,"Documentary,Reality-TV",7.1,16
+tt1596786,tt8911450,19,13,S19,Roll Like a Rock Star,Roll Like a Rock Star,2018,,42,"Documentary,Reality-TV",8.3,20
+tt1596786,tt8911462,19,14,S19,Big Tennessee Welcome,Big Tennessee Welcome,2018,,41,"Documentary,Reality-TV",7.4,18
+tt1596786,tt9032718,19,15,S19,Bubba Gump Picks,Bubba Gump Picks,2018,,40,"Documentary,Reality-TV",7.9,14
+tt1596786,tt9032720,19,16,S19,Eyes on the Prize,Eyes on the Prize,2018,,41,"Documentary,Reality-TV",7.4,19
+tt1596786,tt9032726,19,17,S19,The Doctor is Waiting,The Doctor is Waiting,2018,,42,"Documentary,Reality-TV",7.5,16
+tt1596786,tt9305576,19,18,S19,Pickin' for the Fences,Pickin' for the Fences,2018,,42,"Documentary,Reality-TV",7.5,18
+tt1596786,tt9305610,19,19,S19,Mighty Micro-Madness,Mighty Micro-Madness,2018,,41,"Documentary,Reality-TV",7.9,18
+tt1596786,tt9305660,19,20,S19,One Wheel Deal,One Wheel Deal,2018,,41,"Documentary,Reality-TV",7.8,16
+tt1596786,tt9305694,19,21,S19,High Flying Pick,High Flying Pick,2018,,41,"Documentary,Reality-TV",6.6,13
+tt1596786,tt9305728,19,22,S19,Hard Bargain Picks,Hard Bargain Picks,2018,,42,"Documentary,Reality-TV",7.5,16
+tt1596786,tt9847918,19,23,S19,Pickers Like it Hot,Pickers Like it Hot,2018,,41,"Documentary,Reality-TV",7.0,16
+tt1596786,tt9854616,20,1,S20,Pick Your Battle,Pick Your Battle,2019,,42,"Documentary,Reality-TV",8.4,23
+tt1596786,tt9864898,20,2,S20,The Great Pick Off,The Great Pick Off,2019,,42,"Documentary,Reality-TV",8.3,17
+tt1596786,tt9865026,20,3,S20,Picker's Dozen,Picker's Dozen,2019,,41,"Documentary,Reality-TV",7.9,17
+tt1596786,tt9865194,20,4,S20,Presidential Picks,Presidential Picks,2019,,42,"Documentary,Reality-TV",7.9,20
+tt1596786,tt11192568,20,5,S20,Pick Like a Honey Badger,Pick Like a Honey Badger,2019,,42,"Documentary,Reality-TV",7.7,18
+tt1596786,tt11202884,20,6,S20,Raiders of the Lost Pick,Raiders of the Lost Pick,2019,,41,"Documentary,Reality-TV",7.3,18
+tt1596786,tt15679852,20,7,S20,Rock 'n' Roll Heaven,Rock 'n' Roll Heaven,2019,,41,"Documentary,Reality-TV",7.2,13
+tt1596786,tt15679868,20,8,S20,Pick This Way,Pick This Way,2019,,42,"Documentary,Reality-TV",7.5,13
+tt1596786,tt11215038,20,9,S20,The Michigan Madman,The Michigan Madman,2019,,41,"Documentary,Reality-TV",7.8,20
+tt1596786,tt11231748,20,10,S20,The Mysterious Madam X,The Mysterious Madam X,2019,,41,"Documentary,Reality-TV",7.3,20
+tt1596786,tt11237514,20,11,S20,Space Invaders Smackdown,Space Invaders Smackdown,2019,,42,"Documentary,Reality-TV",7.2,18
+tt1596786,tt11241402,20,12,S20,Frank Meet Brank,Frank Meet Brank,2019,,42,"Documentary,Reality-TV",7.3,18
+tt1596786,tt11248326,20,13,S20,Van-Tastic,Van-Tastic,2019,,42,"Documentary,Reality-TV",7.6,19
+tt1596786,tt11251836,20,14,S20,Corvette Graveyard,Corvette Graveyard,2019,,42,"Documentary,Reality-TV",6.3,18
+tt1596786,tt11272546,20,15,S20,Alabama Rolls,Alabama Rolls,2019,,42,"Documentary,Reality-TV",6.9,19
+tt1596786,tt11278042,20,16,S20,Aerosmith Van,Aerosmith Van,2019,,41,"Documentary,Reality-TV",7.5,28
+tt1596786,tt11281014,20,17,S20,Georgia on my Mind,Georgia on my Mind,2019,,42,"Documentary,Reality-TV",6.9,20
+tt1596786,tt11285816,20,18,S20,Double DeLorean Delight,Double DeLorean Delight,2019,,42,"Documentary,Reality-TV",6.8,22
+tt1596786,tt11292258,20,19,S20,Freaky Florida,Freaky Florida,2019,,41,"Documentary,Reality-TV",6.7,20
+tt1596786,tt11305342,20,20,S20,California Picking,California Picking,2019,,42,"Documentary,Reality-TV",7.2,23
+tt1596786,tt11335188,20,21,S20,Say Sohio,Say Sohio,2019,,41,"Documentary,Reality-TV",6.8,19
+tt1596786,tt11684030,20,22,S20,Hollywood Honey Hole,Hollywood Honey Hole,2019,,42,"Documentary,Reality-TV",7.5,19
+tt1596786,tt11689974,20,23,S20,Knucklehead Frank,Knucklehead Frank,2019,,42,"Documentary,Reality-TV",6.7,18
+tt1596786,tt11692154,20,24,S20,Tick Tock Frank,Tick Tock Frank,2019,,41,"Documentary,Reality-TV",6.8,20
+tt1596786,tt11767196,21,1,S21,Picking Through the Ashes,Picking Through the Ashes,2019,,,"Documentary,Reality-TV",7.3,19
+tt1596786,tt11767214,21,2,S21,"Jolene, Jolene","Jolene, Jolene",2019,,,"Documentary,Reality-TV",6.2,16
+tt1596786,tt11744142,21,3,S21,Dani Goes East,Dani Goes East,2019,,41,"Documentary,Reality-TV",6.6,17
+tt1596786,tt11747136,21,4,S21,Double Barn Bonanza,Double Barn Bonanza,2019,,41,"Documentary,Reality-TV",7.1,18
+tt1596786,tt11750276,21,5,S21,Wolves in Picker's Clothes,Wolves in Picker's Clothes,2019,,41,"Documentary,Reality-TV",6.8,17
+tt1596786,tt11767634,21,6,S21,Mr. Whizzer,Mr. Whizzer,2019,,42,"Documentary,Reality-TV",7.4,18
+tt1596786,tt11774282,21,7,S21,A Bronx Tale,A Bronx Tale,2019,,41,"Documentary,Reality-TV",6.9,17
+tt1596786,tt13505868,21,8,S21,Dani's Picker-versary,Dani's Picker-versary,2020,,41,"Documentary,Reality-TV",7.5,16
+tt1596786,tt13505948,21,9,S21,Midwest Mayhem,Midwest Mayhem,2020,,,"Documentary,Reality-TV",7.3,17
+tt1596786,tt13506006,21,10,S21,Pickin' Safari,Pickin' Safari,2020,,,"Documentary,Reality-TV",7.4,16
+tt1596786,tt12648308,21,11,S21,Motor Mania,Motor Mania,2020,,,"Documentary,Reality-TV",7.3,17
+tt1596786,tt13506058,21,12,S21,Back Road Buys,Back Road Buys,2020,,,"Documentary,Reality-TV",7.2,15
+tt1596786,tt13506084,21,13,S21,Burlesque Queen,Burlesque Queen,2020,,41,"Documentary,Reality-TV",7.2,16
+tt1596786,tt13464718,21,14,S21,Cruisin',Cruisin',2020,,41,"Documentary,Reality-TV",7.1,17
+tt1596786,tt13505570,21,15,S21,Young Grasshopper,Young Grasshopper,2020,,41,"Documentary,Reality-TV",7.0,15
+tt1596786,tt13259310,21,16,S21,Chopper King,Chopper King,2020,,41,"Documentary,Reality-TV",5.7,14
+tt1596786,tt13365172,21,17,S21,Ghost of the West,Ghost of the West,2020,,,"Documentary,Reality-TV",6.1,14
+tt1596786,tt13464658,21,18,S21,Moonshine and Motors,Moonshine and Motors,2020,,,"Documentary,Reality-TV",7.1,14
+tt1596786,tt13506312,21,19,S21,Georgia Wonderland,Georgia Wonderland,2020,,41,"Documentary,Reality-TV",6.2,13
+tt1596786,tt13194050,21,20,S21,Zephyrville,Zephyrville,2020,,41,"Documentary,Reality-TV",7.7,17
+tt1596786,tt13728090,21,21,S21,Desert Gold Rush,Desert Gold Rush,2020,,,"Documentary,Reality-TV",7.7,16
+tt1596786,tt13930754,22,1,S22,"Pumps, Prints and Picks","Pumps, Prints and Picks",2021,,,"Documentary,Reality-TV",7.5,22
+tt1596786,tt13930756,22,2,S22,Hidden Harley,Hidden Harley,2021,,,"Documentary,Reality-TV",7.3,21
+tt1596786,tt13930758,22,3,S22,Smoking Hot Chevy,Smoking Hot Chevy,2021,,,"Documentary,Reality-TV",7.6,23
+tt1596786,tt13930760,22,4,S22,Country Queen,Country Queen,2021,,42,"Documentary,Reality-TV",7.8,21
+tt1596786,tt14207910,22,5,S22,Burgers and Ballrooms,Burgers and Ballrooms,2021,,,"Documentary,Reality-TV",7.5,20
+tt1596786,tt14168956,22,6,S22,Bombshells and Silk,Bombshells and Silk,2021,,41,"Documentary,Reality-TV",7.8,22
+tt1596786,tt14207924,22,7,S22,Brothers and Burlesque,Brothers and Burlesque,2021,,41,"Documentary,Reality-TV",7.4,21
+tt1596786,tt14207928,22,8,S22,Hollywood Hot Rods,Hollywood Hot Rods,2021,,,"Documentary,Reality-TV",7.7,20
+tt1596786,tt14622210,22,9,S22,A Record Deal,A Record Deal,2021,,,"Documentary,Reality-TV",7.5,21
+tt1596786,tt14622220,22,10,S22,Rock 'n Go,Rock 'n Go,2021,,,"Documentary,Reality-TV",7.5,19
+tt1596786,tt16762508,22,11,S22,Hollywood in Texas,Hollywood in Texas,2021,,42,"Documentary,Reality-TV",6.8,13
+tt1596786,tt16731152,22,12,S22,Big Tex,Big Tex,2021,,42,"Documentary,Reality-TV",6.9,14
+tt1596786,tt15414818,22,13,S22,Fort Knox of Toys,Fort Knox of Toys,2021,,,"Documentary,Reality-TV",7.5,18
+tt1596786,tt15539756,22,14,S22,Picking Nirvana,Picking Nirvana,2021,,,"Documentary,Reality-TV",7.8,17
+tt1596786,tt15539770,22,15,S22,Return of the Impala,Return of the Impala,2021,,,"Documentary,Reality-TV",6.9,15
+tt1596786,tt15539764,22,16,S22,Racy Relics,Racy Relics,2021,,,"Documentary,Reality-TV",6.9,14
+tt1596786,tt16740684,22,17,S22,Fiddles and Picks,Fiddles and Picks,2021,,43,"Documentary,Reality-TV",7.6,15
+tt1596786,tt15684292,22,18,S22,Paradise Picking,Paradise Picking,2021,,,"Documentary,Reality-TV",6.6,14
+tt1596786,tt16731502,22,19,S22,Secrets of the Hotel,Secrets of the Hotel,2021,,43,"Documentary,Reality-TV",7.1,14
+tt1596786,tt15684238,22,20,S22,Radioactive Rust,Radioactive Rust,2021,,,"Documentary,Reality-TV",6.8,15
+tt1596786,tt15684368,22,21,S22,Homestead Honey Hole,Homestead Honey Hole,2021,,,"Documentary,Reality-TV",7.6,18
+tt1596786,tt15690188,22,22,S22,Coal Gold,Coal Gold,2021,,42,"Documentary,Reality-TV",7.2,17
+tt1596786,tt15690210,22,23,S22,Joyridin' Pick,Joyridin' Pick,2021,,42,"Documentary,Reality-TV",6.8,17
+tt1596786,tt16912458,23,1,S23,Skateboards and Gutter Balls,Skateboards and Gutter Balls,2022,,42,"Documentary,Reality-TV",6.6,18
+tt1596786,tt17055946,23,2,S23,Country Road Gold,Country Road Gold,2022,,42,"Documentary,Reality-TV",7.2,21
+tt1596786,tt17069092,23,3,S23,Movie Magic Picking,Movie Magic Picking,2022,,42,"Documentary,Reality-TV",7.7,18
+tt1596786,tt18232888,23,4,S23,The King of Signs,The King of Signs,2022,,41,"Documentary,Reality-TV",6.6,17
+tt1596786,tt18244284,23,5,S23,Cadillac Man,Cadillac Man,2022,,42,"Documentary,Reality-TV",6.5,15
+tt1596786,tt18342806,23,6,S23,Picking Frisco,Picking Frisco,2022,,42,"Documentary,Reality-TV",7.4,16
+tt1596786,tt18469682,23,7,S23,Picture Perfect Pick,Picture Perfect Pick,2022,,42,"Documentary,Reality-TV",6.8,16
+tt1596786,tt18484064,23,8,S23,High Speed Picking,High Speed Picking,2022,,42,"Documentary,Reality-TV",7.2,19
+tt1596786,tt18930668,23,9,S23,Pinball Jack,Pinball Jack,2022,,42,"Documentary,Reality-TV",7.9,19
+tt1596786,tt18937576,23,10,S23,Wolves in Wisconsin,Wolves in Wisconsin,2022,,42,"Documentary,Reality-TV",6.1,16
+tt1596786,tt26230574,23,11,S23,Searching in Selma,Searching in Selma,2022,,,"Documentary,Reality-TV",7.2,10
+tt1596786,tt22026814,23,12,S23,Shelby in the Barn,Shelby in the Barn,2022,,42,"Documentary,Reality-TV",6.4,14
+tt1596786,tt22096166,23,13,S23,Rocket Ray Round-Up,Rocket Ray Round-Up,2022,,42,"Documentary,Reality-TV",7.3,16
+tt1596786,tt22262100,23,14,S23,Pool Hall Picking,Pool Hall Picking,2022,,43,"Documentary,Reality-TV",6.7,15
+tt1596786,tt26230580,23,15,S23,Flea Market Junkie,Flea Market Junkie,2022,,,"Documentary,Reality-TV",6.8,9
+tt1596786,tt26230592,23,16,S23,The Alabama Slamma,The Alabama Slamma,2022,,,"Documentary,Reality-TV",7.4,9
+tt1596786,tt26230604,23,17,S23,Knucklehead Blue,Knucklehead Blue,2022,,,"Documentary,Reality-TV",6.6,8
+tt1596786,tt26230620,23,18,S23,Big Bucks Bubbles,Big Bucks Bubbles,2022,,,"Documentary,Reality-TV",6.8,9
+tt1596786,tt26230632,23,19,S23,The Wizard's Castle,The Wizard's Castle,2022,,,"Documentary,Reality-TV",,
+tt1596786,tt26230648,23,20,S23,Naughty and Nice,Naughty and Nice,2022,,,"Documentary,Reality-TV",,
+tt1596786,tt26230746,24,1,S24,Picking Larry Land,Picking Larry Land,2023,,,"Documentary,Reality-TV",7.3,21
+tt1596786,tt26230778,24,2,S24,Jack is Back,Jack is Back,2023,,,"Documentary,Reality-TV",7.4,16
+tt1596786,tt26349547,24,3,S24,"Small Towns, Big Picking","Small Towns, Big Picking",2023,,,"Documentary,Reality-TV",7.4,17
+tt1596786,tt26458075,24,4,S24,Wolfes Go West,Wolfes Go West,2023,,,"Documentary,Reality-TV",7.1,16
+tt1596786,tt26595796,24,5,S24,Corvette Me Not,Corvette Me Not,2023,,,"Documentary,Reality-TV",6.5,15
+tt1596786,tt26684131,24,6,S24,"$135,000 Pick","$135,000 Pick",2023,,,"Documentary,Reality-TV",7.1,14
+tt1596786,tt26745799,24,7,S24,Junkyard Jewels,Junkyard Jewels,2023,,,"Documentary,Reality-TV",7.2,15
+tt1596786,tt26848964,24,8,S24,Gladiators of the Track,Gladiators of the Track,2023,,,"Documentary,Reality-TV",6.8,13
+tt1596786,tt26939423,24,9,S24,It's a Woody,It's a Woody,2023,,,"Documentary,Reality-TV",5.9,12
+tt1596786,tt27074885,24,10,S24,Detroit Dreaming,Detroit Dreaming,2023,,,"Documentary,Reality-TV",7.5,13
+tt1596786,tt28307545,24,11,S24,Little Shop of Wonders,Little Shop of Wonders,2023,,42,"Documentary,Reality-TV",7.7,11
+tt1596786,tt28365859,24,12,S24,Prince of the Subway,Prince of the Subway,2023,,42,"Documentary,Reality-TV",7.1,10
+tt1596786,tt28455073,24,13,S24,Baron of the Skies,Baron of the Skies,2023,,42,"Documentary,Reality-TV",7.7,12
+tt1596786,tt28506280,24,14,S24,Mega Pick Madness,Mega Pick Madness,2023,,42,"Documentary,Reality-TV",7.4,12
+tt1596786,tt28555465,24,15,S24,Kingdom of Lost Junk,Kingdom of Lost Junk,2023,,42,"Documentary,Reality-TV",7.3,10
+tt1596786,tt28638095,24,16,S24,Beware of Deere,Beware of Deere,2023,,42,"Documentary,Reality-TV",7.9,9
+tt1596786,tt28682233,24,17,S24,King of Salvage,King of Salvage,2023,,42,"Documentary,Reality-TV",7.4,10
+tt1596786,tt28759008,24,18,S24,Picking the Godfather,Picking the Godfather,2023,,43,"Documentary,Reality-TV",8.0,10
+tt1596786,tt31249502,25,1,S25,Classic Car Cemetery,Classic Car Cemetery,2023,,,"Documentary,Reality-TV",6.8,9
+tt1596786,tt31249504,25,2,S25,Hidden Cash Stash,Hidden Cash Stash,2023,,,"Documentary,Reality-TV",7.2,7
+tt1596786,tt31249505,25,3,S25,Mike and Homer,Mike and Homer,2024,,,"Documentary,Reality-TV",6.8,7
+tt1596786,tt31249507,25,4,S25,Picking Against Time,Picking Against Time,2024,,,"Documentary,Reality-TV",6.8,7
+tt1596786,tt31249510,25,5,S25,Eclectic & Electric,Eclectic & Electric,2024,,,"Documentary,Reality-TV",,
+tt1596786,tt31249511,25,6,S25,Kiddie Car Heaven,Kiddie Car Heaven,2024,,,"Documentary,Reality-TV",7.2,7
+tt1596786,tt31249513,25,7,S25,Car-Tastic Picks,Car-Tastic Picks,2024,,,"Documentary,Reality-TV",,
+tt1596786,tt31249515,25,8,S25,The Five-Generation Pick,The Five-Generation Pick,2024,,,"Documentary,Reality-TV",,
+tt1596786,tt31249517,25,9,S25,Timeless Picks,Timeless Picks,2024,,,"Documentary,Reality-TV",,
+tt1596786,tt31249523,25,10,S25,The Mile-Long Yard Sale,The Mile-Long Yard Sale,2024,,,"Documentary,Reality-TV",7.2,7
+tt1596786,tt31249525,25,11,S25,Southern Wheels,Southern Wheels,2024,,,"Documentary,Reality-TV",,
+tt1596786,tt31249528,25,12,S25,The Eyes Have It,The Eyes Have It,2024,,,"Documentary,Reality-TV",6.4,7
+tt1596786,tt31249529,25,13,S25,Toyland Treasures,Toyland Treasures,2024,,,"Documentary,Reality-TV",,
+tt1596786,tt31315045,25,14,S25,Roadside Relics,Roadside Relics,2024,,,"Documentary,Reality-TV",,
+tt1596786,tt31315048,25,15,S25,"The Rare, the Rough, and the Shiny","The Rare, the Rough, and the Shiny",2024,,,"Documentary,Reality-TV",,
+tt1596786,tt31444227,25,16,S25,Tough as Nails,Tough as Nails,2024,,,"Documentary,Reality-TV",5.8,8
+tt1596786,tt31511652,25,17,S25,The Boneyard,The Boneyard,2024,,,"Documentary,Reality-TV",,
+tt1596786,tt34735949,26,1,S26,Evel Empire,Evel Empire,2024,,,"Documentary,Reality-TV",8.3,10
+tt1596786,tt34735954,26,2,S26,Wolfemen vs. The Automatons,Wolfemen vs. The Automatons,2024,,,"Documentary,Reality-TV",8.1,10
+tt1596786,tt34735956,26,3,S26,The Great Razooly,The Great Razooly,2024,,,"Documentary,Reality-TV",8.3,10
+tt1596786,tt34735970,26,4,S26,The DIY Delorean,The DIY Delorean,2024,,,"Documentary,Reality-TV",8.0,8
+tt1596786,tt34735972,26,5,S26,Carnival Cash Out,Carnival Cash Out,2024,,,"Documentary,Reality-TV",8.0,10
+tt1596786,tt34735975,26,6,S26,Pickin' Wall-to-Wall,Pickin' Wall-to-Wall,2024,,,"Documentary,Reality-TV",7.3,8
+tt1596786,tt34735978,26,7,S26,"Surf, Signs, Salvage","Surf, Signs, Salvage",2024,,,"Documentary,Reality-TV",7.0,9
+tt1596786,tt34735979,26,8,S26,The Toy Godfather,The Toy Godfather,2024,,,"Documentary,Reality-TV",7.2,8
+tt1596786,tt34735982,26,9,S26,Speedway Thrills,Speedway Thrills,2024,,,"Documentary,Reality-TV",6.8,7
+tt1596786,tt34735985,26,10,S26,Wizard of Odds,Wizard of Odds,2024,,,"Documentary,Reality-TV",6.4,8
+tt1596786,tt34735986,26,11,S26,Legendary Find,Legendary Find,2024,,,"Documentary,Reality-TV",7.6,8
+tt1596786,tt37168448,26,12,S26,Junkyard Jamboree,Junkyard Jamboree,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt37880308,26,13,S26,Gavel to Gravel,Gavel to Gravel,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt36291076,26,14,S26,The Big Mack,The Big Mack,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt37738623,27,1,S27,Episode #27.1,Episode #27.1,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt37738624,27,2,S27,Episode #27.2,Episode #27.2,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt37738625,27,3,S27,Episode #27.3,Episode #27.3,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt37738626,27,4,S27,Episode #27.4,Episode #27.4,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt38783938,27,6,S27,Picking Giants,Picking Giants,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt39195080,27,7,S27,Episode #27.7,Episode #27.7,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt39195081,27,8,S27,Episode #27.8,Episode #27.8,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt39195082,27,9,S27,Episode #27.9,Episode #27.9,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt39195083,27,10,S27,Episode #27.10,Episode #27.10,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt39195084,27,11,S27,Episode #27.11,Episode #27.11,2025,,,"Documentary,Reality-TV",,
+tt1596786,tt32261706,,,,Motorcycle Mancave,Motorcycle Mancave,2024,,,"Documentary,Reality-TV",,
+tt1596786,tt35258084,,,,Farm Fresh,Farm Fresh,2024,,,"Documentary,Reality-TV",,
+tt1596786,tt35258114,,,,Knockout Salvage,Knockout Salvage,2024,,,"Documentary,Reality-TV",,

@@ -1,0 +1,172 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0090466,tt0091368,1,1,S1,Pilot,Pilot,1986,,97,Drama,7.8,381
+tt0090466,tt0624148,1,2,S1,"Those Lips, That Eye","Those Lips, That Eye",1986,,48,Drama,7.6,110
+tt0090466,tt0624133,1,3,S1,The House of the Rising Flan,The House of the Rising Flan,1986,,48,Drama,7.3,100
+tt0090466,tt0624141,1,4,S1,The Princess and the Wiener King,The Princess and the Wiener King,1986,,48,Drama,7.7,88
+tt0090466,tt0624107,1,5,S1,Simian Chanted Evening,Simian Chanted Evening,1986,,48,Drama,7.3,74
+tt0090466,tt0624109,1,6,S1,Slum Enchanted Evening,Slum Enchanted Evening,1986,,48,Drama,7.6,80
+tt0090466,tt0624096,1,7,S1,Raiders of the Lost Bark,Raiders of the Lost Bark,1986,,48,Drama,7.9,69
+tt0090466,tt0624042,1,8,S1,Gibbon Take,Gibbon Take,1986,,48,Drama,7.8,77
+tt0090466,tt0624145,1,9,S1,The Venus Butterfly,The Venus Butterfly,1986,,48,Drama,8.2,105
+tt0090466,tt0624040,1,10,S1,Fry Me to the Moon,Fry Me to the Moon,1986,,48,Drama,7.5,64
+tt0090466,tt0624030,1,11,S1,El Sid,El Sid,1986,,48,Drama,7.4,63
+tt0090466,tt0624104,1,12,S1,"Sidney, the Dead-Nosed Reindeer","Sidney, the Dead-Nosed Reindeer",1986,,49,Drama,7.9,70
+tt0090466,tt0624094,1,13,S1,Prince Kuzak in a Can,Prince Kuzak in a Can,1987,,48,Drama,7.3,59
+tt0090466,tt0624128,1,14,S1,The Douglas Fur Ball,The Douglas Fur Ball,1987,,48,Drama,7.2,58
+tt0090466,tt0624024,1,15,S1,December Bribe,December Bribe,1987,,48,Drama,7.3,59
+tt0090466,tt0624007,1,16,S1,Beef Jerky,Beef Jerky,1987,,49,Drama,7.4,67
+tt0090466,tt0624006,1,17,S1,Becker on the Rox,Becker on the Rox,1987,,48,Drama,7.5,58
+tt0090466,tt0624035,1,18,S1,Fifty Ways to Floss Your Lover,Fifty Ways to Floss Your Lover,1987,,49,Drama,7.7,55
+tt0090466,tt0624131,1,19,S1,The Grace of Wrath,The Grace of Wrath,1987,,48,Drama,7.4,63
+tt0090466,tt0624113,1,20,S1,Sparky Brackman R.I.P. ????-1987,Sparky Brackman R.I.P. ????-1987,1987,,48,Drama,7.3,60
+tt0090466,tt0624086,1,21,S1,Oy Vey! Wilderness!,Oy Vey! Wilderness!,1987,,48,Drama,7.0,58
+tt0090466,tt0624091,1,22,S1,Pigmalion,Pigmalion,1987,,48,Drama,7.3,53
+tt0090466,tt0624135,2,1,S2,The Lung Goodbye,The Lung Goodbye,1987,,48,Drama,7.0,58
+tt0090466,tt0624146,2,2,S2,The Wizard of Odds,The Wizard of Odds,1987,,48,Drama,7.6,63
+tt0090466,tt0624014,2,3,S2,Cannon of Ethics,Cannon of Ethics,1987,,48,Drama,7.5,52
+tt0090466,tt0624013,2,4,S2,Brackman Vasektimized,Brackman Vasektimized,1987,,48,Drama,6.9,53
+tt0090466,tt0624127,2,5,S2,The Brothers Grimm,The Brothers Grimm,1987,,48,Drama,7.1,47
+tt0090466,tt0623998,2,6,S2,Auld L'Anxiety,Auld L'Anxiety,1987,,48,Drama,7.2,49
+tt0090466,tt0624099,2,7,S2,Rohner vs. Gradinger,Rohner vs. Gradinger,1987,,48,Drama,7.3,59
+tt0090466,tt0624045,2,8,S2,Goldilocks and the Three Barristers,Goldilocks and the Three Barristers,1987,,48,Drama,7.0,52
+tt0090466,tt0624026,2,9,S2,Divorce with Extreme Prejudice,Divorce with Extreme Prejudice,1987,,48,Drama,7.1,45
+tt0090466,tt0624041,2,10,S2,Full Marital Jacket,Full Marital Jacket,1988,,48,Drama,7.7,60
+tt0090466,tt0624047,2,11,S2,Gorilla My Dreams,Gorilla My Dreams,1988,,49,Drama,7.3,49
+tt0090466,tt0624051,2,12,S2,Hand Roll Express,Hand Roll Express,1988,,48,Drama,7.1,52
+tt0090466,tt0624004,2,13,S2,Beauty and Obese,Beauty and Obese,1988,,48,Drama,7.3,53
+tt0090466,tt0624090,2,14,S2,Petticoat Injunction,Petticoat Injunction,1988,,48,Drama,7.2,46
+tt0090466,tt0624124,2,15,S2,The Bald Ones,The Bald Ones,1988,,48,Drama,7.5,48
+tt0090466,tt0624034,2,16,S2,Fetus Completus,Fetus Completus,1988,,48,Drama,7.1,52
+tt0090466,tt0624008,2,17,S2,Belle of the Bald,Belle of the Bald,1988,,48,Drama,7.2,44
+tt0090466,tt0624084,2,18,S2,Open Heart Perjury,Open Heart Perjury,1988,,48,Drama,7.2,50
+tt0090466,tt0624067,2,19,S2,Leapin' Lizards,Leapin' Lizards,1988,,48,Drama,7.3,51
+tt0090466,tt0624016,2,20,S2,Chariots of Meyer,Chariots of Meyer,1988,,48,Drama,7.0,54
+tt0090466,tt0624057,3,1,S3,"Hey, Lick Me Over","Hey, Lick Me Over",1988,,46,Drama,7.3,51
+tt0090466,tt0624142,3,2,S3,The Son Also Rises,The Son Also Rises,1988,,48,Drama,7.2,50
+tt0090466,tt0624100,3,3,S3,Romancing the Drone,Romancing the Drone,1988,,48,Drama,7.1,49
+tt0090466,tt0624115,3,4,S3,Sperminator,Sperminator,1988,,48,Drama,7.0,44
+tt0090466,tt0624140,3,5,S3,The Princess and the Pee,The Princess and the Pee,1988,,48,Drama,7.2,46
+tt0090466,tt0624029,3,6,S3,Dummy Dearest,Dummy Dearest,1988,,48,Drama,7.5,46
+tt0090466,tt0624150,3,7,S3,To Live and Diet in L.A.,To Live and Diet in L.A.,1989,,48,Drama,7.4,48
+tt0090466,tt0624062,3,8,S3,I'm in the Nude for Love,I'm in the Nude for Love,1989,,48,Drama,7.3,51
+tt0090466,tt0624154,3,9,S3,Victor/Victorious,Victor/Victorious,1989,,48,Drama,7.3,43
+tt0090466,tt0624139,3,10,S3,The Plane Mutiny,The Plane Mutiny,1989,,48,Drama,7.5,43
+tt0090466,tt0624063,3,11,S3,Izzy Ackerman or Is He Not,Izzy Ackerman or Is He Not,1989,,48,Drama,7.0,42
+tt0090466,tt0624122,3,12,S3,The Accidental Jurist,The Accidental Jurist,1989,,48,Drama,6.9,44
+tt0090466,tt0624003,3,13,S3,Barstow Bound,Barstow Bound,1989,,48,Drama,7.0,40
+tt0090466,tt0624068,3,14,S3,Leave It to Geezer,Leave It to Geezer,1989,,48,Drama,7.3,41
+tt0090466,tt0624143,3,15,S3,The Unbearable Lightness of Boring,The Unbearable Lightness of Boring,1989,,48,Drama,7.3,41
+tt0090466,tt0624058,3,16,S3,His Suit Is Hirsute,His Suit Is Hirsute,1989,,48,Drama,6.9,43
+tt0090466,tt0623995,3,17,S3,America the Beautiful,America the Beautiful,1989,,48,Drama,7.0,42
+tt0090466,tt0624153,3,18,S3,Urine Trouble Now,Urine Trouble Now,1989,,48,Drama,7.5,48
+tt0090466,tt0624021,3,19,S3,Consumed Innocent,Consumed Innocent,1989,,48,Drama,7.3,44
+tt0090466,tt0624144,4,1,S4,The Unsterile Cuckoo,The Unsterile Cuckoo,1989,,48,Drama,7.9,49
+tt0090466,tt0624015,4,2,S4,Captain Hurt,Captain Hurt,1989,,48,Drama,7.7,41
+tt0090466,tt0624159,4,3,S4,When Irish Eyes Are Smiling,When Irish Eyes Are Smiling,1989,,48,Drama,7.7,42
+tt0090466,tt0624136,4,4,S4,The Mouse That Soared,The Mouse That Soared,1989,,48,Drama,7.5,42
+tt0090466,tt0624083,4,5,S4,"One Rat, One Ranger","One Rat, One Ranger",1989,,48,Drama,8.0,45
+tt0090466,tt0624069,4,6,S4,Lie Down and Deliver,Lie Down and Deliver,1989,,48,Drama,7.4,44
+tt0090466,tt0624093,4,7,S4,Placenta Claus Is Coming to Town,Placenta Claus Is Coming to Town,1989,,48,Drama,7.0,44
+tt0090466,tt0624130,4,8,S4,The Good Human Bar,The Good Human Bar,1990,,48,Drama,7.7,47
+tt0090466,tt0624079,4,9,S4,Noah's Bark,Noah's Bark,1990,,48,Drama,7.6,52
+tt0090466,tt0624138,4,10,S4,"The Pay's Lousy, But the Tips Are Great","The Pay's Lousy, But the Tips Are Great",1990,,48,Drama,7.9,45
+tt0090466,tt0624151,4,11,S4,True Brit,True Brit,1990,,48,Drama,7.9,49
+tt0090466,tt0624081,4,12,S4,On Your Honor,On Your Honor,1990,,48,Drama,7.7,45
+tt0090466,tt0624158,4,13,S4,Whatever Happened to Hannah?,Whatever Happened to Hannah?,1990,,48,Drama,8.1,52
+tt0090466,tt0624032,4,14,S4,Ex-Wives and Videotape,Ex-Wives and Videotape,1990,,48,Drama,8.1,47
+tt0090466,tt0624009,4,15,S4,"Blood, Sweat and Fears","Blood, Sweat and Fears",1990,,48,Drama,8.1,52
+tt0090466,tt0624011,4,16,S4,Bound for Glory,Bound for Glory,1990,,48,Drama,7.7,47
+tt0090466,tt0624064,4,17,S4,Justice Swerved,Justice Swerved,1990,,48,Drama,8.2,68
+tt0090466,tt0624157,4,18,S4,Watts a Matter?,Watts a Matter?,1990,,48,Drama,7.5,202
+tt0090466,tt0624001,4,19,S4,Bang... Zoom... Zap,Bang... Zoom... Zap,1990,,48,Drama,7.3,43
+tt0090466,tt0624038,4,20,S4,"Forgive Me Father, for I Have Sued","Forgive Me Father, for I Have Sued",1990,,48,Drama,7.4,40
+tt0090466,tt0624085,4,21,S4,Outward Bound,Outward Bound,1990,,48,Drama,8.0,42
+tt0090466,tt0624134,4,22,S4,The Last Gasp,The Last Gasp,1990,,48,Drama,7.6,45
+tt0090466,tt0624126,5,1,S5,The Bitch Is Back,The Bitch Is Back,1990,,48,Drama,8.1,54
+tt0090466,tt0624052,5,2,S5,Happy Trails,Happy Trails,1990,,48,Drama,7.9,48
+tt0090466,tt0624070,5,3,S5,Lie Harder,Lie Harder,1990,,48,Drama,7.9,47
+tt0090466,tt0623996,5,4,S5,Armand's Hammer,Armand's Hammer,1990,,48,Drama,7.4,46
+tt0090466,tt0624110,5,5,S5,Smoke Gets in Your Thighs,Smoke Gets in Your Thighs,1990,,47,Drama,7.4,40
+tt0090466,tt0624156,5,6,S5,Vowel Play,Vowel Play,1990,,48,Drama,7.6,42
+tt0090466,tt0624078,5,7,S5,New Kidney on the Block,New Kidney on the Block,1990,,48,Drama,7.7,38
+tt0090466,tt0624044,5,8,S5,God Rest Ye Murray Gentleman,God Rest Ye Murray Gentleman,1990,,48,Drama,7.9,51
+tt0090466,tt0624116,5,9,S5,Splatoon,Splatoon,1991,,48,Drama,7.3,39
+tt0090466,tt0624095,5,10,S5,Pump It Up,Pump It Up,1991,,48,Drama,7.8,63
+tt0090466,tt0624097,5,11,S5,Rest in Pieces,Rest in Pieces,1991,,48,Drama,7.3,41
+tt0090466,tt0624054,5,12,S5,He's a Crowd,He's a Crowd,1991,,48,Drama,7.7,61
+tt0090466,tt0624022,5,13,S5,Dances with Sharks,Dances with Sharks,1991,,48,Drama,7.3,46
+tt0090466,tt0624129,5,14,S5,The Gods Must Be Lawyers,The Gods Must Be Lawyers,1991,,48,Drama,6.9,47
+tt0090466,tt0624125,5,15,S5,The Beverly Hills Hangers,The Beverly Hills Hangers,1991,,48,Drama,7.2,42
+tt0090466,tt0624046,5,16,S5,Good to the Last Drop,Good to the Last Drop,1991,,48,Drama,8.0,228
+tt0090466,tt0624076,5,17,S5,Mutinies on the Banzai,Mutinies on the Banzai,1991,,48,Drama,7.2,43
+tt0090466,tt0623997,5,18,S5,As God Is My Co-Defendant,As God Is My Co-Defendant,1991,,48,Drama,7.3,39
+tt0090466,tt0624114,5,19,S5,"Speak, Lawyers, for Me","Speak, Lawyers, for Me",1991,,48,Drama,7.7,47
+tt0090466,tt0624147,5,20,S5,There Goes the Judge,There Goes the Judge,1991,,48,Drama,7.1,181
+tt0090466,tt0624082,5,21,S5,On the Toad Again,On the Toad Again,1991,,48,Drama,7.2,39
+tt0090466,tt0624108,5,22,S5,Since I Fell for You,Since I Fell for You,1991,,48,Drama,7.8,42
+tt0090466,tt0624111,6,1,S6,"Something Old, Something Nude","Something Old, Something Nude",1991,,48,Drama,6.6,43
+tt0090466,tt0624119,6,2,S6,TV or Not TV,TV or Not TV,1991,,48,Drama,7.6,44
+tt0090466,tt0624027,6,3,S6,Do the Spike Thing,Do the Spike Thing,1991,,48,Drama,6.8,38
+tt0090466,tt0624117,6,4,S6,"Spleen It to Me, Lucy","Spleen It to Me, Lucy",1991,,46,Drama,7.1,45
+tt0090466,tt0624075,6,5,S6,Monkey on My Back Lot,Monkey on My Back Lot,1991,,48,Drama,6.4,33
+tt0090466,tt0624000,6,6,S6,Badfellas,Badfellas,1991,,47,Drama,7.4,38
+tt0090466,tt0624071,6,7,S6,Lose the Boss,Lose the Boss,1991,,47,Drama,6.5,41
+tt0090466,tt0624137,6,8,S6,The Nut Before Christmas,The Nut Before Christmas,1991,,47,Drama,7.0,36
+tt0090466,tt0624049,6,9,S6,Guess Who's Coming to Murder,Guess Who's Coming to Murder,1992,,47,Drama,7.5,47
+tt0090466,tt0623999,6,10,S6,Back to the Suture,Back to the Suture,1992,,47,Drama,7.4,39
+tt0090466,tt0623994,6,11,S6,All About Sleaze,All About Sleaze,1992,,47,Drama,7.2,38
+tt0090466,tt0624061,6,12,S6,"I'm Ready for My Closeup, Mr. Markowitz","I'm Ready for My Closeup, Mr. Markowitz",1992,,47,Drama,7.2,38
+tt0090466,tt0624118,6,13,S6,"Steal It Again, Sam","Steal It Again, Sam",1992,,47,Drama,6.7,40
+tt0090466,tt0624025,6,14,S6,"Diet, Diet My Darling","Diet, Diet My Darling",1992,,47,Drama,6.7,37
+tt0090466,tt0624048,6,15,S6,Great Balls Afire,Great Balls Afire,1992,,47,Drama,7.1,40
+tt0090466,tt0624039,6,16,S6,From Here to Paternity,From Here to Paternity,1992,,47,Drama,7.3,38
+tt0090466,tt0624087,6,17,S6,P.S. Your Shrink Is Dead,P.S. Your Shrink Is Dead,1992,,47,Drama,7.2,37
+tt0090466,tt0624072,6,18,S6,Love in Bloom,Love in Bloom,1992,,47,Drama,7.1,37
+tt0090466,tt0624106,6,19,S6,Silence of the Lambskins,Silence of the Lambskins,1992,,47,Drama,7.2,35
+tt0090466,tt0624005,6,20,S6,Beauty and the Breast,Beauty and the Breast,1992,,47,Drama,7.4,36
+tt0090466,tt0624028,6,21,S6,Double Breasted Suit,Double Breasted Suit,1992,,47,Drama,7.4,35
+tt0090466,tt0624102,6,22,S6,Say Goodnight Gracie,Say Goodnight Gracie,1992,,47,Drama,7.5,40
+tt0090466,tt0624065,7,1,S7,L.A. Lawless,L.A. Lawless,1992,,47,Drama,6.1,51
+tt0090466,tt0624103,7,2,S7,Second Time Around,Second Time Around,1992,,47,Drama,6.3,40
+tt0090466,tt0624164,7,3,S7,Zo Long,Zo Long,1992,,47,Drama,6.3,34
+tt0090466,tt0624163,7,4,S7,Wine Knot,Wine Knot,1992,,47,Drama,6.9,36
+tt0090466,tt0624077,7,5,S7,My Friend Flicker,My Friend Flicker,1992,,47,Drama,6.5,39
+tt0090466,tt0624073,7,6,S7,Love on the Rox,Love on the Rox,1992,,47,Drama,6.4,34
+tt0090466,tt0624056,7,7,S7,Helter Shelter,Helter Shelter,1992,,47,Drama,5.4,33
+tt0090466,tt0624017,7,8,S7,Christmas Stalking,Christmas Stalking,1992,,47,Drama,5.9,34
+tt0090466,tt0624080,7,9,S7,Odor in the Court,Odor in the Court,1993,,47,Drama,6.8,35
+tt0090466,tt0624112,7,10,S7,Spanky and the Art Gang,Spanky and the Art Gang,1993,,47,Drama,5.9,33
+tt0090466,tt0624002,7,11,S7,Bare Witness,Bare Witness,1993,,47,Drama,6.6,32
+tt0090466,tt0624089,7,12,S7,Parent Trap,Parent Trap,1993,,47,Drama,6.6,37
+tt0090466,tt0624055,7,13,S7,Hello and Goodbye,Hello and Goodbye,1993,,47,Drama,6.4,32
+tt0090466,tt0624160,7,14,S7,Where There's a Will,Where There's a Will,1993,,47,Drama,7.1,38
+tt0090466,tt0624033,7,15,S7,F.O.B.,F.O.B.,1993,,47,Drama,6.7,34
+tt0090466,tt0624019,7,16,S7,Cold Shower,Cold Shower,1993,,47,Drama,6.5,30
+tt0090466,tt0624121,7,17,S7,That's Why the Lady Is a Stamp,That's Why the Lady Is a Stamp,1993,,47,Drama,6.9,32
+tt0090466,tt0624020,7,18,S7,Come Rain or Come Schein,Come Rain or Come Schein,1993,,47,Drama,6.8,33
+tt0090466,tt0624155,7,19,S7,Vindaloo in the Villows,Vindaloo in the Villows,1993,,47,Drama,7.4,34
+tt0090466,tt0624120,7,20,S7,"Testing, Testing, 1... 2... 3... 4","Testing, Testing, 1... 2... 3... 4",1993,,47,Drama,7.3,30
+tt0090466,tt0624012,7,21,S7,Bourbon Cowboy,Bourbon Cowboy,1993,,47,Drama,7.0,87
+tt0090466,tt0624050,7,22,S7,Hackett or Pack It,Hackett or Pack It,1993,,47,Drama,7.2,35
+tt0090466,tt0624010,8,1,S8,"Book of Renovation, Chapter 1","Book of Renovation, Chapter 1",1993,,47,Drama,6.5,40
+tt0090466,tt0624066,8,2,S8,Leap of Faith,Leap of Faith,1993,,47,Drama,7.1,40
+tt0090466,tt0624060,8,3,S8,How Much Is That Bentley in the Window,How Much Is That Bentley in the Window,1993,,47,Drama,7.4,38
+tt0090466,tt0624037,8,4,S8,Foreign Co-respondent,Foreign Co-respondent,1993,,47,Drama,6.3,38
+tt0090466,tt0624132,8,5,S8,"The Green, Green Grass of Home","The Green, Green Grass of Home",1993,,47,Drama,7.0,34
+tt0090466,tt0624101,8,6,S8,Safe Sex,Safe Sex,1993,,47,Drama,6.8,33
+tt0090466,tt0624088,8,7,S8,Pacific Rimshot,Pacific Rimshot,1993,,47,Drama,6.7,39
+tt0090466,tt0624031,8,8,S8,Eli's Gumming,Eli's Gumming,1993,,47,Drama,7.0,36
+tt0090466,tt0624098,8,9,S8,Rhyme and Punishment,Rhyme and Punishment,1993,,47,Drama,6.3,35
+tt0090466,tt0624053,8,10,S8,"He Ain't Guilty, He's My Brother","He Ain't Guilty, He's My Brother",1994,,47,Drama,7.2,33
+tt0090466,tt0624074,8,11,S8,"McKenzie, Brackman, Barnum & Bailey","McKenzie, Brackman, Barnum & Bailey",1994,,47,Drama,6.3,36
+tt0090466,tt0624018,8,12,S8,Cold Cuts,Cold Cuts,1994,,47,Drama,6.5,42
+tt0090466,tt0624123,8,13,S8,The Age of Insolence,The Age of Insolence,1994,,47,Drama,6.7,35
+tt0090466,tt0624043,8,14,S8,God Is My Co-Counsel,God Is My Co-Counsel,1994,,47,Drama,7.2,38
+tt0090466,tt0624149,8,15,S8,Three on a Patch,Three on a Patch,1994,,47,Drama,7.5,36
+tt0090466,tt0624162,8,16,S8,"Whose San Andreas Fault Is It, Anyway?","Whose San Andreas Fault Is It, Anyway?",1994,,47,Drama,7.0,38
+tt0090466,tt0624105,8,17,S8,Silence Is Golden,Silence Is Golden,1994,,47,Drama,6.3,35
+tt0090466,tt0624023,8,18,S8,Dead Issue,Dead Issue,1994,,47,Drama,6.2,33
+tt0090466,tt0624152,8,19,S8,Tunnel of Love,Tunnel of Love,1994,,47,Drama,6.7,35
+tt0090466,tt0624059,8,20,S8,How Am I Driving?,How Am I Driving?,1994,,47,Drama,7.3,33
+tt0090466,tt0624161,8,21,S8,Whistle Stop,Whistle Stop,1994,,47,Drama,7.0,35
+tt0090466,tt0624036,8,22,S8,Finish Line,Finish Line,1994,,47,Drama,7.0,44

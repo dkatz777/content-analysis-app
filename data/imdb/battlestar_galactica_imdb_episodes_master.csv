@@ -1,0 +1,75 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0407362,tt0519761,1,1,S1,33,33,2004,,43,"Action,Adventure,Drama",8.5,3679
+tt0407362,tt0519792,1,2,S1,Water,Water,2004,,42,"Action,Adventure,Drama",7.7,2822
+tt0407362,tt0519763,1,3,S1,Bastille Day,Bastille Day,2004,,42,"Action,Adventure,Drama",7.6,2727
+tt0407362,tt0519762,1,4,S1,Act of Contrition,Act of Contrition,2004,,42,"Action,Adventure,Drama",7.7,2637
+tt0407362,tt0519793,1,5,S1,You Can't Go Home Again,You Can't Go Home Again,2004,,42,"Action,Adventure,Drama",8.2,2707
+tt0407362,tt0519778,1,6,S1,Litmus,Litmus,2004,,42,"Action,Adventure,Drama",7.6,2483
+tt0407362,tt0519786,1,7,S1,Six Degrees of Separation,Six Degrees of Separation,2004,,42,"Action,Adventure,Drama",7.7,2443
+tt0407362,tt0519769,1,8,S1,Flesh and Bone,Flesh and Bone,2004,,42,"Action,Adventure,Drama",8.0,2447
+tt0407362,tt0519790,1,9,S1,"Tigh Me Up, Tigh Me Down","Tigh Me Up, Tigh Me Down",2004,,43,"Action,Adventure,Drama",7.5,2417
+tt0407362,tt0519789,1,10,S1,The Hand of God,The Hand of God,2005,,44,"Action,Adventure,Drama",8.4,2449
+tt0407362,tt0519765,1,11,S1,Colonial Day,Colonial Day,2005,,43,"Action,Adventure,Drama",7.6,2294
+tt0407362,tt0519774,1,12,S1,Kobol's Last Gleaming: Part 1,Kobol's Last Gleaming: Part 1,2005,,44,"Action,Adventure,Drama",8.3,2358
+tt0407362,tt0519775,1,13,S1,Kobol's Last Gleaming: Part 2,Kobol's Last Gleaming: Part 2,2005,,44,"Action,Adventure,Drama",8.8,2536
+tt0407362,tt0519785,2,1,S2,Scattered,Scattered,2005,,60,"Action,Adventure,Drama",8.2,2258
+tt0407362,tt0519791,2,2,S2,Valley of Darkness,Valley of Darkness,2005,,60,"Action,Adventure,Drama",7.9,2218
+tt0407362,tt0519771,2,3,S2,Fragged,Fragged,2005,,60,"Action,Adventure,Drama",7.9,2157
+tt0407362,tt0519780,2,4,S2,Resistance,Resistance,2005,,60,"Action,Adventure,Drama",8.0,2129
+tt0407362,tt0519788,2,5,S2,The Farm,The Farm,2005,,60,"Action,Adventure,Drama",7.7,2139
+tt0407362,tt0519772,2,6,S2,Home: Part 1,Home: Part 1,2005,,60,"Action,Adventure,Drama",8.0,2134
+tt0407362,tt0519773,2,7,S2,Home: Part 2,Home: Part 2,2005,,60,"Action,Adventure,Drama",8.3,2189
+tt0407362,tt0519768,2,8,S2,Final Cut,Final Cut,2005,,60,"Action,Adventure,Drama",7.7,2231
+tt0407362,tt0519770,2,9,S2,Flight of the Phoenix,Flight of the Phoenix,2005,,60,"Action,Adventure,Drama",8.2,2151
+tt0407362,tt0519779,2,10,S2,Pegasus,Pegasus,2005,,58,"Action,Adventure,Drama",9.0,2698
+tt0407362,tt0519781,2,11,S2,Resurrection Ship: Part 1,Resurrection Ship: Part 1,2006,,60,"Action,Adventure,Drama",8.8,2370
+tt0407362,tt0519782,2,12,S2,Resurrection Ship: Part 2,Resurrection Ship: Part 2,2006,,60,"Action,Adventure,Drama",8.9,2455
+tt0407362,tt0519767,2,13,S2,Epiphanies,Epiphanies,2006,,60,"Action,Adventure,Drama",7.5,2060
+tt0407362,tt0519764,2,14,S2,Black Market,Black Market,2006,,60,"Action,Adventure,Drama",6.4,2347
+tt0407362,tt0519784,2,15,S2,Scar,Scar,2006,,60,"Action,Adventure,Drama",7.4,2248
+tt0407362,tt0519783,2,16,S2,Sacrifice,Sacrifice,2006,,60,"Action,Adventure,Drama",7.0,2103
+tt0407362,tt0519787,2,17,S2,The Captain's Hand,The Captain's Hand,2006,,60,"Action,Adventure,Drama",7.6,2050
+tt0407362,tt0519766,2,18,S2,Downloaded,Downloaded,2006,,60,"Action,Adventure,Drama",8.4,2246
+tt0407362,tt0519776,2,19,S2,Lay Down Your Burdens: Part 1,Lay Down Your Burdens: Part 1,2006,,60,"Action,Adventure,Drama",8.1,2037
+tt0407362,tt0519777,2,20,S2,Lay Down Your Burdens: Part 2,Lay Down Your Burdens: Part 2,2006,,68,"Action,Adventure,Drama",8.7,2314
+tt0407362,tt0793695,3,1,S3,Occupation,Occupation,2006,,44,"Action,Adventure,Drama",8.2,2384
+tt0407362,tt0801850,3,2,S3,Precipice,Precipice,2006,,44,"Action,Adventure,Drama",8.2,2166
+tt0407362,tt0801849,3,3,S3,Exodus: Part 1,Exodus: Part 1,2006,,43,"Action,Adventure,Drama",8.2,2156
+tt0407362,tt0867671,3,4,S3,Exodus: Part 2,Exodus: Part 2,2006,,44,"Action,Adventure,Drama",9.2,2885
+tt0407362,tt0811218,3,5,S3,Collaborators,Collaborators,2006,,44,"Action,Adventure,Drama",8.1,2062
+tt0407362,tt0811219,3,6,S3,Torn,Torn,2006,,43,"Action,Adventure,Drama",7.8,1999
+tt0407362,tt0870871,3,7,S3,A Measure of Salvation,A Measure of Salvation,2006,,43,"Action,Adventure,Drama",7.6,1976
+tt0407362,tt0887220,3,8,S3,Hero,Hero,2006,,46,"Action,Adventure,Drama",7.3,2000
+tt0407362,tt0903208,3,9,S3,Unfinished Business,Unfinished Business,2006,,70,"Action,Adventure,Drama",7.4,2539
+tt0407362,tt0887222,3,10,S3,The Passage,The Passage,2006,,43,"Action,Adventure,Drama",7.5,2004
+tt0407362,tt0887221,3,11,S3,The Eye of Jupiter,The Eye of Jupiter,2006,,44,"Action,Adventure,Drama",8.1,1954
+tt0407362,tt0909050,3,12,S3,Rapture,Rapture,2007,,43,"Action,Adventure,Drama",8.2,1965
+tt0407362,tt0944310,3,13,S3,Taking a Break from All Your Worries,Taking a Break from All Your Worries,2007,,44,"Action,Adventure,Drama",7.7,1923
+tt0407362,tt0947108,3,14,S3,The Woman King,The Woman King,2007,,44,"Action,Adventure,Drama",7.0,2023
+tt0407362,tt0947103,3,15,S3,A Day in the Life,A Day in the Life,2007,,44,"Action,Adventure,Drama",7.0,1948
+tt0407362,tt0947106,3,16,S3,Dirty Hands,Dirty Hands,2007,,44,"Action,Adventure,Drama",7.5,1985
+tt0407362,tt0944309,3,17,S3,Maelstrom,Maelstrom,2007,,44,"Action,Adventure,Drama",7.9,2132
+tt0407362,tt0947107,3,18,S3,The Son Also Rises,The Son Also Rises,2007,,45,"Action,Adventure,Drama",7.6,1915
+tt0407362,tt0947104,3,19,S3,Crossroads: Part 1,Crossroads: Part 1,2007,,45,"Action,Adventure,Drama",8.3,2056
+tt0407362,tt0947105,3,20,S3,Crossroads: Part 2,Crossroads: Part 2,2007,,48,"Action,Adventure,Drama",9.2,3162
+tt0407362,tt0993910,4,1,S4,He That Believeth in Me,He That Believeth in Me,2008,,44,"Action,Adventure,Drama",8.4,2107
+tt0407362,tt0993921,4,2,S4,Six of One,Six of One,2008,,44,"Action,Adventure,Drama",7.9,1828
+tt0407362,tt0993925,4,3,S4,The Ties That Bind,The Ties That Bind,2008,,44,"Action,Adventure,Drama",7.9,1839
+tt0407362,tt0993926,4,4,S4,Escape Velocity,Escape Velocity,2008,,44,"Action,Adventure,Drama",7.4,1766
+tt0407362,tt0993927,4,5,S4,The Road Less Traveled,The Road Less Traveled,2008,,44,"Action,Adventure,Drama",7.5,1726
+tt0407362,tt0993928,4,6,S4,Faith,Faith,2008,,44,"Action,Adventure,Drama",8.0,1801
+tt0407362,tt0993929,4,7,S4,Guess What's Coming to Dinner,Guess What's Coming to Dinner,2008,,44,"Action,Adventure,Drama",8.5,1913
+tt0407362,tt0993930,4,8,S4,Sine Qua Non,Sine Qua Non,2008,,44,"Action,Adventure,Drama",7.7,1741
+tt0407362,tt0993931,4,9,S4,The Hub,The Hub,2008,,44,"Action,Adventure,Drama",8.6,1880
+tt0407362,tt0993911,4,10,S4,Revelations,Revelations,2008,,44,"Action,Adventure,Drama",9.2,2307
+tt0407362,tt1239323,4,11,S4,Sometimes a Great Notion,Sometimes a Great Notion,2009,,47,"Action,Adventure,Drama",8.7,2059
+tt0407362,tt0993913,4,12,S4,A Disquiet Follows My Soul,A Disquiet Follows My Soul,2009,,52,"Action,Adventure,Drama",7.7,1733
+tt0407362,tt0993914,4,13,S4,The Oath,The Oath,2009,,44,"Action,Adventure,Drama",9.0,2179
+tt0407362,tt0993915,4,14,S4,Blood on the Scales,Blood on the Scales,2009,,44,"Action,Adventure,Drama",9.1,2348
+tt0407362,tt0993916,4,15,S4,No Exit,No Exit,2009,,44,"Action,Adventure,Drama",8.4,1856
+tt0407362,tt0993917,4,16,S4,Deadlock,Deadlock,2009,,44,"Action,Adventure,Drama",7.4,1703
+tt0407362,tt0993918,4,17,S4,Someone to Watch Over Me,Someone to Watch Over Me,2009,,44,"Action,Adventure,Drama",8.2,1925
+tt0407362,tt0993919,4,18,S4,Islanded in a Stream of Stars,Islanded in a Stream of Stars,2009,,63,"Action,Adventure,Drama",7.8,1686
+tt0407362,tt0993920,4,19,S4,Daybreak: Part 1,Daybreak: Part 1,2009,,48,"Action,Adventure,Drama",8.4,2083
+tt0407362,tt0993922,4,20,S4,Daybreak: Part 2,Daybreak: Part 2,2009,,44,"Action,Adventure,Drama",9.0,3320
+tt0407362,tt12394444,4,21,S4,Daybreak: Part 3,Daybreak: Part 3,2009,,46,"Action,Adventure,Drama",8.7,846

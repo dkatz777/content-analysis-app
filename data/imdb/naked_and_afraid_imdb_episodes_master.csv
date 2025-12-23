@@ -1,0 +1,216 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt3007640,tt3019270,1,1,S1,The Jungle Curse,The Jungle Curse,2013,,43,"Adventure,Game-Show,Horror",6.9,138
+tt3007640,tt3019272,1,2,S1,Terror in Tanzania,Terror in Tanzania,2013,,43,"Adventure,Game-Show,Horror",7.1,118
+tt3007640,tt3040734,1,3,S1,Island from Hell,Island from Hell,2013,,41,"Adventure,Game-Show,Horror",7.3,109
+tt3007640,tt3040740,1,4,S1,Punishment in Panama,Punishment in Panama,2013,,43,"Adventure,Game-Show,Horror",7.4,105
+tt3007640,tt3063186,1,5,S1,Breaking Borneo,Breaking Borneo,2013,,43,"Adventure,Game-Show,Horror",6.8,88
+tt3007640,tt3071142,1,6,S1,Beware the Bayou,Beware the Bayou,2013,,43,"Adventure,Game-Show,Horror",7.6,109
+tt3007640,tt3094372,1,7,S1,Bares All,Bares All,2013,,42,"Adventure,Game-Show,Horror",6.4,69
+tt3007640,tt3383094,1,8,S1,Double Jeopardy,Double Jeopardy,2013,,85,"Adventure,Game-Show,Horror",7.9,77
+tt3007640,tt3572128,2,1,S2,Man vs. Amazon,Man vs. Amazon,2014,,63,"Adventure,Game-Show,Horror",8.2,93
+tt3007640,tt3623976,2,2,S2,Damned in Africa,Damned in Africa,2014,,53,"Adventure,Game-Show,Horror",7.1,70
+tt3007640,tt3642596,2,3,S2,Paradise Lost,Paradise Lost,2014,,42,"Adventure,Game-Show,Horror",6.5,66
+tt3007640,tt3667084,2,4,S2,Mayan Misery,Mayan Misery,2014,,43,"Adventure,Game-Show,Horror",7.2,62
+tt3007640,tt3675508,2,5,S2,The Pain Forest,The Pain Forest,2014,,42,"Adventure,Game-Show,Horror",7.2,62
+tt3007640,tt3682482,2,6,S2,Meltdown in Bolivia,Meltdown in Bolivia,2014,,42,"Adventure,Game-Show,Horror",6.8,66
+tt3007640,tt3711610,2,7,S2,"Bares All: Starvation, Snakes and Strife","Bares All: Starvation, Snakes and Strife",2014,,42,"Adventure,Game-Show,Horror",6.7,35
+tt3007640,tt3865682,3,0,S3,New Season Exposed,New Season Exposed,2014,,41,"Adventure,Game-Show,Horror",6.8,33
+tt3007640,tt3691730,3,1,S3,Primal Fear,Primal Fear,2014,,41,"Adventure,Game-Show,Horror",7.6,63
+tt3007640,tt3877276,3,2,S3,Blood in the Water,Blood in the Water,2014,,41,"Adventure,Game-Show,Horror",7.4,66
+tt3007640,tt3882228,3,3,S3,Hearts of Darkness,Hearts of Darkness,2014,,41,"Adventure,Game-Show,Horror",6.2,73
+tt3007640,tt3894310,3,4,S3,Jungle Love,Jungle Love,2013,,41,"Adventure,Game-Show,Horror",8.2,77
+tt3007640,tt3904072,3,5,S3,Argentina Impossible,Argentina Impossible,2014,,41,"Adventure,Game-Show,Horror",6.7,58
+tt3007640,tt3922862,3,6,S3,Playing with Fire,Playing with Fire,2014,,41,"Adventure,Game-Show,Horror",7.3,57
+tt3007640,tt3970956,3,7,S3,Himalayan Hell,Himalayan Hell,2014,,41,"Adventure,Game-Show,Horror",7.3,63
+tt3007640,tt4018550,3,8,S3,"Bares All: Blood, Sweat and Fears","Bares All: Blood, Sweat and Fears",2014,,42,"Adventure,Game-Show,Horror",7.5,33
+tt3007640,tt4022930,3,9,S3,Snaketacular,Snaketacular,2014,,,"Adventure,Game-Show,Horror",6.9,31
+tt3007640,tt4030140,3,10,S3,Nicaragua Nightmare,Nicaragua Nightmare,2014,,41,"Adventure,Game-Show,Horror",7.4,54
+tt3007640,tt4049800,3,11,S3,Botswana Breakdown,Botswana Breakdown,2014,,41,"Adventure,Game-Show,Horror",6.8,52
+tt3007640,tt4067678,3,12,S3,Dunes of Despair,Dunes of Despair,2014,,41,"Adventure,Game-Show,Horror",6.9,61
+tt3007640,tt4132282,3,13,S3,Naked and Awkward,Naked and Awkward,2014,,,"Adventure,Game-Show,Horror",7.0,29
+tt3007640,tt4644398,4,1,S4,Alligator Alley,Alligator Alley,2015,,41,"Adventure,Game-Show,Horror",8.1,68
+tt3007640,tt4651602,4,2,S4,Rumble in the Jungle,Rumble in the Jungle,2015,,42,"Adventure,Game-Show,Horror",7.0,56
+tt3007640,tt4667334,4,3,S4,Mayan Sacrifice,Mayan Sacrifice,2015,,41,"Adventure,Game-Show,Horror",7.5,49
+tt3007640,tt4679446,4,4,S4,Edge of Madness,Edge of Madness,2015,,42,"Adventure,Game-Show,Horror",6.9,48
+tt3007640,tt4703352,4,5,S4,Fire on the Mountain,Fire on the Mountain,2015,,41,"Adventure,Game-Show,Horror",7.0,43
+tt3007640,tt4729452,4,6,S4,Lord of the Rats,Lord of the Rats,2015,,42,"Adventure,Game-Show,Horror",7.8,64
+tt3007640,tt4768718,4,7,S4,Colombian Conflict,Colombian Conflict,2015,,41,"Adventure,Game-Show,Horror",7.8,55
+tt3007640,tt4790300,4,8,S4,Bares All: Survival in Close Quarters,Bares All: Survival in Close Quarters,2015,,41,"Adventure,Game-Show,Horror",6.2,28
+tt3007640,tt4807574,4,9,S4,Garden of Evil,Garden of Evil,2015,,41,"Adventure,Game-Show,Horror",7.1,45
+tt3007640,tt4817598,4,10,S4,Redemption Road,Redemption Road,2015,,42,"Adventure,Game-Show,Horror",7.0,52
+tt3007640,tt4900274,4,11,S4,Surthrive,Surthrive,2015,,43,"Adventure,Game-Show,Horror",7.8,49
+tt3007640,tt4916760,4,12,S4,Easier Said Than Done,Easier Said Than Done,2015,,43,"Adventure,Game-Show,Horror",6.6,44
+tt3007640,tt4925182,4,13,S4,Bares All: On the Edge,Bares All: On the Edge,2015,,,"Adventure,Game-Show,Horror",7.3,24
+tt3007640,tt5059526,5,1,S5,Forsaken,Forsaken,2015,,44,"Adventure,Game-Show,Horror",7.7,65
+tt3007640,tt5138502,5,2,S5,Fear the Unknown,Fear the Unknown,2015,,42,"Adventure,Game-Show,Horror",7.2,38
+tt3007640,tt5154270,5,3,S5,The Darkest Hour,The Darkest Hour,2015,,42,"Adventure,Game-Show,Horror",8.1,49
+tt3007640,tt5154272,5,4,S5,The Swarm,The Swarm,2015,,42,"Adventure,Game-Show,Horror",6.7,37
+tt3007640,tt5154274,5,5,S5,All or Nothing,All or Nothing,2015,,42,"Adventure,Game-Show,Horror",7.3,41
+tt3007640,tt12221436,5,6,S5,Anaconda River Rapids,Anaconda River Rapids,,,,"Adventure,Game-Show,Horror",,
+tt3007640,tt12221520,5,7,S5,"Resentment, Rain, and Rivers","Resentment, Rain, and Rivers",,,,"Adventure,Game-Show,Horror",,
+tt3007640,tt12221542,5,8,S5,Rainforests and Deserts,Rainforests and Deserts,,,,"Adventure,Game-Show,Horror",,
+tt3007640,tt12221340,5,11,S5,Til Naked Do Us Part,Til Naked Do Us Part,,,,"Adventure,Game-Show,Horror",,
+tt3007640,tt12221494,5,12,S5,When Hunger Strikes,When Hunger Strikes,,,,"Adventure,Game-Show,Horror",,
+tt3007640,tt12221476,5,14,S5,Bloodthirsty and Vicious,Bloodthirsty and Vicious,,,,"Adventure,Game-Show,Horror",,
+tt3007640,tt12221556,5,18,S5,Nature's Evil,Nature's Evil,,,,"Adventure,Game-Show,Horror",,
+tt3007640,tt5565576,6,0,S6,Into the Wild,Into the Wild,2016,,42,"Adventure,Game-Show,Horror",6.8,22
+tt3007640,tt5508146,6,1,S6,King of the Forest,King of the Forest,2016,,43,"Adventure,Game-Show,Horror",8.3,72
+tt3007640,tt5574236,6,2,S6,Frozen in Fear,Frozen in Fear,2016,,42,"Adventure,Game-Show,Horror",7.5,47
+tt3007640,tt5587176,6,3,S6,Rise Above,Rise Above,2016,,42,"Adventure,Game-Show,Horror",7.6,45
+tt3007640,tt5608486,6,4,S6,From the Ashes,From the Ashes,2016,,42,"Adventure,Game-Show,Horror",7.3,46
+tt3007640,tt5635682,6,5,S6,All Falls Down,All Falls Down,2016,,42,"Adventure,Game-Show,Horror",6.9,42
+tt3007640,tt5648250,6,6,S6,Contamination,Contamination,2016,,42,"Adventure,Game-Show,Horror",6.8,40
+tt3007640,tt5667920,6,7,S6,Hell or High Water,Hell or High Water,2016,,42,"Adventure,Game-Show,Horror",7.5,47
+tt3007640,tt5684120,6,8,S6,The Danger Within,The Danger Within,2016,,42,"Adventure,Game-Show,Horror",7.2,38
+tt3007640,tt5745180,6,9,S6,Bares All: Never Give Up,Bares All: Never Give Up,2016,,42,"Adventure,Game-Show,Horror",6.4,27
+tt3007640,tt5936916,6,10,S6,Melt Down Under,Melt Down Under,2016,,42,"Adventure,Game-Show,Horror",5.8,33
+tt3007640,tt5765614,6,11,S6,Bad Blood,Bad Blood,2016,,42,"Adventure,Game-Show,Horror",6.4,43
+tt3007640,tt5766862,6,12,S6,Strength in Pain,Strength in Pain,2016,,42,"Adventure,Game-Show,Horror",6.9,39
+tt3007640,tt5795376,6,13,S6,23 Days,23 Days,2016,,42,"Adventure,Game-Show,Horror",7.4,40
+tt3007640,tt5809854,6,14,S6,Bares All: Battered and Broken,Bares All: Battered and Broken,2016,,42,"Adventure,Game-Show,Horror",6.6,23
+tt3007640,tt6540622,7,1,S7,Eye of the Storm,Eye of the Storm,2017,,41,"Adventure,Game-Show,Horror",7.0,44
+tt3007640,tt6602136,7,2,S7,Washed Out,Washed Out,2017,,42,"Adventure,Game-Show,Horror",7.7,40
+tt3007640,tt6644204,7,3,S7,Hangry,Hangry,2017,,42,"Adventure,Game-Show,Horror",6.5,41
+tt3007640,tt6673228,7,4,S7,Bares All: Naked Nights,Bares All: Naked Nights,2017,,41,"Adventure,Game-Show,Horror",6.0,22
+tt3007640,tt6705316,7,5,S7,Ashes to Ashes,Ashes to Ashes,2017,,41,"Adventure,Game-Show,Horror",6.9,52
+tt3007640,tt6754178,7,6,S7,The Lost World,The Lost World,2017,,41,"Adventure,Game-Show,Horror",7.6,40
+tt3007640,tt6821266,7,7,S7,The Monster,The Monster,2017,,42,"Adventure,Game-Show,Horror",7.6,38
+tt3007640,tt6843524,7,8,S7,Unhinged,Unhinged,2017,,42,"Adventure,Game-Show,Horror",7.3,43
+tt3007640,tt6863364,7,9,S7,Curse of the Swamp,Curse of the Swamp,2017,,41,"Adventure,Game-Show,Horror",7.7,44
+tt3007640,tt6863366,7,10,S7,Curse of the Swamp: Part 2,Curse of the Swamp: Part 2,2017,,44,"Adventure,Game-Show,Horror",8.3,39
+tt3007640,tt6891870,7,11,S7,Arachnid Overload,Arachnid Overload,2017,,42,"Adventure,Game-Show,Horror",7.0,36
+tt3007640,tt6909748,7,12,S7,Worlds Collide,Worlds Collide,2017,,41,"Adventure,Game-Show,Horror",7.7,48
+tt3007640,tt7211416,8,0,S8,"Suffering, Sunburn and Sharks","Suffering, Sunburn and Sharks",2017,,41,"Adventure,Game-Show,Horror",6.9,13
+tt3007640,tt7212632,8,1,S8,Lost at Sea,Lost at Sea,2017,,41,"Adventure,Game-Show,Horror",7.6,53
+tt3007640,tt7239420,8,2,S8,Texan Torture,Texan Torture,2017,,42,"Adventure,Game-Show,Horror",6.6,32
+tt3007640,tt7239478,8,3,S8,The Hunted,The Hunted,2017,,41,"Adventure,Game-Show,Horror",7.7,39
+tt3007640,tt7242034,8,4,S8,Rain of Terror,Rain of Terror,2017,,43,"Adventure,Game-Show,Horror",6.0,35
+tt3007640,tt7263286,8,5,S8,Stone Cold,Stone Cold,2017,,42,"Adventure,Game-Show,Horror",6.5,29
+tt3007640,tt7285012,8,6,S8,Belize Breakdown,Belize Breakdown,2017,,44,"Adventure,Game-Show,Horror",5.3,37
+tt3007640,tt24165622,8,11,S8,Episode 11,Episode 11,2022,,,"Adventure,Game-Show,Horror",,
+tt3007640,tt8151694,9,0,S9,Unsurvivable,Unsurvivable,2018,,41,"Adventure,Game-Show,Horror",7.5,21
+tt3007640,tt8059352,9,1,S9,Category 5 Survival,Category 5 Survival,2018,,41,"Adventure,Game-Show,Horror",7.9,41
+tt3007640,tt8173422,9,2,S9,A Screw Loose,A Screw Loose,2018,,41,"Adventure,Game-Show,Horror",6.6,35
+tt3007640,tt8173456,9,3,S9,Swamp Queen,Swamp Queen,2018,,41,"Adventure,Game-Show,Horror",8.3,47
+tt3007640,tt8200564,9,4,S9,Forbidden Fruit,Forbidden Fruit,2018,,41,"Adventure,Game-Show,Horror",7.2,45
+tt3007640,tt8253832,9,5,S9,Island of Tears,Island of Tears,2018,,41,"Adventure,Game-Show,Horror",7.2,36
+tt3007640,tt8309926,9,6,S9,Thieves in the Night,Thieves in the Night,2018,,41,"Adventure,Game-Show,Horror",7.4,35
+tt3007640,tt8309930,9,7,S9,Love at First Fight,Love at First Fight,2018,,88,"Adventure,Game-Show,Horror",7.9,36
+tt3007640,tt8309934,9,8,S9,Burnt to a Crisp,Burnt to a Crisp,2018,,43,"Adventure,Game-Show,Horror",7.2,34
+tt3007640,tt8367086,9,9,S9,Loaded for Bear,Loaded for Bear,2018,,43,"Adventure,Game-Show,Horror",7.9,39
+tt3007640,tt8367088,9,10,S9,Pick Your Poison,Pick Your Poison,2018,,41,"Adventure,Game-Show,Horror",6.0,28
+tt3007640,tt8574958,9,11,S9,Trouble in Paradise,Trouble in Paradise,2018,,,"Adventure,Game-Show,Horror",6.8,25
+tt3007640,tt8642670,9,12,S9,Fan Down,Fan Down,2018,,41,"Adventure,Game-Show,Horror",6.0,21
+tt3007640,tt8869972,9,13,S9,Blindsided,Blindsided,2018,,43,"Adventure,Game-Show,Horror",6.4,21
+tt3007640,tt8869980,9,14,S9,Eaten Alive,Eaten Alive,2018,,41,"Adventure,Game-Show,Horror",7.0,12
+tt3007640,tt8870130,9,15,S9,Fire and Fury,Fire and Fury,2018,,41,"Adventure,Game-Show,Horror",7.4,27
+tt3007640,tt9876810,10,0,S10,Naked Gets Weird,Naked Gets Weird,2019,,41,"Adventure,Game-Show,Horror",7.5,17
+tt3007640,tt9758424,10,1,S10,Frozen and Afraid,Frozen and Afraid,2019,,41,"Adventure,Game-Show,Horror",8.3,66
+tt3007640,tt9867788,10,2,S10,No Safety in Numbers,No Safety in Numbers,2019,,83,"Adventure,Game-Show,Horror",6.9,43
+tt3007640,tt10049728,10,3,S10,Threesome,Threesome,2019,,41,"Adventure,Game-Show,Horror",7.3,41
+tt3007640,tt10116588,10,4,S10,Stomping Grounds,Stomping Grounds,2019,,83,"Adventure,Game-Show,Horror",8.8,57
+tt3007640,tt10146196,10,5,S10,Bite Club,Bite Club,2019,,41,"Adventure,Game-Show,Horror",6.8,34
+tt3007640,tt10240692,10,6,S10,Stalked on All Sides,Stalked on All Sides,2019,,41,"Adventure,Game-Show,Horror",7.2,26
+tt3007640,tt10288800,10,7,S10,Swamp Don't Care,Swamp Don't Care,2019,,41,"Adventure,Game-Show,Horror",8.0,41
+tt3007640,tt10288948,10,8,S10,What the Duck?,What the Duck?,2019,,41,"Adventure,Game-Show,Horror",7.5,27
+tt3007640,tt10318712,10,9,S10,For Better or for a Lot Worse,For Better or for a Lot Worse,2019,,41,"Adventure,Game-Show,Horror",7.3,34
+tt3007640,tt10344650,10,10,S10,Don't Let the Jungle Bugs Bite,Don't Let the Jungle Bugs Bite,2019,,41,"Adventure,Game-Show,Horror",7.4,28
+tt3007640,tt10359996,10,11,S10,Meltdown on the Mountain,Meltdown on the Mountain,2019,,41,"Adventure,Game-Show,Horror",7.6,27
+tt3007640,tt10520652,10,12,S10,Honduran Hell,Honduran Hell,2019,,41,"Adventure,Game-Show,Horror",7.3,25
+tt3007640,tt10627850,10,13,S10,Stalked on the Savannah: Part 1,Stalked on the Savannah: Part 1,2019,,41,"Adventure,Game-Show,Horror",6.5,23
+tt3007640,tt10627852,10,14,S10,Stalked on the Savannah: Part 2,Stalked on the Savannah: Part 2,2019,,41,"Adventure,Game-Show,Horror",7.3,24
+tt3007640,tt11063964,10,21,S10,Feel the Burn,Feel the Burn,2019,,41,"Adventure,Game-Show,Horror",7.0,19
+tt3007640,tt11891150,11,1,S11,Twinning,Twinning,2020,,,"Adventure,Game-Show,Horror",8.4,48
+tt3007640,tt11916712,11,2,S11,"Little Person, Big Challenge","Little Person, Big Challenge",2020,,,"Adventure,Game-Show,Horror",6.9,34
+tt3007640,tt12211994,11,3,S11,Bahama Drama,Bahama Drama,2020,,,"Adventure,Game-Show,Horror",7.3,22
+tt3007640,tt11940402,11,4,S11,"Two Tarzans, One Jane","Two Tarzans, One Jane",2020,,83,"Adventure,Game-Show,Horror",6.2,41
+tt3007640,tt11986320,11,5,S11,Naked and Ghosted,Naked and Ghosted,2020,,41,"Adventure,Game-Show,Horror",7.1,24
+tt3007640,tt27548335,11,6,S11,Close Encounters,Close Encounters,2020,,42,"Adventure,Game-Show,Horror",5.3,6
+tt3007640,tt12026028,11,7,S11,In Too Deep,In Too Deep,2020,,83,"Adventure,Game-Show,Horror",8.1,39
+tt3007640,tt12071308,11,8,S11,"Blood, Sweat and Fears","Blood, Sweat and Fears",2020,,,"Adventure,Game-Show,Horror",7.2,27
+tt3007640,tt19847746,11,9,S11,Trying to Deal with the Devil,Trying to Deal with the Devil,2020,,,"Adventure,Game-Show,Horror",6.7,8
+tt3007640,tt12110780,11,10,S11,Biting Back at Africa,Biting Back at Africa,2020,,83,"Adventure,Game-Show,Horror",7.5,28
+tt3007640,tt12158692,11,11,S11,Shaken and Very Stirred,Shaken and Very Stirred,2020,,,"Adventure,Game-Show,Horror",6.8,28
+tt3007640,tt14044928,11,12,S11,Amazoned Out,Amazoned Out,2020,,41,"Adventure,Game-Show,Horror",6.4,14
+tt3007640,tt12187554,11,13,S11,Ring of Fire,Ring of Fire,2020,,83,"Adventure,Game-Show,Horror",6.5,20
+tt3007640,tt12234354,11,14,S11,"21 Miles, 21 Days","21 Miles, 21 Days",2020,,42,"Adventure,Game-Show,Horror",7.1,22
+tt3007640,tt12274706,11,15,S11,Honeymoon from Hell,Honeymoon from Hell,2020,,,"Adventure,Game-Show,Horror",4.8,30
+tt3007640,tt12312594,11,16,S11,Don't Cave In,Don't Cave In,2020,,,"Adventure,Game-Show,Horror",8.2,32
+tt3007640,tt12357404,11,17,S11,Snow Daze,Snow Daze,2020,,,"Adventure,Game-Show,Horror",8.0,30
+tt3007640,tt14130848,12,1,S12,"No Rain, No Gain","No Rain, No Gain",2021,,,"Adventure,Game-Show,Horror",7.1,23
+tt3007640,tt14130852,12,2,S12,Mile-High Clubbed,Mile-High Clubbed,2021,,,"Adventure,Game-Show,Horror",6.6,20
+tt3007640,tt14130856,12,3,S12,The Devil's Woods,The Devil's Woods,2021,,,"Adventure,Game-Show,Horror",7.0,35
+tt3007640,tt14302060,12,4,S12,Sand Trapped,Sand Trapped,2021,,,"Adventure,Game-Show,Horror",7.2,17
+tt3007640,tt14317010,12,5,S12,Stars Against the Storm,Stars Against the Storm,2021,,,"Adventure,Game-Show,Horror",6.9,17
+tt3007640,tt14356778,12,6,S12,A Tangled Web in Texas,A Tangled Web in Texas,2021,,,"Adventure,Game-Show,Horror",7.3,19
+tt3007640,tt14403588,12,7,S12,Shart Attack,Shart Attack,2021,,,"Adventure,Game-Show,Horror",6.9,17
+tt3007640,tt14403750,12,8,S12,Monkey Business,Monkey Business,2021,,,"Adventure,Game-Show,Horror",7.6,23
+tt3007640,tt14476082,12,9,S12,"Okay, Boomer","Okay, Boomer",2021,,,"Adventure,Game-Show,Horror",7.6,21
+tt3007640,tt14508508,12,10,S12,Bite Me,Bite Me,2021,,,"Adventure,Game-Show,Horror",7.0,16
+tt3007640,tt14508510,12,11,S12,Come Hell and Black Water,Come Hell and Black Water,2021,,,"Adventure,Game-Show,Horror",6.7,19
+tt3007640,tt15100404,13,1,S13,Baskets and Bullet Ants,Baskets and Bullet Ants,2021,,,"Adventure,Game-Show,Horror",7.5,28
+tt3007640,tt15250484,13,2,S13,Two is a Crowd,Two is a Crowd,2021,,,"Adventure,Game-Show,Horror",6.9,19
+tt3007640,tt15281316,13,3,S13,The Death Ledge,The Death Ledge,2021,,,"Adventure,Game-Show,Horror",7.3,19
+tt3007640,tt15320590,13,4,S13,USA vs. World,USA vs. World,2021,,,"Adventure,Game-Show,Horror",7.0,17
+tt3007640,tt15353122,13,5,S13,Gag Me with a Turtle,Gag Me with a Turtle,2021,,,"Adventure,Game-Show,Horror",7.2,16
+tt3007640,tt15410226,13,6,S13,Buffalo Bait,Buffalo Bait,2021,,,"Adventure,Game-Show,Horror",7.1,14
+tt3007640,tt18070496,14,1,S14,Curse of the Chiapas,Curse of the Chiapas,2022,,42,"Adventure,Game-Show,Horror",6.8,40
+tt3007640,tt18568324,14,2,S14,Haunted and Hungry,Haunted and Hungry,2022,,41,"Adventure,Game-Show,Horror",6.8,27
+tt3007640,tt18671876,14,3,S14,Fallen Farmer,Fallen Farmer,2022,,42,"Adventure,Game-Show,Horror",7.3,52
+tt3007640,tt18673102,14,4,S14,Sibling Survival,Sibling Survival,2022,,62,"Adventure,Game-Show,Horror",6.9,23
+tt3007640,tt18925552,14,5,S14,Night Stalkers,Night Stalkers,2022,,82,"Adventure,Game-Show,Horror",6.5,34
+tt3007640,tt19064664,14,6,S14,Next Gen Survival,Next Gen Survival,2022,,42,"Adventure,Game-Show,Horror",7.1,33
+tt3007640,tt19064848,14,7,S14,Valley of the Leopards,Valley of the Leopards,2022,,42,"Adventure,Game-Show,Horror",6.2,23
+tt3007640,tt19245446,14,8,S14,Opposites Don't Attract,Opposites Don't Attract,2022,,84,"Adventure,Game-Show,Horror",3.5,109
+tt3007640,tt19382466,14,9,S14,Legends and Rookies,Legends and Rookies,2022,,84,"Adventure,Game-Show,Horror",8.3,31
+tt3007640,tt19711070,14,10,S14,Battle of the Sexes,Battle of the Sexes,2022,,84,"Adventure,Game-Show,Horror",7.5,23
+tt3007640,tt19766730,14,11,S14,Abandoned Village,Abandoned Village,2022,,42,"Adventure,Game-Show,Horror",6.8,25
+tt3007640,tt19766832,14,12,S14,The Labyrinth,The Labyrinth,2022,,62,"Adventure,Game-Show,Horror",7.0,18
+tt3007640,tt19844498,14,13,S14,Lost in Translation,Lost in Translation,2022,,62,"Adventure,Game-Show,Horror",8.2,35
+tt3007640,tt24177048,15,1,S15,Welcome to America!,Welcome to America!,2023,,85,"Adventure,Game-Show,Horror",8.7,70
+tt3007640,tt24177062,15,2,S15,No Holds Barred,No Holds Barred,2023,,,"Adventure,Game-Show,Horror",7.1,25
+tt3007640,tt24177058,15,3,S15,"No Gear, No Fear","No Gear, No Fear",2023,,,"Adventure,Game-Show,Horror",6.9,24
+tt3007640,tt27048637,15,4,S15,"Bro, Hold My Fear","Bro, Hold My Fear",2023,,,"Adventure,Game-Show,Horror",7.7,30
+tt3007640,tt27189727,15,5,S15,Kalahari Cold Front,Kalahari Cold Front,2023,,,"Adventure,Game-Show,Horror",6.6,32
+tt3007640,tt27297449,15,6,S15,Sucker Punched in South Africa,Sucker Punched in South Africa,2023,,,"Adventure,Game-Show,Horror",6.3,25
+tt3007640,tt27415786,15,7,S15,Taste of Their Own Medicine,Taste of Their Own Medicine,2023,,42,"Adventure,Game-Show,Horror",6.8,26
+tt3007640,tt27477083,15,8,S15,Beauty and the Beasties,Beauty and the Beasties,2023,,,"Adventure,Game-Show,Horror",6.8,27
+tt3007640,tt27529306,15,9,S15,Love Thy Neighbor ... or Not,Love Thy Neighbor ... or Not,2023,,,"Adventure,Game-Show,Horror",5.6,21
+tt3007640,tt27599402,15,10,S15,"Not Today, Satan","Not Today, Satan",2023,,,"Adventure,Game-Show,Horror",6.1,18
+tt3007640,tt27686090,15,11,S15,"Cry for Me, Argentina","Cry for Me, Argentina",2023,,,"Adventure,Game-Show,Horror",7.6,19
+tt3007640,tt29224482,16,1,S16,Blood and Money,Blood and Money,2023,,42,"Adventure,Game-Show,Horror",6.9,20
+tt3007640,tt29780987,16,2,S16,City Slickers in the Wild,City Slickers in the Wild,2023,,,"Adventure,Game-Show,Horror",5.2,15
+tt3007640,tt29880435,16,3,S16,Broke Back Jungle,Broke Back Jungle,2023,,42,"Adventure,Game-Show,Horror",7.7,17
+tt3007640,tt29989653,16,4,S16,A Shart at Redemption,A Shart at Redemption,2023,,,"Adventure,Game-Show,Horror",6.9,16
+tt3007640,tt30018554,16,5,S16,Odd Man Out,Odd Man Out,2023,,,"Adventure,Game-Show,Horror",6.9,13
+tt3007640,tt30983203,17,1,S17,Death by Crocodile,Death by Crocodile,2024,,84,"Adventure,Game-Show,Horror",8.5,35
+tt3007640,tt31530794,17,2,S17,There Will Be Blood,There Will Be Blood,2024,,84,"Adventure,Game-Show,Horror",7.8,24
+tt3007640,tt31530795,17,3,S17,Colombian Cave Women,Colombian Cave Women,2024,,84,"Adventure,Game-Show,Horror",8.0,23
+tt3007640,tt31547718,17,4,S17,Surviving the Road to Recovery,Surviving the Road to Recovery,2024,,84,"Adventure,Game-Show,Horror",7.2,21
+tt3007640,tt31829346,17,5,S17,Runaway Bride,Runaway Bride,2024,,84,"Adventure,Game-Show,Horror",8.9,51
+tt3007640,tt31896807,17,6,S17,This is Harder Than it Looks,This is Harder Than it Looks,2024,,42,"Adventure,Game-Show,Horror",6.9,22
+tt3007640,tt31975158,17,7,S17,Put Up or Shut Up,Put Up or Shut Up,2024,,48,"Adventure,Game-Show,Horror",4.1,29
+tt3007640,tt32044705,17,8,S17,Unbreakable,Unbreakable,2024,,62,"Adventure,Game-Show,Horror",8.5,28
+tt3007640,tt32044708,17,9,S17,Triple Threat,Triple Threat,2024,,84,"Adventure,Game-Show,Horror",7.7,22
+tt3007640,tt32186857,17,10,S17,Hit by Hippos,Hit by Hippos,2024,,,"Adventure,Game-Show,Horror",7.5,22
+tt3007640,tt32244199,17,11,S17,Poison Control,Poison Control,2024,,,"Adventure,Game-Show,Horror",7.6,17
+tt3007640,tt32244202,17,12,S17,Naked and Amish,Naked and Amish,2024,,,"Adventure,Game-Show,Horror",6.8,15
+tt3007640,tt35682306,18,1,S18,"No Legs, No Problem","No Legs, No Problem",2025,,135,"Adventure,Game-Show,Horror",8.0,29
+tt3007640,tt36110470,18,2,S18,Return of the King,Return of the King,2025,,67,"Adventure,Game-Show,Horror",8.7,22
+tt3007640,tt36110925,18,3,S18,Seventeen Stitches,Seventeen Stitches,2025,,61,"Adventure,Game-Show,Horror",5.8,21
+tt3007640,tt36110943,18,4,S18,The Serpent's Cove,The Serpent's Cove,2025,,63,"Adventure,Game-Show,Horror",7.0,19
+tt3007640,tt36207590,18,5,S18,The Beauty and the Bro,The Beauty and the Bro,2025,,121,"Adventure,Game-Show,Horror",6.2,24
+tt3007640,tt36315363,18,6,S18,Enter the Queen,Enter the Queen,2025,,,"Adventure,Game-Show,Horror",8.3,26
+tt3007640,tt36501675,18,7,S18,Toxic Redemption,Toxic Redemption,2025,,121,"Adventure,Game-Show,Horror",6.2,14
+tt3007640,tt36501680,18,8,S18,Schooled by the Jungle,Schooled by the Jungle,2025,,84,"Adventure,Game-Show,Horror",7.7,20
+tt3007640,tt36604798,18,9,S18,Mayan Blood Sacrifice,Mayan Blood Sacrifice,2025,,,"Adventure,Game-Show,Horror",7.0,15
+tt3007640,tt36698535,18,10,S18,Three Is Not Enough,Three Is Not Enough,2025,,,"Adventure,Game-Show,Horror",7.1,15
+tt3007640,tt36727309,18,11,S18,Punched by the Prairie State,Punched by the Prairie State,2025,,,"Adventure,Game-Show,Horror",7.1,15
+tt3007640,tt10397596,,,,Just Kidding,Just Kidding,2019,,41,"Adventure,Game-Show,Horror",,
+tt3007640,tt11290182,,,,Mother Nature's Terror,Mother Nature's Terror,2019,,,"Adventure,Game-Show,Horror",,
+tt3007640,tt12479548,,,,Watch Party: Bulent and Cat in Colombian Rainforest,Watch Party: Bulent and Cat in Colombian Rainforest,2020,,,"Adventure,Game-Show,Horror",7.3,10
+tt3007640,tt12579136,,,,Watch Party: Trish and Jeremy,Watch Party: Trish and Jeremy,2020,,,"Adventure,Game-Show,Horror",7.3,9
+tt3007640,tt12724376,,,,Watch Party: Fernando and Samantha,Watch Party: Fernando and Samantha,2020,,48,"Adventure,Game-Show,Horror",,
+tt3007640,tt4303760,,,,Franco and Rogen,Franco and Rogen,2014,,13,"Adventure,Game-Show,Horror",6.6,46
+tt3007640,tt6005440,,,,Jeff & EJ Origins,Jeff & EJ Origins,2016,,,"Adventure,Game-Show,Horror",6.4,8
+tt3007640,tt9369562,,,,Bug Blizzard,Bug Blizzard,2018,,,"Adventure,Game-Show,Horror",,

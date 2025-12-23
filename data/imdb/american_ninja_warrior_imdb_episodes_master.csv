@@ -1,0 +1,262 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt1587934,tt1711031,1,1,S1,Episode #1.1,Episode #1.1,2009,,,"Action,Game-Show,Reality-TV",6.5,29
+tt1587934,tt7901076,1,2,S1,Episode #1.2,Episode #1.2,2009,,,"Action,Game-Show,Reality-TV",6.3,16
+tt1587934,tt7901078,1,3,S1,Episode #1.3,Episode #1.3,2009,,,"Action,Game-Show,Reality-TV",6.8,16
+tt1587934,tt7901080,1,4,S1,Episode #1.4,Episode #1.4,2009,,,"Action,Game-Show,Reality-TV",6.6,15
+tt1587934,tt1928382,1,5,S1,Episode #1.5,Episode #1.5,2009,,,"Action,Game-Show,Reality-TV",6.9,20
+tt1587934,tt7790396,1,6,S1,Episode #1.6,Episode #1.6,2009,,,"Action,Game-Show,Reality-TV",5.4,16
+tt1587934,tt7901084,1,7,S1,Episode #1.7,Episode #1.7,2009,,,"Action,Game-Show,Reality-TV",6.9,16
+tt1587934,tt7901088,1,8,S1,Episode #1.8,Episode #1.8,2009,,,"Action,Game-Show,Reality-TV",6.9,16
+tt1587934,tt1713570,2,1,S2,Episode #2.1,Episode #2.1,2010,,,"Action,Game-Show,Reality-TV",7.5,23
+tt1587934,tt1713571,2,2,S2,Episode #2.2,Episode #2.2,2010,,,"Action,Game-Show,Reality-TV",6.7,16
+tt1587934,tt1713572,2,3,S2,Episode #2.3,Episode #2.3,2010,,,"Action,Game-Show,Reality-TV",6.2,16
+tt1587934,tt1714221,2,4,S2,Episode #2.4,Episode #2.4,2010,,,"Action,Game-Show,Reality-TV",6.9,18
+tt1587934,tt1713573,2,5,S2,Episode #2.5,Episode #2.5,2010,,,"Action,Game-Show,Reality-TV",6.1,16
+tt1587934,tt1713574,2,6,S2,Episode #2.6,Episode #2.6,2010,,,"Action,Game-Show,Reality-TV",6.7,16
+tt1587934,tt1713575,2,7,S2,Episode #2.7,Episode #2.7,2010,,,"Action,Game-Show,Reality-TV",6.2,17
+tt1587934,tt1713576,2,8,S2,Episode #2.8,Episode #2.8,2010,,,"Action,Game-Show,Reality-TV",7.1,18
+tt1587934,tt1901274,2,9,S2,Episode #2.9,Episode #2.9,2010,,,"Action,Game-Show,Reality-TV",7.4,17
+tt1587934,tt1901275,2,10,S2,Episode #2.10,Episode #2.10,2010,,,"Action,Game-Show,Reality-TV",7.5,18
+tt1587934,tt1966678,3,1,S3,Episode #3.1,Episode #3.1,2011,,,"Action,Game-Show,Reality-TV",7.0,19
+tt1587934,tt1966679,3,2,S3,Episode #3.2,Episode #3.2,2011,,,"Action,Game-Show,Reality-TV",6.9,19
+tt1587934,tt1966680,3,3,S3,Episode #3.3,Episode #3.3,2011,,,"Action,Game-Show,Reality-TV",6.9,19
+tt1587934,tt1966681,3,4,S3,Episode #3.4,Episode #3.4,2011,,,"Action,Game-Show,Reality-TV",6.8,20
+tt1587934,tt1972863,3,5,S3,Episode #3.5,Episode #3.5,2011,,,"Action,Game-Show,Reality-TV",6.4,21
+tt1587934,tt1972864,3,6,S3,Episode #3.6,Episode #3.6,2011,,,"Action,Game-Show,Reality-TV",6.6,21
+tt1587934,tt1972865,3,7,S3,Episode #3.7,Episode #3.7,2011,,,"Action,Game-Show,Reality-TV",6.5,22
+tt1587934,tt1972866,3,8,S3,Episode #3.8,Episode #3.8,2011,,,"Action,Game-Show,Reality-TV",6.1,21
+tt1587934,tt1972862,3,9,S3,Episode #3.9,Episode #3.9,2011,,120,"Action,Game-Show,Reality-TV",7.2,22
+tt1587934,tt2328985,4,1,S4,Southwest Qualifying: Part 1,Southwest Qualifying: Part 1,2012,,40,"Action,Game-Show,Reality-TV",7.0,28
+tt1587934,tt2365045,4,2,S4,Southwest Qualifying: Part 2,Southwest Qualifying: Part 2,2012,,39,"Action,Game-Show,Reality-TV",6.8,26
+tt1587934,tt2328987,4,3,S4,Southwest Regional Finals,Southwest Regional Finals,2012,,80,"Action,Game-Show,Reality-TV",6.8,26
+tt1587934,tt2328989,4,4,S4,Midwest Qualifying: Part 1,Midwest Qualifying: Part 1,2012,,,"Action,Game-Show,Reality-TV",6.9,25
+tt1587934,tt2221150,4,5,S4,Midwest Qualifying: Part 2,Midwest Qualifying: Part 2,2012,,38,"Action,Game-Show,Reality-TV",6.8,27
+tt1587934,tt2328993,4,6,S4,Midwest Regional Finals,Midwest Regional Finals,2012,,40,"Action,Game-Show,Reality-TV",6.8,24
+tt1587934,tt2328995,4,7,S4,Northeast Qualifying: Part 1,Northeast Qualifying: Part 1,2012,,36,"Action,Game-Show,Reality-TV",6.5,22
+tt1587934,tt2328999,4,8,S4,Northeast Qualifying: Part 2,Northeast Qualifying: Part 2,2012,,,"Action,Game-Show,Reality-TV",6.5,22
+tt1587934,tt2328997,4,9,S4,Northeast Finals,Northeast Finals,2012,,42,"Action,Game-Show,Reality-TV",7.5,22
+tt1587934,tt2331295,4,10,S4,Northwest Qualifying: Part 1,Northwest Qualifying: Part 1,2012,,,"Action,Game-Show,Reality-TV",6.9,21
+tt1587934,tt2331303,4,11,S4,Northwest Qualifying: Part 2,Northwest Qualifying: Part 2,2012,,,"Action,Game-Show,Reality-TV",6.9,20
+tt1587934,tt2331305,4,12,S4,Northwest Finals,Northwest Finals,2012,,,"Action,Game-Show,Reality-TV",6.7,21
+tt1587934,tt2331297,4,13,S4,Midsouth Qualifying: Part 1,Midsouth Qualifying: Part 1,2012,,78,"Action,Game-Show,Reality-TV",7.2,20
+tt1587934,tt2331299,4,14,S4,Midsouth Qualifying: Part 2,Midsouth Qualifying: Part 2,2012,,40,"Action,Game-Show,Reality-TV",6.5,19
+tt1587934,tt2331301,4,15,S4,Midsouth Finals,Midsouth Finals,2012,,,"Action,Game-Show,Reality-TV",6.8,19
+tt1587934,tt2205454,4,16,S4,Southeast Qualifying: Part 1,Southeast Qualifying: Part 1,2012,,39,"Action,Game-Show,Reality-TV",6.2,21
+tt1587934,tt2205462,4,17,S4,Southeast Qualifying: Part 2,Southeast Qualifying: Part 2,2012,,40,"Action,Game-Show,Reality-TV",6.7,21
+tt1587934,tt2205470,4,18,S4,Southeast Regional Finals,Southeast Regional Finals,2012,,40,"Action,Game-Show,Reality-TV",6.7,19
+tt1587934,tt2783726,4,19,S4,"Las Vegas Finals, Part 1","Las Vegas Finals, Part 1",2012,,40,"Action,Game-Show,Reality-TV",6.9,20
+tt1587934,tt2853880,4,20,S4,Las Vegas Finals: Part 2,Las Vegas Finals: Part 2,2012,,39,"Action,Game-Show,Reality-TV",6.5,21
+tt1587934,tt3124314,4,21,S4,Las Vegas Finals: Part 3,Las Vegas Finals: Part 3,2012,,40,"Action,Game-Show,Reality-TV",6.6,19
+tt1587934,tt2236724,4,22,S4,Las Vegas Finals: Part 4,Las Vegas Finals: Part 4,2012,,40,"Action,Game-Show,Reality-TV",6.7,22
+tt1587934,tt2976524,4,23,S4,Las Vegas Finals: Part 5,Las Vegas Finals: Part 5,2012,,37,"Action,Game-Show,Reality-TV",7.0,22
+tt1587934,tt2264216,4,24,S4,Las Vegas Finals: Part 6,Las Vegas Finals: Part 6,2012,,75,"Action,Game-Show,Reality-TV",6.7,21
+tt1587934,tt2643482,4,25,S4,ANW: Best of Southwest,ANW: Best of Southwest,2013,,79,"Action,Game-Show,Reality-TV",7.7,20
+tt1587934,tt2716586,4,29,S4,Episode #4.29,Episode #4.29,2013,,,"Action,Game-Show,Reality-TV",8.2,13
+tt1587934,tt2731652,4,30,S4,Episode #4.30,Episode #4.30,2013,,,"Action,Game-Show,Reality-TV",,
+tt1587934,tt2749682,4,31,S4,Episode #4.31,Episode #4.31,2013,,,"Action,Game-Show,Reality-TV",,
+tt1587934,tt2765406,4,32,S4,Episode #4.32,Episode #4.32,2013,,,"Action,Game-Show,Reality-TV",7.8,12
+tt1587934,tt2991054,5,1,S5,Venice Qualifying Part 1,Venice Qualifying Part 1,2013,,39,"Action,Game-Show,Reality-TV",7.0,26
+tt1587934,tt3105224,5,2,S5,Venice Qualifying Part 2,Venice Qualifying Part 2,2013,,76,"Action,Game-Show,Reality-TV",6.6,22
+tt1587934,tt3105222,5,3,S5,Baltimore Qualifying Part 1,Baltimore Qualifying Part 1,2013,,,"Action,Game-Show,Reality-TV",7.3,20
+tt1587934,tt3008646,5,4,S5,Baltimore Qualifying Part 2,Baltimore Qualifying Part 2,2013,,40,"Action,Game-Show,Reality-TV",6.4,20
+tt1587934,tt3024200,5,5,S5,Miami Qualifying Part 1,Miami Qualifying Part 1,2013,,38,"Action,Game-Show,Reality-TV",7.0,21
+tt1587934,tt3105228,5,6,S5,Miami Qualifying Part 2,Miami Qualifying Part 2,2013,,39,"Action,Game-Show,Reality-TV",7.5,19
+tt1587934,tt3039938,5,7,S5,Denver Qualifying Part 1,Denver Qualifying Part 1,2013,,36,"Action,Game-Show,Reality-TV",6.7,20
+tt1587934,tt3105238,5,8,S5,Denver Qualifying Part 2,Denver Qualifying Part 2,2013,,37,"Action,Game-Show,Reality-TV",7.5,19
+tt1587934,tt3105234,5,9,S5,Venice Finals Part 1,Venice Finals Part 1,2013,,39,"Action,Game-Show,Reality-TV",6.6,20
+tt1587934,tt3105236,5,10,S5,Venice Finals Part 2,Venice Finals Part 2,2013,,41,"Action,Game-Show,Reality-TV",6.9,20
+tt1587934,tt3105244,5,11,S5,Baltimore Finals Part 1,Baltimore Finals Part 1,2013,,39,"Action,Game-Show,Reality-TV",6.4,19
+tt1587934,tt3105240,5,12,S5,Baltimore Finals Part 2,Baltimore Finals Part 2,2013,,,"Action,Game-Show,Reality-TV",7.3,19
+tt1587934,tt3105246,5,13,S5,Miami Finals Pt. 1,Miami Finals Pt. 1,2013,,41,"Action,Game-Show,Reality-TV",7.0,18
+tt1587934,tt3105242,5,14,S5,Miami Finals Pt. 2,Miami Finals Pt. 2,2013,,40,"Action,Game-Show,Reality-TV",7.2,19
+tt1587934,tt3133916,5,15,S5,Denver Finals Pt. 1,Denver Finals Pt. 1,2013,,41,"Action,Game-Show,Reality-TV",7.0,13
+tt1587934,tt3136808,5,16,S5,Denver Finals: Part 2,Denver Finals: Part 2,2013,,38,"Action,Game-Show,Reality-TV",7.2,14
+tt1587934,tt3117384,5,17,S5,National Finals: Stage 1 - Part 1,National Finals: Stage 1 - Part 1,2013,,77,"Action,Game-Show,Reality-TV",6.7,16
+tt1587934,tt3119978,5,18,S5,National Finals: Stage 1 - Part 2,National Finals: Stage 1 - Part 2,2013,,,"Action,Game-Show,Reality-TV",6.7,20
+tt1587934,tt3170006,5,19,S5,National Finals: Stage 1 - Part 3,National Finals: Stage 1 - Part 3,2013,,78,"Action,Game-Show,Reality-TV",6.2,18
+tt1587934,tt3182806,5,20,S5,National Finals: Stage 2,National Finals: Stage 2,2013,,39,"Action,Game-Show,Reality-TV",6.7,16
+tt1587934,tt3212858,5,21,S5,National Finals Part 5,National Finals Part 5,2013,,41,"Action,Game-Show,Reality-TV",7.0,16
+tt1587934,tt4097476,5,22,S5,USA vs. Japan,USA vs. Japan,2014,,,"Action,Game-Show,Reality-TV",7.1,15
+tt1587934,tt3730404,6,0,S6,Countdown to American Ninja Warrior 2014,Countdown to American Ninja Warrior 2014,2014,,,"Action,Game-Show,Reality-TV",7.6,16
+tt1587934,tt3824416,6,1,S6,Venice Qualifying,Venice Qualifying,2014,,77,"Action,Game-Show,Reality-TV",7.8,14
+tt1587934,tt3745348,6,2,S6,Dallas Qualifying,Dallas Qualifying,2014,,80,"Action,Game-Show,Reality-TV",7.4,16
+tt1587934,tt3759750,6,3,S6,St. Louis Qualifying,St. Louis Qualifying,2014,,79,"Action,Game-Show,Reality-TV",7.4,15
+tt1587934,tt3824426,6,4,S6,Miami Qualifying,Miami Qualifying,2014,,80,"Action,Game-Show,Reality-TV",7.0,16
+tt1587934,tt3824424,6,5,S6,Denver Qualifying,Denver Qualifying,2014,,75,"Action,Game-Show,Reality-TV",7.2,18
+tt1587934,tt3832596,6,6,S6,Venice Beach Finals,Venice Beach Finals,2014,,78,"Action,Game-Show,Reality-TV",7.8,16
+tt1587934,tt4624958,6,8,S6,St. Louis Finals,St. Louis Finals,2014,,77,"Action,Game-Show,Reality-TV",6.4,13
+tt1587934,tt3875702,6,9,S6,Miami Finals,Miami Finals,2014,,76,"Action,Game-Show,Reality-TV",6.5,15
+tt1587934,tt3891052,6,10,S6,Denver Finals,Denver Finals,2014,,80,"Action,Game-Show,Reality-TV",6.8,18
+tt1587934,tt3919504,6,12,S6,National Finals in Las Vegas Part 1,National Finals in Las Vegas Part 1,2014,,81,"Action,Game-Show,Reality-TV",7.4,18
+tt1587934,tt4016356,6,13,S6,National Finals in Las Vegas Part 2,National Finals in Las Vegas Part 2,2014,,84,"Action,Game-Show,Reality-TV",7.0,18
+tt1587934,tt4016354,6,14,S6,National Finals in Las Vegas Part 3,National Finals in Las Vegas Part 3,2014,,86,"Action,Game-Show,Reality-TV",7.2,19
+tt1587934,tt4009034,6,15,S6,USA vs. the World,USA vs. the World,2014,,122,"Action,Game-Show,Reality-TV",8.1,30
+tt1587934,tt4899660,7,1,S7,Venice Qualifying 2015,Venice Qualifying 2015,2015,,,"Action,Game-Show,Reality-TV",7.6,16
+tt1587934,tt4697518,7,2,S7,Kansas City Qualifying,Kansas City Qualifying,2015,,60,"Action,Game-Show,Reality-TV",7.0,22
+tt1587934,tt4716984,7,3,S7,Houston Qualifying,Houston Qualifying,2015,,86,"Action,Game-Show,Reality-TV",7.9,18
+tt1587934,tt4736232,7,4,S7,Orlando Qualifying,Orlando Qualifying,2015,,86,"Action,Game-Show,Reality-TV",7.4,15
+tt1587934,tt4767050,7,5,S7,Pittsburgh Qualifying,Pittsburgh Qualifying,2015,,86,"Action,Game-Show,Reality-TV",7.9,20
+tt1587934,tt4799948,7,6,S7,Military Qualifying,Military Qualifying,2015,,86,"Action,Game-Show,Reality-TV",7.7,20
+tt1587934,tt4823166,7,7,S7,Venice Finals,Venice Finals,2015,,86,"Action,Game-Show,Reality-TV",7.4,17
+tt1587934,tt4941792,7,8,S7,Kansas City Finals,Kansas City Finals,2015,,86,"Action,Game-Show,Reality-TV",7.7,14
+tt1587934,tt5070424,7,9,S7,Houston Finals,Houston Finals,2015,,85,"Action,Game-Show,Reality-TV",7.8,14
+tt1587934,tt4973480,7,10,S7,Orlando Finals,Orlando Finals,2015,,85,"Action,Game-Show,Reality-TV",7.5,16
+tt1587934,tt4973350,7,11,S7,Pittsburgh Finals,Pittsburgh Finals,2015,,85,"Action,Game-Show,Reality-TV",7.7,17
+tt1587934,tt4973474,7,12,S7,Military Finals,Military Finals,2015,,85,"Action,Game-Show,Reality-TV",7.4,20
+tt1587934,tt5100674,7,14,S7,Vegas Finals,Vegas Finals,2015,,86,"Action,Game-Show,Reality-TV",7.8,20
+tt1587934,tt5699508,7,15,S7,Vegas Finals: Part 2,Vegas Finals: Part 2,2015,,85,"Action,Game-Show,Reality-TV",8.0,15
+tt1587934,tt5065054,7,16,S7,Vegas Finals: Part 3,Vegas Finals: Part 3,2015,,128,"Action,Game-Show,Reality-TV",8.7,30
+tt1587934,tt5279924,7,17,S7,Team Ninja Warrior Preview Special,Team Ninja Warrior Preview Special,2015,,,"Action,Game-Show,Reality-TV",7.2,9
+tt1587934,tt5699528,7,18,S7,USA vs. The World II,USA vs. The World II,2016,,,"Action,Game-Show,Reality-TV",7.7,16
+tt1587934,tt5714966,8,1,S8,Los Angeles Qualifying,Los Angeles Qualifying,2016,,85,"Action,Game-Show,Reality-TV",7.0,23
+tt1587934,tt5592372,8,2,S8,Atlanta Qualifying,Atlanta Qualifying,2016,,84,"Action,Game-Show,Reality-TV",7.8,24
+tt1587934,tt5790774,8,3,S8,Indianapolis Qualifying,Indianapolis Qualifying,2016,,84,"Action,Game-Show,Reality-TV",7.1,21
+tt1587934,tt5843594,8,4,S8,Oklahoma City Qualifying,Oklahoma City Qualifying,2016,,84,"Action,Game-Show,Reality-TV",7.8,17
+tt1587934,tt5843616,8,5,S8,Philadelphia Qualifying,Philadelphia Qualifying,2016,,84,"Action,Game-Show,Reality-TV",7.9,18
+tt1587934,tt5883496,8,6,S8,Los Angeles Finals,Los Angeles Finals,2016,,85,"Action,Game-Show,Reality-TV",8.2,18
+tt1587934,tt5903560,8,7,S8,Atlanta Finals,Atlanta Finals,2016,,84,"Action,Game-Show,Reality-TV",7.6,16
+tt1587934,tt5949218,8,8,S8,Indianapolis Finals,Indianapolis Finals,2016,,84,"Action,Game-Show,Reality-TV",8.0,17
+tt1587934,tt5949258,8,9,S8,Oklahoma City Finals,Oklahoma City Finals,2016,,84,"Action,Game-Show,Reality-TV",7.8,18
+tt1587934,tt6022578,8,10,S8,Philadelphia Finals,Philadelphia Finals,2016,,84,"Action,Game-Show,Reality-TV",7.8,16
+tt1587934,tt6022620,8,11,S8,Vegas Finals,Vegas Finals,2016,,84,"Action,Game-Show,Reality-TV",7.5,18
+tt1587934,tt6039490,8,12,S8,Vegas Finals: Part 2,Vegas Finals: Part 2,2016,,84,"Action,Game-Show,Reality-TV",7.5,17
+tt1587934,tt6069408,8,13,S8,Vegas Finals: Part 3,Vegas Finals: Part 3,2016,,84,"Action,Game-Show,Reality-TV",7.8,18
+tt1587934,tt6953202,8,14,S8,All Stars,All Stars,2017,,,"Action,Game-Show,Reality-TV",8.0,13
+tt1587934,tt6977728,8,15,S8,USA vs. The World,USA vs. The World,2017,,,"Action,Game-Show,Reality-TV",8.4,16
+tt1587934,tt6920160,9,1,S9,Celebrity Ninja Warrior,Celebrity Ninja Warrior,2017,,,"Action,Game-Show,Reality-TV",8.1,34
+tt1587934,tt5788876,9,2,S9,Los Angeles Qualifiers,Los Angeles Qualifiers,2017,,84,"Action,Game-Show,Reality-TV",7.4,25
+tt1587934,tt7042758,9,3,S9,San Antonio Qualifiers,San Antonio Qualifiers,2017,,84,"Action,Game-Show,Reality-TV",7.7,20
+tt1587934,tt7075134,9,4,S9,Daytona Beach Qualifiers,Daytona Beach Qualifiers,2017,,84,"Action,Game-Show,Reality-TV",8.1,18
+tt1587934,tt7104426,9,5,S9,Kansas City Qualifiers,Kansas City Qualifiers,2017,,84,"Action,Game-Show,Reality-TV",6.9,19
+tt1587934,tt7131102,9,6,S9,Cleveland Qualifiers,Cleveland Qualifiers,2017,,84,"Action,Game-Show,Reality-TV",8.0,17
+tt1587934,tt7153370,9,7,S9,Denver Qualifiers,Denver Qualifiers,2017,,84,"Action,Game-Show,Reality-TV",7.8,18
+tt1587934,tt7045182,9,8,S9,Los Angeles City Finals,Los Angeles City Finals,2017,,84,"Action,Game-Show,Reality-TV",8.3,19
+tt1587934,tt7175208,9,9,S9,San Antonio City Finals,San Antonio City Finals,2017,,120,"Action,Game-Show,Reality-TV",7.9,18
+tt1587934,tt7175212,9,10,S9,Daytona Beach City Finals,Daytona Beach City Finals,2017,,120,"Action,Game-Show,Reality-TV",8.2,18
+tt1587934,tt7255772,9,11,S9,Cleveland City Finals,Cleveland City Finals,2017,,84,"Action,Game-Show,Reality-TV",8.1,18
+tt1587934,tt7255788,9,12,S9,Kansas City City Finals,Kansas City City Finals,2017,,84,"Action,Game-Show,Reality-TV",7.9,18
+tt1587934,tt7255804,9,13,S9,Denver City Finals,Denver City Finals,2017,,84,"Action,Game-Show,Reality-TV",8.2,16
+tt1587934,tt7255826,9,14,S9,Las Vegas Finals Night 1,Las Vegas Finals Night 1,2017,,84,"Action,Game-Show,Reality-TV",7.9,20
+tt1587934,tt7255828,9,15,S9,Las Vegas Finals Night 2,Las Vegas Finals Night 2,2017,,84,"Action,Game-Show,Reality-TV",7.9,19
+tt1587934,tt7309330,9,16,S9,Vegas Finals: Part 3,Vegas Finals: Part 3,2017,,85,"Action,Game-Show,Reality-TV",8.5,21
+tt1587934,tt7309332,9,17,S9,Episode #9.17,Episode #9.17,2017,,,"Action,Game-Show,Reality-TV",,
+tt1587934,tt8189820,9,18,S9,USA vs the World,USA vs the World,2018,,,"Action,Game-Show,Reality-TV",7.7,13
+tt1587934,tt8441822,9,19,S9,All-Star Special,All-Star Special,2018,,,"Action,Game-Show,Reality-TV",8.5,18
+tt1587934,tt8476264,10,0,S10,Red Nose Day: Celebrity Ninja Warrior,Red Nose Day: Celebrity Ninja Warrior,2018,,,"Action,Game-Show,Reality-TV",7.9,27
+tt1587934,tt8498264,10,1,S10,Dallas City Qualifiers,Dallas City Qualifiers,2018,,84,"Action,Game-Show,Reality-TV",7.1,28
+tt1587934,tt8523652,10,2,S10,Los Angeles City Qualifiers,Los Angeles City Qualifiers,2018,,83,"Action,Game-Show,Reality-TV",7.4,29
+tt1587934,tt8580158,10,3,S10,Miami City Qualifiers,Miami City Qualifiers,2018,,83,"Action,Game-Show,Reality-TV",7.7,28
+tt1587934,tt8580160,10,4,S10,Indianapolis City Qualifiers,Indianapolis City Qualifiers,2018,,83,"Action,Game-Show,Reality-TV",7.6,27
+tt1587934,tt8617050,10,5,S10,Philadelphia City Qualifiers,Philadelphia City Qualifiers,2018,,83,"Action,Game-Show,Reality-TV",7.5,26
+tt1587934,tt8617128,10,6,S10,Minneapolis City Qualifiers,Minneapolis City Qualifiers,2018,,83,"Action,Game-Show,Reality-TV",7.3,30
+tt1587934,tt8714478,10,7,S10,Los Angeles City Finals,Los Angeles City Finals,2018,,84,"Action,Game-Show,Reality-TV",7.0,26
+tt1587934,tt8742668,10,8,S10,Dallas City Finals,Dallas City Finals,2018,,83,"Action,Game-Show,Reality-TV",7.3,27
+tt1587934,tt8742680,10,9,S10,Miami City Finals,Miami City Finals,2018,,83,"Action,Game-Show,Reality-TV",7.3,24
+tt1587934,tt8774240,10,10,S10,Indianapolis City Finals,Indianapolis City Finals,2018,,83,"Action,Game-Show,Reality-TV",7.3,26
+tt1587934,tt8806476,10,11,S10,Philadelphia City Finals,Philadelphia City Finals,2018,,83,"Action,Game-Show,Reality-TV",8.1,22
+tt1587934,tt8875848,10,12,S10,Minneapolis City Finals,Minneapolis City Finals,2018,,84,"Action,Game-Show,Reality-TV",7.7,24
+tt1587934,tt8914696,10,13,S10,Las Vegas Finals Night 1,Las Vegas Finals Night 1,2018,,,"Action,Game-Show,Reality-TV",7.6,24
+tt1587934,tt8917684,10,14,S10,Las Vegas Finals Night 2,Las Vegas Finals Night 2,2018,,,"Action,Game-Show,Reality-TV",7.6,24
+tt1587934,tt9676862,10,16,S10,USA vs the World,USA vs the World,2019,,,"Action,Game-Show,Reality-TV",7.5,21
+tt1587934,tt10510116,11,0,S11,All-Star Skills Special,All-Star Skills Special,2019,,,"Action,Game-Show,Reality-TV",7.6,14
+tt1587934,tt9887110,11,1,S11,Los Angeles City Qualifiers,Los Angeles City Qualifiers,2019,,84,"Action,Game-Show,Reality-TV",8.1,30
+tt1587934,tt10449154,11,2,S11,Atlanta City Qualifiers,Atlanta City Qualifiers,2019,,84,"Action,Game-Show,Reality-TV",7.7,23
+tt1587934,tt10510130,11,3,S11,Oklahoma City City Qualifiers,Oklahoma City City Qualifiers,2019,,84,"Action,Game-Show,Reality-TV",7.9,22
+tt1587934,tt10543850,11,4,S11,Seattle/Tacoma City Qualifiers,Seattle/Tacoma City Qualifiers,2019,,84,"Action,Game-Show,Reality-TV",8.6,26
+tt1587934,tt10606900,11,5,S11,Baltimore City Qualifiers,Baltimore City Qualifiers,2019,,84,"Action,Game-Show,Reality-TV",8.2,22
+tt1587934,tt10597912,11,6,S11,Cincinnati City Qualifiers,Cincinnati City Qualifiers,2019,,84,"Action,Game-Show,Reality-TV",8.0,22
+tt1587934,tt10623936,11,7,S11,Los Angeles City Finals,Los Angeles City Finals,2019,,84,"Action,Game-Show,Reality-TV",7.9,22
+tt1587934,tt10805726,11,8,S11,Atlanta City Finals,Atlanta City Finals,2019,,84,"Action,Game-Show,Reality-TV",7.9,17
+tt1587934,tt10805730,11,9,S11,Oklahoma City City Finals,Oklahoma City City Finals,2019,,84,"Action,Game-Show,Reality-TV",7.7,16
+tt1587934,tt10805734,11,10,S11,Seattle/Tacoma City Finals,Seattle/Tacoma City Finals,2019,,84,"Action,Game-Show,Reality-TV",7.7,16
+tt1587934,tt10805738,11,11,S11,Baltimore City Finals,Baltimore City Finals,2019,,84,"Action,Game-Show,Reality-TV",7.2,17
+tt1587934,tt10937636,11,12,S11,Cincinnati City Finals,Cincinnati City Finals,2019,,84,"Action,Game-Show,Reality-TV",7.7,14
+tt1587934,tt10925704,11,13,S11,Las Vegas National Finals Night 1,Las Vegas National Finals Night 1,2019,,84,"Action,Game-Show,Reality-TV",7.2,19
+tt1587934,tt10925712,11,14,S11,Las Vegas National Finals Night 2,Las Vegas National Finals Night 2,2019,,84,"Action,Game-Show,Reality-TV",7.1,17
+tt1587934,tt10925718,11,15,S11,Las Vegas National Finals Night 3,Las Vegas National Finals Night 3,2019,,84,"Action,Game-Show,Reality-TV",6.4,20
+tt1587934,tt10925726,11,16,S11,Las Vegas National Finals Night 4,Las Vegas National Finals Night 4,2019,,84,"Action,Game-Show,Reality-TV",9.0,31
+tt1587934,tt12186842,12,1,S12,Qualifier 1,Qualifier 1,2020,,84,"Action,Game-Show,Reality-TV",6.3,29
+tt1587934,tt13142650,12,2,S12,Qualifier 2,Qualifier 2,2020,,84,"Action,Game-Show,Reality-TV",6.9,21
+tt1587934,tt13142652,12,3,S12,Qualifier 3,Qualifier 3,2020,,84,"Action,Game-Show,Reality-TV",7.6,21
+tt1587934,tt13227248,12,4,S12,Qualifier 4,Qualifier 4,2020,,84,"Action,Game-Show,Reality-TV",8.1,18
+tt1587934,tt13334058,12,5,S12,Semifinals 1,Semifinals 1,2020,,,"Action,Game-Show,Reality-TV",7.8,18
+tt1587934,tt13334060,12,6,S12,Semifinals 2,Semifinals 2,2020,,,"Action,Game-Show,Reality-TV",7.6,19
+tt1587934,tt13334064,12,7,S12,Finals 1,Finals 1,2020,,84,"Action,Game-Show,Reality-TV",8.1,21
+tt1587934,tt13334068,12,8,S12,Finals 2,Finals 2,2020,,84,"Action,Game-Show,Reality-TV",8.5,25
+tt1587934,tt14265512,13,1,S13,Qualifiers 1,Qualifiers 1,2021,,,"Action,Game-Show,Reality-TV",7.2,29
+tt1587934,tt14806286,13,2,S13,Qualifiers 2,Qualifiers 2,2021,,,"Action,Game-Show,Reality-TV",7.2,24
+tt1587934,tt14858330,13,3,S13,Qualifiers 3,Qualifiers 3,2021,,,"Action,Game-Show,Reality-TV",7.3,21
+tt1587934,tt14858362,13,4,S13,Qualifiers 4,Qualifiers 4,2021,,,"Action,Game-Show,Reality-TV",7.8,22
+tt1587934,tt14858414,13,5,S13,Qualifiers 5,Qualifiers 5,2021,,,"Action,Game-Show,Reality-TV",7.9,20
+tt1587934,tt14858558,13,6,S13,Semi-Finals 1,Semi-Finals 1,2021,,,"Action,Game-Show,Reality-TV",7.8,21
+tt1587934,tt14858576,13,7,S13,Semi-Finals 2,Semi-Finals 2,2021,,,"Action,Game-Show,Reality-TV",7.6,18
+tt1587934,tt14858604,13,8,S13,Semi-Finals 3,Semi-Finals 3,2021,,,"Action,Game-Show,Reality-TV",6.9,21
+tt1587934,tt32222337,13,9,S13,Semifinals 4,Semifinals 4,2021,,,"Action,Game-Show,Reality-TV",,
+tt1587934,tt15296540,13,10,S13,National Finals 1,National Finals 1,2021,,,"Action,Game-Show,Reality-TV",7.6,17
+tt1587934,tt15303320,13,11,S13,National Finals 2,National Finals 2,2021,,,"Action,Game-Show,Reality-TV",7.9,15
+tt1587934,tt15340730,13,12,S13,National Finals 3,National Finals 3,2021,,,"Action,Game-Show,Reality-TV",7.8,17
+tt1587934,tt20424970,13,13,S13,ANW Women's Championship,ANW Women's Championship,2022,,,"Action,Game-Show,Reality-TV",8.1,11
+tt1587934,tt20424974,13,14,S13,ANW All Star Spectacular,ANW All Star Spectacular,2022,,,"Action,Game-Show,Reality-TV",7.8,12
+tt1587934,tt19305430,14,1,S14,Qualifiers 1,Qualifiers 1,2022,,,"Action,Game-Show,Reality-TV",7.8,24
+tt1587934,tt21104042,14,2,S14,Qualifiers 2,Qualifiers 2,2022,,,"Action,Game-Show,Reality-TV",7.4,18
+tt1587934,tt21104046,14,3,S14,Qualifiers 3,Qualifiers 3,2022,,,"Action,Game-Show,Reality-TV",7.2,16
+tt1587934,tt21104054,14,4,S14,Qualifiers 4,Qualifiers 4,2022,,,"Action,Game-Show,Reality-TV",6.5,15
+tt1587934,tt21336612,14,5,S14,Qualifiers 5,Qualifiers 5,2022,,,"Action,Game-Show,Reality-TV",7.1,14
+tt1587934,tt21319066,14,6,S14,Semifinals 1,Semifinals 1,2022,,,"Action,Game-Show,Reality-TV",7.4,17
+tt1587934,tt21446044,14,7,S14,Semifinals 2,Semifinals 2,2022,,,"Action,Game-Show,Reality-TV",7.2,16
+tt1587934,tt21446052,14,8,S14,Semifinals 3,Semifinals 3,2022,,,"Action,Game-Show,Reality-TV",7.5,15
+tt1587934,tt21706290,14,9,S14,Semifinals 4,Semifinals 4,2022,,,"Action,Game-Show,Reality-TV",7.5,15
+tt1587934,tt22011342,14,10,S14,National Finals #1,National Finals #1,2022,,,"Action,Game-Show,Reality-TV",7.4,14
+tt1587934,tt22011346,14,11,S14,National Finals #2,National Finals #2,2022,,,"Action,Game-Show,Reality-TV",7.5,13
+tt1587934,tt22011352,14,12,S14,National Finals #3,National Finals #3,2022,,,"Action,Game-Show,Reality-TV",7.0,15
+tt1587934,tt21981324,14,13,S14,ANW Family Championship,ANW Family Championship,2022,,,"Action,Game-Show,Reality-TV",7.7,12
+tt1587934,tt27371957,15,1,S15,Qualifiers 1 & 2,Qualifiers 1 & 2,2023,,85,"Action,Game-Show,Reality-TV",7.4,22
+tt1587934,tt28153266,15,2,S15,Qualifiers 3,Qualifiers 3,2023,,43,"Action,Game-Show,Reality-TV",7.4,18
+tt1587934,tt28153270,15,3,S15,Qualifers 4,Qualifers 4,2023,,43,"Action,Game-Show,Reality-TV",7.5,15
+tt1587934,tt28265373,15,4,S15,Qualifiers 5,Qualifiers 5,2023,,43,"Action,Game-Show,Reality-TV",7.6,16
+tt1587934,tt28379145,15,5,S15,Qualifiers 6,Qualifiers 6,2023,,43,"Action,Game-Show,Reality-TV",7.3,14
+tt1587934,tt28468842,15,6,S15,Qualifiers 7,Qualifiers 7,2023,,43,"Action,Game-Show,Reality-TV",7.1,13
+tt1587934,tt28509888,15,7,S15,Qualifiers 8,Qualifiers 8,2023,,43,"Action,Game-Show,Reality-TV",6.6,14
+tt1587934,tt28509893,15,8,S15,Semifinals 1,Semifinals 1,2023,,43,"Action,Game-Show,Reality-TV",6.2,17
+tt1587934,tt28640528,15,9,S15,Semifinals 2,Semifinals 2,2023,,43,"Action,Game-Show,Reality-TV",6.3,15
+tt1587934,tt28882927,15,10,S15,Semifinals 3 & 4,Semifinals 3 & 4,2023,,85,"Action,Game-Show,Reality-TV",6.3,12
+tt1587934,tt28883028,15,11,S15,Las Vegas Finals 1,Las Vegas Finals 1,2023,,85,"Action,Game-Show,Reality-TV",6.8,13
+tt1587934,tt28882955,15,12,S15,Las Vegas Finals 2,Las Vegas Finals 2,2023,,85,"Action,Game-Show,Reality-TV",7.2,12
+tt1587934,tt29171827,15,13,S15,Las Vegas Finals 3,Las Vegas Finals 3,2023,,85,"Action,Game-Show,Reality-TV",6.9,11
+tt1587934,tt29171831,15,14,S15,Las Vegas Finals 4,Las Vegas Finals 4,2023,,85,"Action,Game-Show,Reality-TV",7.0,12
+tt1587934,tt31819640,16,1,S16,Qualifiers 1 & 2,Qualifiers 1 & 2,2024,,,"Action,Game-Show,Reality-TV",8.1,18
+tt1587934,tt32481932,16,2,S16,Qualifiers 3 & 4,Qualifiers 3 & 4,2024,,,"Action,Game-Show,Reality-TV",7.6,11
+tt1587934,tt32880824,16,3,S16,Qualifiers 5 & 6,Qualifiers 5 & 6,2024,,,"Action,Game-Show,Reality-TV",8.0,9
+tt1587934,tt32880826,16,4,S16,Qualifiers 7,Qualifiers 7,2024,,,"Action,Game-Show,Reality-TV",7.8,10
+tt1587934,tt32880830,16,5,S16,Qualifiers 8,Qualifiers 8,2024,,,"Action,Game-Show,Reality-TV",8.0,12
+tt1587934,tt33035363,16,6,S16,Semifinals 1 & 2,Semifinals 1 & 2,2024,,,"Action,Game-Show,Reality-TV",7.7,12
+tt1587934,tt33035366,16,7,S16,Semifinals 3 & 4,Semifinals 3 & 4,2024,,,"Action,Game-Show,Reality-TV",7.6,12
+tt1587934,tt33035370,16,8,S16,Las Vegas Finals 1,Las Vegas Finals 1,2024,,,"Action,Game-Show,Reality-TV",8.2,12
+tt1587934,tt33293317,16,9,S16,Las Vegas Finals 2,Las Vegas Finals 2,2024,,,"Action,Game-Show,Reality-TV",8.1,10
+tt1587934,tt33301473,16,10,S16,Las Vegas Finals 3,Las Vegas Finals 3,2024,,,"Action,Game-Show,Reality-TV",7.9,11
+tt1587934,tt33301474,16,11,S16,Las Vegas Finals 4,Las Vegas Finals 4,2024,,,"Action,Game-Show,Reality-TV",8.6,12
+tt1587934,tt37245221,17,1,S17,Qualifiers 1,Qualifiers 1,2025,,,"Action,Game-Show,Reality-TV",7.5,21
+tt1587934,tt37315385,17,2,S17,Qualifiers 2,Qualifiers 2,2025,,,"Action,Game-Show,Reality-TV",7.9,16
+tt1587934,tt37340259,17,3,S17,Qualifiers 3,Qualifiers 3,2025,,,"Action,Game-Show,Reality-TV",8.0,14
+tt1587934,tt37340260,17,4,S17,Qualifiers 4,Qualifiers 4,2025,,,"Action,Game-Show,Reality-TV",8.0,14
+tt1587934,tt37543883,17,5,S17,Qualifiers 5,Qualifiers 5,2025,,,"Action,Game-Show,Reality-TV",8.2,13
+tt1587934,tt37664656,17,6,S17,Qualifiers 6,Qualifiers 6,2025,,,"Action,Game-Show,Reality-TV",7.9,12
+tt1587934,tt37664799,17,7,S17,Semifinals 1,Semifinals 1,2025,,,"Action,Game-Show,Reality-TV",7.8,12
+tt1587934,tt37708474,17,8,S17,Semifinals 2,Semifinals 2,2025,,,"Action,Game-Show,Reality-TV",8.1,11
+tt1587934,tt37787155,17,9,S17,Semifinals 3,Semifinals 3,2025,,,"Action,Game-Show,Reality-TV",8.1,11
+tt1587934,tt37897574,17,10,S17,Finals 1,Finals 1,2025,,,"Action,Game-Show,Reality-TV",7.1,13
+tt1587934,tt37897573,17,11,S17,Finals 2,Finals 2,2025,,,"Action,Game-Show,Reality-TV",7.3,12
+tt1587934,tt38034686,17,12,S17,S17E12 Finals 3,S17E12 Finals 3,2025,,,"Action,Game-Show,Reality-TV",7.9,11
+tt1587934,tt38048351,17,13,S17,Finals 4,Finals 4,2025,,,"Action,Game-Show,Reality-TV",8.1,13
+tt1587934,tt38091171,17,14,S17,Women's Special Episode,Women's Special Episode,2025,,,"Action,Game-Show,Reality-TV",8.6,9
+tt1587934,tt37800034,18,1,S18,Episode #18.1,Episode #18.1,,,,"Action,Game-Show,Reality-TV",,
+tt1587934,tt2845112,,,,Midsouth Regional Finals,Midsouth Regional Finals,2012,,78,"Action,Game-Show,Reality-TV",,
+tt1587934,tt3011012,,,,Northwest Regional Finals,Northwest Regional Finals,2012,,39,"Action,Game-Show,Reality-TV",7.4,10
+tt1587934,tt3105248,,,,Episode dated 25 July 2013,Episode dated 25 July 2013,2013,,,"Action,Game-Show,Reality-TV",,
+tt1587934,tt3105250,,,,Episode dated 18 July 2013,Episode dated 18 July 2013,2013,,,"Action,Game-Show,Reality-TV",,
+tt1587934,tt3105252,,,,Episode dated 26 July 2013,Episode dated 26 July 2013,2013,,,"Action,Game-Show,Reality-TV",,
+tt1587934,tt3105256,,,,Episode dated 19 July 2013,Episode dated 19 July 2013,2013,,,"Action,Game-Show,Reality-TV",,
+tt1587934,tt3151106,,,,National Finals Part 4,National Finals Part 4,2013,,,"Action,Game-Show,Reality-TV",,
+tt1587934,tt31819637,,,,Special: Women's Championship,Special: Women's Championship,2024,,,"Action,Game-Show,Reality-TV",,
+tt1587934,tt31819639,,,,Special: Couples' Championship,Special: Couples' Championship,2024,,,"Action,Game-Show,Reality-TV",,
+tt1587934,tt4286130,,,,Miami Finals Part 2,Miami Finals Part 2,2013,,,"Action,Game-Show,Reality-TV",,

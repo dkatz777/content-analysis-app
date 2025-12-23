@@ -1,0 +1,77 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0758745,tt0868133,1,1,S1,Pilot,Pilot,2006,,43,"Drama,Sport",8.4,1534
+tt0758745,tt0871137,1,2,S1,Eyes Wide Open,Eyes Wide Open,2006,,43,"Drama,Sport",7.8,1014
+tt0758745,tt0863502,1,3,S1,Wind Sprints,Wind Sprints,2006,,43,"Drama,Sport",7.8,969
+tt0758745,tt0872912,1,4,S1,Who's Your Daddy,Who's Your Daddy,2006,,43,"Drama,Sport",7.6,917
+tt0758745,tt0863503,1,5,S1,Git'er Done,Git'er Done,2006,,43,"Drama,Sport",8.0,911
+tt0758745,tt0877087,1,6,S1,El Accidente,El Accidente,2006,,43,"Drama,Sport",7.8,863
+tt0758745,tt0875325,1,7,S1,Homecoming,Homecoming,2006,,43,"Drama,Sport",7.7,859
+tt0758745,tt0875324,1,8,S1,Crossing the Line,Crossing the Line,2006,,43,"Drama,Sport",7.8,853
+tt0758745,tt0886859,1,9,S1,Full Hearts,Full Hearts,2006,,43,"Drama,Sport",7.9,838
+tt0758745,tt0890844,1,10,S1,It's Different for Girls,It's Different for Girls,2006,,43,"Drama,Sport",7.9,823
+tt0758745,tt0894070,1,11,S1,Nevermind,Nevermind,2007,,43,"Drama,Sport",8.1,827
+tt0758745,tt0902589,1,12,S1,What to Do While You're Waiting,What to Do While You're Waiting,2007,,43,"Drama,Sport",7.8,804
+tt0758745,tt0921960,1,13,S1,Little Girl I Wanna Marry You,Little Girl I Wanna Marry You,2007,,43,"Drama,Sport",7.8,800
+tt0758745,tt0916979,1,14,S1,Upping the Ante,Upping the Ante,2007,,43,"Drama,Sport",7.8,772
+tt0758745,tt0921959,1,15,S1,Blinders,Blinders,2007,,43,"Drama,Sport",7.9,830
+tt0758745,tt0941552,1,16,S1,Black Eyes and Broken Hearts,Black Eyes and Broken Hearts,2007,,43,"Drama,Sport",8.5,824
+tt0758745,tt0962354,1,17,S1,I Think We Should Have Sex,I Think We Should Have Sex,2007,,43,"Drama,Sport",8.2,794
+tt0758745,tt0975253,1,18,S1,Extended Families,Extended Families,2007,,43,"Drama,Sport",7.8,716
+tt0758745,tt0974104,1,19,S1,Ch-Ch-Ch-Ch-Changes,Ch-Ch-Ch-Ch-Changes,2007,,43,"Drama,Sport",8.1,732
+tt0758745,tt0967676,1,20,S1,Mud Bowl,Mud Bowl,2007,,43,"Drama,Sport",8.8,898
+tt0758745,tt0979518,1,21,S1,Best Laid Plans,Best Laid Plans,2007,,43,"Drama,Sport",8.2,716
+tt0758745,tt0998353,1,22,S1,State,State,2007,,43,"Drama,Sport",8.9,888
+tt0758745,tt1031339,2,1,S2,Last Days of Summer,Last Days of Summer,2007,,43,"Drama,Sport",7.6,688
+tt0758745,tt1031344,2,2,S2,Bad Ideas,Bad Ideas,2007,,43,"Drama,Sport",7.5,629
+tt0758745,tt1031345,2,3,S2,Are You Ready for Friday Night?,Are You Ready for Friday Night?,2007,,43,"Drama,Sport",7.8,612
+tt0758745,tt1031346,2,4,S2,Backfire,Backfire,2007,,43,"Drama,Sport",7.5,604
+tt0758745,tt1031347,2,5,S2,Let's Get It On,Let's Get It On,2007,,43,"Drama,Sport",8.1,608
+tt0758745,tt1031348,2,6,S2,How Did I Get Here,How Did I Get Here,2007,,43,"Drama,Sport",7.9,597
+tt0758745,tt1031349,2,7,S2,Pantherama!,Pantherama!,2007,,43,"Drama,Sport",7.6,597
+tt0758745,tt1031350,2,8,S2,Seeing Other People,Seeing Other People,2007,,43,"Drama,Sport",7.7,630
+tt0758745,tt1031351,2,9,S2,The Confession,The Confession,2007,,43,"Drama,Sport",7.9,589
+tt0758745,tt1031340,2,10,S2,There Goes the Neighborhood,There Goes the Neighborhood,2008,,43,"Drama,Sport",8.3,594
+tt0758745,tt1031341,2,11,S2,Jumping the Gun,Jumping the Gun,2008,,43,"Drama,Sport",8.0,562
+tt0758745,tt1031342,2,12,S2,Who Do You Think You Are?,Who Do You Think You Are?,2008,,43,"Drama,Sport",7.6,558
+tt0758745,tt1031343,2,13,S2,Humble Pie,Humble Pie,2008,,43,"Drama,Sport",7.8,533
+tt0758745,tt1151593,2,14,S2,Leave No One Behind,Leave No One Behind,2008,,43,"Drama,Sport",8.5,583
+tt0758745,tt1151073,2,15,S2,May the Best Man Win,May the Best Man Win,2008,,43,"Drama,Sport",7.8,572
+tt0758745,tt1216618,3,1,S3,I Knew You When,I Knew You When,2008,,43,"Drama,Sport",8.1,524
+tt0758745,tt1216623,3,2,S3,Tami Knows Best,Tami Knows Best,2008,,43,"Drama,Sport",7.9,498
+tt0758745,tt1216624,3,3,S3,How the Other Half Lives,How the Other Half Lives,2008,,43,"Drama,Sport",8.2,490
+tt0758745,tt1216625,3,4,S3,"Hello, Goodbye","Hello, Goodbye",2008,,43,"Drama,Sport",8.8,602
+tt0758745,tt1216626,3,5,S3,Every Rose Has Its Thorn,Every Rose Has Its Thorn,2008,,43,"Drama,Sport",7.8,476
+tt0758745,tt1216627,3,6,S3,It Ain't Easy Being J.D. McCoy,It Ain't Easy Being J.D. McCoy,2008,,43,"Drama,Sport",8.1,496
+tt0758745,tt1216628,3,7,S3,Keeping Up Appearances,Keeping Up Appearances,2008,,43,"Drama,Sport",8.1,492
+tt0758745,tt1216629,3,8,S3,"New York, New York","New York, New York",2008,,43,"Drama,Sport",8.6,534
+tt0758745,tt1216630,3,9,S3,Game of the Week,Game of the Week,2008,,43,"Drama,Sport",8.2,481
+tt0758745,tt1216619,3,10,S3,The Giving Tree,The Giving Tree,2008,,43,"Drama,Sport",8.3,480
+tt0758745,tt1216620,3,11,S3,A Hard Rain's Gonna Fall,A Hard Rain's Gonna Fall,2008,,43,"Drama,Sport",8.3,491
+tt0758745,tt1216621,3,12,S3,Underdogs,Underdogs,2009,,43,"Drama,Sport",9.1,614
+tt0758745,tt1216622,3,13,S3,Tomorrow Blues,Tomorrow Blues,2009,,43,"Drama,Sport",8.9,561
+tt0758745,tt1491856,4,1,S4,East of Dillon,East of Dillon,2009,,43,"Drama,Sport",8.5,563
+tt0758745,tt1501909,4,2,S4,After the Fall,After the Fall,2009,,43,"Drama,Sport",8.3,497
+tt0758745,tt1502516,4,3,S4,In the Skin of a Lion,In the Skin of a Lion,2009,,43,"Drama,Sport",8.0,479
+tt0758745,tt1502517,4,4,S4,A Sort of Homecoming,A Sort of Homecoming,2009,,43,"Drama,Sport",8.5,502
+tt0758745,tt1526671,4,5,S4,The Son,The Son,2009,,43,"Drama,Sport",9.6,1136
+tt0758745,tt1539374,4,6,S4,Stay,Stay,2009,,43,"Drama,Sport",8.4,505
+tt0758745,tt1564137,4,7,S4,In the Bag,In the Bag,2009,,43,"Drama,Sport",8.0,463
+tt0758745,tt1564138,4,8,S4,Toilet Bowl,Toilet Bowl,2010,,43,"Drama,Sport",8.1,461
+tt0758745,tt1564136,4,9,S4,The Lights in Carroll Park,The Lights in Carroll Park,2010,,43,"Drama,Sport",8.1,459
+tt0758745,tt1564132,4,10,S4,I Can't,I Can't,2010,,43,"Drama,Sport",8.1,466
+tt0758745,tt1564133,4,11,S4,Injury List,Injury List,2010,,43,"Drama,Sport",8.1,459
+tt0758745,tt1564134,4,12,S4,Laboring,Laboring,2010,,43,"Drama,Sport",8.8,496
+tt0758745,tt1564135,4,13,S4,Thanksgiving,Thanksgiving,2010,,43,"Drama,Sport",9.1,613
+tt0758745,tt1631962,5,1,S5,Expectations,Expectations,2010,,43,"Drama,Sport",8.0,484
+tt0758745,tt1631967,5,2,S5,On the Outside Looking In,On the Outside Looking In,2010,,43,"Drama,Sport",7.8,456
+tt0758745,tt1631968,5,3,S5,The Right Hand of the Father,The Right Hand of the Father,2010,,43,"Drama,Sport",8.4,477
+tt0758745,tt1631969,5,4,S5,Keep Looking,Keep Looking,2010,,43,"Drama,Sport",8.2,449
+tt0758745,tt1631970,5,5,S5,Kingdom,Kingdom,2010,,43,"Drama,Sport",8.7,490
+tt0758745,tt1631971,5,6,S5,Swerve,Swerve,2010,,43,"Drama,Sport",8.1,444
+tt0758745,tt1631972,5,7,S5,Perfect Record,Perfect Record,2010,,43,"Drama,Sport",8.4,445
+tt0758745,tt1631973,5,8,S5,Fracture,Fracture,2011,,43,"Drama,Sport",7.9,453
+tt0758745,tt1631974,5,9,S5,Gut Check,Gut Check,2011,,43,"Drama,Sport",8.4,442
+tt0758745,tt1631963,5,10,S5,Don't Go,Don't Go,2011,,43,"Drama,Sport",8.6,463
+tt0758745,tt1631964,5,11,S5,The March,The March,2011,,43,"Drama,Sport",8.6,463
+tt0758745,tt1631965,5,12,S5,Texas Whatever,Texas Whatever,2011,,43,"Drama,Sport",9.0,539
+tt0758745,tt1631966,5,13,S5,Always,Always,2011,,61,"Drama,Sport",9.6,2032

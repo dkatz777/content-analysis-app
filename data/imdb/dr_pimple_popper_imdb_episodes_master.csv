@@ -1,0 +1,95 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt6045142,tt8565024,1,1,S1,The Lipoma Whisperer,The Lipoma Whisperer,2018,,43,Reality-TV,7.7,68
+tt6045142,tt8565026,1,2,S1,The World's Largest Lump,The World's Largest Lump,2018,,42,Reality-TV,7.9,56
+tt6045142,tt8565032,1,3,S1,This Cyst Persists,This Cyst Persists,2018,,44,Reality-TV,7.8,55
+tt6045142,tt8565038,1,4,S1,The Curious Case of the Pooting Cyst,The Curious Case of the Pooting Cyst,2018,,42,Reality-TV,7.8,52
+tt6045142,tt8565040,1,5,S1,A Lipoma Jackpot,A Lipoma Jackpot,2018,,44,Reality-TV,7.6,48
+tt6045142,tt8565044,1,6,S1,An American Tail,An American Tail,2018,,42,Reality-TV,7.7,46
+tt6045142,tt8850522,2,1,S2,Nose No Bounds,Nose No Bounds,2019,,42,Reality-TV,8.0,42
+tt6045142,tt8850544,2,2,S2,Tumor Takeover,Tumor Takeover,2019,,42,Reality-TV,7.7,37
+tt6045142,tt8850548,2,3,S2,The Last Unicorn,The Last Unicorn,2019,,41,Reality-TV,7.7,43
+tt6045142,tt8850558,2,4,S2,Sisters Lumpity Lump Lump,Sisters Lumpity Lump Lump,2019,,43,Reality-TV,7.4,39
+tt6045142,tt8850560,2,5,S2,Every Rosacea Has Its Thorn,Every Rosacea Has Its Thorn,2019,,43,Reality-TV,7.7,42
+tt6045142,tt8850562,2,6,S2,Popping Popeye,Popping Popeye,2019,,42,Reality-TV,7.5,39
+tt6045142,tt8955794,2,7,S2,Scared Cyst-Less,Scared Cyst-Less,2019,,42,Reality-TV,7.9,38
+tt6045142,tt9753246,2,8,S2,A Lipoma is Born,A Lipoma is Born,2019,,42,Reality-TV,7.7,34
+tt6045142,tt9863888,2,9,S2,Mic Drop Pop!,Mic Drop Pop!,2019,,42,Reality-TV,8.0,37
+tt6045142,tt10218146,2,10,S2,"Runaway Bump, Never Coming Back?","Runaway Bump, Never Coming Back?",2019,,42,Reality-TV,8.0,35
+tt6045142,tt10655464,3,1,S3,Sleepless in Steatocystoma,Sleepless in Steatocystoma,2019,,42,Reality-TV,8.0,37
+tt6045142,tt11115494,3,2,S3,The Incredible Shrinking Lipoma,The Incredible Shrinking Lipoma,2019,,42,Reality-TV,7.8,36
+tt6045142,tt11350032,3,3,S3,Hips Don't Lie,Hips Don't Lie,2019,,43,Reality-TV,7.7,29
+tt6045142,tt11350042,3,4,S3,Romancing the Lump,Romancing the Lump,2019,,42,Reality-TV,7.8,31
+tt6045142,tt12867684,3,5,S3,This Is Zit,This Is Zit,2019,,40,Reality-TV,8.5,14
+tt6045142,tt12889984,3,6,S3,This Is Zit,This Is Zit,2019,,40,Reality-TV,9.0,13
+tt6045142,tt11503000,4,1,S4,The Record Breaking Lump!,The Record Breaking Lump!,2019,,42,Reality-TV,7.8,33
+tt6045142,tt11557810,4,2,S4,Peh-DUN-kyoo-LAY-ted,Peh-DUN-kyoo-LAY-ted,2020,,41,Reality-TV,8.0,29
+tt6045142,tt11584988,4,3,S4,Eggs Lipoma,Eggs Lipoma,2020,,42,Reality-TV,7.6,32
+tt6045142,tt11627962,4,4,S4,Adventures in Pimplepopping,Adventures in Pimplepopping,2020,,42,Reality-TV,7.8,30
+tt6045142,tt11663110,4,5,S4,Dr. Lee Nose Best!,Dr. Lee Nose Best!,2020,,42,Reality-TV,7.6,33
+tt6045142,tt11698984,4,6,S4,Warning: Cystem Shutdown!,Warning: Cystem Shutdown!,2020,,42,Reality-TV,8.0,31
+tt6045142,tt13743494,5,0,S5,Season's Squeezings,Season's Squeezings,2020,,,Reality-TV,7.7,16
+tt6045142,tt13733956,5,1,S5,Leave It to Nevus,Leave It to Nevus,2020,,,Reality-TV,7.9,27
+tt6045142,tt13733962,5,2,S5,Big Pop on Campus,Big Pop on Campus,2021,,,Reality-TV,7.9,26
+tt6045142,tt13783466,5,3,S5,Cystic River,Cystic River,2021,,44,Reality-TV,7.8,25
+tt6045142,tt13831508,5,4,S5,Don't Sweat It!,Don't Sweat It!,2021,,43,Reality-TV,7.7,25
+tt6045142,tt13874974,5,5,S5,Pain in the Neck,Pain in the Neck,2021,,,Reality-TV,7.9,21
+tt6045142,tt13923082,5,6,S5,"Cyster, Cyster","Cyster, Cyster",2021,,,Reality-TV,8.1,23
+tt6045142,tt14013132,5,7,S5,Split Decision,Split Decision,2021,,43,Reality-TV,7.8,21
+tt6045142,tt14061634,5,8,S5,The Fault in Our Scars,The Fault in Our Scars,2021,,,Reality-TV,8.1,20
+tt6045142,tt14061646,5,9,S5,Comedone Sail Away,Comedone Sail Away,2021,,,Reality-TV,8.1,21
+tt6045142,tt14107354,5,10,S5,A Spoonful of Cyst,A Spoonful of Cyst,2021,,,Reality-TV,8.1,24
+tt6045142,tt14802324,6,1,S6,My Giant Nose Is Killing Me,My Giant Nose Is Killing Me,2021,,,Reality-TV,8.1,29
+tt6045142,tt15049242,6,2,S6,The Lipoma Psychic,The Lipoma Psychic,2021,,,Reality-TV,8.3,29
+tt6045142,tt15051040,6,3,S6,Thick-Skinned,Thick-Skinned,2021,,,Reality-TV,7.5,26
+tt6045142,tt15051054,6,4,S6,Numbing Nevus,Numbing Nevus,2021,,,Reality-TV,7.4,23
+tt6045142,tt15178998,6,5,S6,Driving Miss Lumpy,Driving Miss Lumpy,2021,,,Reality-TV,7.3,27
+tt6045142,tt15179020,6,6,S6,The Exorcyst,The Exorcyst,2021,,,Reality-TV,7.6,23
+tt6045142,tt15179036,6,7,S6,Shoulder Boulder,Shoulder Boulder,2021,,,Reality-TV,7.4,22
+tt6045142,tt15309088,6,8,S6,Brain Pimple,Brain Pimple,2021,,,Reality-TV,7.5,21
+tt6045142,tt15309112,6,9,S6,Alligator Skin,Alligator Skin,2021,,,Reality-TV,7.8,22
+tt6045142,tt15309142,6,10,S6,My Third Eye,My Third Eye,2021,,,Reality-TV,7.7,20
+tt6045142,tt16383376,6,11,S6,Messiest Pops,Messiest Pops,2021,,,Reality-TV,,
+tt6045142,tt16383386,6,12,S6,Biggest Transformations,Biggest Transformations,2021,,,Reality-TV,,
+tt6045142,tt16151146,7,1,S7,Lookin' for Love in Lumpy Places,Lookin' for Love in Lumpy Places,2022,,,Reality-TV,7.6,20
+tt6045142,tt18225598,7,2,S7,The Incredible Bulk,The Incredible Bulk,2022,,,Reality-TV,7.1,19
+tt6045142,tt18317472,7,3,S7,Raw Meat Mass,Raw Meat Mass,2022,,,Reality-TV,7.4,19
+tt6045142,tt18383828,7,4,S7,The Never-Ending Keloids,The Never-Ending Keloids,2022,,,Reality-TV,7.4,20
+tt6045142,tt18384018,7,5,S7,Cyst Pits,Cyst Pits,2022,,,Reality-TV,6.9,16
+tt6045142,tt18830880,7,6,S7,Hard Knot Life,Hard Knot Life,2022,,,Reality-TV,7.5,16
+tt6045142,tt18830884,7,7,S7,"Bubble, Bubble, Ear's in Trouble!","Bubble, Bubble, Ear's in Trouble!",2022,,,Reality-TV,7.5,17
+tt6045142,tt19299676,7,8,S7,"Once, Twice, Three Times a Keloid","Once, Twice, Three Times a Keloid",2022,,,Reality-TV,7.8,18
+tt6045142,tt19299694,7,9,S7,Scarry Scarry Night,Scarry Scarry Night,2022,,,Reality-TV,7.5,16
+tt6045142,tt19701522,7,10,S7,My Brainlike Bump,My Brainlike Bump,2022,,,Reality-TV,7.5,18
+tt6045142,tt20247602,8,1,S8,Booty and the Beach,Booty and the Beach,2022,,,Reality-TV,7.2,18
+tt6045142,tt21241498,8,2,S8,Poop! (There it is),Poop! (There it is),2022,,,Reality-TV,7.9,13
+tt6045142,tt21344872,8,3,S8,Do Iguanas Get Pimples Too?,Do Iguanas Get Pimples Too?,2022,,,Reality-TV,7.3,13
+tt6045142,tt21344876,8,4,S8,Alligator Arms,Alligator Arms,2022,,,Reality-TV,7.5,13
+tt6045142,tt21451356,8,5,S8,Mötley Cÿst,Mötley Cÿst,2022,,,Reality-TV,6.7,12
+tt6045142,tt21451362,8,6,S8,A Head of Cauliflower Bumps,A Head of Cauliflower Bumps,2022,,,Reality-TV,7.4,11
+tt6045142,tt21830432,8,7,S8,The Wind Beneath My Nose Bumps,The Wind Beneath My Nose Bumps,2022,,,Reality-TV,7.2,10
+tt6045142,tt21830446,8,8,S8,Stucco on You,Stucco on You,2022,,,Reality-TV,7.0,11
+tt6045142,tt21966258,8,9,S8,Fast Times at Nevus High,Fast Times at Nevus High,2022,,,Reality-TV,7.6,12
+tt6045142,tt22011004,8,10,S8,My Octopus Lipoma,My Octopus Lipoma,2022,,,Reality-TV,7.1,11
+tt6045142,tt26917360,9,1,S9,Holy Cyst?!,Holy Cyst?!,2023,,,Reality-TV,7.9,20
+tt6045142,tt27405941,9,2,S9,Nevus and Bump-Head,Nevus and Bump-Head,2023,,,Reality-TV,7.6,17
+tt6045142,tt27405944,9,3,S9,Cyst Over Troubled Water,Cyst Over Troubled Water,2023,,,Reality-TV,7.8,16
+tt6045142,tt27405948,9,4,S9,Ear Brain,Ear Brain,2023,,,Reality-TV,7.7,16
+tt6045142,tt27405952,9,5,S9,Bumpshakalaka,Bumpshakalaka,2023,,,Reality-TV,8.2,14
+tt6045142,tt27677992,9,6,S9,Plum Nose,Plum Nose,2023,,,Reality-TV,7.9,13
+tt6045142,tt27677998,9,7,S9,Pig Snout,Pig Snout,2023,,,Reality-TV,8.0,13
+tt6045142,tt27799217,9,8,S9,Amputation Deliberation,Amputation Deliberation,2023,,,Reality-TV,8.1,12
+tt6045142,tt27799224,9,9,S9,Zombie Skin,Zombie Skin,2023,,,Reality-TV,8.0,14
+tt6045142,tt27921827,9,10,S9,Leaky Legs,Leaky Legs,2023,,,Reality-TV,7.9,11
+tt6045142,tt27991216,9,11,S9,My Demon Bumps,My Demon Bumps,2023,,,Reality-TV,8.0,13
+tt6045142,tt27991219,9,12,S9,Troop Lipoma Hills,Troop Lipoma Hills,2023,,,Reality-TV,7.2,12
+tt6045142,tt28177085,9,13,S9,Monster in the Mirror,Monster in the Mirror,2023,,,Reality-TV,7.9,12
+tt6045142,tt28304100,9,14,S9,Keloid-Con,Keloid-Con,2023,,,Reality-TV,7.8,13
+tt6045142,tt28304105,9,15,S9,Veiny Balloons,Veiny Balloons,2023,,,Reality-TV,8.2,13
+tt6045142,tt28455196,9,16,S9,Scaly Mermaid Skin,Scaly Mermaid Skin,2023,,,Reality-TV,7.6,12
+tt6045142,tt28455201,9,17,S9,"Crazy, Stupid, Lump","Crazy, Stupid, Lump",2023,,,Reality-TV,7.9,14
+tt6045142,tt28576692,9,18,S9,California Bumpin',California Bumpin',2023,,,Reality-TV,7.5,10
+tt6045142,tt28576702,9,19,S9,Quadripple Nipple,Quadripple Nipple,2023,,,Reality-TV,8.0,12
+tt6045142,tt28695120,9,20,S9,Tales from the Cyst,Tales from the Cyst,2023,,,Reality-TV,8.3,13
+tt6045142,tt12831542,,,,Dr. Pimple Popper,Dr. Pimple Popper,2018,,42,Reality-TV,8.3,14
+tt6045142,tt12831562,,,,The 12 Pops of Christmas,The 12 Pops of Christmas,2018,,77,Reality-TV,8.4,11
+tt6045142,tt24484300,,,,With Every Cyst-mas Card I Write,With Every Cyst-mas Card I Write,2022,,,Reality-TV,,

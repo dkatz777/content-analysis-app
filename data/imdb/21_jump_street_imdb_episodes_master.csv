@@ -1,0 +1,103 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0092312,tt0501950,1,1,S1,Pilot,Pilot,1987,,90,"Crime,Drama,Mystery",7.4,448
+tt0092312,tt0501957,1,2,S1,"America, What a Town","America, What a Town",1987,,48,"Crime,Drama,Mystery",7.2,305
+tt0092312,tt0501982,1,3,S1,Don't Pet the Teacher,Don't Pet the Teacher,1987,,47,"Crime,Drama,Mystery",7.5,294
+tt0092312,tt0502013,1,4,S1,"My Future's So Bright, I Gotta Wear Shades","My Future's So Bright, I Gotta Wear Shades",1987,,46,"Crime,Drama,Mystery",7.4,258
+tt0092312,tt0502038,1,5,S1,The Worst Night of Your Life,The Worst Night of Your Life,1987,,45,"Crime,Drama,Mystery",6.9,241
+tt0092312,tt0501993,1,6,S1,Gotta Finish the Riff,Gotta Finish the Riff,1987,,47,"Crime,Drama,Mystery",7.6,243
+tt0092312,tt0501962,1,7,S1,Bad Influence,Bad Influence,1987,,47,"Crime,Drama,Mystery",7.2,210
+tt0092312,tt0501968,1,8,S1,Blindsided,Blindsided,1987,,47,"Crime,Drama,Mystery",8.1,259
+tt0092312,tt0502015,1,9,S1,Next Generation,Next Generation,1987,,47,"Crime,Drama,Mystery",7.1,202
+tt0092312,tt0502010,1,10,S1,Low and Away,Low and Away,1987,,47,"Crime,Drama,Mystery",7.3,189
+tt0092312,tt0501949,1,11,S1,16 Blown to 35,16 Blown to 35,1987,,47,"Crime,Drama,Mystery",7.3,211
+tt0092312,tt0502011,1,12,S1,Mean Streets and Pastel Houses,Mean Streets and Pastel Houses,1987,,47,"Crime,Drama,Mystery",7.8,239
+tt0092312,tt0502003,2,1,S2,In the Custody of a Clown,In the Custody of a Clown,1987,,47,"Crime,Drama,Mystery",6.6,188
+tt0092312,tt0501963,2,2,S2,Besieged: Part 1,Besieged: Part 1,1987,,47,"Crime,Drama,Mystery",7.7,208
+tt0092312,tt0501964,2,3,S2,Besieged: Part 2,Besieged: Part 2,1987,,47,"Crime,Drama,Mystery",8.0,190
+tt0092312,tt0502042,2,4,S2,Two for the Road,Two for the Road,1987,,47,"Crime,Drama,Mystery",7.1,176
+tt0092312,tt0501956,2,5,S2,After School Special,After School Special,1987,,47,"Crime,Drama,Mystery",7.5,176
+tt0092312,tt0501997,2,6,S2,Higher Education,Higher Education,1987,,47,"Crime,Drama,Mystery",7.5,171
+tt0092312,tt0501983,2,7,S2,Don't Stretch the Rainbow,Don't Stretch the Rainbow,1987,,47,"Crime,Drama,Mystery",7.3,163
+tt0092312,tt0501999,2,8,S2,Honor Bound,Honor Bound,1987,,47,"Crime,Drama,Mystery",7.8,185
+tt0092312,tt0502050,2,9,S2,You Oughta Be in Prison,You Oughta Be in Prison,1987,,47,"Crime,Drama,Mystery",7.9,165
+tt0092312,tt0502001,2,10,S2,How Much Is That Body in the Window?,How Much Is That Body in the Window?,1987,,47,"Crime,Drama,Mystery",7.3,161
+tt0092312,tt0501975,2,11,S2,Christmas in Saigon,Christmas in Saigon,1987,,47,"Crime,Drama,Mystery",7.9,183
+tt0092312,tt0501989,2,12,S2,Fear and Loathing with Russell Buckins,Fear and Loathing with Russell Buckins,1987,,47,"Crime,Drama,Mystery",7.1,161
+tt0092312,tt0501953,2,13,S2,A Big Disease with a Little Name,A Big Disease with a Little Name,1988,,47,"Crime,Drama,Mystery",8.2,214
+tt0092312,tt0501974,2,14,S2,Chapel of Love,Chapel of Love,1988,,47,"Crime,Drama,Mystery",7.1,150
+tt0092312,tt0502002,2,15,S2,"I'm Okay, You Need Work","I'm Okay, You Need Work",1988,,47,"Crime,Drama,Mystery",8.1,188
+tt0092312,tt0502019,2,16,S2,Orpheus 3.3,Orpheus 3.3,1988,,47,"Crime,Drama,Mystery",8.4,249
+tt0092312,tt0501973,2,17,S2,Champagne High,Champagne High,1988,,47,"Crime,Drama,Mystery",7.7,155
+tt0092312,tt0501970,2,18,S2,Brother Hanson & the Miracle of Renner's Pond,Brother Hanson & the Miracle of Renner's Pond,1988,,47,"Crime,Drama,Mystery",6.5,143
+tt0092312,tt0502023,2,19,S2,Raising Marijuana,Raising Marijuana,1988,,47,"Crime,Drama,Mystery",6.9,126
+tt0092312,tt0501965,2,20,S2,Best Years of Your Life,Best Years of Your Life,1988,,47,"Crime,Drama,Mystery",7.4,202
+tt0092312,tt0501979,2,21,S2,Cory and Dean Got Married,Cory and Dean Got Married,1988,,47,"Crime,Drama,Mystery",6.9,144
+tt0092312,tt0502027,2,22,S2,School's Out,School's Out,1988,,47,"Crime,Drama,Mystery",7.5,144
+tt0092312,tt0501991,3,1,S3,Fun with Animals,Fun with Animals,1988,,47,"Crime,Drama,Mystery",7.8,169
+tt0092312,tt0502030,3,2,S3,Slippin' Into Darkness,Slippin' Into Darkness,1988,,47,"Crime,Drama,Mystery",7.1,155
+tt0092312,tt0502033,3,3,S3,The Currency We Trade In,The Currency We Trade In,1988,,47,"Crime,Drama,Mystery",8.0,120
+tt0092312,tt0501976,3,4,S3,Coach of the Year,Coach of the Year,1988,,47,"Crime,Drama,Mystery",7.5,140
+tt0092312,tt0502048,3,5,S3,Whose Choice Is It Anyway?,Whose Choice Is It Anyway?,1988,,47,"Crime,Drama,Mystery",7.3,126
+tt0092312,tt0501994,3,6,S3,Hell Week,Hell Week,1988,,47,"Crime,Drama,Mystery",7.9,163
+tt0092312,tt0502034,3,7,S3,The Dragon and the Angel,The Dragon and the Angel,1989,,47,"Crime,Drama,Mystery",7.7,142
+tt0092312,tt0501969,3,8,S3,The Blu Flu,The Blu Flu,1989,,47,"Crime,Drama,Mystery",6.7,127
+tt0092312,tt0502032,3,9,S3,Swallowed Alive,Swallowed Alive,1989,,47,"Crime,Drama,Mystery",8.4,204
+tt0092312,tt0502046,3,10,S3,What About Love?,What About Love?,1989,,47,"Crime,Drama,Mystery",7.3,115
+tt0092312,tt0502049,3,11,S3,Woolly Bullies,Woolly Bullies,1989,,47,"Crime,Drama,Mystery",7.7,137
+tt0092312,tt0502035,3,12,S3,The Dreaded Return of Russell Buckins,The Dreaded Return of Russell Buckins,1989,,47,"Crime,Drama,Mystery",7.4,122
+tt0092312,tt0501955,3,13,S3,A.W.O.L.,A.W.O.L.,1989,,47,"Crime,Drama,Mystery",7.6,133
+tt0092312,tt0502014,3,14,S3,Nemesis,Nemesis,1989,,47,"Crime,Drama,Mystery",8.3,174
+tt0092312,tt0501988,3,15,S3,Fathers and Sons,Fathers and Sons,1989,,47,"Crime,Drama,Mystery",7.6,124
+tt0092312,tt0501996,3,16,S3,High High,High High,1989,,47,"Crime,Drama,Mystery",7.6,139
+tt0092312,tt0501967,3,17,S3,Blinded by the Thousand Points of Light,Blinded by the Thousand Points of Light,1989,,47,"Crime,Drama,Mystery",7.6,135
+tt0092312,tt0502016,3,18,S3,Next Victim,Next Victim,1989,,47,"Crime,Drama,Mystery",7.7,120
+tt0092312,tt0502008,3,19,S3,Loc'd Out: Part 1,Loc'd Out: Part 1,1989,,47,"Crime,Drama,Mystery",8.1,138
+tt0092312,tt0502009,3,20,S3,Loc'd Out: Part 2,Loc'd Out: Part 2,1989,,47,"Crime,Drama,Mystery",8.2,129
+tt0092312,tt0501984,4,1,S4,Draw the Line,Draw the Line,1989,,47,"Crime,Drama,Mystery",8.1,139
+tt0092312,tt0502026,4,2,S4,"Say It Ain't So, Pete","Say It Ain't So, Pete",1989,,47,"Crime,Drama,Mystery",7.1,112
+tt0092312,tt0501986,4,3,S4,Eternal Flame,Eternal Flame,1989,,47,"Crime,Drama,Mystery",7.2,142
+tt0092312,tt0501977,4,4,S4,Come from the Shadows,Come from the Shadows,1989,,47,"Crime,Drama,Mystery",7.7,105
+tt0092312,tt0501992,4,5,S4,God Is a Bullet,God Is a Bullet,1989,,47,"Crime,Drama,Mystery",7.1,87
+tt0092312,tt0502018,4,6,S4,Old Haunts in the New Age,Old Haunts in the New Age,1989,,47,"Crime,Drama,Mystery",7.3,154
+tt0092312,tt0502020,4,7,S4,Out of Control,Out of Control,1989,,47,"Crime,Drama,Mystery",7.8,121
+tt0092312,tt0502031,4,8,S4,Stand by Your Man,Stand by Your Man,1989,,47,"Crime,Drama,Mystery",7.8,120
+tt0092312,tt0502012,4,9,S4,Mike's P.O.V.,Mike's P.O.V.,1989,,47,"Crime,Drama,Mystery",7.7,159
+tt0092312,tt0502047,4,10,S4,Wheels and Deals: Part 2,Wheels and Deals: Part 2,1989,,47,"Crime,Drama,Mystery",7.9,117
+tt0092312,tt0502021,4,11,S4,Parental Guidance Suggested,Parental Guidance Suggested,1989,,47,"Crime,Drama,Mystery",7.6,90
+tt0092312,tt0502039,4,12,S4,Things We Said Today,Things We Said Today,1989,,47,"Crime,Drama,Mystery",7.3,108
+tt0092312,tt0502024,4,13,S4,Research and Destroy,Research and Destroy,1990,,47,"Crime,Drama,Mystery",7.2,117
+tt0092312,tt0501954,4,14,S4,Change of Heart,Change of Heart,1990,,47,"Crime,Drama,Mystery",7.4,98
+tt0092312,tt0394000,4,15,S4,Back from the Future,Back from the Future,1990,,47,"Crime,Drama,Mystery",5.3,140
+tt0092312,tt0501952,4,16,S4,2245,2245,1990,,47,"Crime,Drama,Mystery",8.1,151
+tt0092312,tt0501995,4,17,S4,Hi Mom,Hi Mom,1990,,47,"Crime,Drama,Mystery",7.4,109
+tt0092312,tt0501958,4,18,S4,"Awomp-Bomp-Aloobomb, Aloop Bamboon","Awomp-Bomp-Aloobomb, Aloop Bamboon",1990,,47,"Crime,Drama,Mystery",7.5,129
+tt0092312,tt0502006,4,19,S4,La Bizca,La Bizca,1990,,47,"Crime,Drama,Mystery",7.9,128
+tt0092312,tt0502007,4,20,S4,Last Chance High,Last Chance High,1990,,47,"Crime,Drama,Mystery",7.9,117
+tt0092312,tt0502044,4,21,S4,Unfinished Business,Unfinished Business,1990,,47,"Crime,Drama,Mystery",7.5,88
+tt0092312,tt0502029,4,22,S4,Shirts and Skins,Shirts and Skins,1990,,47,"Crime,Drama,Mystery",7.7,91
+tt0092312,tt0502000,4,23,S4,How I Saved the Senator,How I Saved the Senator,1990,,47,"Crime,Drama,Mystery",6.8,135
+tt0092312,tt0502025,4,24,S4,Rounding Third,Rounding Third,1990,,47,"Crime,Drama,Mystery",7.3,86
+tt0092312,tt0501987,4,25,S4,Everyday Is Christmas,Everyday Is Christmas,1990,,47,"Crime,Drama,Mystery",7.7,99
+tt0092312,tt0501966,4,26,S4,Blackout,Blackout,1990,,47,"Crime,Drama,Mystery",7.0,138
+tt0092312,tt0502041,5,1,S5,Tunnel of Love,Tunnel of Love,1990,,47,"Crime,Drama,Mystery",7.2,85
+tt0092312,tt0501961,5,2,S5,Back to School,Back to School,1990,,47,"Crime,Drama,Mystery",7.6,90
+tt0092312,tt0501972,5,3,S5,Buddy System,Buddy System,1990,,47,"Crime,Drama,Mystery",6.9,79
+tt0092312,tt0502022,5,4,S5,Poison,Poison,1990,,47,"Crime,Drama,Mystery",7.8,79
+tt0092312,tt0502005,5,5,S5,Just Say No! High,Just Say No! High,1990,,47,"Crime,Drama,Mystery",6.7,74
+tt0092312,tt0501971,5,6,S5,Brothers,Brothers,1990,,47,"Crime,Drama,Mystery",6.9,84
+tt0092312,tt0502040,5,7,S5,This Ain't No Summer Camp,This Ain't No Summer Camp,1990,,47,"Crime,Drama,Mystery",7.0,70
+tt0092312,tt0502037,5,8,S5,The Girl Next Door,The Girl Next Door,1990,,47,"Crime,Drama,Mystery",6.5,81
+tt0092312,tt0501981,5,9,S5,Diplomas for Sale,Diplomas for Sale,1990,,47,"Crime,Drama,Mystery",6.5,72
+tt0092312,tt0394002,5,10,S5,Number One with a Bullet,Number One with a Bullet,1990,,47,"Crime,Drama,Mystery",7.0,78
+tt0092312,tt0501985,5,11,S5,Equal Protection,Equal Protection,1991,,47,"Crime,Drama,Mystery",7.1,74
+tt0092312,tt0502036,5,12,S5,The Education of Terry Carver,The Education of Terry Carver,1991,,47,"Crime,Drama,Mystery",7.3,70
+tt0092312,tt0501959,5,13,S5,Baby Blues,Baby Blues,1991,,47,"Crime,Drama,Mystery",7.3,73
+tt0092312,tt0394001,5,14,S5,Film at Eleven,Film at Eleven,1991,,47,"Crime,Drama,Mystery",6.8,66
+tt0092312,tt0502004,5,15,S5,In the Name of Love,In the Name of Love,1991,,47,"Crime,Drama,Mystery",7.1,69
+tt0092312,tt0501978,5,16,S5,Coppin' Out,Coppin' Out,1991,,47,"Crime,Drama,Mystery",7.0,71
+tt0092312,tt0502043,5,17,S5,Under the Influence,Under the Influence,1991,,47,"Crime,Drama,Mystery",6.9,69
+tt0092312,tt0501980,5,18,S5,Crossfire,Crossfire,1991,,47,"Crime,Drama,Mystery",7.2,63
+tt0092312,tt0502045,5,19,S5,Wasted,Wasted,1991,,47,"Crime,Drama,Mystery",6.1,64
+tt0092312,tt0832975,5,20,S5,Bad Day at Blackburn,Bad Day at Blackburn,1991,,47,"Crime,Drama,Mystery",7.4,70
+tt0092312,tt0501998,5,21,S5,Homegirls,Homegirls,1991,,47,"Crime,Drama,Mystery",6.3,73
+tt0092312,tt0502028,5,22,S5,Second Chances,Second Chances,1991,,47,"Crime,Drama,Mystery",7.4,72

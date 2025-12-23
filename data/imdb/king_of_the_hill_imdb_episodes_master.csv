@@ -1,0 +1,299 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0118375,tt0620288,1,1,S1,Pilot,Pilot,1997,,23,"Animation,Comedy,Drama",8.0,1391
+tt0118375,tt0620301,1,2,S1,Square Peg,Square Peg,1997,,23,"Animation,Comedy,Drama",7.8,1151
+tt0118375,tt0620317,1,3,S1,The Order of the Straight Arrow,The Order of the Straight Arrow,1997,,23,"Animation,Comedy,Drama",7.3,1043
+tt0118375,tt0620234,1,4,S1,Hank's Got the Willies,Hank's Got the Willies,1997,,22,"Animation,Comedy,Drama",7.4,979
+tt0118375,tt0620263,1,5,S1,Luanne's Saga,Luanne's Saga,1997,,23,"Animation,Comedy,Drama",7.6,930
+tt0118375,tt0620235,1,6,S1,Hank's Unmentionable Problem,Hank's Unmentionable Problem,1997,,23,"Animation,Comedy,Drama",7.8,938
+tt0118375,tt0763266,1,7,S1,Westie Side Story,Westie Side Story,1997,,23,"Animation,Comedy,Drama",8.0,913
+tt0118375,tt0764032,1,8,S1,Shins of the Father,Shins of the Father,1997,,22,"Animation,Comedy,Drama",7.7,890
+tt0118375,tt0620282,1,9,S1,Peggy the Boggle Champ,Peggy the Boggle Champ,1997,,23,"Animation,Comedy,Drama",7.5,874
+tt0118375,tt0620254,1,10,S1,Keeping Up with Our Joneses,Keeping Up with Our Joneses,1997,,23,"Animation,Comedy,Drama",8.2,981
+tt0118375,tt0620256,1,11,S1,King of the Ant Hill,King of the Ant Hill,1997,,23,"Animation,Comedy,Drama",7.7,817
+tt0118375,tt0620289,1,12,S1,Plastic White Female,Plastic White Female,1997,,22,"Animation,Comedy,Drama",7.9,846
+tt0118375,tt0620242,2,1,S2,How to Fire a Rifle Without Really Trying,How to Fire a Rifle Without Really Trying,1997,,23,"Animation,Comedy,Drama",7.7,822
+tt0118375,tt0620305,2,2,S2,Texas City Twister,Texas City Twister,1997,,23,"Animation,Comedy,Drama",8.1,849
+tt0118375,tt0620200,2,3,S2,Arrow Head,Arrow Head,1997,,23,"Animation,Comedy,Drama",7.3,793
+tt0118375,tt0620239,2,4,S2,Hilloween,Hilloween,1997,,23,"Animation,Comedy,Drama",8.1,877
+tt0118375,tt0620252,2,5,S2,Jumpin' Crack Bass,Jumpin' Crack Bass,1997,,23,"Animation,Comedy,Drama",8.0,822
+tt0118375,tt0620243,2,6,S2,Husky Bobby,Husky Bobby,1997,,23,"Animation,Comedy,Drama",7.5,799
+tt0118375,tt0620316,2,7,S2,The Man Who Shot Cane Skretteburg,The Man Who Shot Cane Skretteburg,1997,,23,"Animation,Comedy,Drama",7.6,780
+tt0118375,tt0620322,2,8,S2,The Son That Got Away,The Son That Got Away,1997,,23,"Animation,Comedy,Drama",7.5,736
+tt0118375,tt0620309,2,9,S2,The Company Man,The Company Man,1997,,23,"Animation,Comedy,Drama",7.1,712
+tt0118375,tt0764015,2,10,S2,Bobby Slam,Bobby Slam,1997,,23,"Animation,Comedy,Drama",7.7,712
+tt0118375,tt0620325,2,11,S2,The Unbearable Blindness of Laying,The Unbearable Blindness of Laying,1997,,23,"Animation,Comedy,Drama",7.9,756
+tt0118375,tt0620266,2,12,S2,Meet the Manger Babies,Meet the Manger Babies,1998,,23,"Animation,Comedy,Drama",7.2,720
+tt0118375,tt0620299,2,13,S2,Snow Job,Snow Job,1998,,23,"Animation,Comedy,Drama",7.4,665
+tt0118375,tt0620246,2,14,S2,I Remember Mono,I Remember Mono,1998,,23,"Animation,Comedy,Drama",7.3,667
+tt0118375,tt0620328,2,15,S2,Three Days of the Kahndo,Three Days of the Kahndo,1998,,23,"Animation,Comedy,Drama",8.0,710
+tt0118375,tt0620331,2,16,S2,Traffic Jam,Traffic Jam,1998,,23,"Animation,Comedy,Drama",7.3,699
+tt0118375,tt0620233,2,17,S2,Hank's Dirty Laundry,Hank's Dirty Laundry,1998,,23,"Animation,Comedy,Drama",8.3,754
+tt0118375,tt0620313,2,18,S2,The Final Shinsult,The Final Shinsult,1998,,23,"Animation,Comedy,Drama",7.2,625
+tt0118375,tt0620257,2,19,S2,Leanne's Saga,Leanne's Saga,1998,,23,"Animation,Comedy,Drama",7.6,667
+tt0118375,tt0620253,2,20,S2,Junkie Business,Junkie Business,1998,,23,"Animation,Comedy,Drama",7.5,641
+tt0118375,tt0620258,2,21,S2,"Life in the Fast Lane, Bobby's Saga","Life in the Fast Lane, Bobby's Saga",1998,,23,"Animation,Comedy,Drama",7.7,636
+tt0118375,tt0620285,2,22,S2,Peggy's Turtle Song,Peggy's Turtle Song,1998,,23,"Animation,Comedy,Drama",7.3,634
+tt0118375,tt0620292,2,23,S2,Propane Boom,Propane Boom,1998,,23,"Animation,Comedy,Drama",8.2,694
+tt0118375,tt0620218,3,1,S3,Propane Boom II: Death of a Propane Salesman,Propane Boom II: Death of a Propane Salesman,1998,,23,"Animation,Comedy,Drama",8.0,678
+tt0118375,tt0620197,3,2,S3,And They Call It Bobby Love,And They Call It Bobby Love,1998,,23,"Animation,Comedy,Drama",8.1,705
+tt0118375,tt0764029,3,3,S3,Peggy's Headache,Peggy's Headache,1998,,23,"Animation,Comedy,Drama",8.1,640
+tt0118375,tt0620290,3,4,S3,Pregnant Paws,Pregnant Paws,1998,,23,"Animation,Comedy,Drama",7.3,582
+tt0118375,tt0764026,3,5,S3,Next of Shin,Next of Shin,1998,,23,"Animation,Comedy,Drama",7.2,545
+tt0118375,tt0620284,3,6,S3,Peggy's Pageant Fever,Peggy's Pageant Fever,1998,,23,"Animation,Comedy,Drama",6.7,574
+tt0118375,tt0620275,3,7,S3,Nine Pretty Darn Angry Men,Nine Pretty Darn Angry Men,1998,,23,"Animation,Comedy,Drama",7.9,599
+tt0118375,tt0620227,3,8,S3,Good Hill Hunting,Good Hill Hunting,1998,,23,"Animation,Comedy,Drama",7.5,571
+tt0118375,tt0620291,3,9,S3,"Pretty, Pretty Dresses","Pretty, Pretty Dresses",1998,,23,"Animation,Comedy,Drama",8.2,681
+tt0118375,tt0620190,3,10,S3,A Fire-fighting We Will Go,A Fire-fighting We Will Go,1999,,23,"Animation,Comedy,Drama",8.7,872
+tt0118375,tt0620329,3,11,S3,To Spank with Love,To Spank with Love,1999,,23,"Animation,Comedy,Drama",7.4,569
+tt0118375,tt0620327,3,12,S3,Three Coaches and a Bobby,Three Coaches and a Bobby,1999,,30,"Animation,Comedy,Drama",7.3,563
+tt0118375,tt0620217,3,13,S3,De-Kahnstructing Henry,De-Kahnstructing Henry,1999,,23,"Animation,Comedy,Drama",7.5,542
+tt0118375,tt0620326,3,14,S3,The Wedding of Bobby Hill,The Wedding of Bobby Hill,1999,,23,"Animation,Comedy,Drama",8.1,644
+tt0118375,tt0764033,3,15,S3,Sleight of Hank,Sleight of Hank,1999,,23,"Animation,Comedy,Drama",7.6,548
+tt0118375,tt0620250,3,16,S3,Jon Vitti Presents: 'Return to La Grunta',Jon Vitti Presents: 'Return to La Grunta',1999,,23,"Animation,Comedy,Drama",8.2,585
+tt0118375,tt0620220,3,17,S3,Escape from Party Island,Escape from Party Island,1999,,23,"Animation,Comedy,Drama",7.4,578
+tt0118375,tt0620261,3,18,S3,Love Hurts and So Does Art,Love Hurts and So Does Art,1999,,23,"Animation,Comedy,Drama",8.1,607
+tt0118375,tt0620232,3,19,S3,Hank's Cowboy Movie,Hank's Cowboy Movie,1999,,23,"Animation,Comedy,Drama",7.1,540
+tt0118375,tt0620219,3,20,S3,Dog Dale Afternoon,Dog Dale Afternoon,1999,,23,"Animation,Comedy,Drama",7.9,582
+tt0118375,tt0620297,3,21,S3,Revenge of the Lutefisk,Revenge of the Lutefisk,1999,,23,"Animation,Comedy,Drama",8.1,580
+tt0118375,tt0763466,3,22,S3,Death and Texas,Death and Texas,1999,,23,"Animation,Comedy,Drama",7.5,542
+tt0118375,tt0620336,3,23,S3,Wings of the Dope,Wings of the Dope,1999,,23,"Animation,Comedy,Drama",7.7,636
+tt0118375,tt0620303,3,24,S3,Take Me Out of the Ball Game,Take Me Out of the Ball Game,1999,,23,"Animation,Comedy,Drama",7.5,506
+tt0118375,tt0764011,3,25,S3,As Old as the Hills,As Old as the Hills,1999,,23,"Animation,Comedy,Drama",8.2,560
+tt0118375,tt0620280,4,1,S4,Peggy Hill: The Decline and Fall,Peggy Hill: The Decline and Fall,1999,,23,"Animation,Comedy,Drama",7.9,560
+tt0118375,tt0620212,4,2,S4,Cotton's Plot,Cotton's Plot,1999,,23,"Animation,Comedy,Drama",8.0,582
+tt0118375,tt0620205,4,3,S4,Bills Are Made to Be Broken,Bills Are Made to Be Broken,1999,,23,"Animation,Comedy,Drama",8.0,540
+tt0118375,tt0620259,4,4,S4,Little Horrors of Shop,Little Horrors of Shop,1999,,23,"Animation,Comedy,Drama",8.2,539
+tt0118375,tt0620195,4,5,S4,Aisle 8A,Aisle 8A,1999,,23,"Animation,Comedy,Drama",8.6,658
+tt0118375,tt0620189,4,6,S4,A Beer Can Named Desire,A Beer Can Named Desire,1999,,23,"Animation,Comedy,Drama",8.4,698
+tt0118375,tt0620237,4,7,S4,Happy Hank's Giving,Happy Hank's Giving,1999,,23,"Animation,Comedy,Drama",7.9,540
+tt0118375,tt0620276,4,8,S4,Not in My Back Hoe,Not in My Back Hoe,1999,,23,"Animation,Comedy,Drama",7.6,507
+tt0118375,tt0764040,4,9,S4,To Kill a Ladybird,To Kill a Ladybird,1999,,23,"Animation,Comedy,Drama",7.7,540
+tt0118375,tt0764022,4,10,S4,Hillennium,Hillennium,1999,,23,"Animation,Comedy,Drama",8.0,563
+tt0118375,tt0620278,4,11,S4,Old Glory,Old Glory,2000,,23,"Animation,Comedy,Drama",7.2,488
+tt0118375,tt0620298,4,12,S4,Rodeo Days,Rodeo Days,2000,,23,"Animation,Comedy,Drama",7.2,488
+tt0118375,tt0620236,4,13,S4,Hanky Panky,Hanky Panky,2000,,23,"Animation,Comedy,Drama",8.3,603
+tt0118375,tt0620238,4,14,S4,High Anxiety,High Anxiety,2000,,23,"Animation,Comedy,Drama",8.6,640
+tt0118375,tt0764024,4,15,S4,Naked Ambition,Naked Ambition,2000,,23,"Animation,Comedy,Drama",8.4,579
+tt0118375,tt0620269,4,16,S4,Movin' on Up,Movin' on Up,2000,,23,"Animation,Comedy,Drama",7.7,527
+tt0118375,tt0620204,4,17,S4,Bill of Sales,Bill of Sales,2000,,23,"Animation,Comedy,Drama",7.2,477
+tt0118375,tt0620338,4,18,S4,Won't You Pimai Neighbor?,Won't You Pimai Neighbor?,2000,,23,"Animation,Comedy,Drama",7.9,550
+tt0118375,tt0620231,4,19,S4,Hank's Bad Hair Day,Hank's Bad Hair Day,2000,,23,"Animation,Comedy,Drama",7.8,481
+tt0118375,tt0620267,4,20,S4,Meet the Propaniacs,Meet the Propaniacs,2000,,23,"Animation,Comedy,Drama",7.2,502
+tt0118375,tt0764025,4,21,S4,Nancy Boys,Nancy Boys,2000,,23,"Animation,Comedy,Drama",8.3,527
+tt0118375,tt0620222,4,22,S4,Flush with Power,Flush with Power,2000,,23,"Animation,Comedy,Drama",7.8,496
+tt0118375,tt0620332,4,23,S4,Transnational Amusements Presents: Peggy's Magic Sex Feet,Transnational Amusements Presents: Peggy's Magic Sex Feet,2000,,23,"Animation,Comedy,Drama",7.3,510
+tt0118375,tt0620283,4,24,S4,Peggy's Fan Fair,Peggy's Fan Fair,2000,,23,"Animation,Comedy,Drama",7.5,496
+tt0118375,tt0620318,5,1,S5,The Perils of Polling,The Perils of Polling,2000,,23,"Animation,Comedy,Drama",7.4,501
+tt0118375,tt0764038,5,2,S5,The Buck Stops Here,The Buck Stops Here,2000,,23,"Animation,Comedy,Drama",7.8,496
+tt0118375,tt0620244,5,3,S5,I Don't Want to Wait ...,I Don't Want to Wait ...,2000,,23,"Animation,Comedy,Drama",8.0,515
+tt0118375,tt0764035,5,4,S5,Spin the Choice,Spin the Choice,2000,,23,"Animation,Comedy,Drama",7.5,486
+tt0118375,tt0620281,5,5,S5,Peggy Makes the Big Leagues,Peggy Makes the Big Leagues,2000,,23,"Animation,Comedy,Drama",7.3,474
+tt0118375,tt0620335,5,6,S5,When Cotton Comes Marching Home,When Cotton Comes Marching Home,2000,,23,"Animation,Comedy,Drama",7.1,434
+tt0118375,tt0620334,5,7,S5,What Makes Bobby Run?,What Makes Bobby Run?,2000,,23,"Animation,Comedy,Drama",7.2,450
+tt0118375,tt0620188,5,8,S5,'Twas the Nut Before Christmas,'Twas the Nut Before Christmas,2000,,30,"Animation,Comedy,Drama",7.4,499
+tt0118375,tt0620210,5,9,S5,Chasing Bobby,Chasing Bobby,2001,,23,"Animation,Comedy,Drama",8.1,523
+tt0118375,tt0620339,5,10,S5,Yankee Hankee,Yankee Hankee,2001,,23,"Animation,Comedy,Drama",7.4,484
+tt0118375,tt0620228,5,11,S5,Hank and the Great Glass Elevator,Hank and the Great Glass Elevator,2001,,23,"Animation,Comedy,Drama",8.0,517
+tt0118375,tt0620277,5,12,S5,Now Who's the Dummy?,Now Who's the Dummy?,2001,,23,"Animation,Comedy,Drama",7.5,483
+tt0118375,tt0620240,5,13,S5,"Ho, Yeah!","Ho, Yeah!",2001,,23,"Animation,Comedy,Drama",8.9,847
+tt0118375,tt0620310,5,14,S5,The Exterminator,The Exterminator,2001,,23,"Animation,Comedy,Drama",8.2,538
+tt0118375,tt0620262,5,15,S5,Luanne Virgin 2.0,Luanne Virgin 2.0,2001,,23,"Animation,Comedy,Drama",7.3,510
+tt0118375,tt0764019,5,16,S5,Hank's Choice,Hank's Choice,2001,,23,"Animation,Comedy,Drama",7.5,473
+tt0118375,tt0620249,5,17,S5,It's Not Easy Being Green,It's Not Easy Being Green,2001,,23,"Animation,Comedy,Drama",7.6,457
+tt0118375,tt0620324,5,18,S5,The Trouble with Gribbles,The Trouble with Gribbles,2001,,23,"Animation,Comedy,Drama",7.7,475
+tt0118375,tt0620230,5,19,S5,Hank's Back Story,Hank's Back Story,2001,,23,"Animation,Comedy,Drama",8.2,511
+tt0118375,tt0620255,5,20,S5,Kidney Boy and Hamster Girl: A Love Story,Kidney Boy and Hamster Girl: A Love Story,2001,,23,"Animation,Comedy,Drama",7.7,474
+tt0118375,tt0764014,6,1,S6,Bobby Goes Nuts,Bobby Goes Nuts,2001,,23,"Animation,Comedy,Drama",9.0,919
+tt0118375,tt0620300,6,2,S6,Soldier of Misfortune,Soldier of Misfortune,2001,,23,"Animation,Comedy,Drama",8.1,499
+tt0118375,tt0620264,6,3,S6,Lupe's Revenge,Lupe's Revenge,2001,,23,"Animation,Comedy,Drama",7.9,527
+tt0118375,tt0620312,6,4,S6,"The Father, the Son and J.C.","The Father, the Son and J.C.",2001,,23,"Animation,Comedy,Drama",7.3,461
+tt0118375,tt0769822,6,5,S6,Father of the Bribe,Father of the Bribe,2002,,23,"Animation,Comedy,Drama",7.4,440
+tt0118375,tt0620247,6,6,S6,I'm with Cupid,I'm with Cupid,2002,,23,"Animation,Comedy,Drama",7.3,438
+tt0118375,tt0620330,6,7,S6,Torch Song Hillogy,Torch Song Hillogy,2002,,23,"Animation,Comedy,Drama",7.1,605
+tt0118375,tt0620251,6,8,S6,Joust Like a Woman,Joust Like a Woman,2002,,23,"Animation,Comedy,Drama",7.4,525
+tt0118375,tt0620308,6,9,S6,The Bluegrass Is Always Greener,The Bluegrass Is Always Greener,2002,,23,"Animation,Comedy,Drama",7.9,486
+tt0118375,tt0620323,6,10,S6,The Substitute Spanish Prisoner,The Substitute Spanish Prisoner,2002,,23,"Animation,Comedy,Drama",7.8,471
+tt0118375,tt0620333,6,11,S6,Unfortunate Son,Unfortunate Son,2002,,23,"Animation,Comedy,Drama",7.2,436
+tt0118375,tt0620198,6,12,S6,"Are You There God? It's Me, Margaret Hill","Are You There God? It's Me, Margaret Hill",2002,,30,"Animation,Comedy,Drama",6.8,435
+tt0118375,tt0764037,6,13,S6,Tankin' It to the Streets,Tankin' It to the Streets,2002,,23,"Animation,Comedy,Drama",7.6,444
+tt0118375,tt0764027,6,14,S6,Of Mice and Little Green Men,Of Mice and Little Green Men,2002,,23,"Animation,Comedy,Drama",7.5,436
+tt0118375,tt0620191,6,15,S6,A Man Without a Country Club,A Man Without a Country Club,2002,,23,"Animation,Comedy,Drama",7.6,443
+tt0118375,tt0620203,6,16,S6,Beer and Loathing,Beer and Loathing,2002,,23,"Animation,Comedy,Drama",8.0,469
+tt0118375,tt0620224,6,17,S6,Fun with Jane and Jane,Fun with Jane and Jane,2002,,23,"Animation,Comedy,Drama",7.5,472
+tt0118375,tt0764023,6,18,S6,My Own Private Rodeo,My Own Private Rodeo,2002,,23,"Animation,Comedy,Drama",7.9,482
+tt0118375,tt0764036,6,19,S6,Sug Night,Sug Night,2002,,23,"Animation,Comedy,Drama",7.6,428
+tt0118375,tt0620216,6,20,S6,Dang Ol' Love,Dang Ol' Love,2002,,23,"Animation,Comedy,Drama",7.8,454
+tt0118375,tt0620296,6,21,S6,Returning Japanese,Returning Japanese,2002,,44,"Animation,Comedy,Drama",8.5,591
+tt0118375,tt0620225,7,1,S7,Get Your Freak Off,Get Your Freak Off,2002,,23,"Animation,Comedy,Drama",7.6,505
+tt0118375,tt0620311,7,2,S7,The Fat and the Furious,The Fat and the Furious,2002,,23,"Animation,Comedy,Drama",7.1,441
+tt0118375,tt0620201,7,3,S7,"Bad Girls, Bad Girls, Watcha Gonna Do","Bad Girls, Bad Girls, Watcha Gonna Do",2002,,23,"Animation,Comedy,Drama",7.1,446
+tt0118375,tt0764018,7,4,S7,Goodbye Normal Jeans,Goodbye Normal Jeans,2002,,23,"Animation,Comedy,Drama",7.5,454
+tt0118375,tt0620215,7,5,S7,Dances with Dogs,Dances with Dogs,2002,,23,"Animation,Comedy,Drama",7.4,477
+tt0118375,tt0620321,7,6,S7,The Son Also Roses,The Son Also Roses,2002,,23,"Animation,Comedy,Drama",7.4,469
+tt0118375,tt0620306,7,7,S7,The Texas Skilsaw Massacre,The Texas Skilsaw Massacre,2002,,23,"Animation,Comedy,Drama",7.7,479
+tt0118375,tt0620223,7,8,S7,Full Metal Dust Jacket,Full Metal Dust Jacket,2003,,23,"Animation,Comedy,Drama",7.5,443
+tt0118375,tt0620287,7,9,S7,Pigmalion,Pigmalion,2003,,23,"Animation,Comedy,Drama",7.3,528
+tt0118375,tt0620268,7,10,S7,Megalo Dale,Megalo Dale,2003,,23,"Animation,Comedy,Drama",8.1,519
+tt0118375,tt0620207,7,11,S7,Boxing Luanne,Boxing Luanne,2003,,23,"Animation,Comedy,Drama",7.1,426
+tt0118375,tt0764041,7,12,S7,Vision Quest,Vision Quest,2003,,23,"Animation,Comedy,Drama",7.2,422
+tt0118375,tt0620293,7,13,S7,Queasy Rider,Queasy Rider,2003,,23,"Animation,Comedy,Drama",7.2,442
+tt0118375,tt0764013,7,14,S7,Board Games,Board Games,2003,,23,"Animation,Comedy,Drama",6.8,406
+tt0118375,tt0620196,7,15,S7,An Officer and a Gentle Boy,An Officer and a Gentle Boy,2003,,23,"Animation,Comedy,Drama",7.5,422
+tt0118375,tt0764039,7,16,S7,The Miseducation of Bobby Hill,The Miseducation of Bobby Hill,2003,,23,"Animation,Comedy,Drama",7.5,409
+tt0118375,tt0620314,7,17,S7,The Good Buck,The Good Buck,2003,,23,"Animation,Comedy,Drama",7.0,418
+tt0118375,tt0620245,7,18,S7,I Never Promised You an Organic Garden,I Never Promised You an Organic Garden,2003,,23,"Animation,Comedy,Drama",7.1,412
+tt0118375,tt0620202,7,19,S7,Be True to Your Fool,Be True to Your Fool,2003,,30,"Animation,Comedy,Drama",7.5,427
+tt0118375,tt0620294,7,20,S7,Racist Dawg,Racist Dawg,2003,,23,"Animation,Comedy,Drama",7.3,473
+tt0118375,tt0620274,7,21,S7,Night and Deity,Night and Deity,2003,,23,"Animation,Comedy,Drama",7.9,465
+tt0118375,tt0620265,7,22,S7,Maid in Arlen,Maid in Arlen,2003,,23,"Animation,Comedy,Drama",7.7,426
+tt0118375,tt0620337,7,23,S7,Witches of East Arlen,Witches of East Arlen,2003,,23,"Animation,Comedy,Drama",7.5,466
+tt0118375,tt0620279,8,1,S8,Patch Boomhauer,Patch Boomhauer,2003,,22,"Animation,Comedy,Drama",7.5,529
+tt0118375,tt0620295,8,2,S8,Reborn to Be Wild,Reborn to Be Wild,2003,,23,"Animation,Comedy,Drama",7.5,469
+tt0118375,tt0620273,8,3,S8,New Cowboy on the Block,New Cowboy on the Block,2003,,23,"Animation,Comedy,Drama",7.1,425
+tt0118375,tt0620315,8,4,S8,The Incredible Hank,The Incredible Hank,2003,,23,"Animation,Comedy,Drama",8.0,458
+tt0118375,tt0620221,8,5,S8,Flirting with the Master,Flirting with the Master,2003,,23,"Animation,Comedy,Drama",6.6,397
+tt0118375,tt0620194,8,6,S8,After the Mold Rush,After the Mold Rush,2003,,23,"Animation,Comedy,Drama",7.4,443
+tt0118375,tt0620260,8,7,S8,"Livin' on Reds, Vitamin C and Propane","Livin' on Reds, Vitamin C and Propane",2003,,23,"Animation,Comedy,Drama",8.2,511
+tt0118375,tt0764031,8,8,S8,"Rich Hank, Poor Hank","Rich Hank, Poor Hank",2004,,23,"Animation,Comedy,Drama",7.6,437
+tt0118375,tt0620209,8,9,S8,Ceci N'est Pas Une King of the Hill,Ceci N'est Pas Une King of the Hill,2004,,22,"Animation,Comedy,Drama",7.2,407
+tt0118375,tt0620307,8,10,S8,That's What She Said,That's What She Said,2004,,22,"Animation,Comedy,Drama",7.3,448
+tt0118375,tt0620272,8,11,S8,My Hair Lady,My Hair Lady,2004,,22,"Animation,Comedy,Drama",7.9,440
+tt0118375,tt0620286,8,12,S8,Phish and Wildlife,Phish and Wildlife,2004,,22,"Animation,Comedy,Drama",7.3,430
+tt0118375,tt0620211,8,13,S8,Cheer Factor,Cheer Factor,2004,,22,"Animation,Comedy,Drama",6.8,385
+tt0118375,tt0620213,8,14,S8,Dale Be Not Proud,Dale Be Not Proud,2004,,22,"Animation,Comedy,Drama",7.2,401
+tt0118375,tt0764010,8,15,S8,"Après Hank, le Deluge","Après Hank, le Deluge",2004,,22,"Animation,Comedy,Drama",7.4,417
+tt0118375,tt0620214,8,16,S8,DaleTech,DaleTech,2004,,22,"Animation,Comedy,Drama",7.4,396
+tt0118375,tt0620241,8,17,S8,How I Learned to Stop Worrying and Love the Alamo,How I Learned to Stop Worrying and Love the Alamo,2004,,22,"Animation,Comedy,Drama",6.9,383
+tt0118375,tt0620226,8,18,S8,"Girl, You'll Be a Giant Soon","Girl, You'll Be a Giant Soon",2004,,23,"Animation,Comedy,Drama",6.8,384
+tt0118375,tt0620302,8,19,S8,Stressed for Success,Stressed for Success,2004,,22,"Animation,Comedy,Drama",7.7,412
+tt0118375,tt0620229,8,20,S8,Hank's Back,Hank's Back,2004,,23,"Animation,Comedy,Drama",8.0,564
+tt0118375,tt0620320,8,21,S8,The Redneck on Rainey Street,The Redneck on Rainey Street,2004,,22,"Animation,Comedy,Drama",7.7,435
+tt0118375,tt0620304,8,22,S8,Talking Shop,Talking Shop,2004,,23,"Animation,Comedy,Drama",7.5,430
+tt0118375,tt0620193,9,1,S9,A Rover Runs Through It,A Rover Runs Through It,2004,,23,"Animation,Comedy,Drama",7.5,451
+tt0118375,tt0620270,9,2,S9,Ms. Wakefield,Ms. Wakefield,2004,,23,"Animation,Comedy,Drama",7.2,464
+tt0118375,tt0769203,9,3,S9,Death Buys a Timeshare,Death Buys a Timeshare,2005,,22,"Animation,Comedy,Drama",7.0,396
+tt0118375,tt0764042,9,4,S9,"Yard, She Blows!","Yard, She Blows!",2005,,22,"Animation,Comedy,Drama",7.5,406
+tt0118375,tt0769202,9,5,S9,Dale to the Chief,Dale to the Chief,2005,,22,"Animation,Comedy,Drama",7.7,425
+tt0118375,tt0620319,9,6,S9,The Petriot Act,The Petriot Act,2005,,22,"Animation,Comedy,Drama",6.8,428
+tt0118375,tt0764017,9,7,S9,Enrique-cilable Differences,Enrique-cilable Differences,2005,,23,"Animation,Comedy,Drama",6.4,396
+tt0118375,tt0620271,9,8,S9,Mutual of Omabwah,Mutual of Omabwah,2005,,23,"Animation,Comedy,Drama",8.1,443
+tt0118375,tt0620208,9,9,S9,Care-Takin' Care of Business,Care-Takin' Care of Business,2005,,22,"Animation,Comedy,Drama",7.1,380
+tt0118375,tt0620199,9,10,S9,Arlen City Bomber,Arlen City Bomber,2005,,23,"Animation,Comedy,Drama",7.0,373
+tt0118375,tt0764030,9,11,S9,Redcorn Gambles with His Future,Redcorn Gambles with His Future,2005,,22,"Animation,Comedy,Drama",7.1,386
+tt0118375,tt0764034,9,12,S9,Smoking and the Bandit,Smoking and the Bandit,2005,,23,"Animation,Comedy,Drama",7.6,396
+tt0118375,tt0769204,9,13,S9,Gone with the Windstorm,Gone with the Windstorm,2005,,22,"Animation,Comedy,Drama",7.3,383
+tt0118375,tt0620206,9,14,S9,Bobby on Track,Bobby on Track,2005,,22,"Animation,Comedy,Drama",7.6,385
+tt0118375,tt0620248,9,15,S9,It Ain't Over 'Til the Fat Neighbor Sings,It Ain't Over 'Til the Fat Neighbor Sings,2005,,22,"Animation,Comedy,Drama",7.6,409
+tt0118375,tt0764020,10,1,S10,Hank's on Board,Hank's on Board,2005,,23,"Animation,Comedy,Drama",7.8,405
+tt0118375,tt0764016,10,2,S10,Bystand Me,Bystand Me,2005,,23,"Animation,Comedy,Drama",7.0,373
+tt0118375,tt0764012,10,3,S10,Bill's House,Bill's House,2005,,23,"Animation,Comedy,Drama",7.3,380
+tt0118375,tt0764021,10,4,S10,Harlottown,Harlottown,2005,,23,"Animation,Comedy,Drama",7.3,396
+tt0118375,tt0620192,10,5,S10,A Portrait of the Artist as a Young Clown,A Portrait of the Artist as a Young Clown,2005,,23,"Animation,Comedy,Drama",7.1,394
+tt0118375,tt0764028,10,6,S10,Orange You Sad I Did Say Banana?,Orange You Sad I Did Say Banana?,2005,,23,"Animation,Comedy,Drama",7.1,377
+tt0118375,tt0764043,10,7,S10,You Gotta Believe (In Moderation),You Gotta Believe (In Moderation),2006,,23,"Animation,Comedy,Drama",6.8,372
+tt0118375,tt0819185,10,8,S10,Business Is Picking Up,Business Is Picking Up,2006,,23,"Animation,Comedy,Drama",7.6,400
+tt0118375,tt0819189,10,9,S10,The Year of Washing Dangerously,The Year of Washing Dangerously,2006,,23,"Animation,Comedy,Drama",7.2,363
+tt0118375,tt0819186,10,10,S10,Hank Fixes Everything,Hank Fixes Everything,2006,,23,"Animation,Comedy,Drama",6.8,365
+tt0118375,tt0790167,10,11,S10,Church Hopping,Church Hopping,2006,,22,"Animation,Comedy,Drama",7.2,399
+tt0118375,tt0819184,10,12,S10,24 Hour Propane People,24 Hour Propane People,2006,,23,"Animation,Comedy,Drama",6.8,370
+tt0118375,tt0819188,10,13,S10,The Texas Panhandler,The Texas Panhandler,2006,,23,"Animation,Comedy,Drama",7.6,392
+tt0118375,tt0819187,10,14,S10,Hank's Bully,Hank's Bully,2006,,23,"Animation,Comedy,Drama",7.4,418
+tt0118375,tt0816025,10,15,S10,Edu-macating Lucky,Edu-macating Lucky,2006,,23,"Animation,Comedy,Drama",7.2,374
+tt0118375,tt0945127,11,1,S11,The Peggy Horror Picture Show,The Peggy Horror Picture Show,2007,,22,"Animation,Comedy,Drama",7.9,492
+tt0118375,tt0961790,11,2,S11,Serpunt,Serpunt,2007,,22,"Animation,Comedy,Drama",7.1,409
+tt0118375,tt0961789,11,3,S11,Blood and Sauce,Blood and Sauce,2007,,22,"Animation,Comedy,Drama",7.2,397
+tt0118375,tt0995438,11,4,S11,Luanne Gets Lucky,Luanne Gets Lucky,2007,,22,"Animation,Comedy,Drama",6.8,380
+tt0118375,tt0995437,11,5,S11,Hank Gets Dusted,Hank Gets Dusted,2007,,22,"Animation,Comedy,Drama",7.0,409
+tt0118375,tt1022406,11,6,S11,Glen Peggy Glen Ross,Glen Peggy Glen Ross,2007,,22,"Animation,Comedy,Drama",6.7,375
+tt0118375,tt1022407,11,7,S11,The Passion of the Dauterive,The Passion of the Dauterive,2007,,23,"Animation,Comedy,Drama",6.9,373
+tt0118375,tt1028738,11,8,S11,Grand Theft Arlen,Grand Theft Arlen,2007,,23,"Animation,Comedy,Drama",8.0,435
+tt0118375,tt1028739,11,9,S11,Peggy's Gone to Pots,Peggy's Gone to Pots,2007,,23,"Animation,Comedy,Drama",7.1,372
+tt0118375,tt1033229,11,10,S11,"Hair Today, Gone Today","Hair Today, Gone Today",2007,,23,"Animation,Comedy,Drama",7.0,360
+tt0118375,tt1037478,11,11,S11,"Bill, Bulk and the Body Buddies","Bill, Bulk and the Body Buddies",2007,,22,"Animation,Comedy,Drama",7.6,421
+tt0118375,tt1037479,11,12,S11,Lucky's Wedding Suit,Lucky's Wedding Suit,2007,,22,"Animation,Comedy,Drama",7.3,364
+tt0118375,tt1111013,12,1,S12,Suite Smells of Excess,Suite Smells of Excess,2007,,23,"Animation,Comedy,Drama",7.6,415
+tt0118375,tt0880186,12,2,S12,Bobby Rae,Bobby Rae,2007,,22,"Animation,Comedy,Drama",6.8,387
+tt0118375,tt0880188,12,3,S12,The Powder Puff Boys,The Powder Puff Boys,2007,,23,"Animation,Comedy,Drama",6.6,391
+tt0118375,tt0880187,12,4,S12,Four Wave Intersection,Four Wave Intersection,2007,,22,"Animation,Comedy,Drama",7.4,389
+tt0118375,tt1140908,12,5,S12,Death Picks Cotton,Death Picks Cotton,2007,,22,"Animation,Comedy,Drama",7.7,443
+tt0118375,tt1143442,12,6,S12,Raise the Steaks,Raise the Steaks,2007,,23,"Animation,Comedy,Drama",7.8,399
+tt0118375,tt1143443,12,7,S12,Tears of an Inflatable Clown,Tears of an Inflatable Clown,2007,,22,"Animation,Comedy,Drama",6.4,367
+tt0118375,tt1154228,12,8,S12,The Minh Who Knew Too Much,The Minh Who Knew Too Much,2007,,22,"Animation,Comedy,Drama",7.4,363
+tt0118375,tt1157113,12,9,S12,Dream Weaver,Dream Weaver,2007,,23,"Animation,Comedy,Drama",7.0,362
+tt0118375,tt1166890,12,10,S12,Doggone Crazy,Doggone Crazy,2008,,22,"Animation,Comedy,Drama",6.9,350
+tt0118375,tt1178039,12,11,S12,Trans-Fascism,Trans-Fascism,2008,,23,"Animation,Comedy,Drama",7.3,374
+tt0118375,tt1188294,12,12,S12,Untitled Blake McCormick Project,Untitled Blake McCormick Project,2008,,22,"Animation,Comedy,Drama",7.7,384
+tt0118375,tt1195645,12,13,S12,The Accidental Terrorist,The Accidental Terrorist,2008,,22,"Animation,Comedy,Drama",7.5,381
+tt0118375,tt1199042,12,14,S12,Lady and Gentrification,Lady and Gentrification,2008,,23,"Animation,Comedy,Drama",7.2,370
+tt0118375,tt1203072,12,15,S12,Behind Closed Doors,Behind Closed Doors,2008,,22,"Animation,Comedy,Drama",6.8,358
+tt0118375,tt1211028,12,16,S12,Pour Some Sugar on Kahn,Pour Some Sugar on Kahn,2008,,23,"Animation,Comedy,Drama",7.0,349
+tt0118375,tt1214385,12,17,S12,Six Characters in Search of a House,Six Characters in Search of a House,2008,,23,"Animation,Comedy,Drama",6.7,371
+tt0118375,tt1218401,12,18,S12,The Courtship of Joseph's Father,The Courtship of Joseph's Father,2008,,23,"Animation,Comedy,Drama",6.6,342
+tt0118375,tt1224967,12,19,S12,Strangeness on a Train,Strangeness on a Train,2008,,22,"Animation,Comedy,Drama",7.6,382
+tt0118375,tt1224965,12,20,S12,Cops and Robert,Cops and Robert,2008,,23,"Animation,Comedy,Drama",7.3,369
+tt0118375,tt1224966,12,21,S12,It Came from the Garage,It Came from the Garage,2008,,23,"Animation,Comedy,Drama",7.0,346
+tt0118375,tt1234515,12,22,S12,Life: A Loser's Manual,Life: A Loser's Manual,2008,,23,"Animation,Comedy,Drama",6.8,357
+tt0118375,tt1293372,13,1,S13,Dia-BILL-ic Shock,Dia-BILL-ic Shock,2008,,23,"Animation,Comedy,Drama",7.4,400
+tt0118375,tt1293373,13,2,S13,Earthy Girls are Easy,Earthy Girls are Easy,2008,,22,"Animation,Comedy,Drama",7.0,357
+tt0118375,tt1299888,13,3,S13,Square-Footed Monster,Square-Footed Monster,2008,,22,"Animation,Comedy,Drama",7.2,382
+tt0118375,tt1299889,13,4,S13,Lost in MySpace,Lost in MySpace,2008,,22,"Animation,Comedy,Drama",7.1,380
+tt0118375,tt1299890,13,5,S13,No Bobby Left Behind,No Bobby Left Behind,2008,,23,"Animation,Comedy,Drama",7.3,362
+tt0118375,tt1299891,13,6,S13,A Bill Full of Dollars,A Bill Full of Dollars,2008,,23,"Animation,Comedy,Drama",6.9,356
+tt0118375,tt1299892,13,7,S13,Straight as an Arrow,Straight as an Arrow,2008,,23,"Animation,Comedy,Drama",6.7,351
+tt0118375,tt1299893,13,8,S13,"Lucky See, Monkey Do","Lucky See, Monkey Do",2009,,22,"Animation,Comedy,Drama",7.3,352
+tt0118375,tt1299894,13,9,S13,What Happens at the National Propane Gas Convention in Memphis Stays at the National Propane Gas Convention in Memphis,What Happens at the National Propane Gas Convention in Memphis Stays at the National Propane Gas Convention in Memphis,2009,,23,"Animation,Comedy,Drama",7.3,385
+tt0118375,tt1299875,13,10,S13,Master of Puppets,Master of Puppets,2009,,23,"Animation,Comedy,Drama",7.2,359
+tt0118375,tt1299876,13,11,S13,Bwah My Nose,Bwah My Nose,2009,,22,"Animation,Comedy,Drama",7.2,349
+tt0118375,tt1299877,13,12,S13,Uncool Customer,Uncool Customer,2009,,22,"Animation,Comedy,Drama",7.1,348
+tt0118375,tt1299878,13,13,S13,Nancy Does Dallas,Nancy Does Dallas,2009,,23,"Animation,Comedy,Drama",7.0,349
+tt0118375,tt1299879,13,14,S13,Born Again on the Fourth of July,Born Again on the Fourth of July,2009,,22,"Animation,Comedy,Drama",7.1,358
+tt0118375,tt1299880,13,15,S13,Serves Me Right for Giving General George S. Patton the Bathroom Key,Serves Me Right for Giving General George S. Patton the Bathroom Key,2009,,22,"Animation,Comedy,Drama",7.4,362
+tt0118375,tt1299881,13,16,S13,Bad News Bill,Bad News Bill,2009,,22,"Animation,Comedy,Drama",6.9,345
+tt0118375,tt1299882,13,17,S13,Manger Baby Einstein,Manger Baby Einstein,2009,,23,"Animation,Comedy,Drama",6.4,347
+tt0118375,tt1299883,13,18,S13,Uh-Oh Canada,Uh-Oh Canada,2009,,22,"Animation,Comedy,Drama",6.5,444
+tt0118375,tt1508510,13,19,S13,The Boy Can't Help It,The Boy Can't Help It,2009,,23,"Animation,Comedy,Drama",6.9,361
+tt0118375,tt1508511,13,20,S13,To Sirloin with Love,To Sirloin with Love,2009,,23,"Animation,Comedy,Drama",8.6,567
+tt0118375,tt1499391,13,21,S13,The Honeymooners,The Honeymooners,2010,,22,"Animation,Comedy,Drama",6.7,350
+tt0118375,tt1646581,13,22,S13,Bill Gathers Moss,Bill Gathers Moss,2010,,29,"Animation,Comedy,Drama",6.8,324
+tt0118375,tt1650685,13,23,S13,When Joseph Met Lori and Made Out with Her in the Janitor's Closet,When Joseph Met Lori and Made Out with Her in the Janitor's Closet,2010,,23,"Animation,Comedy,Drama",7.0,330
+tt0118375,tt1650209,13,24,S13,Just Another Manic Kahn-Day,Just Another Manic Kahn-Day,2010,,22,"Animation,Comedy,Drama",7.5,384
+tt0118375,tt27047466,14,1,S14,Return of the King,Return of the King,2025,,25,"Animation,Comedy,Drama",8.1,1015
+tt0118375,tt32400232,14,2,S14,The Beer Story,The Beer Story,2025,,25,"Animation,Comedy,Drama",7.8,699
+tt0118375,tt32400242,14,3,S14,Bobby Gets Grilled,Bobby Gets Grilled,2025,,24,"Animation,Comedy,Drama",8.0,646
+tt0118375,tt32400246,14,4,S14,"Chore Money, Chore Problems","Chore Money, Chore Problems",2025,,24,"Animation,Comedy,Drama",8.1,584
+tt0118375,tt32400249,14,5,S14,New Ref in Town,New Ref in Town,2025,,25,"Animation,Comedy,Drama",8.1,552
+tt0118375,tt32400259,14,6,S14,Peggy's Fadeout,Peggy's Fadeout,2025,,25,"Animation,Comedy,Drama",8.0,528
+tt0118375,tt34305666,14,7,S14,Any Given Hill-Day,Any Given Hill-Day,2025,,25,"Animation,Comedy,Drama",8.5,539
+tt0118375,tt34305686,14,8,S14,Kahn-scious Uncoupling,Kahn-scious Uncoupling,2025,,25,"Animation,Comedy,Drama",8.3,516
+tt0118375,tt34305707,14,9,S14,No Hank Left Behind,No Hank Left Behind,2025,,25,"Animation,Comedy,Drama",8.5,533
+tt0118375,tt34305719,14,10,S14,A Sounder Investment,A Sounder Investment,2025,,25,"Animation,Comedy,Drama",8.5,477
+tt0118375,tt37122483,15,1,S15,Episode #15.1,Episode #15.1,2026,,,"Animation,Comedy,Drama",,
+tt0118375,tt37122490,15,2,S15,Episode #15.2,Episode #15.2,2026,,,"Animation,Comedy,Drama",,
+tt0118375,tt37122493,15,3,S15,Episode #15.3,Episode #15.3,2026,,,"Animation,Comedy,Drama",,
+tt0118375,tt37122494,15,4,S15,Episode #15.4,Episode #15.4,2026,,,"Animation,Comedy,Drama",,
+tt0118375,tt37122708,15,5,S15,Episode #15.5,Episode #15.5,2026,,,"Animation,Comedy,Drama",,
+tt0118375,tt37123265,15,6,S15,Episode #15.6,Episode #15.6,2026,,,"Animation,Comedy,Drama",,
+tt0118375,tt37123799,15,7,S15,Episode #15.7,Episode #15.7,2026,,,"Animation,Comedy,Drama",,
+tt0118375,tt37123844,15,8,S15,Episode #15.8,Episode #15.8,2026,,,"Animation,Comedy,Drama",,
+tt0118375,tt37124316,15,9,S15,Episode #15.9,Episode #15.9,2026,,,"Animation,Comedy,Drama",,
+tt0118375,tt37124640,15,10,S15,Episode #15.10,Episode #15.10,2026,,,"Animation,Comedy,Drama",,
+tt0118375,tt38800329,16,1,S16,Episode #16.1,Episode #16.1,2027,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801404,16,2,S16,Episode #16.2,Episode #16.2,2027,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801419,16,3,S16,Episode #16.3,Episode #16.3,2027,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801427,16,4,S16,Episode #16.4,Episode #16.4,2027,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801432,16,5,S16,Episode #16.5,Episode #16.5,2027,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801527,16,6,S16,Episode #16.6,Episode #16.6,2027,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801594,16,7,S16,Episode #16.7,Episode #16.7,2027,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801651,16,8,S16,Episode #16.8,Episode #16.8,2027,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801662,16,9,S16,Episode #16.9,Episode #16.9,2027,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801665,16,10,S16,Episode #16.10,Episode #16.10,2027,,,"Animation,Comedy,Drama",,
+tt0118375,tt38800337,17,1,S17,Episode #17.1,Episode #17.1,2028,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801671,17,2,S17,Episode #17.2,Episode #17.2,2028,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801674,17,3,S17,Episode #17.3,Episode #17.3,2028,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801677,17,4,S17,Episode #17.4,Episode #17.4,2028,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801684,17,5,S17,Episode #17.5,Episode #17.5,2028,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801685,17,6,S17,Episode #17.6,Episode #17.6,2028,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801691,17,7,S17,Episode #17.7,Episode #17.7,2028,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801710,17,8,S17,Episode #17.8,Episode #17.8,2028,,,"Animation,Comedy,Drama",,
+tt0118375,tt38801960,17,9,S17,Episode #17.9,Episode #17.9,2028,,,"Animation,Comedy,Drama",,
+tt0118375,tt38802120,17,10,S17,Episode #17.10,Episode #17.10,2028,,,"Animation,Comedy,Drama",,

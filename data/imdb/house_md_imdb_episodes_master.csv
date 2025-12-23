@@ -1,0 +1,177 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0412142,tt0606035,1,1,S1,Pilot,Pilot,2004,,43,Drama,8.4,7990
+tt0412142,tt0606034,1,2,S1,Paternity,Paternity,2004,,43,Drama,8.0,5929
+tt0412142,tt0606033,1,3,S1,Occam's Razor,Occam's Razor,2004,,44,Drama,8.1,5548
+tt0412142,tt0606030,1,4,S1,Maternity,Maternity,2004,,43,Drama,8.3,5418
+tt0412142,tt0606018,1,5,S1,Damned If You Do,Damned If You Do,2004,,44,Drama,8.0,5187
+tt0412142,tt0606045,1,6,S1,The Socratic Method,The Socratic Method,2004,,44,Drama,8.3,5097
+tt0412142,tt0606022,1,7,S1,Fidelity,Fidelity,2004,,44,Drama,8.0,4938
+tt0412142,tt0606036,1,8,S1,Poison,Poison,2005,,44,Drama,8.0,4696
+tt0412142,tt0606016,1,9,S1,DNR,DNR,2005,,43,Drama,8.7,5459
+tt0412142,tt0606025,1,10,S1,Histories,Histories,2005,,44,Drama,8.4,4987
+tt0412142,tt0606020,1,11,S1,Detox,Detox,2005,,44,Drama,8.6,5013
+tt0412142,tt0606041,1,12,S1,Sports Medicine,Sports Medicine,2005,,43,Drama,7.8,4380
+tt0412142,tt0606015,1,13,S1,Cursed,Cursed,2005,,45,Drama,8.0,4419
+tt0412142,tt0606014,1,14,S1,Control,Control,2005,,45,Drama,8.6,4694
+tt0412142,tt0606031,1,15,S1,Mob Rules,Mob Rules,2005,,44,Drama,7.8,4300
+tt0412142,tt0606024,1,16,S1,Heavy,Heavy,2005,,45,Drama,8.2,4303
+tt0412142,tt0606037,1,17,S1,Role Model,Role Model,2005,,55,Drama,8.4,4448
+tt0412142,tt0606013,1,18,S1,Babies & Bathwater,Babies & Bathwater,2005,,44,Drama,8.8,4873
+tt0412142,tt0606028,1,19,S1,Kids,Kids,2005,,44,Drama,8.2,4284
+tt0412142,tt0606029,1,20,S1,Love Hurts,Love Hurts,2005,,44,Drama,8.1,4316
+tt0412142,tt0606046,1,21,S1,Three Stories,Three Stories,2005,,44,Drama,9.6,11416
+tt0412142,tt0606043,1,22,S1,Honeymoon,Honeymoon,2005,,44,Drama,8.6,4612
+tt0412142,tt0606011,2,1,S2,Acceptance,Acceptance,2005,,44,Drama,8.3,4420
+tt0412142,tt0606012,2,2,S2,Autopsy,Autopsy,2005,,44,Drama,9.1,6425
+tt0412142,tt0606026,2,3,S2,Humpty Dumpty,Humpty Dumpty,2005,,44,Drama,7.8,4033
+tt0412142,tt0606042,2,4,S2,TB or Not TB,TB or Not TB,2005,,44,Drama,7.9,4050
+tt0412142,tt0606017,2,5,S2,Daddy's Boy,Daddy's Boy,2005,,43,Drama,8.0,3950
+tt0412142,tt0606040,2,6,S2,Spin,Spin,2005,,44,Drama,7.7,3822
+tt0412142,tt0606027,2,7,S2,Hunting,Hunting,2005,,44,Drama,8.2,3957
+tt0412142,tt0606044,2,8,S2,The Mistake,The Mistake,2005,,44,Drama,8.8,4610
+tt0412142,tt0606019,2,9,S2,Deception,Deception,2005,,44,Drama,8.3,3890
+tt0412142,tt0606021,2,10,S2,Failure to Communicate,Failure to Communicate,2006,,44,Drama,8.4,3973
+tt0412142,tt0606032,2,11,S2,Need to Know,Need to Know,2006,,44,Drama,8.0,3774
+tt0412142,tt0606023,2,12,S2,Distractions,Distractions,2006,,44,Drama,8.4,3929
+tt0412142,tt0606039,2,13,S2,Skin Deep,Skin Deep,2006,,44,Drama,8.5,4464
+tt0412142,tt0606038,2,14,S2,Sex Kills,Sex Kills,2006,,44,Drama,8.3,3829
+tt0412142,tt0763992,2,15,S2,Clueless,Clueless,2006,,44,Drama,8.4,3859
+tt0412142,tt0774238,2,16,S2,Safe,Safe,2006,,43,Drama,8.6,4223
+tt0412142,tt0774235,2,17,S2,All In,All In,2006,,44,Drama,8.9,4848
+tt0412142,tt0765624,2,18,S2,Sleeping Dogs Lie,Sleeping Dogs Lie,2006,,44,Drama,8.0,3753
+tt0412142,tt0774237,2,19,S2,House vs. God,House vs. God,2006,,44,Drama,8.4,4161
+tt0412142,tt0774236,2,20,S2,Euphoria: Part 1,Euphoria: Part 1,2006,,42,Drama,9.1,5285
+tt0412142,tt0799143,2,21,S2,Euphoria: Part 2,Euphoria: Part 2,2006,,43,Drama,9.3,5881
+tt0412142,tt0777001,2,22,S2,Forever,Forever,2006,,44,Drama,7.9,3664
+tt0412142,tt0784412,2,23,S2,Who's Your Daddy?,Who's Your Daddy?,2006,,44,Drama,7.6,3661
+tt0412142,tt0787373,2,24,S2,No Reason,No Reason,2006,,44,Drama,9.4,7458
+tt0412142,tt0828219,3,1,S3,Meaning,Meaning,2006,,44,Drama,8.8,4656
+tt0412142,tt0834714,3,2,S3,Cane and Able,Cane and Able,2006,,44,Drama,8.3,3840
+tt0412142,tt0834715,3,3,S3,Informed Consent,Informed Consent,2006,,44,Drama,8.5,3971
+tt0412142,tt0836216,3,4,S3,Lines in the Sand,Lines in the Sand,2006,,44,Drama,8.9,4785
+tt0412142,tt0873021,3,5,S3,Fools for Love,Fools for Love,2006,,44,Drama,8.2,3635
+tt0412142,tt0854514,3,6,S3,Que Será Será,Que Será Será,2006,,44,Drama,8.0,3704
+tt0412142,tt0859366,3,7,S3,Son of Coma Guy,Son of Coma Guy,2006,,44,Drama,8.8,4652
+tt0412142,tt0866187,3,8,S3,Whac-A-Mole,Whac-A-Mole,2006,,44,Drama,8.0,3534
+tt0412142,tt0871152,3,9,S3,Finding Judas,Finding Judas,2006,,44,Drama,8.4,3645
+tt0412142,tt0882414,3,10,S3,Merry Little Christmas,Merry Little Christmas,2006,,44,Drama,8.6,3839
+tt0412142,tt0888858,3,11,S3,Words and Deeds,Words and Deeds,2007,,44,Drama,8.4,3776
+tt0412142,tt0902016,3,12,S3,"One Day, One Room","One Day, One Room",2007,,44,Drama,9.0,7616
+tt0412142,tt0897691,3,13,S3,Needle in a Haystack,Needle in a Haystack,2007,,44,Drama,7.8,3553
+tt0412142,tt0917153,3,14,S3,Insensitive,Insensitive,2007,,44,Drama,8.6,3964
+tt0412142,tt0942528,3,15,S3,Half-Wit,Half-Wit,2007,,44,Drama,8.9,4850
+tt0412142,tt0979558,3,16,S3,Top Secret,Top Secret,2007,,44,Drama,7.9,3505
+tt0412142,tt0987017,3,17,S3,Fetal Position,Fetal Position,2007,,44,Drama,8.4,3834
+tt0412142,tt0994242,3,18,S3,Airborne,Airborne,2007,,44,Drama,8.9,4573
+tt0412142,tt0976557,3,19,S3,Act Your Age,Act Your Age,2007,,44,Drama,8.1,3450
+tt0412142,tt0994243,3,20,S3,House Training,House Training,2007,,44,Drama,8.1,3576
+tt0412142,tt0994241,3,21,S3,Family,Family,2007,,44,Drama,8.2,3437
+tt0412142,tt0994244,3,22,S3,Resignation,Resignation,2007,,44,Drama,8.2,3419
+tt0412142,tt1023376,3,23,S3,The Jerk,The Jerk,2007,,44,Drama,8.3,3517
+tt0412142,tt1023643,3,24,S3,Human Error,Human Error,2007,,44,Drama,8.8,4165
+tt0412142,tt1081396,4,1,S4,Alone,Alone,2007,,43,Drama,8.9,4606
+tt0412142,tt1104387,4,2,S4,The Right Stuff,The Right Stuff,2007,,44,Drama,8.7,4089
+tt0412142,tt1117787,4,3,S4,97 Seconds,97 Seconds,2007,,44,Drama,8.6,3912
+tt0412142,tt1117788,4,4,S4,Guardian Angels,Guardian Angels,2007,,44,Drama,8.3,3539
+tt0412142,tt1117789,4,5,S4,Mirror Mirror,Mirror Mirror,2007,,44,Drama,8.7,4052
+tt0412142,tt1123416,4,6,S4,Whatever It Takes,Whatever It Takes,2007,,44,Drama,8.5,3693
+tt0412142,tt1136646,4,7,S4,Ugly,Ugly,2007,,45,Drama,8.1,3583
+tt0412142,tt1134258,4,8,S4,You Don't Want to Know,You Don't Want to Know,2007,,45,Drama,8.5,3587
+tt0412142,tt1144658,4,9,S4,Games,Games,2007,,45,Drama,8.5,3700
+tt0412142,tt1172357,4,10,S4,It's a Wonderful Lie,It's a Wonderful Lie,2008,,44,Drama,8.2,3444
+tt0412142,tt1168087,4,11,S4,Frozen,Frozen,2008,,44,Drama,9.1,4918
+tt0412142,tt1178841,4,12,S4,Don't Ever Change,Don't Ever Change,2008,,45,Drama,7.9,3413
+tt0412142,tt1216106,4,13,S4,No More Mr. Nice Guy,No More Mr. Nice Guy,2008,,45,Drama,7.9,3293
+tt0412142,tt1216107,4,14,S4,Living the Dream,Living the Dream,2008,,44,Drama,8.1,3394
+tt0412142,tt1216108,4,15,S4,House's Head,House's Head,2008,,44,Drama,9.8,14446
+tt0412142,tt1216109,4,16,S4,Wilson's Heart,Wilson's Heart,2008,,45,Drama,9.7,13141
+tt0412142,tt1274484,5,1,S5,Dying Changes Everything,Dying Changes Everything,2008,,44,Drama,8.3,3727
+tt0412142,tt1273723,5,2,S5,Not Cancer,Not Cancer,2008,,44,Drama,8.1,3348
+tt0412142,tt1273727,5,3,S5,Adverse Events,Adverse Events,2008,,44,Drama,7.9,3204
+tt0412142,tt1273728,5,4,S5,Birthmarks,Birthmarks,2008,,43,Drama,8.9,4218
+tt0412142,tt1273729,5,5,S5,Lucky Thirteen,Lucky Thirteen,2008,,60,Drama,8.4,3540
+tt0412142,tt1273730,5,6,S5,Joy,Joy,2008,,60,Drama,8.4,3462
+tt0412142,tt1273731,5,7,S5,The Itch,The Itch,2008,,44,Drama,8.1,3143
+tt0412142,tt1273732,5,8,S5,Emancipation,Emancipation,2008,,44,Drama,7.9,3063
+tt0412142,tt1273733,5,9,S5,Last Resort,Last Resort,2008,,43,Drama,8.9,4640
+tt0412142,tt1273713,5,10,S5,Let Them Eat Cake,Let Them Eat Cake,2008,,44,Drama,8.1,3116
+tt0412142,tt1273714,5,11,S5,Joy to the World,Joy to the World,2008,,60,Drama,8.2,3418
+tt0412142,tt1273715,5,12,S5,Painless,Painless,2009,,44,Drama,7.9,3075
+tt0412142,tt1273716,5,13,S5,Big Baby,Big Baby,2009,,45,Drama,7.8,2963
+tt0412142,tt1273717,5,14,S5,The Greater Good,The Greater Good,2009,,43,Drama,7.8,2956
+tt0412142,tt1273718,5,15,S5,Unfaithful,Unfaithful,2009,,44,Drama,8.3,3269
+tt0412142,tt1273719,5,16,S5,The Softer Side,The Softer Side,2009,,44,Drama,8.5,3285
+tt0412142,tt1273720,5,17,S5,The Social Contract,The Social Contract,2009,,44,Drama,8.6,3405
+tt0412142,tt1273721,5,18,S5,Here Kitty,Here Kitty,2009,,44,Drama,8.1,3164
+tt0412142,tt1273722,5,19,S5,Locked In,Locked In,2009,,43,Drama,9.1,5054
+tt0412142,tt1273724,5,20,S5,Simple Explanation,Simple Explanation,2009,,45,Drama,9.1,5310
+tt0412142,tt1273725,5,21,S5,Saviors,Saviors,2009,,44,Drama,8.2,3177
+tt0412142,tt1273726,5,22,S5,House Divided,House Divided,2009,,44,Drama,9.0,4196
+tt0412142,tt1399759,5,23,S5,Under My Skin,Under My Skin,2009,,43,Drama,9.2,4544
+tt0412142,tt1413129,5,24,S5,Both Sides Now,Both Sides Now,2009,,43,Drama,9.6,8068
+tt0412142,tt1462220,6,1,S6,Broken,Broken,2009,,89,Drama,9.7,11893
+tt0412142,tt1503404,6,2,S6,Epic Fail,Epic Fail,2009,,43,Drama,8.5,3628
+tt0412142,tt1503408,6,3,S6,The Tyrant,The Tyrant,2009,,43,Drama,8.9,4110
+tt0412142,tt1503409,6,4,S6,Instant Karma,Instant Karma,2009,,43,Drama,8.3,3166
+tt0412142,tt1503410,6,5,S6,Brave Heart,Brave Heart,2009,,43,Drama,8.3,3105
+tt0412142,tt1503411,6,6,S6,Known Unknowns,Known Unknowns,2009,,43,Drama,8.2,3082
+tt0412142,tt1503412,6,7,S6,Teamwork,Teamwork,2009,,43,Drama,8.0,3115
+tt0412142,tt1503414,6,8,S6,Ignorance Is Bliss,Ignorance Is Bliss,2009,,43,Drama,8.2,3082
+tt0412142,tt1503394,6,9,S6,Wilson,Wilson,2009,,43,Drama,8.8,3950
+tt0412142,tt1564666,6,10,S6,The Down Low,The Down Low,2010,,43,Drama,8.8,3754
+tt0412142,tt1503395,6,11,S6,Remorse,Remorse,2010,,43,Drama,8.6,3298
+tt0412142,tt1503396,6,12,S6,Moving the Chains,Moving the Chains,2010,,43,Drama,7.9,2905
+tt0412142,tt1503397,6,13,S6,5 to 9,5 to 9,2010,,43,Drama,8.6,4242
+tt0412142,tt1503398,6,14,S6,Private Lives,Private Lives,2010,,43,Drama,7.9,3017
+tt0412142,tt1503399,6,15,S6,Black Hole,Black Hole,2010,,43,Drama,7.9,2954
+tt0412142,tt1623399,6,16,S6,Lockdown,Lockdown,2010,,43,Drama,8.8,4049
+tt0412142,tt1503401,6,17,S6,Knight Fall,Knight Fall,2010,,43,Drama,7.7,2876
+tt0412142,tt1503402,6,18,S6,Open and Shut,Open and Shut,2010,,43,Drama,7.7,2829
+tt0412142,tt1503403,6,19,S6,The Choice,The Choice,2010,,43,Drama,8.0,2941
+tt0412142,tt1503405,6,20,S6,Baggage,Baggage,2010,,43,Drama,8.8,3743
+tt0412142,tt1503406,6,21,S6,Help Me,Help Me,2010,,43,Drama,9.5,6717
+tt0412142,tt1697219,7,1,S7,Now What?,Now What?,2010,,43,Drama,8.2,3548
+tt0412142,tt1685104,7,2,S7,Selfish,Selfish,2010,,43,Drama,8.5,3207
+tt0412142,tt1726377,7,3,S7,Unwritten,Unwritten,2010,,43,Drama,8.2,2905
+tt0412142,tt1726378,7,4,S7,Massage Therapy,Massage Therapy,2010,,44,Drama,7.7,2724
+tt0412142,tt1726379,7,5,S7,Unplanned Parenthood,Unplanned Parenthood,2010,,44,Drama,8.1,2896
+tt0412142,tt1708695,7,6,S7,Office Politics,Office Politics,2010,,43,Drama,7.9,2737
+tt0412142,tt1726380,7,7,S7,A Pox on Our House,A Pox on Our House,2010,,43,Drama,8.6,3294
+tt0412142,tt1726381,7,8,S7,Small Sacrifices,Small Sacrifices,2010,,43,Drama,7.6,2729
+tt0412142,tt1726382,7,9,S7,Larger Than Life,Larger Than Life,2011,,43,Drama,8.2,2875
+tt0412142,tt1726371,7,10,S7,Carrot or Stick,Carrot or Stick,2011,,43,Drama,7.8,2712
+tt0412142,tt1726372,7,11,S7,Family Practice,Family Practice,2011,,44,Drama,8.5,3091
+tt0412142,tt1726373,7,12,S7,You Must Remember This,You Must Remember This,2011,,44,Drama,7.7,2666
+tt0412142,tt1726374,7,13,S7,Two Stories,Two Stories,2011,,44,Drama,8.8,4157
+tt0412142,tt1726375,7,14,S7,Recession Proof,Recession Proof,2011,,44,Drama,7.8,2703
+tt0412142,tt1726376,7,15,S7,Bombshells,Bombshells,2011,,44,Drama,8.5,3733
+tt0412142,tt1842688,7,16,S7,Out of the Chute,Out of the Chute,2011,,43,Drama,8.7,3636
+tt0412142,tt1842081,7,17,S7,Fall from Grace,Fall from Grace,2011,,44,Drama,8.3,3018
+tt0412142,tt1878391,7,18,S7,The Dig,The Dig,2011,,43,Drama,8.8,3453
+tt0412142,tt1880571,7,19,S7,Last Temptation,Last Temptation,2011,,43,Drama,8.3,2880
+tt0412142,tt1883788,7,20,S7,Changes,Changes,2011,,43,Drama,7.7,2549
+tt0412142,tt1902562,7,21,S7,The Fix,The Fix,2011,,43,Drama,7.6,2551
+tt0412142,tt1900094,7,22,S7,After Hours,After Hours,2011,,43,Drama,9.1,4135
+tt0412142,tt1919895,7,23,S7,Moving On,Moving On,2011,,44,Drama,8.4,3569
+tt0412142,tt2006450,8,1,S8,Twenty Vicodin,Twenty Vicodin,2011,,44,Drama,8.8,4035
+tt0412142,tt2015677,8,2,S8,Transplant,Transplant,2011,,44,Drama,8.1,2988
+tt0412142,tt2016511,8,3,S8,Charity Case,Charity Case,2011,,44,Drama,8.0,2862
+tt0412142,tt2021267,8,4,S8,Risky Business,Risky Business,2011,,44,Drama,7.7,2684
+tt0412142,tt2063276,8,5,S8,The Confession,The Confession,2011,,44,Drama,8.2,2772
+tt0412142,tt2084392,8,6,S8,Parents,Parents,2011,,44,Drama,7.8,2569
+tt0412142,tt2084393,8,7,S8,Dead & Buried,Dead & Buried,2011,,44,Drama,8.1,2692
+tt0412142,tt2084394,8,8,S8,Perils of Paranoia,Perils of Paranoia,2011,,44,Drama,7.7,2574
+tt0412142,tt2092629,8,9,S8,Better Half,Better Half,2012,,44,Drama,7.9,2660
+tt0412142,tt2121953,8,10,S8,Runaways,Runaways,2012,,44,Drama,7.6,2541
+tt0412142,tt2121954,8,11,S8,Nobody's Fault,Nobody's Fault,2012,,44,Drama,9.1,4184
+tt0412142,tt2121955,8,12,S8,Chase,Chase,2012,,44,Drama,8.8,3622
+tt0412142,tt2121956,8,13,S8,Man of the House,Man of the House,2012,,44,Drama,7.9,2531
+tt0412142,tt2121957,8,14,S8,Love Is Blind,Love Is Blind,2012,,45,Drama,7.8,2637
+tt0412142,tt2121958,8,15,S8,Blowing the Whistle,Blowing the Whistle,2012,,44,Drama,7.3,2517
+tt0412142,tt2121959,8,16,S8,Gut Check,Gut Check,2012,,45,Drama,7.5,2503
+tt0412142,tt2121960,8,17,S8,We Need the Eggs,We Need the Eggs,2012,,44,Drama,7.7,2530
+tt0412142,tt2121961,8,18,S8,Body and Soul,Body and Soul,2012,,44,Drama,7.8,2695
+tt0412142,tt2121962,8,19,S8,The C Word,The C Word,2012,,44,Drama,9.0,3921
+tt0412142,tt2121963,8,20,S8,Post Mortem,Post Mortem,2012,,44,Drama,8.8,3074
+tt0412142,tt2121964,8,21,S8,Holding On,Holding On,2012,,45,Drama,9.0,3668
+tt0412142,tt2121965,8,22,S8,Everybody Dies,Everybody Dies,2012,,44,Drama,9.3,7520

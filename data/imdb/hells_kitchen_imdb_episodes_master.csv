@@ -1,0 +1,376 @@
+imdb_series_id,imdb_episode_id,season_number,episode_number,season_label,episode_title,episode_title_original,episode_year,episode_air_date,runtime_minutes,genres,imdb_rating,imdb_votes
+tt0437005,tt0803656,1,1,S1,Day 1,Day 1,2005,,39,"Game-Show,Reality-TV",7.1,305
+tt0437005,tt0803659,1,2,S1,Day 2,Day 2,2005,,39,"Game-Show,Reality-TV",7.0,245
+tt0437005,tt0803660,1,3,S1,Day 3,Day 3,2005,,39,"Game-Show,Reality-TV",6.9,228
+tt0437005,tt0803661,1,4,S1,Day 4,Day 4,2005,,38,"Game-Show,Reality-TV",6.9,222
+tt0437005,tt0803662,1,5,S1,Day 5,Day 5,2005,,39,"Game-Show,Reality-TV",7.1,217
+tt0437005,tt0803663,1,6,S1,Day 6,Day 6,2005,,40,"Game-Show,Reality-TV",7.0,215
+tt0437005,tt0599439,1,7,S1,Day 7,Day 7,2005,,40,"Game-Show,Reality-TV",6.9,213
+tt0437005,tt0803664,1,8,S1,Day 8,Day 8,2005,,40,"Game-Show,Reality-TV",7.0,208
+tt0437005,tt0803665,1,9,S1,Day 9,Day 9,2005,,40,"Game-Show,Reality-TV",7.0,209
+tt0437005,tt0803658,1,10,S1,Day 10,Day 10,2005,,81,"Game-Show,Reality-TV",7.2,200
+tt0437005,tt0599438,1,11,S1,Day 11,Day 11,2005,,,"Game-Show,Reality-TV",7.4,200
+tt0437005,tt0803657,2,1,S2,Day 1,Day 1,2006,,39,"Game-Show,Reality-TV",7.0,183
+tt0437005,tt0910670,2,2,S2,Day 2,Day 2,2006,,39,"Game-Show,Reality-TV",6.9,168
+tt0437005,tt0910671,2,3,S2,Day 3,Day 3,2006,,42,"Game-Show,Reality-TV",7.0,164
+tt0437005,tt0910672,2,4,S2,Day 4,Day 4,2006,,40,"Game-Show,Reality-TV",7.1,162
+tt0437005,tt0910673,2,5,S2,Day 5,Day 5,2006,,41,"Game-Show,Reality-TV",7.0,161
+tt0437005,tt0910674,2,6,S2,Day 6,Day 6,2006,,40,"Game-Show,Reality-TV",7.0,161
+tt0437005,tt0910675,2,7,S2,Day 7,Day 7,2006,,40,"Game-Show,Reality-TV",7.0,157
+tt0437005,tt0910676,2,8,S2,Day 8,Day 8,2006,,40,"Game-Show,Reality-TV",7.2,156
+tt0437005,tt0910677,2,9,S2,Day 9,Day 9,2006,,16,"Game-Show,Reality-TV",7.1,159
+tt0437005,tt0844785,2,10,S2,Day 10,Day 10,2006,,77,"Game-Show,Reality-TV",7.3,163
+tt0437005,tt1046037,3,1,S3,Day One,Day One,2007,,41,"Game-Show,Reality-TV",7.0,166
+tt0437005,tt1046042,3,2,S3,Day Two,Day Two,2007,,41,"Game-Show,Reality-TV",7.0,155
+tt0437005,tt1046041,3,3,S3,Day Three,Day Three,2007,,42,"Game-Show,Reality-TV",6.9,150
+tt0437005,tt1046035,3,4,S3,Day Four,Day Four,2007,,41,"Game-Show,Reality-TV",6.9,144
+tt0437005,tt1046034,3,5,S3,Day Five,Day Five,2007,,41,"Game-Show,Reality-TV",6.9,144
+tt0437005,tt1046039,3,6,S3,Day Six,Day Six,2007,,41,"Game-Show,Reality-TV",6.8,147
+tt0437005,tt1046038,3,7,S3,Day Seven,Day Seven,2007,,41,"Game-Show,Reality-TV",6.8,141
+tt0437005,tt1046033,3,8,S3,Day Eight,Day Eight,2007,,41,"Game-Show,Reality-TV",6.9,140
+tt0437005,tt1046036,3,9,S3,Day Nine,Day Nine,2007,,41,"Game-Show,Reality-TV",6.8,136
+tt0437005,tt1046040,3,10,S3,Day Ten,Day Ten,2007,,41,"Game-Show,Reality-TV",6.8,135
+tt0437005,tt1084843,3,11,S3,Day 10: Part 2,Day 10: Part 2,2007,,41,"Game-Show,Reality-TV",7.1,142
+tt0437005,tt1083911,4,1,S4,15 Chefs Compete,15 Chefs Compete,2008,,43,"Game-Show,Reality-TV",6.9,154
+tt0437005,tt1083914,4,2,S4,14 Chefs Compete,14 Chefs Compete,2008,,41,"Game-Show,Reality-TV",6.9,137
+tt0437005,tt1083915,4,3,S4,13 Chefs Compete,13 Chefs Compete,2008,,43,"Game-Show,Reality-TV",6.9,137
+tt0437005,tt1083916,4,4,S4,12 Chefs Compete,12 Chefs Compete,2008,,40,"Game-Show,Reality-TV",6.8,137
+tt0437005,tt1083917,4,5,S4,11 Chefs Compete,11 Chefs Compete,2008,,42,"Game-Show,Reality-TV",6.8,137
+tt0437005,tt1083918,4,6,S4,10 Chefs Compete,10 Chefs Compete,2008,,43,"Game-Show,Reality-TV",6.8,140
+tt0437005,tt1083919,4,7,S4,9 Chefs Compete,9 Chefs Compete,2008,,43,"Game-Show,Reality-TV",7.0,137
+tt0437005,tt1083920,4,8,S4,8 Chefs Compete,8 Chefs Compete,2008,,43,"Game-Show,Reality-TV",6.8,132
+tt0437005,tt1083921,4,9,S4,7 Chefs Compete,7 Chefs Compete,2008,,41,"Game-Show,Reality-TV",6.7,134
+tt0437005,tt1083912,4,10,S4,6 Chefs Compete,6 Chefs Compete,2008,,41,"Game-Show,Reality-TV",6.9,133
+tt0437005,tt1083913,4,11,S4,5 Chefs Compete,5 Chefs Compete,2008,,43,"Game-Show,Reality-TV",6.9,131
+tt0437005,tt1136283,4,12,S4,4 Chefs Compete,4 Chefs Compete,2008,,43,"Game-Show,Reality-TV",7.0,135
+tt0437005,tt1136284,4,13,S4,3 Chefs Compete,3 Chefs Compete,2008,,43,"Game-Show,Reality-TV",7.0,127
+tt0437005,tt1251633,4,14,S4,2 Chefs Compete Part One,2 Chefs Compete Part One,2008,,43,"Game-Show,Reality-TV",6.9,130
+tt0437005,tt1251634,4,15,S4,2 Chefs Compete Part Two,2 Chefs Compete Part Two,2008,,43,"Game-Show,Reality-TV",7.1,136
+tt0437005,tt1359738,5,1,S5,16 Chefs Compete,16 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.9,171
+tt0437005,tt1359739,5,2,S5,15 Chefs Compete,15 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.9,145
+tt0437005,tt1359740,5,3,S5,14 Chefs Compete,14 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.8,151
+tt0437005,tt1359741,5,4,S5,13 Chefs Compete,13 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.9,145
+tt0437005,tt1359742,5,5,S5,12 Chefs Compete,12 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.7,148
+tt0437005,tt1390003,5,6,S5,11 Chefs Compete,11 Chefs Compete,2009,,44,"Game-Show,Reality-TV",6.7,133
+tt0437005,tt1390002,5,7,S5,10 Chefs Compete,10 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.8,140
+tt0437005,tt1390006,5,8,S5,9 Chefs Compete,9 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.0,142
+tt0437005,tt1390005,5,9,S5,7 Chefs Compete,7 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.8,137
+tt0437005,tt1390004,5,10,S5,6 Chefs Compete,6 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.9,152
+tt0437005,tt1415996,5,11,S5,5 Chefs Compete,5 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.7,131
+tt0437005,tt1415052,5,12,S5,4 Chefs Compete,4 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.9,138
+tt0437005,tt1425522,5,13,S5,3 Chefs Compete,3 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.9,129
+tt0437005,tt1430226,5,14,S5,2 Chefs Compete,2 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.6,127
+tt0437005,tt1434027,5,15,S5,2 Chefs Compete: Part 2,2 Chefs Compete: Part 2,2009,,43,"Game-Show,Reality-TV",7.0,133
+tt0437005,tt1459489,6,1,S6,16 Chefs Compete,16 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.1,143
+tt0437005,tt1472308,6,2,S6,15 Chefs Compete,15 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.2,131
+tt0437005,tt1476611,6,3,S6,14 Chefs Compete,14 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.2,136
+tt0437005,tt1481463,6,4,S6,13 Chefs Compete,13 Chefs Compete,2009,,43,"Game-Show,Reality-TV",6.9,124
+tt0437005,tt1485322,6,5,S6,12 Chefs Compete,12 Chefs Compete,2009,,44,"Game-Show,Reality-TV",6.9,121
+tt0437005,tt1488262,6,6,S6,11 Chefs Compete,11 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.1,120
+tt0437005,tt1491892,6,7,S6,10 Chefs Compete,10 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.2,116
+tt0437005,tt1497952,6,8,S6,9 Chefs Compete,9 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.1,116
+tt0437005,tt1501936,6,9,S6,8 Chefs Compete,8 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.1,126
+tt0437005,tt1506697,6,10,S6,7 Chefs Compete,7 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.2,117
+tt0437005,tt1510000,6,11,S6,6 Chefs Compete,6 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.4,118
+tt0437005,tt1513393,6,12,S6,5 Chefs Compete,5 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.2,115
+tt0437005,tt1518722,6,13,S6,4 Chefs Compete,4 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.4,117
+tt0437005,tt1521334,6,14,S6,3 Chefs Compete,3 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.2,124
+tt0437005,tt1528985,6,15,S6,2 Chefs Compete,2 Chefs Compete,2009,,43,"Game-Show,Reality-TV",7.4,129
+tt0437005,tt1630949,7,1,S7,16 Chefs Compete,16 Chefs Compete,2010,,41,"Game-Show,Reality-TV",7.0,134
+tt0437005,tt1659449,7,2,S7,15 Chefs Compete,15 Chefs Compete,2010,,43,"Game-Show,Reality-TV",6.8,125
+tt0437005,tt1665064,7,3,S7,13 Chefs Compete,13 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.0,118
+tt0437005,tt1665063,7,4,S7,12 Chefs Compete,12 Chefs Compete,2010,,41,"Game-Show,Reality-TV",7.1,117
+tt0437005,tt1670787,7,5,S7,12 Chefs Compete,12 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.2,117
+tt0437005,tt1670786,7,6,S7,11 Chefs Compete,11 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.2,120
+tt0437005,tt1676464,7,7,S7,10 Chefs Compete,10 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.2,109
+tt0437005,tt1676465,7,8,S7,9 Chefs Compete,9 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.1,110
+tt0437005,tt1681827,7,9,S7,8 Chefs Compete,8 Chefs Compete,2010,,41,"Game-Show,Reality-TV",7.2,112
+tt0437005,tt1681826,7,10,S7,7 Chefs Compete,7 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.3,107
+tt0437005,tt1682505,7,11,S7,6 Chefs Compete,6 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.0,111
+tt0437005,tt1682504,7,12,S7,5 Chefs Compete,5 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.2,106
+tt0437005,tt1682503,7,13,S7,4 Chefs Compete,4 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.2,107
+tt0437005,tt1682502,7,14,S7,4 Chefs Compete,4 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.2,108
+tt0437005,tt1682506,7,15,S7,Winner Announced,Winner Announced,2010,,44,"Game-Show,Reality-TV",7.2,109
+tt0437005,tt1707930,8,1,S8,16 Chefs Compete,16 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.2,138
+tt0437005,tt1730528,8,2,S8,14 Chefs Compete,14 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.3,118
+tt0437005,tt1730527,8,3,S8,13 Chefs Compete,13 Chefs Compete,2010,,41,"Game-Show,Reality-TV",7.5,115
+tt0437005,tt1731295,8,4,S8,12 Chefs Compete,12 Chefs Compete,2010,,41,"Game-Show,Reality-TV",7.2,116
+tt0437005,tt1733850,8,5,S8,11 Chefs Compete,11 Chefs Compete,2010,,41,"Game-Show,Reality-TV",7.4,117
+tt0437005,tt1733849,8,6,S8,10 Chefs Compete,10 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.4,119
+tt0437005,tt1739482,8,7,S8,9 Chefs Compete: Part 1,9 Chefs Compete: Part 1,2010,,43,"Game-Show,Reality-TV",7.4,117
+tt0437005,tt1740602,8,8,S8,9 Chefs Compete: Part 2,9 Chefs Compete: Part 2,2010,,43,"Game-Show,Reality-TV",7.5,114
+tt0437005,tt1744101,8,9,S8,8 Chefs Compete,8 Chefs Compete,2010,,41,"Game-Show,Reality-TV",7.5,108
+tt0437005,tt1760570,8,10,S8,7 Chefs Compete,7 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.5,108
+tt0437005,tt1772521,8,11,S8,6 Chefs Compete,6 Chefs Compete,2010,,41,"Game-Show,Reality-TV",7.5,109
+tt0437005,tt1777816,8,12,S8,5 Chefs Compete,5 Chefs Compete,2010,,41,"Game-Show,Reality-TV",7.5,111
+tt0437005,tt1784924,8,13,S8,4 Chefs Compete,4 Chefs Compete,2010,,43,"Game-Show,Reality-TV",7.2,108
+tt0437005,tt1788093,8,14,S8,4 Chefs Compete Again,4 Chefs Compete Again,2010,,41,"Game-Show,Reality-TV",7.4,111
+tt0437005,tt1788666,8,15,S8,2 Chefs Compete,2 Chefs Compete,2010,,41,"Game-Show,Reality-TV",7.5,114
+tt0437005,tt1772520,9,1,S9,18 Chefs Compete,18 Chefs Compete,2011,,43,"Game-Show,Reality-TV",7.1,143
+tt0437005,tt1991527,9,2,S9,16 Chefs Compete,16 Chefs Compete,2011,,41,"Game-Show,Reality-TV",7.3,111
+tt0437005,tt1997771,9,3,S9,15 Chefs Compete,15 Chefs Compete,2011,,43,"Game-Show,Reality-TV",7.3,109
+tt0437005,tt1998693,9,4,S9,14 Chefs Compete,14 Chefs Compete,2011,,43,"Game-Show,Reality-TV",7.3,107
+tt0437005,tt2004581,9,5,S9,13 Chefs Compete,13 Chefs Compete,2011,,43,"Game-Show,Reality-TV",7.2,108
+tt0437005,tt2004580,9,6,S9,12 Chefs Compete,12 Chefs Compete,2011,,43,"Game-Show,Reality-TV",7.3,109
+tt0437005,tt2009999,9,7,S9,11 Chefs Compete,11 Chefs Compete,2011,,43,"Game-Show,Reality-TV",7.3,104
+tt0437005,tt2009998,9,8,S9,10 Chefs Compete,10 Chefs Compete,2011,,43,"Game-Show,Reality-TV",7.5,104
+tt0437005,tt2034336,9,9,S9,9 Chefs Compete,9 Chefs Compete,2011,,43,"Game-Show,Reality-TV",7.2,102
+tt0437005,tt2032794,9,10,S9,8 Chefs Compete,8 Chefs Compete,2011,,43,"Game-Show,Reality-TV",7.4,100
+tt0437005,tt2034332,9,11,S9,7 Chefs Compete,7 Chefs Compete,2011,,43,"Game-Show,Reality-TV",7.3,100
+tt0437005,tt2034333,9,12,S9,6 Chefs Compete,6 Chefs Compete,2011,,41,"Game-Show,Reality-TV",7.3,102
+tt0437005,tt2034334,9,13,S9,5 Chefs Compete,5 Chefs Compete,2011,,40,"Game-Show,Reality-TV",7.4,104
+tt0437005,tt2034335,9,14,S9,5 Chefs Compete Again,5 Chefs Compete Again,2011,,43,"Game-Show,Reality-TV",6.9,102
+tt0437005,tt1921740,9,15,S9,4 Chefs Compete,4 Chefs Compete,2011,,43,"Game-Show,Reality-TV",7.1,110
+tt0437005,tt2062100,9,16,S9,Winner Chosen,Winner Chosen,2011,,43,"Game-Show,Reality-TV",7.3,120
+tt0437005,tt2392045,10,1,S10,18 Chefs Compete,18 Chefs Compete,2012,,44,"Game-Show,Reality-TV",6.9,136
+tt0437005,tt2167814,10,2,S10,17 Chefs Compete,17 Chefs Compete,2012,,44,"Game-Show,Reality-TV",6.8,123
+tt0437005,tt2192574,10,3,S10,16 Chefs Compete,16 Chefs Compete,2012,,44,"Game-Show,Reality-TV",6.8,117
+tt0437005,tt2198900,10,4,S10,15 Chefs Compete,15 Chefs Compete,2012,,44,"Game-Show,Reality-TV",7.2,113
+tt0437005,tt2205910,10,5,S10,14 Chefs Compete,14 Chefs Compete,2012,,44,"Game-Show,Reality-TV",7.0,111
+tt0437005,tt2218726,10,6,S10,13 Chefs Compete: Part 1,13 Chefs Compete: Part 1,2012,,44,"Game-Show,Reality-TV",7.1,109
+tt0437005,tt2223516,10,7,S10,13 Chefs Compete: Part 2,13 Chefs Compete: Part 2,2012,,44,"Game-Show,Reality-TV",7.2,115
+tt0437005,tt2223518,10,8,S10,12 Chefs Compete,12 Chefs Compete,2012,,44,"Game-Show,Reality-TV",7.2,107
+tt0437005,tt2235434,10,9,S10,11 Chefs Compete: Part 1,11 Chefs Compete: Part 1,2012,,44,"Game-Show,Reality-TV",7.4,116
+tt0437005,tt2235436,10,10,S10,11 Chefs Compete: Part 2,11 Chefs Compete: Part 2,2012,,44,"Game-Show,Reality-TV",7.2,108
+tt0437005,tt2252748,10,11,S10,10 Chefs Compete,10 Chefs Compete,2012,,44,"Game-Show,Reality-TV",7.2,108
+tt0437005,tt2252750,10,12,S10,Feast or Fiasco: Part 1,Feast or Fiasco: Part 1,2012,,44,"Game-Show,Reality-TV",7.1,106
+tt0437005,tt2252752,10,13,S10,9 Chefs Compete: Part 2,9 Chefs Compete: Part 2,2012,,44,"Game-Show,Reality-TV",7.2,105
+tt0437005,tt2279366,10,14,S10,8 Chefs Compete,8 Chefs Compete,2012,,44,"Game-Show,Reality-TV",7.2,106
+tt0437005,tt2279364,10,15,S10,7 Chefs Compete,7 Chefs Compete,2012,,44,"Game-Show,Reality-TV",7.1,102
+tt0437005,tt2297574,10,16,S10,6 Chefs Compete,6 Chefs Compete,2012,,44,"Game-Show,Reality-TV",7.3,108
+tt0437005,tt2336592,10,17,S10,5 Chefs Compete,5 Chefs Compete,2012,,44,"Game-Show,Reality-TV",7.2,98
+tt0437005,tt2350506,10,18,S10,4 Chefs Compete,4 Chefs Compete,2012,,44,"Game-Show,Reality-TV",7.2,100
+tt0437005,tt2363958,10,19,S10,2 Chefs Compete,2 Chefs Compete,2012,,44,"Game-Show,Reality-TV",7.3,99
+tt0437005,tt2378892,10,20,S10,Winner Chosen,Winner Chosen,2012,,44,"Game-Show,Reality-TV",7.4,105
+tt0437005,tt2660406,11,1,S11,Twenty Chefs Compete,Twenty Chefs Compete,2013,,85,"Game-Show,Reality-TV",6.8,128
+tt0437005,tt2819500,11,2,S11,Nineteen Chefs Compete,Nineteen Chefs Compete,2013,,41,"Game-Show,Reality-TV",7.2,104
+tt0437005,tt2782828,11,3,S11,17 Chefs Compete,17 Chefs Compete,2013,,44,"Game-Show,Reality-TV",7.1,101
+tt0437005,tt2786314,11,4,S11,Sixteen Chefs Compete: Part 1,Sixteen Chefs Compete: Part 1,2013,,44,"Game-Show,Reality-TV",7.2,101
+tt0437005,tt2786316,11,5,S11,16 Chefs Compete: Part 2 of 2,16 Chefs Compete: Part 2 of 2,2013,,44,"Game-Show,Reality-TV",7.2,102
+tt0437005,tt2786322,11,6,S11,15 Chefs Compete,15 Chefs Compete,2013,,44,"Game-Show,Reality-TV",7.1,98
+tt0437005,tt2849732,11,7,S11,14 Chefs Compete,14 Chefs Compete,2013,,44,"Game-Show,Reality-TV",7.0,96
+tt0437005,tt2865340,11,8,S11,13 Chefs Compete,13 Chefs Compete,2013,,44,"Game-Show,Reality-TV",7.0,97
+tt0437005,tt2891552,11,9,S11,12 Chefs Compete,12 Chefs Compete,2013,,44,"Game-Show,Reality-TV",6.8,99
+tt0437005,tt2896906,11,10,S11,10 Chefs Compete,10 Chefs Compete,2013,,44,"Game-Show,Reality-TV",6.9,96
+tt0437005,tt2791084,11,11,S11,9 Chefs Compete,9 Chefs Compete,2013,,44,"Game-Show,Reality-TV",7.0,98
+tt0437005,tt2896912,11,12,S11,8 Chefs Compete,8 Chefs Compete,2013,,44,"Game-Show,Reality-TV",7.0,99
+tt0437005,tt2937888,11,13,S11,7 Chefs Compete,7 Chefs Compete,2013,,44,"Game-Show,Reality-TV",7.0,97
+tt0437005,tt2951214,11,14,S11,7 Chefs Compete: Part 2,7 Chefs Compete: Part 2,2013,,44,"Game-Show,Reality-TV",7.0,101
+tt0437005,tt2971434,11,15,S11,6 Chefs Compete,6 Chefs Compete,2013,,44,"Game-Show,Reality-TV",7.1,99
+tt0437005,tt2987904,11,16,S11,5 Chefs Compete: Part 1,5 Chefs Compete: Part 1,2013,,44,"Game-Show,Reality-TV",6.8,95
+tt0437005,tt3003346,11,17,S11,5 Chefs Compete: Part 2 of 3,5 Chefs Compete: Part 2 of 3,2013,,44,"Game-Show,Reality-TV",7.0,98
+tt0437005,tt2791092,11,18,S11,5 Chefs Compete: Part 3 of 3,5 Chefs Compete: Part 3 of 3,2013,,44,"Game-Show,Reality-TV",7.0,98
+tt0437005,tt3045770,11,19,S11,4 Chefs Compete,4 Chefs Compete,2013,,44,"Game-Show,Reality-TV",6.9,98
+tt0437005,tt3070218,11,20,S11,2 Chefs Compete,2 Chefs Compete,2013,,44,"Game-Show,Reality-TV",7.1,95
+tt0437005,tt3070224,11,21,S11,Winner Chosen,Winner Chosen,2013,,43,"Game-Show,Reality-TV",7.0,108
+tt0437005,tt3569280,12,1,S12,20 Chefs Compete,20 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.6,122
+tt0437005,tt3593860,12,2,S12,19 Chefs Compete,19 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.0,110
+tt0437005,tt3614252,12,3,S12,18 Chefs Compete,18 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.0,104
+tt0437005,tt3640688,12,4,S12,17 Chefs Compete,17 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.0,100
+tt0437005,tt3648212,12,5,S12,16 Chefs Compete,16 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.9,103
+tt0437005,tt3675636,12,6,S12,15 Chefs Compete,15 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.8,101
+tt0437005,tt3683168,12,7,S12,14 Chefs Compete,14 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.9,99
+tt0437005,tt3697836,12,8,S12,13 Chefs Compete,13 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.1,96
+tt0437005,tt3710998,12,9,S12,12 Chefs Compete,12 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.2,101
+tt0437005,tt3720054,12,10,S12,11 Chefs Compete,11 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.1,100
+tt0437005,tt3738462,12,11,S12,10 Chefs Compete,10 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.1,97
+tt0437005,tt3754458,12,12,S12,10 Chefs Again,10 Chefs Again,2014,,44,"Game-Show,Reality-TV",7.2,99
+tt0437005,tt3774306,12,13,S12,9 Chefs Compete,9 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.1,97
+tt0437005,tt3786316,12,14,S12,8 Chefs Compete,8 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.3,96
+tt0437005,tt3799418,12,15,S12,7 Chefs Compete,7 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.2,93
+tt0437005,tt3818546,12,16,S12,7 Chefs Again,7 Chefs Again,2014,,44,"Game-Show,Reality-TV",7.3,97
+tt0437005,tt3831866,12,17,S12,6 Chefs Compete,6 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.0,91
+tt0437005,tt3865606,12,18,S12,5 Chefs Compete,5 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.2,94
+tt0437005,tt3865610,12,19,S12,4 Chefs Compete,4 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.2,91
+tt0437005,tt3882280,12,20,S12,Winner Chosen,Winner Chosen,2014,,44,"Game-Show,Reality-TV",7.3,100
+tt0437005,tt3894368,13,1,S13,18 Chefs Compete,18 Chefs Compete,2014,,120,"Game-Show,Reality-TV",7.0,98
+tt0437005,tt4028608,13,2,S13,17 Chefs Compete,17 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.9,89
+tt0437005,tt4028616,13,3,S13,16 Chefs Compete,16 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.7,90
+tt0437005,tt4046838,13,4,S13,15 Chefs Compete,15 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.8,87
+tt0437005,tt4072172,13,5,S13,14 Chefs Compete,14 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.7,89
+tt0437005,tt4080424,13,6,S13,13 Chefs Compete,13 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.8,88
+tt0437005,tt4104144,13,7,S13,12 Chefs Compete,12 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.7,84
+tt0437005,tt4121210,13,8,S13,11 Chefs Compete,11 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.7,83
+tt0437005,tt4173476,13,9,S13,"11 Chefs Compete, Part 2","11 Chefs Compete, Part 2",2014,,44,"Game-Show,Reality-TV",7.2,88
+tt0437005,tt4194654,13,10,S13,9 Chefs Compete,9 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.9,82
+tt0437005,tt4212732,13,11,S13,8 Chefs Compete,8 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.8,80
+tt0437005,tt4231896,13,12,S13,7 Chefs Compete,7 Chefs Compete,2014,,44,"Game-Show,Reality-TV",7.0,82
+tt0437005,tt4258076,13,13,S13,6 Chefs Compete,6 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.9,83
+tt0437005,tt4258078,13,14,S13,5 Chefs Compete,5 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.8,79
+tt0437005,tt4267346,13,15,S13,4 Chefs Compete,4 Chefs Compete,2014,,44,"Game-Show,Reality-TV",6.9,80
+tt0437005,tt4267350,13,16,S13,Winner Chosen,Winner Chosen,2014,,44,"Game-Show,Reality-TV",7.2,83
+tt0437005,tt4322586,14,1,S14,18 Chefs Compete,18 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.2,110
+tt0437005,tt4507358,14,2,S14,17 Chefs Compete,17 Chefs Compete,2015,,45,"Game-Show,Reality-TV",6.9,96
+tt0437005,tt4516464,14,3,S14,16 Chefs Compete,16 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.0,92
+tt0437005,tt4544600,14,4,S14,15 Chefs Compete,15 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.3,89
+tt0437005,tt4553282,14,5,S14,14 Chefs Compete,14 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.3,83
+tt0437005,tt4569726,14,6,S14,13 Chefs Compete,13 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.3,83
+tt0437005,tt4591166,14,7,S14,12 Chefs Compete,12 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.2,86
+tt0437005,tt4608680,14,8,S14,11 Chefs Compete,11 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.2,82
+tt0437005,tt4638136,14,9,S14,9 Chefs Compete,9 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.2,82
+tt0437005,tt4654448,14,10,S14,8 Chefs Compete,8 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.3,81
+tt0437005,tt4670100,14,11,S14,8 Chefs Compete Again,8 Chefs Compete Again,2015,,45,"Game-Show,Reality-TV",7.1,81
+tt0437005,tt4696678,14,12,S14,7 Chefs Compete,7 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.3,80
+tt0437005,tt4703470,14,13,S14,6 Chefs Compete,6 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.2,79
+tt0437005,tt4703478,14,14,S14,5 Chefs Compete,5 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.1,83
+tt0437005,tt4718648,14,15,S14,4 Chefs Compete,4 Chefs Compete,2015,,45,"Game-Show,Reality-TV",7.4,81
+tt0437005,tt4730130,14,16,S14,Winner Chosen,Winner Chosen,2015,,45,"Game-Show,Reality-TV",7.0,88
+tt0437005,tt5324790,15,1,S15,18 Chefs Compete,18 Chefs Compete,2016,,44,"Game-Show,Reality-TV",7.1,95
+tt0437005,tt5350266,15,2,S15,17 Chefs Compete,17 Chefs Compete,2016,,43,"Game-Show,Reality-TV",7.0,87
+tt0437005,tt5364758,15,3,S15,16 Chefs Compete,16 Chefs Compete,2016,,40,"Game-Show,Reality-TV",7.1,84
+tt0437005,tt5423020,15,4,S15,15 Chefs Compete,15 Chefs Compete,2016,,43,"Game-Show,Reality-TV",7.2,87
+tt0437005,tt5447604,15,5,S15,14 Chefs Compete,14 Chefs Compete,2016,,43,"Game-Show,Reality-TV",7.0,83
+tt0437005,tt5466882,15,6,S15,12 Chefs Compete,12 Chefs Compete,2016,,43,"Game-Show,Reality-TV",7.0,80
+tt0437005,tt5486572,15,7,S15,11 Chefs Compete,11 Chefs Compete,2016,,43,"Game-Show,Reality-TV",7.1,78
+tt0437005,tt5497762,15,8,S15,10 Chefs Compete,10 Chefs Compete,2016,,44,"Game-Show,Reality-TV",7.1,78
+tt0437005,tt5516742,15,9,S15,10 Chefs Again,10 Chefs Again,2016,,44,"Game-Show,Reality-TV",6.8,78
+tt0437005,tt5541662,15,10,S15,9 Chefs Compete,9 Chefs Compete,2016,,44,"Game-Show,Reality-TV",6.6,81
+tt0437005,tt5565616,15,11,S15,8 Chefs Compete,8 Chefs Compete,2016,,44,"Game-Show,Reality-TV",7.1,76
+tt0437005,tt5583222,15,12,S15,7 Chefs Compete,7 Chefs Compete,2016,,44,"Game-Show,Reality-TV",7.1,75
+tt0437005,tt5602584,15,13,S15,6 Chefs Compete,6 Chefs Compete,2016,,44,"Game-Show,Reality-TV",7.1,74
+tt0437005,tt5627894,15,14,S15,5 Chefs Compete,5 Chefs Compete,2016,,44,"Game-Show,Reality-TV",7.2,75
+tt0437005,tt5640812,15,15,S15,3 Chefs Compete,3 Chefs Compete,2016,,44,"Game-Show,Reality-TV",7.1,74
+tt0437005,tt5661874,15,16,S15,Winner Chosen,Winner Chosen,2016,,44,"Game-Show,Reality-TV",6.7,84
+tt0437005,tt5734460,16,1,S16,When the Wall Comes Tumbling Down,When the Wall Comes Tumbling Down,2016,,44,"Game-Show,Reality-TV",6.9,96
+tt0437005,tt6107756,16,2,S16,Crepe Grand Prix,Crepe Grand Prix,2016,,43,"Game-Show,Reality-TV",6.7,83
+tt0437005,tt6114468,16,3,S16,The Yolks on Them,The Yolks on Them,2016,,43,"Game-Show,Reality-TV",6.5,84
+tt0437005,tt6114476,16,4,S16,Surf Riding & Turf Fighting,Surf Riding & Turf Fighting,2016,,43,"Game-Show,Reality-TV",6.9,83
+tt0437005,tt6114480,16,5,S16,Walking the Plank,Walking the Plank,2016,,43,"Game-Show,Reality-TV",6.9,79
+tt0437005,tt6174004,16,6,S16,Let the Catfights Begin,Let the Catfights Begin,2016,,43,"Game-Show,Reality-TV",6.8,76
+tt0437005,tt6218332,16,7,S16,Don't Tell My Fiance,Don't Tell My Fiance,2016,,43,"Game-Show,Reality-TV",6.7,79
+tt0437005,tt6254642,16,8,S16,Dancing with the Chefs,Dancing with the Chefs,2016,,43,"Game-Show,Reality-TV",7.1,79
+tt0437005,tt6279972,16,9,S16,Spoon Fed,Spoon Fed,2016,,43,"Game-Show,Reality-TV",7.0,84
+tt0437005,tt6329440,16,10,S16,Dancing in the Grotto,Dancing in the Grotto,2016,,45,"Game-Show,Reality-TV",7.2,77
+tt0437005,tt6366030,16,11,S16,Aerial Maneuvers,Aerial Maneuvers,2017,,44,"Game-Show,Reality-TV",7.0,83
+tt0437005,tt6366032,16,12,S16,Fusion Confusion,Fusion Confusion,2017,,44,"Game-Show,Reality-TV",6.8,76
+tt0437005,tt6401794,16,13,S16,Black Jacket Lounge,Black Jacket Lounge,2017,,44,"Game-Show,Reality-TV",7.2,77
+tt0437005,tt6436934,16,14,S16,Playing Your Cards Right,Playing Your Cards Right,2017,,44,"Game-Show,Reality-TV",7.1,76
+tt0437005,tt6467202,16,15,S16,Tequila Shots?,Tequila Shots?,2017,,44,"Game-Show,Reality-TV",7.1,74
+tt0437005,tt6467204,16,16,S16,Leaving It on the Line,Leaving It on the Line,2017,,44,"Game-Show,Reality-TV",7.1,85
+tt0437005,tt6718862,17,1,S17,All-Stars Arrive,All-Stars Arrive,2017,,44,"Game-Show,Reality-TV",6.6,119
+tt0437005,tt7437274,17,2,S17,Raising the Bar,Raising the Bar,2017,,44,"Game-Show,Reality-TV",7.0,101
+tt0437005,tt7437418,17,3,S17,Tower of Terror,Tower of Terror,2017,,44,"Game-Show,Reality-TV",6.9,98
+tt0437005,tt7437384,17,4,S17,Just Letter Cook,Just Letter Cook,2017,,44,"Game-Show,Reality-TV",7.1,94
+tt0437005,tt7558918,17,5,S17,Josh Josh Josh,Josh Josh Josh,2017,,44,"Game-Show,Reality-TV",6.9,98
+tt0437005,tt7566406,17,6,S17,A Little Slice of Hell,A Little Slice of Hell,2017,,44,"Game-Show,Reality-TV",6.5,97
+tt0437005,tt7642412,17,7,S17,Trimming Fat,Trimming Fat,2017,,44,"Game-Show,Reality-TV",7.5,95
+tt0437005,tt7642414,17,8,S17,Welcome to the Jungle,Welcome to the Jungle,2017,,44,"Game-Show,Reality-TV",7.1,95
+tt0437005,tt7642416,17,9,S17,Catch of the Day,Catch of the Day,2017,,44,"Game-Show,Reality-TV",6.2,100
+tt0437005,tt7664826,17,10,S17,It's All Gravy,It's All Gravy,2017,,44,"Game-Show,Reality-TV",7.0,92
+tt0437005,tt7739306,17,11,S17,Trying to Pasta Test,Trying to Pasta Test,2018,,44,"Game-Show,Reality-TV",7.0,91
+tt0437005,tt7739324,17,12,S17,Five Is the New Black,Five Is the New Black,2018,,44,"Game-Show,Reality-TV",7.6,93
+tt0437005,tt7739330,17,13,S17,Stars Heating Up Hell,Stars Heating Up Hell,2018,,44,"Game-Show,Reality-TV",7.1,90
+tt0437005,tt7739338,17,14,S17,Families Come to Hell,Families Come to Hell,2018,,44,"Game-Show,Reality-TV",7.0,83
+tt0437005,tt7739348,17,15,S17,Final Three; All-Star Finale,Final Three; All-Star Finale,2018,,86,"Game-Show,Reality-TV",6.8,86
+tt0437005,tt9358376,17,16,S17,All-Star Finale,All-Star Finale,2018,,43,"Game-Show,Reality-TV",7.6,68
+tt0437005,tt8651708,18,1,S18,Rookies vs. Veterans,Rookies vs. Veterans,2018,,44,"Game-Show,Reality-TV",7.4,124
+tt0437005,tt8651710,18,2,S18,A Fond Farewell,A Fond Farewell,2018,,44,"Game-Show,Reality-TV",7.3,105
+tt0437005,tt8651712,18,3,S18,Hell's Riders,Hell's Riders,2018,,44,"Game-Show,Reality-TV",7.3,101
+tt0437005,tt8651714,18,4,S18,Hell Freezes Over,Hell Freezes Over,2018,,44,"Game-Show,Reality-TV",7.2,96
+tt0437005,tt8651716,18,5,S18,Fish Out of Water,Fish Out of Water,2018,,44,"Game-Show,Reality-TV",7.2,95
+tt0437005,tt8651718,18,6,S18,Hot Potato,Hot Potato,2018,,44,"Game-Show,Reality-TV",7.3,95
+tt0437005,tt8651720,18,7,S18,Last Chef Standing,Last Chef Standing,2018,,44,"Game-Show,Reality-TV",7.1,90
+tt0437005,tt8651722,18,8,S18,One Hell of a Party,One Hell of a Party,2018,,44,"Game-Show,Reality-TV",6.9,89
+tt0437005,tt8651724,18,9,S18,What Happens in Vegas,What Happens in Vegas,2018,,44,"Game-Show,Reality-TV",6.9,93
+tt0437005,tt8651726,18,10,S18,Poor Trev,Poor Trev,2019,,44,"Game-Show,Reality-TV",6.9,92
+tt0437005,tt8651730,18,11,S18,Devilish Desserts,Devilish Desserts,2019,,44,"Game-Show,Reality-TV",7.1,90
+tt0437005,tt8651732,18,12,S18,Break On Through,Break On Through,2019,,44,"Game-Show,Reality-TV",6.9,89
+tt0437005,tt9208228,18,13,S18,An Episode of Firsts,An Episode of Firsts,2019,,44,"Game-Show,Reality-TV",7.1,85
+tt0437005,tt9579102,18,14,S18,What's Your Motto?,What's Your Motto?,2019,,44,"Game-Show,Reality-TV",7.5,91
+tt0437005,tt9612438,18,15,S18,A Rollercoaster Ride,A Rollercoaster Ride,2019,,44,"Game-Show,Reality-TV",7.0,85
+tt0437005,tt9612442,18,16,S18,The Grand Finale,The Grand Finale,2019,,44,"Game-Show,Reality-TV",7.4,96
+tt0437005,tt10151132,19,1,S19,Welcome to Vegas,Welcome to Vegas,2020,,43,"Game-Show,Reality-TV",7.7,123
+tt0437005,tt10844040,19,2,S19,Shrimply Spectacular,Shrimply Spectacular,2020,,,"Game-Show,Reality-TV",7.8,101
+tt0437005,tt10844044,19,3,S19,Hell Caesar!,Hell Caesar!,2020,,,"Game-Show,Reality-TV",7.7,94
+tt0437005,tt10844046,19,4,S19,Wedding Bells in Hell,Wedding Bells in Hell,2020,,42,"Game-Show,Reality-TV",7.7,94
+tt0437005,tt10844048,19,5,S19,Hell Starts Taking its Toll,Hell Starts Taking its Toll,2020,,43,"Game-Show,Reality-TV",7.6,89
+tt0437005,tt10844052,19,6,S19,Metal & Marinara,Metal & Marinara,2020,,43,"Game-Show,Reality-TV",7.5,85
+tt0437005,tt10844056,19,7,S19,A Pair of Aces,A Pair of Aces,2020,,43,"Game-Show,Reality-TV",7.3,85
+tt0437005,tt10844058,19,8,S19,Crapping Out in Hell,Crapping Out in Hell,2020,,43,"Game-Show,Reality-TV",7.6,85
+tt0437005,tt10844062,19,9,S19,Blind Taste Test,Blind Taste Test,2020,,43,"Game-Show,Reality-TV",7.5,85
+tt0437005,tt10844064,19,10,S19,There's Something About Marc,There's Something About Marc,2020,,,"Game-Show,Reality-TV",7.6,84
+tt0437005,tt10844068,19,11,S19,Sink or Swim,Sink or Swim,2020,,,"Game-Show,Reality-TV",7.7,82
+tt0437005,tt10844070,19,12,S19,There's Magic in Hell?,There's Magic in Hell?,2020,,44,"Game-Show,Reality-TV",7.8,82
+tt0437005,tt10844072,19,13,S19,It's Time!,It's Time!,2020,,44,"Game-Show,Reality-TV",7.6,80
+tt0437005,tt10844074,19,14,S19,Sleeping With the Enemy,Sleeping With the Enemy,2020,,44,"Game-Show,Reality-TV",7.6,76
+tt0437005,tt10844076,19,15,S19,What Happens in Vegas?,What Happens in Vegas?,2020,,44,"Game-Show,Reality-TV",7.7,73
+tt0437005,tt10844082,19,16,S19,Hitting the Jackpot,Hitting the Jackpot,2020,,44,"Game-Show,Reality-TV",7.8,81
+tt0437005,tt12214546,20,1,S20,Young Guns Come Out Shooting,Young Guns Come Out Shooting,2021,,44,"Game-Show,Reality-TV",7.1,109
+tt0437005,tt12214548,20,2,S20,Temping the Meat,Temping the Meat,2021,,44,"Game-Show,Reality-TV",7.2,93
+tt0437005,tt12214550,20,3,S20,Come Hell or High Water!,Come Hell or High Water!,2021,,,"Game-Show,Reality-TV",7.3,89
+tt0437005,tt12214552,20,4,S20,Young Guns Going Big,Young Guns Going Big,2021,,44,"Game-Show,Reality-TV",7.4,88
+tt0437005,tt12214554,20,5,S20,Stirring the Pot,Stirring the Pot,2021,,44,"Game-Show,Reality-TV",7.2,83
+tt0437005,tt12214556,20,6,S20,A Ramsay Birthday in Hell,A Ramsay Birthday in Hell,2021,,44,"Game-Show,Reality-TV",7.1,87
+tt0437005,tt12214558,20,7,S20,If You Can't Stand the Heat...,If You Can't Stand the Heat...,2021,,44,"Game-Show,Reality-TV",7.4,82
+tt0437005,tt12214560,20,8,S20,A Devilish Challenge,A Devilish Challenge,2021,,44,"Game-Show,Reality-TV",6.9,81
+tt0437005,tt12214562,20,9,S20,A Game Show From Hell,A Game Show From Hell,2021,,44,"Game-Show,Reality-TV",7.4,78
+tt0437005,tt12214566,20,10,S20,More Than a Sticky Situation,More Than a Sticky Situation,2021,,44,"Game-Show,Reality-TV",7.7,80
+tt0437005,tt12214568,20,11,S20,Swiping Right,Swiping Right,2021,,44,"Game-Show,Reality-TV",7.3,77
+tt0437005,tt12214572,20,12,S20,All Hell Breaks Loose,All Hell Breaks Loose,2021,,44,"Game-Show,Reality-TV",7.4,73
+tt0437005,tt12214574,20,13,S20,Social Media in Hell,Social Media in Hell,2021,,44,"Game-Show,Reality-TV",7.5,74
+tt0437005,tt12214580,20,14,S20,Hell Hath No Fury...,Hell Hath No Fury...,2021,,44,"Game-Show,Reality-TV",7.7,71
+tt0437005,tt12214578,20,15,S20,What the Hell,What the Hell,2021,,44,"Game-Show,Reality-TV",7.4,69
+tt0437005,tt12214582,20,16,S20,Two Young Guns Shoot it Out,Two Young Guns Shoot it Out,2021,,44,"Game-Show,Reality-TV",6.3,88
+tt0437005,tt17542912,21,1,S21,Let the Battle Begin,Let the Battle Begin,2022,,43,"Game-Show,Reality-TV",7.9,97
+tt0437005,tt22442462,21,2,S21,Just Wingin' It,Just Wingin' It,2022,,44,"Game-Show,Reality-TV",7.6,85
+tt0437005,tt22442478,21,3,S21,Clawing Your Way to the Top,Clawing Your Way to the Top,2022,,44,"Game-Show,Reality-TV",7.5,83
+tt0437005,tt22532158,21,4,S21,Slipping Down to Hell,Slipping Down to Hell,2022,,44,"Game-Show,Reality-TV",7.6,77
+tt0437005,tt22749080,21,5,S21,Breakfast 911,Breakfast 911,2022,,44,"Game-Show,Reality-TV",7.6,78
+tt0437005,tt22865886,21,6,S21,Til Chef Do Us Part,Til Chef Do Us Part,2022,,44,"Game-Show,Reality-TV",7.5,75
+tt0437005,tt22985234,21,7,S21,Wok This Way,Wok This Way,2022,,44,"Game-Show,Reality-TV",7.5,74
+tt0437005,tt23131172,21,8,S21,Game On!,Game On!,2022,,44,"Game-Show,Reality-TV",8.1,77
+tt0437005,tt23830468,21,9,S21,Putting the Carne in Carnival,Putting the Carne in Carnival,2022,,44,"Game-Show,Reality-TV",7.7,76
+tt0437005,tt24329234,21,10,S21,Everyone's Taco'ing About It,Everyone's Taco'ing About It,2023,,44,"Game-Show,Reality-TV",7.7,71
+tt0437005,tt25395950,21,11,S21,21st Annual Blind Taste Test,21st Annual Blind Taste Test,2023,,,"Game-Show,Reality-TV",7.9,71
+tt0437005,tt26225672,21,12,S21,What in Hell's Kitchen?,What in Hell's Kitchen?,2023,,44,"Game-Show,Reality-TV",7.8,73
+tt0437005,tt26342128,21,13,S21,The Fab Five Take Flight,The Fab Five Take Flight,2023,,,"Game-Show,Reality-TV",7.6,65
+tt0437005,tt26342140,21,14,S21,"Lights, Camera, Sabotage!","Lights, Camera, Sabotage!",2023,,44,"Game-Show,Reality-TV",7.8,69
+tt0437005,tt26342188,21,15,S21,"A Finale for the Ages, Part 1/A Finale for the Ages, Part 2","A Finale for the Ages, Part 1/A Finale for the Ages, Part 2",2023,,120,"Game-Show,Reality-TV",8.0,85
+tt0437005,tt26691733,22,1,S22,The Dream Begins,The Dream Begins,2023,,,"Game-Show,Reality-TV",7.9,92
+tt0437005,tt29339364,22,2,S22,Tad Overwhelming,Tad Overwhelming,2023,,44,"Game-Show,Reality-TV",7.8,80
+tt0437005,tt29424412,22,3,S22,Citizens of Hell's Kitchen,Citizens of Hell's Kitchen,2023,,44,"Game-Show,Reality-TV",8.0,77
+tt0437005,tt29456481,22,4,S22,Gimme an H!,Gimme an H!,2023,,44,"Game-Show,Reality-TV",7.9,72
+tt0437005,tt29485048,22,5,S22,Just Bring the Darn Fish!,Just Bring the Darn Fish!,2023,,44,"Game-Show,Reality-TV",8.0,72
+tt0437005,tt29637011,22,6,S22,Fusion Confusion,Fusion Confusion,2023,,44,"Game-Show,Reality-TV",8.0,72
+tt0437005,tt29637046,22,7,S22,All up in Your Grills,All up in Your Grills,2023,,,"Game-Show,Reality-TV",7.9,70
+tt0437005,tt29637076,22,8,S22,Cooking for Your Life,Cooking for Your Life,2023,,44,"Game-Show,Reality-TV",8.3,70
+tt0437005,tt29637109,22,9,S22,More Bang for Your Buck,More Bang for Your Buck,2023,,44,"Game-Show,Reality-TV",7.9,71
+tt0437005,tt29637153,22,10,S22,The Pastabilities Are Endless,The Pastabilities Are Endless,2023,,44,"Game-Show,Reality-TV",7.7,69
+tt0437005,tt30258994,22,11,S22,A Hellish Food Fight,A Hellish Food Fight,2023,,44,"Game-Show,Reality-TV",7.6,70
+tt0437005,tt30460293,22,12,S22,A Hell's Kitchen Special Delivery,A Hell's Kitchen Special Delivery,2024,,44,"Game-Show,Reality-TV",8.3,75
+tt0437005,tt30460295,22,13,S22,#HellishHangover,#HellishHangover,2024,,44,"Game-Show,Reality-TV",7.2,76
+tt0437005,tt30796815,22,14,S22,Don't Be Fooled,Don't Be Fooled,2024,,44,"Game-Show,Reality-TV",8.2,68
+tt0437005,tt30972573,22,15,S22,And Then There Were Two,And Then There Were Two,2024,,44,"Game-Show,Reality-TV",7.8,61
+tt0437005,tt31049690,22,16,S22,One Hell of an American Dream,One Hell of an American Dream,2024,,44,"Game-Show,Reality-TV",8.1,69
+tt0437005,tt32351155,23,1,S23,Hell Heads East,Hell Heads East,2024,,,"Game-Show,Reality-TV",7.5,82
+tt0437005,tt32351156,23,2,S23,The Flame Game,The Flame Game,2024,,,"Game-Show,Reality-TV",7.5,73
+tt0437005,tt33504154,23,3,S23,Shucking Hell,Shucking Hell,2024,,,"Game-Show,Reality-TV",7.7,68
+tt0437005,tt33714325,23,4,S23,In a Pickle,In a Pickle,2024,,,"Game-Show,Reality-TV",7.7,67
+tt0437005,tt33889156,23,5,S23,Homesick in Hell,Homesick in Hell,2024,,,"Game-Show,Reality-TV",7.6,65
+tt0437005,tt34236658,23,6,S23,Hell On Wheels,Hell On Wheels,2024,,,"Game-Show,Reality-TV",8.0,65
+tt0437005,tt34379327,23,7,S23,Harmony in Hell,Harmony in Hell,2024,,,"Game-Show,Reality-TV",7.2,65
+tt0437005,tt34496584,23,8,S23,Get a Clue!,Get a Clue!,2024,,,"Game-Show,Reality-TV",7.5,64
+tt0437005,tt34579902,23,9,S23,Lonely in the Kitchen,Lonely in the Kitchen,2024,,,"Game-Show,Reality-TV",7.8,62
+tt0437005,tt34723107,23,10,S23,A Sticky Situation,A Sticky Situation,2024,,,"Game-Show,Reality-TV",7.6,62
+tt0437005,tt34761020,23,11,S23,A Soap Opera in Hell,A Soap Opera in Hell,2025,,,"Game-Show,Reality-TV",7.9,59
+tt0437005,tt35264550,23,12,S23,Black Jacket Time,Black Jacket Time,2025,,,"Game-Show,Reality-TV",7.8,60
+tt0437005,tt35269397,23,13,S23,Five Comedians Walk Into Hell...,Five Comedians Walk Into Hell...,2025,,,"Game-Show,Reality-TV",7.4,64
+tt0437005,tt35407699,23,14,S23,Hell at the Pass,Hell at the Pass,2025,,,"Game-Show,Reality-TV",7.9,56
+tt0437005,tt35527173,23,15,S23,One Hell of a Ride,One Hell of a Ride,2025,,,"Game-Show,Reality-TV",7.4,59
+tt0437005,tt35635318,23,16,S23,Hell's Finish Line,Hell's Finish Line,2025,,,"Game-Show,Reality-TV",6.1,82
+tt0437005,tt36933498,24,1,S24,Making a State-ment,Making a State-ment,2025,,,"Game-Show,Reality-TV",7.5,46
+tt0437005,tt38525498,24,2,S24,Hell on a Halfshell,Hell on a Halfshell,2025,,,"Game-Show,Reality-TV",7.6,43
+tt0437005,tt38525499,24,3,S24,The Heat is Coming to Hell's Kitchen,The Heat is Coming to Hell's Kitchen,2025,,,"Game-Show,Reality-TV",7.4,40
+tt0437005,tt38525500,24,4,S24,There's Something Fishy Going On,There's Something Fishy Going On,2025,,,"Game-Show,Reality-TV",7.5,41
+tt0437005,tt38525502,24,5,S24,A State of Confusion,A State of Confusion,2025,,,"Game-Show,Reality-TV",7.2,37
+tt0437005,tt38525505,24,6,S24,Hell's Chicken,Hell's Chicken,2025,,,"Game-Show,Reality-TV",7.5,40
+tt0437005,tt38793695,24,7,S24,Guac a mole in Hell's Kitchen,Guac a mole in Hell's Kitchen,2025,,,"Game-Show,Reality-TV",7.5,32
+tt0437005,tt38793705,24,8,S24,Cook for Your Life,Cook for Your Life,2025,,,"Game-Show,Reality-TV",7.5,34
+tt0437005,tt38876686,24,9,S24,Hell Hath No Fury Like Anaiya Scorned,Hell Hath No Fury Like Anaiya Scorned,2025,,,"Game-Show,Reality-TV",7.5,35
+tt0437005,tt38998424,24,10,S24,Is It Steak?,Is It Steak?,2025,,,"Game-Show,Reality-TV",7.3,23
+tt0437005,tt39115701,24,11,S24,Charity Dinner from Hell,Charity Dinner from Hell,2025,,,"Game-Show,Reality-TV",7.2,18
+tt0437005,tt39115702,24,12,S24,Episode #24.12,Episode #24.12,2025,,,"Game-Show,Reality-TV",,
+tt0437005,tt39115703,24,13,S24,Episode #24.13,Episode #24.13,2026,,,"Game-Show,Reality-TV",,
+tt0437005,tt39115704,24,14,S24,Episode #24.14,Episode #24.14,2026,,,"Game-Show,Reality-TV",,
+tt0437005,tt39115705,24,15,S24,Episode #24.15,Episode #24.15,2026,,,"Game-Show,Reality-TV",,
+tt0437005,tt39115706,24,16,S24,Episode #24.16,Episode #24.16,2026,,,"Game-Show,Reality-TV",,
